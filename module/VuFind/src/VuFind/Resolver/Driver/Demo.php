@@ -2,7 +2,7 @@
 /**
  * Demo Link Resolver Driver
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2015.
  *
@@ -28,6 +28,7 @@
  * @link     https://vufind.org/wiki/development:plugins:link_resolver_drivers Wiki
  */
 namespace VuFind\Resolver\Driver;
+use DOMDocument, DOMXpath;
 
 /**
  * Demo Link Resolver Driver

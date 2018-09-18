@@ -2,7 +2,7 @@
 /**
  * Row Definition for tags
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -26,9 +26,7 @@
  * @link     https://vufind.org Main Site
  */
 namespace VuFind\Db\Row;
-
-use VuFind\Db\Table\Resource as ResourceTable;
-use Zend\Db\Sql\Expression;
+use VuFind\Db\Table\Resource as ResourceTable, Zend\Db\Sql\Expression;
 
 /**
  * Row Definition for tags

@@ -2,7 +2,7 @@
 /**
  * XSLT importer support methods.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (c) Demian Katz 2010.
  *
@@ -26,9 +26,7 @@
  * @link     https://vufind.org/wiki/indexing Wiki
  */
 namespace VuFind\XSLT\Import;
-
-use DOMDocument;
-use VuFind\Config\Locator as ConfigLocator;
+use DOMDocument, VuFind\Config\Locator as ConfigLocator;
 
 /**
  * XSLT support class -- all methods of this class must be public and static;
@@ -69,7 +67,7 @@ class VuFind
      */
     public static function getChangeTracker()
     {
-        return static::$serviceLocator->get('VuFind\Db\Table\PluginManager')
+        return static::$serviceLocator->get('VuFind\DbTablePluginManager')
             ->get('ChangeTracker');
     }
 
@@ -82,8 +80,7 @@ class VuFind
      */
     public static function getConfig($config = 'config')
     {
-        return static::$serviceLocator->get('VuFind\Config\PluginManager')
-            ->get($config);
+        return static::$serviceLocator->get('VuFind\Config')->get($config);
     }
 
     /**
@@ -355,7 +352,7 @@ class VuFind
                 $map[$key] = trim($parts[1]);
             }
         }
-        return $map[$in] ?? $in;
+        return isset($map[$in]) ? $map[$in] : $in;
     }
 
     /**

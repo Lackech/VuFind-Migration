@@ -3,7 +3,7 @@
 /**
  * Unit tests for EIT record collection factory.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -28,8 +28,8 @@
  */
 namespace VuFindTest\Backend\EIT\Response\XML;
 
-use PHPUnit\Framework\TestCase;
 use VuFindSearch\Backend\EIT\Response\XML\RecordCollectionFactory;
+use PHPUnit_Framework_TestCase;
 
 /**
  * Unit tests for EIT record collection factory.
@@ -40,7 +40,7 @@ use VuFindSearch\Backend\EIT\Response\XML\RecordCollectionFactory;
  * @license  http://opensource.org/licenses/gpl-2.0.php GNU General Public License
  * @link     https://vufind.org
  */
-class RecordCollectionFactoryTest extends TestCase
+class RecordCollectionFactoryTest extends PHPUnit_Framework_TestCase
 {
     /**
      * Test constructor exception.
@@ -67,6 +67,7 @@ class RecordCollectionFactoryTest extends TestCase
     {
         $fact = new RecordCollectionFactory(
             function () {
+
             }
         );
         $coll = $fact->factory('garbage');

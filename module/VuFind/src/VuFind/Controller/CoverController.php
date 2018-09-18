@@ -2,7 +2,7 @@
 /**
  * Cover Controller
  *
- * PHP version 7
+ * PHP Version 5
  *
  * Copyright (C) Villanova University 2011.
  *
@@ -26,10 +26,7 @@
  * @link     https://vufind.org Main Page
  */
 namespace VuFind\Controller;
-
-use VuFind\Cover\CachingProxy;
-use VuFind\Cover\Loader;
-use VuFind\Session\Settings as SessionSettings;
+use VuFind\Cover\CachingProxy, VuFind\Cover\Loader;
 
 /**
  * Generates covers for book entries
@@ -40,42 +37,73 @@ use VuFind\Session\Settings as SessionSettings;
  * @license  http://opensource.org/licenses/gpl-2.0.php GNU General Public License
  * @link     https://vufind.org Main Page
  */
-class CoverController extends \Zend\Mvc\Controller\AbstractActionController
+class CoverController extends AbstractBase
 {
     /**
      * Cover loader
      *
      * @var Loader
      */
-    protected $loader;
+    protected $loader = false;
 
     /**
-     * Proxy loader
+     * Caching proxy
      *
      * @var CachingProxy
      */
-    protected $proxy;
+    protected $proxy = false;
 
     /**
-     * Session settings
+     * Get the cover cache directory
      *
-     * @var SessionSettings
+     * @return string
      */
-    protected $sessionSettings = null;
+    protected function getCacheDir()
+    {
+        return $this->serviceLocator->get('VuFind\CacheManager')
+            ->getCache('cover')->getOptions()->getCacheDir();
+    }
 
     /**
-     * Constructor
+     * Get the cover loader object
      *
-     * @param Loader          $loader Cover loader
-     * @param CachingProxy    $proxy  Proxy loader
-     * @param SessionSettings $ss     Session settings
+     * @return Loader
      */
-    public function __construct(Loader $loader, CachingProxy $proxy,
-        SessionSettings $ss
-    ) {
-        $this->loader = $loader;
-        $this->proxy = $proxy;
-        $this->sessionSettings = $ss;
+    protected function getLoader()
+    {
+        // Construct object for loading cover images if it does not already exist:
+        if (!$this->loader) {
+            $cacheDir = $this->getCacheDir();
+            $this->loader = new Loader(
+                $this->getConfig(),
+                $this->serviceLocator->get('VuFind\ContentCoversPluginManager'),
+                $this->serviceLocator->get('VuFindTheme\ThemeInfo'),
+                $this->serviceLocator->get('VuFind\Http')->createClient(),
+                $cacheDir
+            );
+            \VuFind\ServiceManager\Initializer::initInstance(
+                $this->loader, $this->serviceLocator
+            );
+        }
+        return $this->loader;
+    }
+
+    /**
+     * Get the caching proxy object
+     *
+     * @return CachingProxy
+     */
+    protected function getProxy()
+    {
+        if (!$this->proxy) {
+            $client = $this->serviceLocator->get('VuFind\Http')->createClient();
+            $cacheDir = $this->getCacheDir() . '/proxy';
+            $config = $this->getConfig()->toArray();
+            $whitelist = isset($config['Content']['coverproxyCache'])
+                ? (array)$config['Content']['coverproxyCache'] : [];
+            $this->proxy = new CachingProxy($client, $cacheDir, $whitelist);
+        }
+        return $this->proxy;
     }
 
     /**
@@ -109,15 +137,15 @@ class CoverController extends \Zend\Mvc\Controller\AbstractActionController
      */
     public function showAction()
     {
-        $this->sessionSettings->disableWrite(); // avoid session write timing bug
+        $this->disableSessionWrites();  // avoid session write timing bug
 
         // Special case: proxy a full URL:
-        $url = $this->params()->fromQuery('proxy');
-        if (!empty($url)) {
+        $proxy = $this->params()->fromQuery('proxy');
+        if (!empty($proxy)) {
             try {
-                $image = $this->proxy->fetch($url);
+                $image = $this->getProxy()->fetch($proxy);
                 return $this->displayImage(
-                    $image->getHeaders()->get('content-type')->getFieldValue(),
+                    $image->getHeaders()->get('contenttype')->getFieldValue(),
                     $image->getContent()
                 );
             } catch (\Exception $e) {
@@ -127,7 +155,7 @@ class CoverController extends \Zend\Mvc\Controller\AbstractActionController
         }
 
         // Default case -- use image loader:
-        $this->loader->loadImage($this->getImageParams());
+        $this->getLoader()->loadImage($this->getImageParams());
         return $this->displayImage();
     }
 
@@ -138,8 +166,8 @@ class CoverController extends \Zend\Mvc\Controller\AbstractActionController
      */
     public function unavailableAction()
     {
-        $this->sessionSettings->disableWrite(); // avoid session write timing bug
-        $this->loader->loadUnavailable();
+        $this->disableSessionWrites();  // avoid session write timing bug
+        $this->getLoader()->loadUnavailable();
         return $this->displayImage();
     }
 
@@ -157,7 +185,7 @@ class CoverController extends \Zend\Mvc\Controller\AbstractActionController
         $response = $this->getResponse();
         $headers = $response->getHeaders();
         $headers->addHeaderLine(
-            'Content-type', $type ?: $this->loader->getContentType()
+            'Content-type', $type ?: $this->getLoader()->getContentType()
         );
 
         // Send proper caching headers so that the user's browser
@@ -175,7 +203,7 @@ class CoverController extends \Zend\Mvc\Controller\AbstractActionController
             'Expires', gmdate('D, d M Y H:i:s', time() + $coverImageTtl) . ' GMT'
         );
 
-        $response->setContent($image ?: $this->loader->getImage());
+        $response->setContent($image ?: $this->getLoader()->getImage());
         return $response;
     }
 }

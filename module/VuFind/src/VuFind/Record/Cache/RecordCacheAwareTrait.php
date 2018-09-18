@@ -2,7 +2,7 @@
 /**
  * Default implementation of RecordCacheAwareInterface
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) 2014 University of Freiburg.
  *
@@ -66,4 +66,5 @@ trait RecordCacheAwareTrait
     {
         return $this->recordCache;
     }
+
 }

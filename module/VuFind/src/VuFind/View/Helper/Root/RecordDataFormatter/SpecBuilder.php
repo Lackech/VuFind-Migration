@@ -2,7 +2,7 @@
 /**
  * Specification builder for record driver data formatting view helper
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2016.
  *
@@ -66,7 +66,6 @@ class SpecBuilder
             }
         }
     }
-
     /**
      * Set a generic spec line.
      *
@@ -75,7 +74,7 @@ class SpecBuilder
      * @param string $renderType Type of rendering to use to generate output
      * @param array  $options    Additional options
      *
-     * @return void
+     * @return array
      */
     public function setLine($key, $dataMethod, $renderType = null, $options = [])
     {
@@ -89,22 +88,6 @@ class SpecBuilder
     }
 
     /**
-     * Construct a multi-function template spec line.
-     *
-     * @param string   $key        Label to associate with this spec line
-     * @param string   $dataMethod Method of data retrieval for rendering element
-     * @param Callable $callback   Callback function for multi-processing
-     * @param array    $options    Additional options
-     *
-     * @return void
-     */
-    public function setMultiLine($key, $dataMethod, $callback, $options = [])
-    {
-        $options['multiFunction'] = $callback;
-        return $this->setLine($key, $dataMethod, 'Multi', $options);
-    }
-
-    /**
      * Construct a record driver template spec line.
      *
      * @param string $key        Label to associate with this spec line
@@ -112,7 +95,7 @@ class SpecBuilder
      * @param string $template   Record driver template to render with data
      * @param array  $options    Additional options
      *
-     * @return void
+     * @return array
      */
     public function setTemplateLine($key, $dataMethod, $template, $options = [])
     {

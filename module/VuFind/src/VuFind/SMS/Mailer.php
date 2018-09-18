@@ -2,7 +2,7 @@
 /**
  * VuFind Mailer Class for SMS messages
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2009.
  *
@@ -26,7 +26,6 @@
  * @link     https://vufind.org/wiki/development Wiki
  */
 namespace VuFind\SMS;
-
 use VuFind\Exception\Mail as MailException;
 
 /**
@@ -94,7 +93,7 @@ class Mailer extends AbstractBase
 
         // Load default "from" address:
         $this->defaultFrom
-            = $options['defaultFrom'] ?? '';
+            = isset($options['defaultFrom']) ? $options['defaultFrom'] : '';
 
         // Make sure mailer dependency has been injected:
         if (!isset($options['mailer'])

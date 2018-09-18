@@ -2,7 +2,7 @@
 /**
  * DPLATerms Recommendations Module
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -26,9 +26,8 @@
  * @link     https://vufind.org/wiki/development:plugins:recommendation_modules Wiki
  */
 namespace VuFind\Recommend;
-
-use Zend\Http\Client\Adapter\Exception\TimeoutException;
-use Zend\Http\Client as HttpClient;
+use Zend\Http\Client as HttpClient,
+    Zend\Http\Client\Adapter\Exception\TimeoutException;
 
 /**
  * DPLATerms Recommendations Module

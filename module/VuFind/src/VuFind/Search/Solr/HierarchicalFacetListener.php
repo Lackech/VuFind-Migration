@@ -3,7 +3,7 @@
 /**
  * Solr hierarchical facet listener.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2013.
  * Copyright (C) The National Library of Finland 2014.
@@ -32,8 +32,8 @@ namespace VuFind\Search\Solr;
 
 use VuFindSearch\Backend\BackendInterface;
 
-use Zend\EventManager\EventInterface;
 use Zend\EventManager\SharedEventManagerInterface;
+use Zend\EventManager\EventInterface;
 use Zend\ServiceManager\ServiceLocatorInterface;
 
 /**
@@ -107,10 +107,10 @@ class HierarchicalFacetListener
         $this->backend = $backend;
         $this->serviceLocator = $serviceLocator;
 
-        $config = $this->serviceLocator->get('VuFind\Config\PluginManager');
+        $config = $this->serviceLocator->get('VuFind\Config');
         $this->facetConfig = $config->get($facetConfig);
-        $this->facetHelper = $this->serviceLocator
-            ->get('VuFind\Search\Solr\HierarchicalFacetHelper');
+        $this->facetHelper
+            = $this->serviceLocator->get('VuFind\HierarchicalFacetHelper');
 
         $specialFacets = $this->facetConfig->SpecialFacets;
         $this->displayStyles

@@ -4,7 +4,7 @@
  * performance -- this allows us to set and roll back variables in the global
  * scope instead of relying on the overhead of building a whole new scope).
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -28,9 +28,7 @@
  * @link     https://vufind.org/wiki/development Wiki
  */
 namespace VuFind\View\Helper\Root;
-
-use Zend\View\Helper\AbstractHelper;
-use Zend\View\Renderer\RendererInterface;
+use Zend\View\Helper\AbstractHelper, Zend\View\Renderer\RendererInterface;
 
 /**
  * Context manager (useful for using render() instead of partial() for better
@@ -59,7 +57,7 @@ class Context extends AbstractHelper
 
         $oldVars = [];
         foreach ($vars as $k => $v) {
-            $oldVars[$k] = $view->$k ?? null;
+            $oldVars[$k] = isset($view->$k) ? $view->$k : null;
             $view->$k = $v;
         }
         return $oldVars;
@@ -77,7 +75,7 @@ class Context extends AbstractHelper
         $view = $this->getView();
 
         foreach ($vars as $k => $v) {
-            if (null === $v) {
+            if (is_null($v)) {
                 unset($view->$k);
             } else {
                 $view->$k = $v;
@@ -113,7 +111,7 @@ class Context extends AbstractHelper
      */
     public function __invoke(RendererInterface $view = null)
     {
-        if (null !== $view) {
+        if (!is_null($view)) {
             $this->setView($view);
         }
         return $this;

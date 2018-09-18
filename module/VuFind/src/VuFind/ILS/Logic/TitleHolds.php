@@ -2,7 +2,7 @@
 /**
  * Title Hold Logic Class
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2007.
  *
@@ -27,9 +27,8 @@
  * @link     https://vufind.org/wiki/development Wiki
  */
 namespace VuFind\ILS\Logic;
-
-use VuFind\Exception\ILS as ILSException;
-use VuFind\ILS\Connection as ILSConnection;
+use VuFind\ILS\Connection as ILSConnection,
+    VuFind\Exception\ILS as ILSException;
 
 /**
  * Title Hold Logic Class
@@ -117,8 +116,8 @@ class TitleHolds
         if ($this->catalog) {
             $mode = $this->catalog->getTitleHoldsMode();
             if ($mode == 'disabled') {
-                return false;
-            } elseif ($mode == 'driver') {
+                 return false;
+            } else if ($mode == 'driver') {
                 try {
                     $patron = $this->ilsAuth->storedCatalogLogin();
                     if (!$patron) {
@@ -246,8 +245,9 @@ class TitleHolds
 
         if ($checkHolds != false) {
             if ($type == 'always') {
-                $addlink = true;
+                 $addlink = true;
             } elseif ($type == 'availability') {
+
                 $holdings = $this->getHoldings($id);
                 foreach ($holdings as $holding) {
                     if ($holding['availability']

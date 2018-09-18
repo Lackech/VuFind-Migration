@@ -2,7 +2,7 @@
 /**
  * Mink test class for basic collection functionality.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2017.
  *
@@ -73,11 +73,6 @@ class CollectionsTest extends \VuFindTest\Unit\MinkTestCase
     public function testBasic()
     {
         $this->changeConfigs([
-            'config' => [
-                'Collections' => [
-                    'collections' => true
-                ],
-            ],
             'HierarchyDefault' => [
                 'Collections' => [
                     'link_type' => 'Top'
@@ -97,11 +92,6 @@ class CollectionsTest extends \VuFindTest\Unit\MinkTestCase
     public function testKeywordFilter()
     {
         $this->changeConfigs([
-            'config' => [
-                'Collections' => [
-                    'collections' => true
-                ],
-            ],
             'HierarchyDefault' => [
                 'Collections' => [
                     'link_type' => 'Top'
@@ -130,10 +120,7 @@ class CollectionsTest extends \VuFindTest\Unit\MinkTestCase
             'config' => [
                 'Hierarchy' => [
                     'showTree' => true
-                ],
-                'Collections' => [
-                    'collections' => true
-                ],
+                ]
             ],
             'HierarchyDefault' => [
                 'Collections' => [

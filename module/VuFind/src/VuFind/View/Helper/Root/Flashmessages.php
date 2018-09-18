@@ -2,7 +2,7 @@
 /**
  * Flash message view helper
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -26,9 +26,7 @@
  * @link     https://vufind.org/wiki/development Wiki
  */
 namespace VuFind\View\Helper\Root;
-
-use Zend\Mvc\Plugin\FlashMessenger\FlashMessenger;
-use Zend\View\Helper\AbstractHelper;
+use Zend\View\Helper\AbstractHelper, Zend\Mvc\Controller\Plugin\FlashMessenger;
 
 /**
  * Flash message view helper
@@ -105,8 +103,8 @@ class Flashmessages extends AbstractHelper
                     }
                     $helper = $helper
                         ? $this->getView()->plugin($helper) : false;
-                    $tokens = $msg['tokens'] ?? [];
-                    $default = $msg['default'] ?? null;
+                    $tokens = isset($msg['tokens']) ? $msg['tokens'] : [];
+                    $default = isset($msg['default']) ? $msg['default'] : null;
                     $html .= $helper
                         ? $helper($msg['msg'], $tokens, $default) : $msg['msg'];
                 } else {

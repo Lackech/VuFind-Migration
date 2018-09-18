@@ -2,7 +2,7 @@
 /**
  * Primo Permission Handler.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2013.
  *
@@ -27,7 +27,8 @@
  */
 namespace VuFind\Search\Primo;
 
-use ZfcRbac\Service\AuthorizationServiceAwareTrait;
+use ZfcRbac\Service\AuthorizationServiceAwareInterface,
+    ZfcRbac\Service\AuthorizationServiceAwareTrait;
 
 /**
  * Primo Permission Handler.
@@ -97,7 +98,7 @@ class PrimoPermissionHandler
      */
     public function instCodeExists($code)
     {
-        return in_array($code, $this->getInstCodes()) === true;
+        return (in_array($code, $this->getInstCodes()) === true);
     }
 
     /**
@@ -122,7 +123,7 @@ class PrimoPermissionHandler
     public function hasPermission()
     {
         $code = $this->getInstCode();
-        return false !== $code && $this->checkPermission($code) === true;
+        return (false !== $code && $this->checkPermission($code) === true);
     }
 
     /**
@@ -241,6 +242,7 @@ class PrimoPermissionHandler
         if ($this->instCode === null) {
             $this->instCode = false;
         }
+
     }
 
     /**
@@ -307,6 +309,6 @@ class PrimoPermissionHandler
         $authService = $this->getAuthorizationService();
 
         // if no authorization service is available, the user can't get permission
-        return $authService && $authService->isGranted($onCampusRule);
+        return ($authService && $authService->isGranted($onCampusRule));
     }
 }

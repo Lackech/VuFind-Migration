@@ -3,7 +3,7 @@
 /**
  * Base class for search backend handler maps.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *

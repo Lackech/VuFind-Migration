@@ -3,7 +3,7 @@
 /**
  * Unit tests for Lucene syntax helper
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -337,11 +337,10 @@ class LuceneSyntaxHelperTest extends \VuFindTest\Unit\TestCase
             '"this : that"' => '"this : that"',
             '::::::::::::::::::::' => '',
          ];
-        foreach ($tests as $input => $expected) {
-            $this->assertEquals(
-                $expected, $lh->normalizeSearchString($input)
-            );
-        }
+        foreach ($tests as $input => $expected)
+        $this->assertEquals(
+            $expected, $lh->normalizeSearchString($input)
+        );
     }
 
     /**
@@ -372,10 +371,9 @@ class LuceneSyntaxHelperTest extends \VuFindTest\Unit\TestCase
             'index:{start TO end}' => '{start TO end}',
             'es\\"caped field:test' => 'es\\"caped test'
         ];
-        foreach ($tests as $input => $expected) {
-            $this->assertEquals(
-                $expected, $lh->extractSearchTerms($input)
-            );
-        }
+        foreach ($tests as $input => $expected)
+        $this->assertEquals(
+            $expected, $lh->extractSearchTerms($input)
+        );
     }
 }

@@ -1,12 +1,10 @@
 <?php
 
 // Set up modules:
-$modules = [
-    'Zend\Router', 'ZfcRbac',
-    'VuFindTheme', 'VuFindSearch', 'VuFind', 'VuFindAdmin', 'VuFindApi'
-];
+$modules = array(
+    'ZfcRbac', 'VuFindTheme', 'VuFindSearch', 'VuFind', 'VuFindAdmin', 'VuFindApi'
+);
 if (PHP_SAPI == 'cli' && !defined('VUFIND_PHPUNIT_RUNNING')) {
-    $modules[] = 'Zend\Mvc\Console';
     $modules[] = 'VuFindConsole';
 }
 if (APPLICATION_ENV == 'development') {
@@ -55,24 +53,24 @@ if (!is_dir($cacheDir)) {
 $useCache = APPLICATION_ENV != 'development' && !defined('VUFIND_PHPUNIT_RUNNING');
 
 // Build configuration:
-return [
+return array(
     'modules' => array_unique($modules),
-    'module_listener_options' => [
-        'config_glob_paths'    => [
+    'module_listener_options' => array(
+        'config_glob_paths'    => array(
             'config/autoload/{,*.}{global,local}.php',
-        ],
+        ),
         'config_cache_enabled' => $useCache,
         'module_map_cache_enabled' => $useCache,
         'check_dependencies' => (APPLICATION_ENV == 'development'),
         'cache_dir'            => $cacheDir,
-        'module_paths' => [
+        'module_paths' => array(
             './module',
             './vendor',
-        ],
-    ],
-    'service_manager' => [
+        ),
+    ),
+    'service_manager' => array(
         'use_defaults' => true,
-        'factories'    => [
-        ],
-    ],
-];
+        'factories'    => array(
+        ),
+    ),
+);

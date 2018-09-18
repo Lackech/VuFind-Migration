@@ -2,7 +2,7 @@
 /**
  * Collection list tab
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -26,10 +26,8 @@
  * @link     https://vufind.org/wiki/development:plugins:record_tabs Wiki
  */
 namespace VuFind\RecordTab;
-
-use VuFind\Recommend\PluginManager as RecommendManager;
-use VuFind\Search\RecommendListener;
-use VuFind\Search\SearchRunner;
+use VuFind\Recommend\PluginManager as RecommendManager,
+    VuFind\Search\RecommendListener, VuFind\Search\SearchRunner;
 
 /**
  * Collection list tab

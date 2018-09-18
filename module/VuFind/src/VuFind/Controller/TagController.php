@@ -2,7 +2,7 @@
 /**
  * Tag Controller
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -26,7 +26,6 @@
  * @link     https://vufind.org Main Site
  */
 namespace VuFind\Controller;
-
 use VuFind\Exception\Forbidden as ForbiddenException;
 use Zend\ServiceManager\ServiceLocatorInterface;
 
@@ -62,6 +61,6 @@ class TagController extends AbstractSearch
         if (!$this->tagsEnabled()) {
             throw new ForbiddenException('Tags disabled');
         }
-        return parent::resultsAction();
+        return $this->resultsAction();
     }
 }

@@ -3,7 +3,7 @@
 /**
  * SOLR QueryBuilder interface definition.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -30,8 +30,8 @@
  */
 namespace VuFindSearch\Backend\Solr;
 
-use VuFindSearch\ParamBag;
 use VuFindSearch\Query\AbstractQuery;
+use VuFindSearch\ParamBag;
 
 /**
  * SOLR QueryBuilder interface definition.

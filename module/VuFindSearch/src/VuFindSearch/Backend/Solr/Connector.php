@@ -3,7 +3,7 @@
 /**
  * SOLR connector.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -30,23 +30,21 @@
  */
 namespace VuFindSearch\Backend\Solr;
 
-use InvalidArgumentException;
+use VuFindSearch\Query\Query;
 
-use VuFindSearch\Backend\Exception\BackendException;
+use VuFindSearch\ParamBag;
+
 use VuFindSearch\Backend\Exception\HttpErrorException;
-use VuFindSearch\Backend\Exception\RemoteErrorException;
 use VuFindSearch\Backend\Exception\RequestErrorException;
 
 use VuFindSearch\Backend\Solr\Document\AbstractDocument;
 
-use VuFindSearch\ParamBag;
-
-use VuFindSearch\Query\Query;
+use Zend\Http\Request;
+use Zend\Http\Client as HttpClient;
 use Zend\Http\Client\Adapter\AdapterInterface;
 use Zend\Http\Client\Adapter\Exception\TimeoutException;
-use Zend\Http\Client as HttpClient;
 
-use Zend\Http\Request;
+use InvalidArgumentException;
 
 /**
  * SOLR connector.
@@ -379,26 +377,6 @@ class Connector implements \Zend\Log\LoggerAwareInterface
     }
 
     /**
-     * If an unexpected exception type was received, wrap it in a generic
-     * BackendException to standardize upstream handling.
-     *
-     * @param \Exception $ex Exception
-     *
-     * @return \Exception
-     */
-    protected function forceToBackendException($ex)
-    {
-        // Don't wrap specific backend exceptions....
-        if ($ex instanceof RemoteErrorException
-            || $ex instanceof RequestErrorException
-            || $ex instanceof HttpErrorException
-        ) {
-            return $ex;
-        }
-        return new BackendException('Problem connecting to Solr.', null, $ex);
-    }
-
-    /**
      * Try all Solr URLs until we find one that works (or throw an exception).
      *
      * @param string   $method    HTTP method to use
@@ -426,15 +404,15 @@ class Connector implements \Zend\Log\LoggerAwareInterface
                 return $this->send($client);
             } catch (\Exception $ex) {
                 if ($this->isRethrowableSolrException($ex)) {
-                    throw $this->forceToBackendException($ex);
+                    throw $ex;
                 }
                 $exception = $ex;
             }
         }
 
-        // If we got this far, everything failed -- throw a BackendException with
-        // the most recent exception caught above set as the previous exception.
-        throw $this->forceToBackendException($exception);
+        // If we got this far, everything failed -- throw the most recent
+        // exception caught above.
+        throw $exception;
     }
 
     /**

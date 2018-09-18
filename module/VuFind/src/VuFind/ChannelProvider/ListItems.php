@@ -2,7 +2,7 @@
 /**
  * "List items" channel provider.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2016.
  *
@@ -26,10 +26,8 @@
  * @link     https://vufind.org/wiki/development Wiki
  */
 namespace VuFind\ChannelProvider;
-
 use VuFind\RecordDriver\AbstractBase as RecordDriver;
-use VuFind\Search\Base\Params;
-use VuFind\Search\Base\Results;
+use VuFind\Search\Base\Params, VuFind\Search\Base\Results;
 use Zend\Mvc\Controller\Plugin\Url;
 use Zend\Stdlib\Parameters;
 
@@ -115,10 +113,11 @@ class ListItems extends AbstractChannelProvider
      */
     public function setOptions(array $options)
     {
-        $this->ids = $options['ids'] ?? [];
+        $this->ids = isset($options['ids']) ? $options['ids'] : [];
         $this->displayPublicLists = isset($options['displayPublicLists'])
             ? (bool)$options['displayPublicLists'] : true;
-        $this->initialListsToDisplay = $options['initialListsToDisplay'] ?? 2;
+        $this->initialListsToDisplay = isset($options['initialListsToDisplay'])
+            ? $options['initialListsToDisplay'] : 2;
     }
 
     /**
@@ -164,9 +163,7 @@ class ListItems extends AbstractChannelProvider
     protected function buildListChannels($channelToken)
     {
         $channels = [];
-        $lists = $channelToken
-            ? $this->getListsById([$channelToken]) : $this->getLists();
-        foreach ($lists as $list) {
+        foreach ($this->getLists() as $list) {
             $tokenOnly = (count($channels) >= $this->initialListsToDisplay);
             $channel = $this->getChannelFromList($list, $tokenOnly);
             if ($tokenOnly || count($channel['contents']) > 0) {
@@ -177,35 +174,19 @@ class ListItems extends AbstractChannelProvider
     }
 
     /**
-     * Get a list of lists, identified by ID; filter to public lists only.
-     *
-     * @param array $ids IDs to retrieve
-     *
-     * @return array
-     */
-    protected function getListsById($ids)
-    {
-        $lists = [];
-        foreach ($ids as $id) {
-            $list = $this->userList->getExisting($id);
-            if ($list->public) {
-                $lists[] = $list;
-            }
-        }
-        return $lists;
-    }
-
-    /**
      * Get a list of public lists to display:
      *
      * @return array
      */
     protected function getLists()
     {
-        // First fetch hard-coded IDs:
-        $lists = $this->getListsById($this->ids);
-
-        // Next add public lists if necessary:
+        $lists = [];
+        foreach ($this->ids as $id) {
+            $list = $this->userList->getExisting($id);
+            if ($list->public) {
+                $lists[] = $list;
+            }
+        }
         if ($this->displayPublicLists) {
             $ids = $this->ids;
             $callback = function ($select) use ($ids) {
@@ -218,7 +199,6 @@ class ListItems extends AbstractChannelProvider
                 $lists[] = $list;
             }
         }
-
         return $lists;
     }
 

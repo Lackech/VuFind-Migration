@@ -3,7 +3,7 @@
  * Class for treating a set of cookies as an object (inspired by
  * \Zend\Session\Container).
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2012.
  *

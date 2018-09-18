@@ -2,7 +2,7 @@
 /**
  * OAI Module Controller
  *
- * PHP version 7
+ * PHP Version 5
  *
  * Copyright (C) Villanova University 2011.
  *
@@ -100,13 +100,13 @@ class OaiController extends AbstractBase
                 $this->getRequest()->getPost()->toArray()
             );
             $server = new $serverClass(
-                $this->serviceLocator->get('VuFind\Search\Results\PluginManager'),
-                $this->serviceLocator->get('VuFind\Record\Loader'),
-                $this->serviceLocator->get('VuFind\Db\Table\PluginManager'),
+                $this->serviceLocator->get('VuFind\SearchResultsPluginManager'),
+                $this->serviceLocator->get('VuFind\RecordLoader'),
+                $this->serviceLocator->get('VuFind\DbTablePluginManager'),
                 $config, $baseURL, $params
             );
             $server->setRecordLinkHelper(
-                $this->getViewRenderer()->plugin('recordLink')
+                $this->getViewRenderer()->plugin('recordlink')
             );
             $xml = $server->getResponse();
         } catch (\Exception $e) {

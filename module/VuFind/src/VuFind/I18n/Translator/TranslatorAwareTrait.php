@@ -2,7 +2,7 @@
 /**
  * Lightweight translator aware marker interface.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -26,7 +26,6 @@
  * @link     https://vufind.org Main Site
  */
 namespace VuFind\I18n\Translator;
-
 use Zend\I18n\Translator\TranslatorInterface;
 
 /**
@@ -135,6 +134,7 @@ trait TranslatorAwareTrait
     protected function translateString($str, $tokens = [], $default = null,
         $domain = 'default'
     ) {
+
         $msg = (null === $this->translator)
             ? $str : $this->translator->translate($str, $domain);
 

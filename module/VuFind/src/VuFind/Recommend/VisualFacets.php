@@ -2,7 +2,7 @@
 /**
  * VisualFacets Recommendations Module
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Julia Bauder 2014.
  *
@@ -66,7 +66,7 @@ class VisualFacets extends AbstractFacets
     {
         $settings = explode(':', $settings);
         $mainSection = empty($settings[0]) ? 'Visual_Settings' : $settings[0];
-        $iniName = $settings[1] ?? 'facets';
+        $iniName = isset($settings[1]) ? $settings[1] : 'facets';
 
         // Load the desired facet information:
         $config = $this->configLoader->get($iniName);

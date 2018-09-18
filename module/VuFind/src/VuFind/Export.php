@@ -2,7 +2,7 @@
 /**
  * Export support class
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -26,8 +26,7 @@
  * @link     https://vufind.org Main Site
  */
 namespace VuFind;
-
-use Zend\Config\Config;
+use VuFind\SimpleXML, Zend\Config\Config;
 
 /**
  * Export support class
@@ -160,8 +159,7 @@ class Export
      */
     public function needsRedirect($format)
     {
-        return !empty($this->exportConfig->$format->redirectUrl)
-            && 'link' === $this->getBulkExportType($format);
+        return isset($this->exportConfig->$format->redirectUrl);
     }
 
     /**
@@ -385,32 +383,5 @@ class Export
             $this->activeFormats[$context] = array_unique($active);
         }
         return $this->activeFormats[$context];
-    }
-
-    /**
-     * Get the export POST field name.
-     *
-     * @param string $format Format identifier
-     *
-     * @return string
-     */
-    public function getPostField($format)
-    {
-        return !empty($this->exportConfig->$format->postField)
-            ? $this->exportConfig->$format->postField : 'ImportData';
-    }
-
-    /**
-     * Get the export target window.
-     *
-     * @param string $format Format identifier
-     *
-     * @return string
-     */
-    public function getTargetWindow($format)
-    {
-        return !empty($this->exportConfig->$format->targetWindow)
-            ? $this->exportConfig->$format->targetWindow
-            : $format . 'Main';
     }
 }

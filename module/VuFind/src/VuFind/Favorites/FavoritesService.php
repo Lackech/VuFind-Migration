@@ -2,7 +2,7 @@
 /**
  * Favorites service
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2016.
  *
@@ -26,11 +26,10 @@
  * @link     https://vufind.org Main Page
  */
 namespace VuFind\Favorites;
-
-use VuFind\Db\Table\Resource as ResourceTable;
-use VuFind\Db\Table\UserList as UserListTable;
 use VuFind\Record\Cache as RecordCache;
 use VuFind\RecordDriver\AbstractBase as RecordDriver;
+use VuFind\Db\Table\Resource as ResourceTable;
+use VuFind\Db\Table\UserList as UserListTable;
 
 /**
  * Favorites service
@@ -152,7 +151,7 @@ class FavoritesService implements \VuFind\I18n\Translator\TranslatorAwareInterfa
 
         // Get or create a list object as needed:
         $list = $this->getListObject(
-            $params['list'] ?? '',
+            isset($params['list']) ? $params['list'] : '',
             $user
         );
 
@@ -167,8 +166,8 @@ class FavoritesService implements \VuFind\I18n\Translator\TranslatorAwareInterfa
         // Add the information to the user's account:
         $user->saveResource(
             $resource, $list,
-            $params['mytags'] ?? [],
-            $params['notes'] ?? ''
+            isset($params['mytags']) ? $params['mytags'] : [],
+            isset($params['notes']) ? $params['notes'] : ''
         );
         return ['listId' => $list->id];
     }

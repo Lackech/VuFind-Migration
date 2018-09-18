@@ -2,7 +2,7 @@
 /**
  * Redi resolver driver test
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Leipzig University Library 2015.
  *
@@ -27,13 +27,12 @@
  * @link     https://vufind.org Main Page
  */
 namespace VuFindTest\Resolver\Driver;
+use VuFind\Resolver\Driver\Redi;
+
+use Zend\Http\Client\Adapter\Test as TestAdapter;
+use Zend\Http\Response as HttpResponse;
 
 use InvalidArgumentException;
-
-use VuFind\Resolver\Driver\Redi;
-use Zend\Http\Client\Adapter\Test as TestAdapter;
-
-use Zend\Http\Response as HttpResponse;
 
 /**
  * Redi resolver driver test

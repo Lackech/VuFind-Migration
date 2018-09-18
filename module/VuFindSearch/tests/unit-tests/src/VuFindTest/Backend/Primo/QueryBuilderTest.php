@@ -3,7 +3,7 @@
 /**
  * Unit tests for Primo query builder
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2013.
  *
@@ -28,10 +28,10 @@
  */
 namespace VuFindTest\Backend\Primo;
 
-use PHPUnit\Framework\TestCase;
 use VuFindSearch\Backend\Primo\QueryBuilder;
 use VuFindSearch\Query\Query;
 use VuFindSearch\Query\QueryGroup;
+use PHPUnit_Framework_TestCase;
 
 /**
  * Unit tests for Primo query builder
@@ -42,7 +42,7 @@ use VuFindSearch\Query\QueryGroup;
  * @license  http://opensource.org/licenses/gpl-2.0.php GNU General Public License
  * @link     https://vufind.org
  */
-class QueryBuilderTest extends TestCase
+class QueryBuilderTest extends PHPUnit_Framework_TestCase
 {
     /**
      * Test basic query parsing

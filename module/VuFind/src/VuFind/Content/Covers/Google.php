@@ -2,7 +2,7 @@
 /**
  * Google cover content loader.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -56,7 +56,7 @@ class Google extends \VuFind\Content\AbstractCover
      *
      * @return \Zend\Http\Client
      */
-    protected function getHttpClient($url = null)
+    protected function getHttpClient($url)
     {
         if (null === $this->httpService) {
             throw new \Exception('HTTP service missing.');

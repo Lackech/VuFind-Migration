@@ -2,7 +2,7 @@
 /**
  * JsTranslations helper for passing translation text to Javascript
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -26,7 +26,6 @@
  * @link     https://vufind.org/wiki/development Wiki
  */
 namespace VuFind\View\Helper\Root;
-
 use Zend\View\Helper\AbstractHelper;
 
 /**
@@ -99,10 +98,6 @@ class JsTranslations extends AbstractHelper
             $translation = is_array($v)
                 ? call_user_func_array([$this->transEsc, '__invoke'], $v)
                 : $this->transEsc->__invoke($v);
-            // Special case: do not escape _html translations:
-            if (substr($k, -5) === '_html') {
-                $translation = html_entity_decode($translation);
-            }
             $parts[] = '"' . addslashes($k) . '": "'
                 . addslashes($translation) . '"';
         }

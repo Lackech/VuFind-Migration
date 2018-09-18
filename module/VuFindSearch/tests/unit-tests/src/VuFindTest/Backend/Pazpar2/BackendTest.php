@@ -3,7 +3,7 @@
 /**
  * Unit tests for Pazpar2 backend.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -28,10 +28,10 @@
  */
 namespace VuFindTest\Backend\Pazpar2;
 
-use InvalidArgumentException;
-use VuFindSearch\Backend\Pazpar2\Backend;
 use VuFindSearch\Query\Query;
+use VuFindSearch\Backend\Pazpar2\Backend;
 use VuFindTest\Unit\TestCase;
+use InvalidArgumentException;
 
 /**
  * Unit tests for Pazpar2 backend.

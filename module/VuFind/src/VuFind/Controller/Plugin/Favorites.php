@@ -2,7 +2,7 @@
 /**
  * VuFind Action Helper - Favorites Support Methods
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -26,9 +26,8 @@
  * @link     https://vufind.org Main Page
  */
 namespace VuFind\Controller\Plugin;
-
-use VuFind\Db\Row\User;
 use VuFind\Exception\LoginRequired as LoginRequiredException;
+use VuFind\Db\Row\User;
 use VuFind\Record\Cache;
 use VuFind\Record\Loader;
 use VuFind\Tags;
@@ -147,7 +146,7 @@ class Favorites extends \Zend\Mvc\Controller\Plugin\AbstractPlugin
         }
 
         // Load helper objects needed for the saving process:
-        $list = $this->getList($params['list'] ?? '', $user);
+        $list = $this->getList(isset($params['list']) ? $params['list'] : '', $user);
         $this->cache->setContext(Cache::CONTEXT_FAVORITE);
 
         $cacheRecordIds = [];   // list of record IDs to save to cache

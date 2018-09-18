@@ -3,7 +3,7 @@
 /**
  * Random Recommend tests.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -28,7 +28,6 @@
  */
 namespace VuFindTest\Recommend;
 
-use PHPUnit\Framework\Assert;
 use VuFind\Recommend\RandomRecommend as Random;
 use VuFindTest\Unit\TestCase as TestCase;
 
@@ -66,21 +65,31 @@ class RandomRecommendTest extends TestCase
         //[backend]:[limit]:[display mode]:[random mode]:[minimumset]:[facet1]:[facetvalue1]
         $this->recommend->setConfig("SolrWeb:5:mixed:disregard:20:facet1:value1:facet2:value2");
         $this->assertEquals(
-            "SolrWeb", Assert::readAttribute($this->recommend, 'backend')
+            "SolrWeb", \PHPUnit_Framework_Assert::readAttribute(
+                $this->recommend, 'backend'
+            )
         );
         $this->assertEquals(
-            "5", Assert::readAttribute($this->recommend, 'limit')
+            "5", \PHPUnit_Framework_Assert::readAttribute(
+                $this->recommend, 'limit'
+            )
         );
         $this->assertEquals(
-            "mixed", Assert::readAttribute($this->recommend, 'displayMode')
+            "mixed", \PHPUnit_Framework_Assert::readAttribute(
+                $this->recommend, 'displayMode'
+            )
         );
         $this->assertEquals(
-            "disregard", Assert::readAttribute($this->recommend, 'mode')
+            "disregard", \PHPUnit_Framework_Assert::readAttribute(
+                $this->recommend, 'mode'
+            )
         );
         $this->assertEquals(
-            "20", Assert::readAttribute($this->recommend, 'minimum')
+            "20", \PHPUnit_Framework_Assert::readAttribute(
+                $this->recommend, 'minimum'
+            )
         );
-        $filters = Assert::readAttribute($this->recommend, 'filters');
+        $filters = \PHPUnit_Framework_Assert::readAttribute($this->recommend, 'filters');
         $this->assertInternalType("array", $filters);
         $this->assertCount(2, $filters);
         $this->assertEquals("facet1:value1", $filters[0]);
@@ -97,22 +106,34 @@ class RandomRecommendTest extends TestCase
         //[backend]:[limit]:[display mode]:[random mode]:[minimumset]:[facet1]:[facetvalue1]
         $this->recommend->setConfig('');
         $this->assertEquals(
-            "Solr", Assert::readAttribute($this->recommend, 'backend')
+            "Solr", \PHPUnit_Framework_Assert::readAttribute(
+                $this->recommend, 'backend'
+            )
         );
         $this->assertEquals(
-            "10", Assert::readAttribute($this->recommend, 'limit')
+            "10", \PHPUnit_Framework_Assert::readAttribute(
+                $this->recommend, 'limit'
+            )
         );
         $this->assertEquals(
-            "standard", Assert::readAttribute($this->recommend, 'displayMode')
+            "standard", \PHPUnit_Framework_Assert::readAttribute(
+                $this->recommend, 'displayMode'
+            )
         );
         $this->assertEquals(
-            "retain", Assert::readAttribute($this->recommend, 'mode')
+            "retain", \PHPUnit_Framework_Assert::readAttribute(
+                $this->recommend, 'mode'
+            )
         );
         $this->assertEquals(
-            "0", Assert::readAttribute($this->recommend, 'minimum')
+            "0", \PHPUnit_Framework_Assert::readAttribute(
+                $this->recommend, 'minimum'
+            )
         );
         $this->assertEquals(
-            [], Assert::readAttribute($this->recommend, 'filters')
+            [], \PHPUnit_Framework_Assert::readAttribute(
+                $this->recommend, 'filters'
+            )
         );
     }
 
@@ -128,8 +149,8 @@ class RandomRecommendTest extends TestCase
         $recommend = new Random($service, $paramManager);
 
         // Use Solr since some Base components are abstract:
-        $params = $this->getServiceManager()
-            ->get('VuFind\Search\Params\PluginManager')->get('Solr');
+        $params = $this->getServiceManager()->get('VuFind\SearchParamsPluginManager')
+            ->get('Solr');
         $query = $this->getFixture('query');
         $params->setBasicSearch($query->getString(), $query->getHandler());
         $request = $this->createMock('\Zend\StdLib\Parameters');
@@ -160,14 +181,14 @@ class RandomRecommendTest extends TestCase
             ->with($this->equalTo("Solr"))
             ->will(
                 $this->returnValue(
-                    $this->getServiceManager()
-                        ->get('VuFind\Search\Params\PluginManager')->get('Solr')
+                    $this->getServiceManager()->get('VuFind\SearchParamsPluginManager')
+                        ->get('Solr')
                 )
             );
 
         // Use Solr since some Base components are abstract:
-        $params = $this->getServiceManager()
-            ->get('VuFind\Search\Params\PluginManager')->get('Solr');
+        $params = $this->getServiceManager()->get('VuFind\SearchParamsPluginManager')
+            ->get('Solr');
         $query = $this->getFixture('query');
         $params->setBasicSearch($query->getString(), $query->getHandler());
         $request = $this->createMock('\Zend\StdLib\Parameters');
@@ -193,8 +214,8 @@ class RandomRecommendTest extends TestCase
         $records = ["1", "2", "3", "4", "5"];
 
         // Use Solr since some Base components are abstract:
-        $results = $this->getServiceManager()
-            ->get('VuFind\Search\Results\PluginManager')->get('Solr');
+        $results = $this->getServiceManager()->get('VuFind\SearchResultsPluginManager')
+            ->get('Solr');
         $params = $results->getParams();
         $query = $this->getFixture('query');
         $params->setBasicSearch($query->getString(), $query->getHandler());
@@ -231,8 +252,8 @@ class RandomRecommendTest extends TestCase
         $records = ["1", "2", "3", "4", "5"];
 
         // Use Solr since some Base components are abstract:
-        $results = $this->getServiceManager()
-            ->get('VuFind\Search\Results\PluginManager')->get('Solr');
+        $results = $this->getServiceManager()->get('VuFind\SearchResultsPluginManager')
+            ->get('Solr');
         $params = $results->getParams();
         $query = $this->getFixture('query');
         $params->setBasicSearch($query->getString(), $query->getHandler());

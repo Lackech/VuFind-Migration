@@ -2,7 +2,7 @@
 /**
  * Author aspect of the Search Multi-class (Results)
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -26,9 +26,8 @@
  * @link     https://vufind.org Main Site
  */
 namespace VuFind\Search\SolrAuthor;
-
-use VuFind\Record\Loader;
 use VuFind\Search\Solr\Results as SolrResults;
+use VuFind\Record\Loader;
 use VuFindSearch\Service as SearchService;
 
 /**

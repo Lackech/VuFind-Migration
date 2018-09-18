@@ -2,7 +2,7 @@
 /**
  * Solr Reserves aspect of the Search Multi-class (Results)
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2011.
  *
@@ -27,7 +27,6 @@
  * @link     https://vufind.org Main Page
  */
 namespace VuFind\Search\SolrReserves;
-
 use VuFind\Record\Loader;
 use VuFindSearch\Service as SearchService;
 

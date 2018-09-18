@@ -2,7 +2,7 @@
 /**
  * Trait for tables that support expiration
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  * Copyright (C) The National Library of Finland 2016.
@@ -28,7 +28,6 @@
  * @link     https://vufind.org Main Page
  */
 namespace VuFind\Db\Table;
-
 use Zend\Db\Sql\Expression;
 use Zend\Db\Sql\Select;
 

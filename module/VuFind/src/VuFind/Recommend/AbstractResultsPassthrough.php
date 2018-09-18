@@ -3,7 +3,7 @@
  * Simple abstract recommendation module that simply passes the Results object
  * through to the template.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2017.
  *

@@ -3,7 +3,7 @@
  * Abstract SearchObject Recommendations Module (needs to be extended to use
  * a particular search object).
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -27,7 +27,6 @@
  * @link     https://vufind.org/wiki/development:plugins:recommendation_modules Wiki
  */
 namespace VuFind\Recommend;
-
 use VuFind\Search\SearchRunner;
 
 /**

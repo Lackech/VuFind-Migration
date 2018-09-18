@@ -3,7 +3,7 @@
 /**
  * Unit tests for Summon Backend class.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2013.
  *
@@ -28,15 +28,15 @@
  */
 namespace VuFindSearch\Backend\Summon;
 
-use InvalidArgumentException;
-use PHPUnit\Framework\TestCase;
+use VuFindSearch\ParamBag;
+use VuFindSearch\Query\Query;
 
 use SerialsSolutions_Summon_Exception as SummonException;
 use SerialsSolutions_Summon_Query as SummonQuery;
 
-use VuFindSearch\ParamBag;
+use PHPUnit_Framework_TestCase as TestCase;
 
-use VuFindSearch\Query\Query;
+use InvalidArgumentException;
 
 /**
  * Unit tests for Summon Backend class.

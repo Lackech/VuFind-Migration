@@ -3,7 +3,7 @@
 /**
  * Factory for BrowZine backend.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2017.
  *
@@ -28,14 +28,13 @@
  */
 namespace VuFind\Search\Factory;
 
-use Interop\Container\ContainerInterface;
-
 use VuFindSearch\Backend\BrowZine\Backend;
 use VuFindSearch\Backend\BrowZine\Connector;
 use VuFindSearch\Backend\BrowZine\QueryBuilder;
 use VuFindSearch\Backend\BrowZine\Response\RecordCollectionFactory;
 
-use Zend\ServiceManager\Factory\FactoryInterface;
+use Zend\ServiceManager\ServiceLocatorInterface;
+use Zend\ServiceManager\FactoryInterface;
 
 /**
  * Factory for BrowZine backend.
@@ -58,7 +57,7 @@ class BrowZineBackendFactory implements FactoryInterface
     /**
      * Superior service manager.
      *
-     * @var ContainerInterface
+     * @var ServiceLocatorInterface
      */
     protected $serviceLocator;
 
@@ -70,23 +69,19 @@ class BrowZineBackendFactory implements FactoryInterface
     protected $browzineConfig;
 
     /**
-     * Create service
+     * Create the backend.
      *
-     * @param ContainerInterface $sm      Service manager
-     * @param string             $name    Requested service name (unused)
-     * @param array              $options Extra options (unused)
+     * @param ServiceLocatorInterface $serviceLocator Superior service manager
      *
-     * @return Backend
-     *
-     * @SuppressWarnings(PHPMD.UnusedFormalParameter)
+     * @return BackendInterface
      */
-    public function __invoke(ContainerInterface $sm, $name, array $options = null)
+    public function createService(ServiceLocatorInterface $serviceLocator)
     {
-        $this->serviceLocator = $sm;
-        $configReader = $this->serviceLocator->get('VuFind\Config\PluginManager');
+        $this->serviceLocator = $serviceLocator;
+        $configReader = $this->serviceLocator->get('VuFind\Config');
         $this->browzineConfig = $configReader->get('BrowZine');
-        if ($this->serviceLocator->has('VuFind\Log\Logger')) {
-            $this->logger = $this->serviceLocator->get('VuFind\Log\Logger');
+        if ($this->serviceLocator->has('VuFind\Logger')) {
+            $this->logger = $this->serviceLocator->get('VuFind\Logger');
         }
 
         $connector = $this->createConnector();
@@ -125,8 +120,7 @@ class BrowZineBackendFactory implements FactoryInterface
             throw new \Exception("Missing library ID in BrowZine.ini");
         }
         // Build HTTP client:
-        $client = $this->serviceLocator->get('VuFindHttp\HttpService')
-            ->createClient();
+        $client = $this->serviceLocator->get('VuFind\Http')->createClient();
         $timeout = isset($this->browzineConfig->General->timeout)
             ? $this->browzineConfig->General->timeout : 30;
         $client->setOptions(['timeout' => $timeout]);
@@ -158,7 +152,7 @@ class BrowZineBackendFactory implements FactoryInterface
      */
     protected function createRecordCollectionFactory()
     {
-        $manager = $this->serviceLocator->get('VuFind\RecordDriver\PluginManager');
+        $manager = $this->serviceLocator->get('VuFind\RecordDriverPluginManager');
         $callback = function ($data) use ($manager) {
             $driver = $manager->get('BrowZine');
             $driver->setRawData($data);

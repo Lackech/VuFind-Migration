@@ -2,7 +2,7 @@
 /**
  * CSS minifier extension
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) The National Library of Finland 2017.
  *

@@ -2,7 +2,7 @@
 /**
  * SMS test
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2011.
  *
@@ -26,7 +26,6 @@
  * @link     https://vufind.org Main Page
  */
 namespace VuFindTest\SMS;
-
 use VuFind\SMS\Clickatell;
 
 /**

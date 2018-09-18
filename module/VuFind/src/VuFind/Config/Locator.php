@@ -2,7 +2,7 @@
 /**
  * VF Configuration Locator
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -52,7 +52,7 @@ class Locator
     public static function getLocalConfigPath($filename, $path = null,
         $force = false
     ) {
-        if (null === $path) {
+        if (is_null($path)) {
             $path = 'config/vufind';
         }
         if (defined('LOCAL_OVERRIDE_DIR') && strlen(trim(LOCAL_OVERRIDE_DIR)) > 0) {

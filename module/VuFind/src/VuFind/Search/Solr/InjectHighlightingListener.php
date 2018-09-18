@@ -3,7 +3,7 @@
 /**
  * Solr highlighting listener.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2013.
  *
@@ -30,8 +30,8 @@ namespace VuFind\Search\Solr;
 
 use VuFindSearch\Backend\BackendInterface;
 
-use Zend\EventManager\EventInterface;
 use Zend\EventManager\SharedEventManagerInterface;
+use Zend\EventManager\EventInterface;
 
 /**
  * Solr highlighting listener.
@@ -113,12 +113,13 @@ class InjectHighlightingListener
                 if (!isset($hl[0]) || $hl[0] != 'false') {
                     $this->active = true;
                     $params->set('hl', 'true');
+                    $params->set('hl.fl', $this->fieldList);
                     $params->set('hl.simple.pre', '{{{{START_HILITE}}}}');
                     $params->set('hl.simple.post', '{{{{END_HILITE}}}}');
 
                     // Turn on hl.q generation in query builder:
                     $this->backend->getQueryBuilder()
-                        ->setFieldsToHighlight($this->fieldList);
+                        ->setCreateHighlightingQuery(true);
                 }
             }
         }

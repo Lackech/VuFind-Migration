@@ -2,7 +2,7 @@
 /**
  * Factory for instantiating Session Manager
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2016.
  *
@@ -26,9 +26,7 @@
  * @link     https://vufind.org/wiki/development Wiki
  */
 namespace VuFind\Session;
-
-use Interop\Container\ContainerInterface;
-use Zend\ServiceManager\Factory\FactoryInterface;
+use Zend\ServiceManager\ServiceLocatorInterface;
 use Zend\Session\SessionManager;
 
 /**
@@ -42,18 +40,18 @@ use Zend\Session\SessionManager;
  *
  * @codeCoverageIgnore
  */
-class ManagerFactory implements FactoryInterface
+class ManagerFactory implements \Zend\ServiceManager\FactoryInterface
 {
     /**
      * Build the options array.
      *
-     * @param ContainerInterface $container Service manager
+     * @param ServiceLocatorInterface $sm Service manager
      *
      * @return array
      */
-    protected function getOptions(ContainerInterface $container)
+    protected function getOptions(ServiceLocatorInterface $sm)
     {
-        $cookieManager = $container->get('VuFind\Cookie\CookieManager');
+        $cookieManager = $sm->get('VuFind\CookieManager');
         $options = [
             'cookie_path' => $cookieManager->getPath(),
             'cookie_secure' => $cookieManager->isSecure()
@@ -76,19 +74,19 @@ class ManagerFactory implements FactoryInterface
      * Set up the session handler by retrieving all the pieces from the service
      * manager and injecting appropriate dependencies.
      *
-     * @param ContainerInterface $container Service manager
+     * @param ServiceLocatorInterface $sm Service manager
      *
      * @return array
      */
-    protected function getHandler(ContainerInterface $container)
+    protected function getHandler(ServiceLocatorInterface $sm)
     {
         // Load and validate session configuration:
-        $config = $container->get('VuFind\Config\PluginManager')->get('config');
+        $config = $sm->get('VuFind\Config')->get('config');
         if (!isset($config->Session->type)) {
             throw new \Exception('Cannot initialize session; configuration missing');
         }
 
-        $sessionPluginManager = $container->get('VuFind\Session\PluginManager');
+        $sessionPluginManager = $sm->get('VuFind\SessionPluginManager');
         $sessionHandler = $sessionPluginManager->get($config->Session->type);
         $sessionHandler->setConfig($config->Session);
         return $sessionHandler;
@@ -118,33 +116,21 @@ class ManagerFactory implements FactoryInterface
     }
 
     /**
-     * Create an object
+     * Create service
      *
-     * @param ContainerInterface $container     Service manager
-     * @param string             $requestedName Service being created
-     * @param null|array         $options       Extra options (optional)
+     * @param ServiceLocatorInterface $sm Service manager
      *
-     * @return object
-     *
-     * @throws ServiceNotFoundException if unable to resolve the service.
-     * @throws ServiceNotCreatedException if an exception is raised when
-     * creating a service.
-     * @throws ContainerException if any other error occurs
+     * @return mixed
      */
-    public function __invoke(ContainerInterface $container, $requestedName,
-        array $options = null
-    ) {
-        if (!empty($options)) {
-            throw new \Exception('Unexpected options passed to factory.');
-        }
-
+    public function createService(ServiceLocatorInterface $sm)
+    {
         // Build configuration:
         $sessionConfig = new \Zend\Session\Config\SessionConfig();
-        $sessionConfig->setOptions($this->getOptions($container));
+        $sessionConfig->setOptions($this->getOptions($sm));
 
         // Build session manager and attach handler:
-        $sessionManager = new $requestedName($sessionConfig);
-        $sessionManager->setSaveHandler($this->getHandler($container));
+        $sessionManager = new SessionManager($sessionConfig);
+        $sessionManager->setSaveHandler($this->getHandler($sm));
 
         // Start up the session:
         $sessionManager->start();
@@ -169,7 +155,7 @@ class ManagerFactory implements FactoryInterface
         // Check if we need to immediately stop it based on the settings object
         // (which may have been informed by a controller that sessions should not
         // be written as part of the current process):
-        $settings = $container->get('VuFind\Session\Settings');
+        $settings = $sm->get('VuFind\Session\Settings');
         if ($settings->setSessionManager($sessionManager)->isWriteDisabled()) {
             $sessionManager->getSaveHandler()->disableWrites();
         } else {

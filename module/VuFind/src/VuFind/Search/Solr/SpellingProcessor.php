@@ -2,7 +2,7 @@
 /**
  * Solr spelling processor.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2011.
  *
@@ -26,7 +26,6 @@
  * @link     https://vufind.org Main Page
  */
 namespace VuFind\Search\Solr;
-
 use VuFindSearch\Backend\Solr\Response\Json\Spellcheck;
 use VuFindSearch\Query\AbstractQuery;
 use Zend\Config\Config;
@@ -47,21 +46,21 @@ class SpellingProcessor
      *
      * @var int
      */
-    protected $spellingLimit;
+    protected $spellingLimit = 3;
 
     /**
      * Spell check words with numbers in them?
      *
      * @var bool
      */
-    protected $spellSkipNumeric;
+    protected $spellSkipNumeric = true;
 
     /**
      * Offer expansions on terms as well as basic replacements?
      *
      * @var bool
      */
-    protected $expand;
+    protected $expand = true;
 
     /**
      * Show the full modified search phrase on screen rather then just the suggested
@@ -69,7 +68,7 @@ class SpellingProcessor
      *
      * @var bool
      */
-    protected $phrase;
+    protected $phrase = false;
 
     /**
      * Constructor
@@ -78,10 +77,18 @@ class SpellingProcessor
      */
     public function __construct($config = null)
     {
-        $this->spellingLimit = $config->limit ?? 3;
-        $this->spellSkipNumeric = $config->skip_numeric ?? true;
-        $this->expand = $config->expand ?? true;
-        $this->phrase = $config->phrase ?? false;
+        if (isset($config->limit)) {
+            $this->spellingLimit = $config->limit;
+        }
+        if (isset($config->skip_numeric)) {
+            $this->spellSkipNumeric = $config->skip_numeric;
+        }
+        if (isset($config->expand)) {
+            $this->expand = $config->expand;
+        }
+        if (isset($config->phrase)) {
+            $this->phrase = $config->phrase;
+        }
     }
 
     /**

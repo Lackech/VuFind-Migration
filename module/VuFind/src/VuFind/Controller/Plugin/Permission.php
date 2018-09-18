@@ -2,7 +2,7 @@
 /**
  * VuFind Action Helper - Permission Checker
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2017.
  *
@@ -26,7 +26,6 @@
  * @link     https://vufind.org Main Page
  */
 namespace VuFind\Controller\Plugin;
-
 use VuFind\Exception\Forbidden as ForbiddenException;
 use VuFind\I18n\Translator\TranslatorAwareInterface;
 use VuFind\Role\PermissionDeniedManager;
@@ -116,7 +115,8 @@ class Permission extends AbstractPlugin implements LoggerAwareInterface,
             if ($dl === false) {
                 return null;
             }
-            $exceptionDescription = $dl['exceptionMessage'] ?? 'Access denied.';
+            $exceptionDescription = isset($dl['exceptionMessage'])
+                ? $dl['exceptionMessage'] : 'Access denied.';
             switch (strtolower($dl['action'])) {
             case 'promptlogin':
                 // If the user is already logged in, but we're getting a "prompt

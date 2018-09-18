@@ -2,7 +2,7 @@
 /**
  * Author Search Controller
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -95,8 +95,10 @@ class AuthorController extends AbstractSearch
         // If an author was requested, forward to the results page; otherwise,
         // display the search form:
         $author = $this->params()->fromQuery('author');
-        return !empty($author)
-            ? $this->forwardTo('Author', 'Results') : parent::homeAction();
+        if (!empty($author)) {
+            return $this->forwardTo('Author', 'Results');
+        }
+        return $this->createViewModel();
     }
 
     /**
@@ -106,9 +108,8 @@ class AuthorController extends AbstractSearch
      */
     protected function resultScrollerActive()
     {
-        $config = $this->serviceLocator->get('VuFind\Config\PluginManager')
-            ->get('config');
-        return isset($config->Record->next_prev_navigation)
-            && $config->Record->next_prev_navigation;
+        $config = $this->serviceLocator->get('VuFind\Config')->get('config');
+        return (isset($config->Record->next_prev_navigation)
+            && $config->Record->next_prev_navigation);
     }
 }

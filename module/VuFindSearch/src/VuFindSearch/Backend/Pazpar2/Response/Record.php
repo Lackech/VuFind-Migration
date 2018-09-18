@@ -3,7 +3,7 @@
 /**
  * Simple Pazpar2 record.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -28,8 +28,8 @@
  */
 namespace VuFindSearch\Backend\Pazpar2\Response;
 
-use SimpleXMLElement;
 use VuFindSearch\Response\RecordInterface;
+use SimpleXMLElement;
 
 /**
  * Simple Pazpar2 record.

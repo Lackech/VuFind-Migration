@@ -3,7 +3,7 @@
 /**
  * Factory for the reserves SOLR backend.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2013.
  *
@@ -27,9 +27,8 @@
  * @link     https://vufind.org Main Site
  */
 namespace VuFind\Search\Factory;
-
-use VuFindSearch\Backend\Solr\Connector;
 use VuFindSearch\Backend\Solr\Response\Json\RecordCollectionFactory;
+use VuFindSearch\Backend\Solr\Connector;
 
 /**
  * Factory for the reserves SOLR backend.
@@ -64,7 +63,7 @@ class SolrReservesBackendFactory extends AbstractSolrBackendFactory
     protected function createBackend(Connector $connector)
     {
         $backend = parent::createBackend($connector);
-        $manager = $this->serviceLocator->get('VuFind\RecordDriver\PluginManager');
+        $manager = $this->serviceLocator->get('VuFind\RecordDriverPluginManager');
         $callback = function ($data) use ($manager) {
             $driver = $manager->get('SolrReserves');
             $driver->setRawData($data);

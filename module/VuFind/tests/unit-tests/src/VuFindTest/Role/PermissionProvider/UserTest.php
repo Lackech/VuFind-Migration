@@ -2,7 +2,7 @@
 /**
  * PermissionProvider User Test Class
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -46,7 +46,8 @@ class UserTest extends \VuFindTest\Unit\TestCase
                 ['username','mbeh'],
                 ['email','markus.beh@ub.uni-freiburg.de'],
                 ['college', 'Albert Ludwigs Universität Freiburg']
-        ],
+        ]
+        ,
         'testuser2' =>
         [
                 ['username','mbeh2'],
@@ -151,4 +152,5 @@ class UserTest extends \VuFindTest\Unit\TestCase
 
         return $user;
     }
+
 }

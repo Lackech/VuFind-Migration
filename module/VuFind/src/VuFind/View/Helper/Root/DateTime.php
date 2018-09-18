@@ -2,7 +2,7 @@
 /**
  * View helper for formatting dates and times.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -67,7 +67,7 @@ class DateTime extends \Zend\View\Helper\AbstractHelper
     {
         try {
             return $this->converter->convertFromDisplayDate('Y', $date);
-        } catch (\VuFind\Date\DateException $e) {
+        } catch (\VuFind\Exception\Date $e) {
             // bad date? just ignore it!
             return false;
         }

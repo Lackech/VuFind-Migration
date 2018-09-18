@@ -2,7 +2,7 @@
 /**
  * VuFind Config Manager
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -26,7 +26,6 @@
  * @link     https://vufind.org/wiki/development Wiki
  */
 namespace VuFind\Config;
-
 use Zend\ServiceManager\AbstractPluginManager as Base;
 
 /**
@@ -41,22 +40,6 @@ use Zend\ServiceManager\AbstractPluginManager as Base;
 class PluginManager extends Base
 {
     /**
-     * Constructor
-     *
-     * Make sure plugins are properly initialized.
-     *
-     * @param mixed $configOrContainerInstance Configuration or container instance
-     * @param array $v3config                  If $configOrContainerInstance is a
-     * container, this value will be passed to the parent constructor.
-     */
-    public function __construct($configOrContainerInstance = null,
-        array $v3config = []
-    ) {
-        $this->addAbstractFactory('VuFind\Config\PluginFactory');
-        parent::__construct($configOrContainerInstance, $v3config);
-    }
-
-    /**
      * Validate the plugin
      *
      * Checks that the filter loaded is either a valid callback or an instance
@@ -69,7 +52,7 @@ class PluginManager extends Base
      *
      * @SuppressWarnings(PHPMD.UnusedFormalParameter)
      */
-    public function validate($plugin)
+    public function validatePlugin($plugin)
     {
         // Assume everything is okay.
     }

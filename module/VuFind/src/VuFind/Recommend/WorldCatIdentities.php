@@ -2,7 +2,7 @@
 /**
  * WorldCatIdentities Recommendations Module
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -26,7 +26,6 @@
  * @link     https://vufind.org/wiki/development:plugins:recommendation_modules Wiki
  */
 namespace VuFind\Recommend;
-
 use VuFind\Connection\WorldCatUtils;
 use VuFindSearch\Query\Query;
 

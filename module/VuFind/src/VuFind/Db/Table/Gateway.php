@@ -2,7 +2,7 @@
 /**
  * Generic VuFind table gateway.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -26,7 +26,6 @@
  * @link     https://vufind.org Main Site
  */
 namespace VuFind\Db\Table;
-
 use VuFind\Db\Row\RowGateway;
 use Zend\Db\Adapter\Adapter;
 use Zend\Db\TableGateway\AbstractTableGateway;
@@ -86,7 +85,8 @@ class Gateway extends AbstractTableGateway
     {
         // Special case for PostgreSQL sequences:
         if ($this->adapter->getDriver()->getDatabasePlatformName() == "Postgresql") {
-            $maps = $cfg['vufind']['pgsql_seq_mapping'] ?? null;
+            $maps = isset($cfg['vufind']['pgsql_seq_mapping'])
+                ? $cfg['vufind']['pgsql_seq_mapping'] : null;
             if (isset($maps[$this->table])) {
                 if (!is_object($this->featureSet)) {
                     $this->featureSet = new Feature\FeatureSet();
@@ -107,7 +107,7 @@ class Gateway extends AbstractTableGateway
      */
     public function createRow()
     {
-        $obj = clone $this->getResultSetPrototype()->getArrayObjectPrototype();
+        $obj = clone($this->getResultSetPrototype()->getArrayObjectPrototype());
 
         // If this is a PostgreSQL connection, we may need to initialize the ID
         // from a sequence:

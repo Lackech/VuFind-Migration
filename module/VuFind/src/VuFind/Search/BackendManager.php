@@ -3,7 +3,7 @@
 /**
  * Manager for search backends.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2013.
  *
@@ -28,15 +28,15 @@
  */
 namespace VuFind\Search;
 
-use SplObjectStorage;
-
-use UnexpectedValueException;
-use VuFindSearch\Backend\BackendInterface;
-
-use Zend\EventManager\EventInterface;
+use Zend\ServiceManager\ServiceLocatorInterface;
 
 use Zend\EventManager\SharedEventManagerInterface;
-use Zend\ServiceManager\ServiceLocatorInterface;
+use Zend\EventManager\EventInterface;
+
+use VuFindSearch\Backend\BackendInterface;
+
+use SplObjectStorage;
+use UnexpectedValueException;
 
 /**
  * Manager for search backends.
@@ -99,7 +99,7 @@ class BackendManager
      */
     public function get($name)
     {
-        $backend = $this->registry->get($name);
+        $backend = $this->registry->get($name, false);
         if (!is_object($backend)) {
             throw new UnexpectedValueException(
                 sprintf(

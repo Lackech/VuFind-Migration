@@ -2,7 +2,7 @@
 /**
  * Mailer Test Class
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -26,7 +26,6 @@
  * @link     https://vufind.org/wiki/development:testing:unit_tests Wiki
  */
 namespace VuFindTest\Mailer;
-
 use VuFind\Mailer\Mailer;
 use Zend\Mail\Address;
 use Zend\Mail\AddressList;
@@ -126,29 +125,6 @@ class MailerTest extends \VuFindTest\Unit\TestCase
     }
 
     /**
-     * Test sending an email using a from address override.
-     *
-     * @return void
-     */
-    public function testSendWithFromOverride()
-    {
-        $callback = function ($message) {
-            $fromString = $message->getFrom()->current()->toString();
-            return '<to@example.com>' == $message->getTo()->current()->toString()
-                && '<me@example.com>' == $message->getReplyTo()->current()->toString()
-                && 'me <no-reply@example.com>' == $fromString
-                && 'body' == $message->getBody()
-                && 'subject' == $message->getSubject();
-        };
-        $transport = $this->createMock('Zend\Mail\Transport\TransportInterface');
-        $transport->expects($this->once())->method('send')->with($this->callback($callback));
-        $address = new Address('me@example.com');
-        $mailer = new Mailer($transport);
-        $mailer->setFromAddressOverride('no-reply@example.com');
-        $mailer->send('to@example.com', $address, 'subject', 'body');
-    }
-
-    /**
      * Test bad to address.
      *
      * @return void
@@ -161,23 +137,6 @@ class MailerTest extends \VuFindTest\Unit\TestCase
         $transport = $this->createMock('Zend\Mail\Transport\TransportInterface');
         $mailer = new Mailer($transport);
         $mailer->send('bad@bad', 'from@example.com', 'subject', 'body');
-    }
-
-    /**
-     * Test bad reply-to address.
-     *
-     * @return void
-     *
-     * @expectedException        VuFind\Exception\Mail
-     * @expectedExceptionMessage Invalid Reply-To Email Address
-     */
-    public function testBadReplyTo()
-    {
-        $transport = $this->createMock('Zend\Mail\Transport\TransportInterface');
-        $mailer = new Mailer($transport);
-        $mailer->send(
-            'good@good.com', 'from@example.com', 'subject', 'body', null, 'bad@bad'
-        );
     }
 
     /**
@@ -332,7 +291,6 @@ class MailerTest extends \VuFindTest\Unit\TestCase
 
 class MockEmailRenderer extends \Zend\View\Renderer\PhpRenderer
 {
-    public function partial($template, $driver)
-    {
+    public function partial($template, $driver) {
     }
 }

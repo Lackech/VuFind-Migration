@@ -2,7 +2,7 @@
 /**
  * VF Configuration Writer
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -72,7 +72,7 @@ class Writer
             if (false === $this->content) {
                 throw new \Exception('Could not read ' . $filename);
             }
-        } elseif (is_array($content)) {
+        } else if (is_array($content)) {
             $this->content = $this->buildContent($content, $comments);
         } else {
             $this->content = $content;
@@ -103,7 +103,7 @@ class Writer
             // Separate comments from content:
             $parts = explode(';', trim($line), 2);
             $content = trim($parts[0]);
-            $comment = $parts[1] ?? '';
+            $comment = isset($parts[1]) ? $parts[1] : '';
 
             // Is this a section heading?
             if (preg_match('/^\[(.+)\]$/', trim($content), $matches)) {
@@ -117,7 +117,7 @@ class Writer
                     $settingSet = true;
                 }
                 $currentSection = $matches[1];
-            } elseif (strstr($content, '=')) {
+            } else if (strstr($content, '=')) {
                 $contentParts = explode('=', $content, 2);
                 $key = trim($contentParts[0]);
                 // If the key we are trying to set is already present as an array,
@@ -212,9 +212,9 @@ class Writer
     {
         if ($e === true) {
             return 'true';
-        } elseif ($e === false) {
+        } else if ($e === false) {
             return 'false';
-        } elseif ($e == "") {
+        } else if ($e == "") {
             return '';
         } else {
             return '"' . str_replace('"', '\"', $e) . '"';

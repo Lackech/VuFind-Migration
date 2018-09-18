@@ -2,7 +2,7 @@
 /**
  * Summon support functions.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2012.
  *
@@ -26,7 +26,6 @@
  * @link     https://vufind.org Main Page
  */
 namespace VuFind\View\Helper\Root;
-
 use Zend\View\Helper\AbstractHelper;
 
 /**

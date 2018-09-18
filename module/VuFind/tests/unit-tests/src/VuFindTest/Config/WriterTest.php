@@ -2,7 +2,7 @@
 /**
  * Config Writer Test Class
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -26,7 +26,6 @@
  * @link     https://vufind.org/wiki/development:testing:unit_tests Wiki
  */
 namespace VuFindTest\Config;
-
 use VuFind\Config\Writer;
 
 /**

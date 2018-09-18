@@ -2,7 +2,7 @@
 /**
  * Hide values of facet for displaying
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) The National Library of Finland 2014.
  *
@@ -28,8 +28,8 @@
 namespace VuFind\Search\Solr;
 
 use VuFindSearch\Backend\BackendInterface;
-use Zend\EventManager\EventInterface;
 use Zend\EventManager\SharedEventManagerInterface;
+use Zend\EventManager\EventInterface;
 
 /**
  * Hide single facet values from displaying.

@@ -2,7 +2,7 @@
 /**
  * Mink search actions test class.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2011.
  *
@@ -51,6 +51,24 @@ class CallnumberBrowseTest extends \VuFindTest\Unit\MinkTestCase
         if (!$this->continuousIntegrationRunning()) {
             return $this->markTestSkipped('Continuous integration not running.');
         }
+    }
+
+    /**
+     * Search for the specified query.
+     *
+     * @param string $query Search term(s)
+     *
+     * @return \Behat\Mink\Element\Element
+     */
+    protected function performSearch($query, $page = false)
+    {
+        $session = $this->getMinkSession();
+        $session->visit($this->getVuFindUrl() . '/Search/Home');
+        $page = $session->getPage();
+        $this->findCss($page, '#searchForm_lookfor')->setValue($query);
+        $this->findCss($page, '.btn.btn-primary')->click();
+        $this->snooze();
+        return $page;
     }
 
     /**
@@ -145,8 +163,13 @@ class CallnumberBrowseTest extends \VuFindTest\Unit\MinkTestCase
         $link = $page->find('css', '.callnumber a,.groupCallnumber a,.fullCallnumber a');
         if ($expectLinks) {
             $this->checkLink($link, $type);
+            // TODO
+            // if 'all'
+            // - refresh until multiple
+            // - test multiple
+            // else
         } else {
-            $this->assertTrue(null === $link);
+            $this->assertTrue(is_null($link));
         }
     }
 
@@ -165,7 +188,7 @@ class CallnumberBrowseTest extends \VuFindTest\Unit\MinkTestCase
         $page = $this->performSearch('id:' . $this->id);
         // No link
         $link = $page->find('css', '.callnumber a,.groupCallnumber a,.fullCallnumber a');
-        $this->assertTrue(null === $link);
+        $this->assertTrue(is_null($link));
         // With dewey links
         $this->activateAndTestLinks('dewey', $page, $expectLinks);
         // With lcc links

@@ -2,7 +2,7 @@
 /**
  * FacetCloud Recommendations Module
  *
- * PHP version 7
+ * PHP Version 5
  *
  * Copyright (C) Villanova University 2011.
  *

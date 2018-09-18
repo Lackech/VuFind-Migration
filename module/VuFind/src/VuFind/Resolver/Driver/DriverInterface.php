@@ -2,7 +2,7 @@
 /**
  * Interface for Link Resolver Drivers
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Royal Holloway, University of London
  *
@@ -88,4 +88,5 @@ interface DriverInterface
      * @return bool
      */
     public function supportsMoreOptionsLink();
+
 }

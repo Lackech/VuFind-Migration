@@ -2,7 +2,7 @@
 /**
  * ILS support for MARC and other types of records.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  * Copyright (C) The National Library of Finland 2015.
@@ -49,25 +49,18 @@ trait IlsAwareTrait
     protected $ils = null;
 
     /**
-     * Backends with ILS integration.
-     *
-     * @var string[]
-     */
-    protected $ilsBackends = [];
-
-    /**
      * Hold logic
      *
      * @var \VuFind\ILS\Logic\Holds
      */
-    protected $holdLogic = null;
+    protected $holdLogic;
 
     /**
      * Title hold logic
      *
      * @var \VuFind\ILS\Logic\TitleHolds
      */
-    protected $titleHoldLogic = null;
+    protected $titleHoldLogic;
 
     /**
      * Attach an ILS connection and related logic to the driver
@@ -94,8 +87,7 @@ trait IlsAwareTrait
      */
     protected function hasILS()
     {
-        return null !== $this->ils
-            && in_array($this->getSourceIdentifier(), $this->ilsBackends);
+        return null !== $this->ils;
     }
 
     /**
@@ -147,18 +139,6 @@ trait IlsAwareTrait
         }
 
         return false;
-    }
-
-    /**
-     * Set the list of backends that support ILS integration.
-     *
-     * @param array $backends List of backends that support ILS integration
-     *
-     * @return string[]
-     */
-    public function setIlsBackends($backends)
-    {
-        $this->ilsBackends = $backends;
     }
 
     /**

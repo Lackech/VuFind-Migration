@@ -2,7 +2,7 @@
 /**
  * Primo Central Controller
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -26,7 +26,6 @@
  * @link     https://vufind.org Main Site
  */
 namespace VuFind\Controller;
-
 use Zend\ServiceManager\ServiceLocatorInterface;
 
 /**
@@ -53,16 +52,25 @@ class PrimoController extends AbstractSearch
     }
 
     /**
+     * Home action
+     *
+     * @return mixed
+     */
+    public function homeAction()
+    {
+        return $this->createViewModel();
+    }
+
+    /**
      * Is the result scroller active?
      *
      * @return bool
      */
     protected function resultScrollerActive()
     {
-        $config = $this->serviceLocator->get('VuFind\Config\PluginManager')
-            ->get('Primo');
-        return isset($config->Record->next_prev_navigation)
-            && $config->Record->next_prev_navigation;
+        $config = $this->serviceLocator->get('VuFind\Config')->get('Primo');
+        return (isset($config->Record->next_prev_navigation)
+            && $config->Record->next_prev_navigation);
     }
 
     /**

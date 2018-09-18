@@ -3,7 +3,7 @@
 /**
  * Unit tests for Amazon cover loader.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -27,7 +27,6 @@
  * @link     https://vufind.org
  */
 namespace VuFindTest\Content\Covers;
-
 use VuFindCode\ISBN;
 
 /**
@@ -39,7 +38,7 @@ use VuFindCode\ISBN;
  * @license  http://opensource.org/licenses/gpl-2.0.php GNU General Public License
  * @link     https://vufind.org
  */
-class AmazonTest extends \PHPUnit\Framework\TestCase
+class AmazonTest extends \PHPUnit_Framework_TestCase
 {
     /**
      * Amazon parameters

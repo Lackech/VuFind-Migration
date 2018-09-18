@@ -4,16 +4,13 @@ namespace VuFindLocalTemplate\Module\Configuration;
 $config = [
     'controllers' => [
         'factories' => [
-            'VuFindDevTools\Controller\DevtoolsController' => 'VuFind\Controller\AbstractBaseFactory',
-        ],
-        'aliases' => [
-            'DevTools' => 'VuFindDevTools\Controller\DevtoolsController',
+            'devtools' => 'VuFindDevTools\Controller\Factory::getDevtoolsController',
         ],
     ],
     'router' => [
         'routes' => [
             'devtools-deminify' => [
-                'type' => 'Zend\Router\Http\Literal',
+                'type' => 'Zend\Mvc\Router\Http\Literal',
                 'options' => [
                     'route'    => '/devtools/deminify',
                     'defaults' => [
@@ -23,7 +20,7 @@ $config = [
                 ]
             ],
             'devtools-home' => [
-                'type' => 'Zend\Router\Http\Literal',
+                'type' => 'Zend\Mvc\Router\Http\Literal',
                 'options' => [
                     'route'    => '/devtools/home',
                     'defaults' => [
@@ -33,7 +30,7 @@ $config = [
                 ]
             ],
             'devtools-language' => [
-                'type' => 'Zend\Router\Http\Literal',
+                'type' => 'Zend\Mvc\Router\Http\Literal',
                 'options' => [
                     'route'    => '/devtools/language',
                     'defaults' => [

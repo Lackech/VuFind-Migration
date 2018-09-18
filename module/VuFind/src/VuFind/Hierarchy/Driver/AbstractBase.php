@@ -2,7 +2,7 @@
 /**
  * Hierarchy interface.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -26,9 +26,8 @@
  * @link     https://vufind.org/wiki/development:plugins:hierarchy_components Wiki
  */
 namespace VuFind\Hierarchy\Driver;
-
-use VuFind\Hierarchy\TreeDataSource\PluginManager as DataManager;
-use VuFind\Hierarchy\TreeRenderer\PluginManager as RendererManager;
+use VuFind\Hierarchy\TreeDataSource\PluginManager as DataManager,
+    VuFind\Hierarchy\TreeRenderer\PluginManager as RendererManager;
 
 /**
  * Hierarchy interface class.
@@ -96,7 +95,7 @@ abstract class AbstractBase
         $this->dataManager = $dataManager;
         $this->rendererManager = $rendererManager;
         if (isset($options['enabled'])) {
-            $this->enabled = (bool)$options['enabled'];
+            $this->enabled = (bool) $options['enabled'];
         }
     }
 

@@ -2,7 +2,7 @@
 /**
  * EBSCO Search Parameters
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2011.
  *
@@ -27,9 +27,8 @@
  * @link     https://vufind.org Main Page
  */
 namespace VuFind\Search\EIT;
-
-use VuFind\Search\Base\Params as BaseParams;
 use VuFindSearch\ParamBag;
+use VuFind\Search\Base\Params as BaseParams;
 
 /**
  * EBSCO Search Parameters

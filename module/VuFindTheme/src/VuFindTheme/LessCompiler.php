@@ -2,7 +2,7 @@
 /**
  * Class to compile LESS into CSS within a theme.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2014.
  *
@@ -26,7 +26,6 @@
  * @link     https://vufind.org Main Site
  */
 namespace VuFindTheme;
-
 use Zend\Console\Console;
 
 /**
@@ -161,7 +160,7 @@ class LessCompiler
         $base = (isset($configArr['extends']))
             ? $this->getAllLessFiles($configArr['extends'])
             : [];
-        $current = $configArr['less'] ?? [];
+        $current = isset($configArr['less']) ? $configArr['less'] : [];
         return array_merge($base, $current);
     }
 

@@ -3,7 +3,7 @@
 /**
  * Unit tests for ParamBag.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -28,9 +28,9 @@
  */
 namespace VuFindTest;
 
-use PHPUnit\Framework\TestCase;
-
 use VuFindSearch\ParamBag;
+
+use PHPUnit_Framework_TestCase as TestCase;
 
 /**
  * Unit tests for ParamBag.

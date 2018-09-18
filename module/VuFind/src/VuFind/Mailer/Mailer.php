@@ -2,7 +2,7 @@
 /**
  * VuFind Mailer Class
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2009.
  *
@@ -26,12 +26,11 @@
  * @link     https://vufind.org/wiki/development Wiki
  */
 namespace VuFind\Mailer;
-
-use VuFind\Exception\Mail as MailException;
-use Zend\Mail\Address;
-use Zend\Mail\AddressList;
-use Zend\Mail\Header\ContentType;
-use Zend\Mail\Message;
+use VuFind\Exception\Mail as MailException,
+    Zend\Mail\Address,
+    Zend\Mail\AddressList,
+    Zend\Mail\Message,
+    Zend\Mail\Header\ContentType;
 
 /**
  * VuFind Mailer Class
@@ -59,13 +58,6 @@ class Mailer implements \VuFind\I18n\Translator\TranslatorAwareInterface
      * @var int
      */
     protected $maxRecipients = 1;
-
-    /**
-     * "From" address override
-     *
-     * @var string
-     */
-    protected $fromAddressOverride = '';
 
     /**
      * Constructor
@@ -146,22 +138,26 @@ class Mailer implements \VuFind\I18n\Translator\TranslatorAwareInterface
      * @param string                     $subject Subject line for message
      * @param string                     $body    Message body
      * @param string                     $cc      CC recipient (null for none)
-     * @param string|Address|AddressList $replyTo Reply-To address (or delimited
-     * list, null for none)
      *
      * @throws MailException
      * @return void
      */
-    public function send($to, $from, $subject, $body, $cc = null, $replyTo = null)
+    public function send($to, $from, $subject, $body, $cc = null)
     {
-        $recipients = $this->convertToAddressList($to);
-        $replyTo = $this->convertToAddressList($replyTo);
+        if ($to instanceof AddressList) {
+            $recipients = $to;
+        } else if ($to instanceof Address) {
+            $recipients = new AddressList();
+            $recipients->add($to);
+        } else {
+            $recipients = $this->stringToAddressList($to);
+        }
 
         // Validate email addresses:
-        if ($this->maxRecipients > 0) {
-            if ($this->maxRecipients < count($recipients)) {
-                throw new MailException('Too Many Email Recipients');
-            }
+        if ($this->maxRecipients > 0
+            && $this->maxRecipients < count($recipients)
+        ) {
+            throw new MailException('Too Many Email Recipients');
         }
         $validator = new \Zend\Validator\EmailAddress();
         if (count($recipients) == 0) {
@@ -172,32 +168,11 @@ class Mailer implements \VuFind\I18n\Translator\TranslatorAwareInterface
                 throw new MailException('Invalid Recipient Email Address');
             }
         }
-        foreach ($replyTo as $current) {
-            if (!$validator->isValid($current->getEmail())) {
-                throw new MailException('Invalid Reply-To Email Address');
-            }
-        }
         $fromEmail = ($from instanceof Address)
             ? $from->getEmail() : $from;
         if (!$validator->isValid($fromEmail)) {
             throw new MailException('Invalid Sender Email Address');
         }
-
-        if (!empty($this->fromAddressOverride)
-            && $this->fromAddressOverride != $fromEmail
-        ) {
-            $replyTo->add($fromEmail);
-            if (!($from instanceof Address)) {
-                $from = new Address($from);
-            }
-            $name = $from->getName();
-            if (!$name) {
-                list($fromPre) = explode('@', $from->getEmail());
-                $name = $fromPre ? $fromPre : null;
-            }
-            $from = new Address($this->fromAddressOverride, $name);
-        }
-
         // Convert all exceptions thrown by mailer into MailException objects:
         try {
             // Send message
@@ -205,12 +180,10 @@ class Mailer implements \VuFind\I18n\Translator\TranslatorAwareInterface
                 ->addFrom($from)
                 ->addTo($recipients)
                 ->setBody($body)
-                ->setSubject($subject);
+                ->setSubject($subject)
+                ->setReplyTo($from);
             if ($cc !== null) {
                 $message->addCc($cc);
-            }
-            if ($replyTo) {
-                $message->addReplyTo($replyTo);
             }
             $this->getTransport()->send($message);
         } catch (\Exception $e) {
@@ -230,14 +203,12 @@ class Mailer implements \VuFind\I18n\Translator\TranslatorAwareInterface
      * email templates)
      * @param string                          $subject Subject for email (optional)
      * @param string                          $cc      CC recipient (null for none)
-     * @param string|Address|AddressList      $replyTo Reply-To address (or delimited
-     * list, null for none)
      *
      * @throws MailException
      * @return void
      */
     public function sendLink($to, $from, $msg, $url, $view, $subject = null,
-        $cc = null, $replyTo = null
+        $cc = null
     ) {
         if (null === $subject) {
             $subject = $this->getDefaultLinkSubject();
@@ -248,7 +219,7 @@ class Mailer implements \VuFind\I18n\Translator\TranslatorAwareInterface
                 'msgUrl' => $url, 'to' => $to, 'from' => $from, 'message' => $msg
             ]
         );
-        return $this->send($to, $from, $subject, $body, $cc, $replyTo);
+        return $this->send($to, $from, $subject, $body, $cc);
     }
 
     /**
@@ -274,14 +245,12 @@ class Mailer implements \VuFind\I18n\Translator\TranslatorAwareInterface
      * email templates)
      * @param string                            $subject Subject for email (optional)
      * @param string                            $cc      CC recipient (null for none)
-     * @param string|Address|AddressList        $replyTo Reply-To address (or
-     * delimited list, null for none)
      *
      * @throws MailException
      * @return void
      */
     public function sendRecord($to, $from, $msg, $record, $view, $subject = null,
-        $cc = null, $replyTo = null
+        $cc = null
     ) {
         if (null === $subject) {
             $subject = $this->getDefaultRecordSubject($record);
@@ -292,7 +261,7 @@ class Mailer implements \VuFind\I18n\Translator\TranslatorAwareInterface
                 'driver' => $record, 'to' => $to, 'from' => $from, 'message' => $msg
             ]
         );
-        return $this->send($to, $from, $subject, $body, $cc, $replyTo);
+        return $this->send($to, $from, $subject, $body, $cc);
     }
 
     /**
@@ -318,47 +287,5 @@ class Mailer implements \VuFind\I18n\Translator\TranslatorAwareInterface
     {
         return $this->translate('Library Catalog Record') . ': '
             . $record->getBreadcrumb();
-    }
-
-    /**
-     * Get the "From" address override value
-     *
-     * @return string
-     */
-    public function getFromAddressOverride()
-    {
-        return $this->fromAddressOverride;
-    }
-
-    /**
-     * Set the "From" address override
-     *
-     * @param string $address "From" address
-     *
-     * @return void
-     */
-    public function setFromAddressOverride($address)
-    {
-        $this->fromAddressOverride = $address;
-    }
-
-    /**
-     * Convert the given addresses to an AddressList object
-     *
-     * @param string|Address|AddressList $addresses Addresses
-     *
-     * @return AddressList
-     */
-    protected function convertToAddressList($addresses)
-    {
-        if ($addresses instanceof AddressList) {
-            $result = $addresses;
-        } elseif ($addresses instanceof Address) {
-            $result = new AddressList();
-            $result->add($addresses);
-        } else {
-            $result = $this->stringToAddressList($addresses ? $addresses : '');
-        }
-        return $result;
     }
 }

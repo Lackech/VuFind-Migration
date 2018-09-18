@@ -3,7 +3,7 @@
 /**
  * Unit tests for OnCampus listener.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2015.
  *
@@ -28,11 +28,11 @@
  */
 namespace VuFindTest\Search\Primo;
 
-use VuFind\Search\Primo\InjectOnCampusListener;
+use VuFindSearch\ParamBag;
 use VuFindSearch\Backend\Primo\Backend;
 use VuFindSearch\Backend\Primo\Connector;
 
-use VuFindSearch\ParamBag;
+use VuFind\Search\Primo\InjectOnCampusListener;
 use VuFindTest\Unit\TestCase;
 use Zend\EventManager\Event;
 

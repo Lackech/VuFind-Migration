@@ -2,7 +2,7 @@
 /**
  * Additional functionality for API controllers.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) The National Library 2015.
  *

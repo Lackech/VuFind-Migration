@@ -3,7 +3,7 @@
 /**
  * Unit tests for SOLR serializable record.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -39,7 +39,7 @@ use VuFindSearch\Backend\Solr\Record\SerializableRecord;
  * @license  http://opensource.org/licenses/gpl-2.0.php GNU General Public License
  * @link     https://vufind.org
  */
-class SerializableRecordTest extends \PHPUnit\Framework\TestCase
+class SerializableRecordTest extends \PHPUnit_Framework_TestCase
 {
     /**
      * Test field retrieval

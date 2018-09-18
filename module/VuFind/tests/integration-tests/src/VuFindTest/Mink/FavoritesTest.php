@@ -2,7 +2,7 @@
 /**
  * Mink favorites test class.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2011.
  *
@@ -26,7 +26,6 @@
  * @link     https://vufind.org Main Page
  */
 namespace VuFindTest\Mink;
-
 use Behat\Mink\Element\Element;
 
 /**
@@ -75,7 +74,7 @@ class FavoritesTest extends \VuFindTest\Unit\MinkTestCase
         $session = $this->getMinkSession();
         $session->visit($this->getVuFindUrl() . '/Search/Home');
         $page = $session->getPage();
-        $this->findCssAndSetValue($page, '#searchForm_lookfor', 'Dewey');
+        $this->findCss($page, '#searchForm_lookfor')->setValue('Dewey');
         $this->findCss($page, '.btn.btn-primary')->click();
         return $page;
     }
@@ -128,7 +127,7 @@ class FavoritesTest extends \VuFindTest\Unit\MinkTestCase
 
         $this->findCss($page, '.modal-body .btn.btn-primary')->click();
         // Correct
-        $this->findCssAndSetValue($page, '#account_email', 'username1@ignore.com');
+        $this->findCss($page, '#account_email')->setValue('username1@ignore.com');
         $this->findCss($page, '.modal-body .btn.btn-primary')->click();
         $this->snooze();
         $this->findCss($page, '#save_list');
@@ -138,12 +137,11 @@ class FavoritesTest extends \VuFindTest\Unit\MinkTestCase
         // Empty
         $this->findCss($page, '.modal-body .btn.btn-primary')->click();
         $this->snooze();
-        $this->findCssAndSetValue($page, '#list_title', 'Test List');
-        $this->findCssAndSetValue($page, '#list_desc', 'Just. THE BEST.');
+        $this->findCss($page, '#list_title')->setValue('Test List');
+        $this->findCss($page, '#list_desc')->setValue('Just. THE BEST.');
         $this->findCss($page, '.modal-body .btn.btn-primary')->click();
-        $this->snooze();
         $this->assertEquals($this->findCss($page, '#save_list option[selected]')->getHtml(), 'Test List');
-        $this->findCssAndSetValue($page, '#add_mytags', 'test1 test2 "test 3"');
+        $this->findCss($page, '#add_mytags')->setValue('test1 test2 "test 3"');
         $this->findCss($page, '.modal-body .btn.btn-primary')->click();
         $this->snooze();
         $this->findCss($page, '.modal .alert.alert-success');
@@ -186,8 +184,7 @@ class FavoritesTest extends \VuFindTest\Unit\MinkTestCase
         // Make Two Lists
         // - One for the next test
         $this->findCss($page, '#make-list')->click();
-        $this->snooze();
-        $this->findCssAndSetValue($page, '#list_title', 'Future List');
+        $this->findCss($page, '#list_title')->setValue('Future List');
         $this->findCss($page, '.modal-body .btn.btn-primary')->click();
         $this->snooze();
         $this->assertEquals(
@@ -196,10 +193,8 @@ class FavoritesTest extends \VuFindTest\Unit\MinkTestCase
         );
         // - One for now
         $this->findCss($page, '#make-list')->click();
-        $this->snooze();
-        $this->findCssAndSetValue($page, '#list_title', 'Login Test List');
+        $this->findCss($page, '#list_title')->setValue('Login Test List');
         $this->findCss($page, '.modal-body .btn.btn-primary')->click();
-        $this->snooze();
         $this->assertEquals(
             $this->findCss($page, '#save_list option[selected]')->getHtml(),
             'Login Test List'
@@ -252,9 +247,9 @@ class FavoritesTest extends \VuFindTest\Unit\MinkTestCase
             $page, ['username' => 'username2', 'email' => 'blargasaurus']
         );
         $this->findCss($page, '.modal-body .btn.btn-primary')->click();
-        $this->findCssAndSetValue($page, '#account_email', 'username2@ignore.com');
+        $this->findCss($page, '#account_email')->setValue('username2@ignore.com');
         // Test taken username
-        $this->findCssAndSetValue($page, '#account_username', 'username1');
+        $this->findCss($page, '#account_username')->setValue('username1');
         $this->findCss($page, '.modal-body .btn.btn-primary')->click();
         $this->findCss($page, '#account_firstname');
         // Correct
@@ -270,14 +265,14 @@ class FavoritesTest extends \VuFindTest\Unit\MinkTestCase
         // Empty
         $this->findCss($page, '.modal-body .btn.btn-primary')->click();
         $this->snooze();
-        $this->findCssAndSetValue($page, '#list_title', 'Test List');
-        $this->findCssAndSetValue($page, '#list_desc', 'Just. THE BEST.');
+        $this->findCss($page, '#list_title')->setValue('Test List');
+        $this->findCss($page, '#list_desc')->setValue('Just. THE BEST.');
         $this->findCss($page, '.modal-body .btn.btn-primary')->click();
         $this->assertEquals(
             $this->findCss($page, '#save_list option[selected]')->getHtml(),
             'Test List'
         );
-        $this->findCssAndSetValue($page, '#add_mytags', 'test1 test2 "test 3"');
+        $this->findCss($page, '#add_mytags')->setValue('test1 test2 "test 3"');
         $this->findCss($page, '.modal-body .btn.btn-primary')->click();
         $this->snooze();
         $this->findCss($page, '.alert.alert-success');
@@ -322,7 +317,7 @@ class FavoritesTest extends \VuFindTest\Unit\MinkTestCase
         // - One for the next test
         $this->findCss($page, '#make-list')->click();
         $this->snooze();
-        $this->findCssAndSetValue($page, '#list_title', 'Future List');
+        $this->findCss($page, '#list_title')->setValue('Future List');
         $this->findCss($page, '.modal-body .btn.btn-primary')->click();
         $this->snooze();
         $this->assertEquals(
@@ -332,7 +327,7 @@ class FavoritesTest extends \VuFindTest\Unit\MinkTestCase
         // - One for now
         $this->findCss($page, '#make-list')->click();
         $this->snooze();
-        $this->findCssAndSetValue($page, '#list_title', 'Login Test List');
+        $this->findCss($page, '#list_title')->setValue('Login Test List');
         $this->findCss($page, '.modal-body .btn.btn-primary')->click();
         $this->snooze();
         $this->assertEquals(
@@ -454,9 +449,9 @@ class FavoritesTest extends \VuFindTest\Unit\MinkTestCase
         // Now do it for real.
         $this->selectAllItemsInList($page);
         $button->click();
-        $this->findCssAndSetValue($page, '.modal #email_to', 'tester@vufind.org');
-        $this->findCssAndSetValue($page, '.modal #email_from', 'asdf@vufind.org');
-        $this->findCssAndSetValue($page, '.modal #email_message', 'message');
+        $this->findCss($page, '.modal #email_to')->setValue('tester@vufind.org');
+        $this->findCss($page, '.modal #email_from')->setValue('asdf@vufind.org');
+        $this->findCss($page, '.modal #email_message')->setValue('message');
         $this->findCss($page, '.modal-body .btn.btn-primary')->click();
         $this->snooze();
         // Check for confirmation message

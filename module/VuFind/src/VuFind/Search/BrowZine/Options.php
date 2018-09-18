@@ -2,7 +2,7 @@
 /**
  * BrowZine aspect of the Search Multi-class (Options)
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2017.
  *
@@ -38,8 +38,6 @@ namespace VuFind\Search\BrowZine;
  */
 class Options extends \VuFind\Search\Base\Options
 {
-    use \VuFind\Search\Options\ViewOptionsTrait;
-
     /**
      * Constructor
      *
@@ -49,10 +47,6 @@ class Options extends \VuFind\Search\Base\Options
     {
         $this->facetsIni = $this->searchIni = 'BrowZine';
         parent::__construct($configLoader);
-
-        // Set up views
-        $searchSettings = $configLoader->get($this->searchIni);
-        $this->initViewOptions($searchSettings);
     }
 
     /**

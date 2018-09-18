@@ -2,7 +2,7 @@
 /**
  * Browse Module Controller
  *
- * PHP version 7
+ * PHP Version 5
  *
  * Copyright (C) Villanova University 2011.
  *
@@ -26,7 +26,6 @@
  * @link     https://vufind.org/wiki/development:plugins:controllers Wiki
  */
 namespace VuFind\Controller;
-
 use VuFind\Exception\Forbidden as ForbiddenException;
 use Zend\Config\Config;
 use Zend\ServiceManager\ServiceLocatorInterface;
@@ -171,7 +170,7 @@ class BrowseController extends AbstractBase
             'Author', 'Topic', 'Genre', 'Region', 'Era'
         ];
         foreach ($remainingOptions as $current) {
-            $option = strtolower($current);
+            $option = strToLower($current);
             if (!isset($this->config->Browse->$option)
                 || $this->config->Browse->$option == true
             ) {
@@ -259,7 +258,7 @@ class BrowseController extends AbstractBase
                 ? 'filter[]=' . $this->params()->fromQuery('query_field') . ':'
                     . urlencode($this->params()->fromQuery('query')) . '&'
                 : '';
-            switch ($this->getCurrentAction()) {
+            switch($this->getCurrentAction()) {
             case 'LCC':
                 $view->paramTitle .= 'filter[]=callnumber-subject:';
                 break;
@@ -539,7 +538,7 @@ class BrowseController extends AbstractBase
     protected function getSecondaryList($facet)
     {
         $category = $this->getCategory();
-        switch ($facet) {
+        switch($facet) {
         case 'alphabetical':
             return ['', $this->getAlphabetList()];
         case 'dewey':
@@ -596,7 +595,7 @@ class BrowseController extends AbstractBase
         $sort = 'count', $query = '[* TO *]'
     ) {
         $results = $this->serviceLocator
-            ->get('VuFind\Search\Results\PluginManager')->get('Solr');
+            ->get('VuFind\SearchResultsPluginManager')->get('Solr');
         $params = $results->getParams();
         $params->addFacet($facet);
         if ($category != null) {
@@ -660,7 +659,7 @@ class BrowseController extends AbstractBase
         if ($action == null) {
             $action = $this->getCurrentAction();
         }
-        switch (strtolower($action)) {
+        switch(strToLower($action)) {
         case 'alphabetical':
             return $this->getCategory();
         case 'dewey':

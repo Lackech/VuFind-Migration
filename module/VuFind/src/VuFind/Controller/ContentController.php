@@ -2,7 +2,7 @@
 /**
  * Content Controller
  *
- * PHP version 7
+ * PHP Version 5
  *
  * Copyright (C) Villanova University 2011.
  * Copyright (C) The National Library of Finland 2014-2016.
@@ -51,7 +51,7 @@ class ContentController extends AbstractBase
     {
         $page = $this->params()->fromRoute('page');
         $themeInfo = $this->serviceLocator->get('VuFindTheme\ThemeInfo');
-        $language = $this->serviceLocator->get('Zend\Mvc\I18n\Translator')
+        $language = $this->serviceLocator->get('VuFind\Translator')
             ->getLocale();
         $defaultLanguage = $this->getConfig()->Site->language;
 

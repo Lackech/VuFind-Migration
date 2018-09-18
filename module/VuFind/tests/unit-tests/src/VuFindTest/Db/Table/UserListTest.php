@@ -2,7 +2,7 @@
 /**
  * UserList Test Class
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -26,7 +26,6 @@
  * @link     https://vufind.org/wiki/development:testing:unit_tests Wiki
  */
 namespace VuFindTest\Db\Table;
-
 use VuFind\Db\Table\UserList;
 
 /**
@@ -45,11 +44,10 @@ class UserListTest extends \VuFindTest\Unit\DbTestCase
      * list.
      *
      * @return void
-     *
-     * @expectedException VuFind\Exception\LoginRequired
      */
     public function testLoginRequiredToCreateList()
     {
+        $this->setExpectedException('VuFind\Exception\LoginRequired');
         $table = $this->getTable('UserList');
         $list = $table->getNew(false);
     }

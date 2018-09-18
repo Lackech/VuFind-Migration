@@ -2,7 +2,7 @@
 /**
  * CLI Controller Module
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -26,9 +26,7 @@
  * @link     https://vufind.org/wiki/development:plugins:controllers Wiki
  */
 namespace VuFindConsole\Controller;
-
-use VuFindHarvest\OaiPmh\HarvesterConsoleRunner;
-use Zend\Console\Console;
+use VuFindHarvest\OaiPmh\HarvesterConsoleRunner, Zend\Console\Console;
 
 /**
  * This controller handles various command-line tools
@@ -77,15 +75,13 @@ class HarvestController extends AbstractBase
 
         // Get default options, add the default --ini setting if missing:
         $opts = HarvesterConsoleRunner::getDefaultOptions();
-        $opts->setArguments($this->getRequest()->getParam('params'));
         if (!$opts->getOption('ini')) {
             $ini = \VuFind\Config\Locator::getConfigPath('oai.ini', 'harvest');
             $opts->addArguments(['--ini=' . $ini]);
         }
 
         // Get the default VuFind HTTP client:
-        $client = $this->serviceLocator->get('VuFindHttp\HttpService')
-            ->createClient();
+        $client = $this->serviceLocator->get('VuFind\Http')->createClient();
 
         // Run the job!
         $runner = new HarvesterConsoleRunner(

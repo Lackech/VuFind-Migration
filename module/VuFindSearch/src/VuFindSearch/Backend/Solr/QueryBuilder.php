@@ -3,7 +3,7 @@
 /**
  * SOLR QueryBuilder.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -30,11 +30,11 @@
  */
 namespace VuFindSearch\Backend\Solr;
 
-use VuFindSearch\ParamBag;
 use VuFindSearch\Query\AbstractQuery;
+use VuFindSearch\Query\QueryGroup;
 use VuFindSearch\Query\Query;
 
-use VuFindSearch\Query\QueryGroup;
+use VuFindSearch\ParamBag;
 
 /**
  * SOLR QueryBuilder.
@@ -71,13 +71,11 @@ class QueryBuilder implements QueryBuilderInterface
     protected $exactSpecs = [];
 
     /**
-     * Solr fields to highlight. Also serves as a flag for whether to perform
-     * highlight-specific behavior; if the field list is empty, highlighting is
-     * skipped.
+     * Should we create the hl.q parameter when appropriate?
      *
-     * @var string
+     * @var bool
      */
-    protected $fieldsToHighlight = '';
+    protected $createHighlightingQuery = false;
 
     /**
      * Should we create the spellcheck.q parameter when appropriate?
@@ -135,13 +133,10 @@ class QueryBuilder implements QueryBuilderInterface
             $finalQuery = $this->reduceQueryGroup($query);
         } else {
             // Clone the query to avoid modifying the original user-visible query
-            $finalQuery = clone $query;
+            $finalQuery = clone($query);
             $finalQuery->setString($this->getNormalizedQueryString($query));
         }
         $string = $finalQuery->getString() ?: '*:*';
-
-        // Highlighting is enabled if we have a field list set.
-        $highlight = !empty($this->fieldsToHighlight);
 
         if ($handler = $this->getSearchHandler($finalQuery->getHandler(), $string)) {
             if (!$handler->hasExtendedDismax()
@@ -154,11 +149,11 @@ class QueryBuilder implements QueryBuilderInterface
 
                     // If a boost was added, we don't want to highlight based on
                     // the boost query, so we should use the non-boosted version:
-                    if ($highlight && $oldString != $string) {
+                    if ($this->createHighlightingQuery && $oldString != $string) {
                         $params->set('hl.q', $oldString);
                     }
                 }
-            } elseif ($handler->hasDismax()) {
+            } else if ($handler->hasDismax()) {
                 $params->set('qf', implode(' ', $handler->getDismaxFields()));
                 $params->set('qt', $handler->getDismaxHandler());
                 foreach ($handler->getDismaxParams() as $param) {
@@ -170,11 +165,6 @@ class QueryBuilder implements QueryBuilderInterface
             } else {
                 $string = $handler->createSimpleQueryString($string);
             }
-        }
-        // Set an appropriate highlight field list when applicable:
-        if ($highlight) {
-            $filter = $handler ? $handler->getAllFields() : [];
-            $params->add('hl.fl', $this->getFieldsToHighlight($filter));
         }
         $params->set('q', $string);
 
@@ -189,49 +179,10 @@ class QueryBuilder implements QueryBuilderInterface
      * @param bool $enable Should highlighting query generation be enabled?
      *
      * @return void
-     *
-     * @deprecated
      */
     public function setCreateHighlightingQuery($enable)
     {
-        // This is deprecated, but use it to manipulate the highlighted field
-        // list for backward compatibility.
-        $this->fieldsToHighlight = $enable ? '*' : '';
-    }
-
-    /**
-     * Get list of fields to highlight, filtered by array.
-     *
-     * @param array $filter Field list to use as a filter.
-     *
-     * @return string
-     */
-    protected function getFieldsToHighlight(array $filter = [])
-    {
-        // No filter? Return unmodified default:
-        if (empty($filter)) {
-            return $this->fieldsToHighlight;
-        }
-        // Account for possibility of comma OR space delimiters:
-        $fields = array_map('trim', preg_split('/[, ]/', $this->fieldsToHighlight));
-        // Wildcard in field list? Return filter as-is; otherwise, use intersection.
-        $list = in_array('*', $fields) ? $filter : array_intersect($fields, $filter);
-        return implode(',', $list);
-    }
-
-    /**
-     * Set list of fields to highlight, if any (or '*' for all). Set to an
-     * empty string (the default) to completely disable highlighting-related
-     * functionality.
-     *
-     * @param string $list Highlighting field list
-     *
-     * @return QueryBuilder
-     */
-    public function setFieldsToHighlight($list)
-    {
-        $this->fieldsToHighlight = $list;
-        return $this;
+        $this->createHighlightingQuery = $enable;
     }
 
     /**
@@ -400,7 +351,7 @@ class QueryBuilder implements QueryBuilderInterface
         }
         if ($advanced && $handler) {
             return $handler->createAdvancedQueryString($string);
-        } elseif ($handler) {
+        } else if ($handler) {
             return $handler->createSimpleQueryString($string);
         } else {
             return $string;

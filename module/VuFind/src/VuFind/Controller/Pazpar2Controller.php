@@ -2,7 +2,7 @@
 /**
  * Pazpar2 Controller
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -26,7 +26,6 @@
  * @link     https://vufind.org Main Site
  */
 namespace VuFind\Controller;
-
 use Zend\ServiceManager\ServiceLocatorInterface;
 
 /**
@@ -49,6 +48,17 @@ class Pazpar2Controller extends AbstractSearch
     {
         $this->searchClassId = 'Pazpar2';
         parent::__construct($sm);
+    }
+
+    /**
+     * Home action
+     *
+     * @return mixed
+     */
+    public function homeAction()
+    {
+        // Set up default parameters:
+        return $this->createViewModel();
     }
 
     /**

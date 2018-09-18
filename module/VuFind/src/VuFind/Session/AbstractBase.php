@@ -2,10 +2,9 @@
 /**
  * Base class for session handling
  *
- * PHP version 7
+ * PHP version 5
  *
- * Copyright (C) Villanova University 2010,
- *               Leipzig University Library <info@ub.uni-leipzig.de> 2018.
+ * Copyright (C) Villanova University 2010.
  *
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License version 2,
@@ -23,13 +22,11 @@
  * @category VuFind
  * @package  Session_Handlers
  * @author   Demian Katz <demian.katz@villanova.edu>
- * @author   Sebastian Kehr <kehr@ub.uni-leipzig.de>
  * @license  http://opensource.org/licenses/gpl-2.0.php GNU General Public License
  * @link     https://vufind.org/wiki/development:plugins:session_handlers Wiki
  */
 namespace VuFind\Session;
-
-use Zend\Config\Config;
+use Zend\Session\SaveHandler\SaveHandlerInterface;
 
 /**
  * Base class for session handling
@@ -37,11 +34,11 @@ use Zend\Config\Config;
  * @category VuFind
  * @package  Session_Handlers
  * @author   Demian Katz <demian.katz@villanova.edu>
- * @author   Sebastian Kehr <kehr@ub.uni-leipzig.de>
  * @license  http://opensource.org/licenses/gpl-2.0.php GNU General Public License
  * @link     https://vufind.org/wiki/development:plugins:session_handlers Wiki
  */
-abstract class AbstractBase implements HandlerInterface
+abstract class AbstractBase implements SaveHandlerInterface,
+    \VuFind\Db\Table\DbTableAwareInterface
 {
     use \VuFind\Db\Table\DbTableAwareTrait {
         getDbTable as getTable;
@@ -57,7 +54,7 @@ abstract class AbstractBase implements HandlerInterface
     /**
      * Session configuration settings
      *
-     * @var Config
+     * @var \Zend\Config\Config
      */
     protected $config = null;
 
@@ -92,12 +89,12 @@ abstract class AbstractBase implements HandlerInterface
     /**
      * Set configuration.
      *
-     * @param Config $config Session configuration ([Session] section of
+     * @param \Zend\Config\Config $config Session configuration ([Session] section of
      * config.ini)
      *
      * @return void
      */
-    public function setConfig(Config $config)
+    public function setConfig($config)
     {
         if (isset($config->lifetime)) {
             $this->lifetime = $config->lifetime;

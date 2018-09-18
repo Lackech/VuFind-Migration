@@ -2,7 +2,7 @@
 /**
  * Solr aspect of the Search Multi-class (Results)
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2011.
  *
@@ -26,7 +26,6 @@
  * @link     https://vufind.org Main Page
  */
 namespace VuFind\Search\Solr;
-
 use VuFindSearch\Backend\Solr\Response\Json\Spellcheck;
 use VuFindSearch\Query\AbstractQuery;
 use VuFindSearch\Query\QueryGroup;
@@ -232,7 +231,7 @@ class Results extends \VuFind\Search\Base\Results
         }
 
         // If there is no filter, we'll use all facets as the filter:
-        if (null === $filter) {
+        if (is_null($filter)) {
             $filter = $this->getParams()->getFacetConfig();
         }
 
@@ -243,7 +242,7 @@ class Results extends \VuFind\Search\Base\Results
         $fieldFacets = $this->responseFacets->getFieldFacets();
         $translatedFacets = $this->getOptions()->getTranslatedFacets();
         foreach (array_keys($filter) as $field) {
-            $data = $fieldFacets[$field] ?? [];
+            $data = isset($fieldFacets[$field]) ? $fieldFacets[$field] : [];
             // Skip empty arrays:
             if (count($data) < 1) {
                 continue;
@@ -303,7 +302,7 @@ class Results extends \VuFind\Search\Base\Results
     public function getPartialFieldFacets($facetfields, $removeFilter = true,
         $limit = -1, $facetSort = null, $page = null, $ored = false
     ) {
-        $clone = clone $this;
+        $clone = clone($this);
         $params = $clone->getParams();
 
         // Manipulate facet settings temporarily:

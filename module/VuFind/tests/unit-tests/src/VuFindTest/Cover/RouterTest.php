@@ -2,7 +2,7 @@
 /**
  * Cover Router Test Class
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2016.
  *
@@ -26,9 +26,7 @@
  * @link     https://vufind.org/wiki/development:testing:unit_tests Wiki
  */
 namespace VuFindTest\Cover;
-
-use VuFind\Cover\Router;
-use VuFindTest\RecordDriver\TestHarness;
+use VuFind\Cover\Router, VuFindTest\RecordDriver\TestHarness;
 
 /**
  * Cover Router Test Class

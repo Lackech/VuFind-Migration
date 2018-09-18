@@ -2,7 +2,7 @@
 /**
  * "Search history label" view helper
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *

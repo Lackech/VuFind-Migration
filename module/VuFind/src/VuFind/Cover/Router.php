@@ -2,7 +2,7 @@
 /**
  * Cover image router
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2016.
  *
@@ -26,7 +26,6 @@
  * @link     https://vufind.org/wiki/configuration:external_content Wiki
  */
 namespace VuFind\Cover;
-
 use VuFind\RecordDriver\AbstractBase as RecordDriver;
 
 /**

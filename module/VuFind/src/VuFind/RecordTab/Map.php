@@ -2,7 +2,7 @@
 /**
  * Map tab
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -41,11 +41,11 @@ namespace VuFind\RecordTab;
 class Map extends AbstractBase
 {
     /**
-     * Should Map Tab be displayed?
+     * What type of map interface should be used?
      *
-     * @var bool
+     * @var string
      */
-    protected $mapTabDisplay = false;
+    protected $mapType = null;
 
     /**
      * Should we display coordinates as part of labels?
@@ -69,32 +69,24 @@ class Map extends AbstractBase
     protected $graticule = false;
 
     /**
-     * Basemap settings
-     *
-     * @var array
-     */
-    protected $basemapOptions = [];
-
-    /**
      * Constructor
      *
-     * @param bool  $mapTabDisplay  Display Map
-     * @param array $basemapOptions basemap settings
-     * @param array $mapTabOptions  MapTab settings
+     * @param string $mapType Map provider (valid options: 'openlayers';
+     * null to disable this feature)
+     * @param array  $options Additional settings
      */
-    public function __construct($mapTabDisplay = false, $basemapOptions = [],
-        $mapTabOptions = []
-    ) {
-        if ($mapTabDisplay) {
-            $this->mapTabDisplay = $mapTabDisplay;
+    public function __construct($mapType = null, $options = [])
+    {
+        switch (trim(strtolower($mapType))) {
+        case 'openlayers':
+            $this->mapType = trim(strtolower($mapType));
             $legalOptions = ['displayCoords', 'mapLabels', 'graticule'];
             foreach ($legalOptions as $option) {
-                if (isset($mapTabOptions[$option])) {
-                    $this->$option = $mapTabOptions[$option];
+                if (isset($options[$option])) {
+                    $this->$option = $options[$option];
                 }
             }
-            $this->basemapOptions[0] = $basemapOptions['basemap_url'];
-            $this->basemapOptions[1] = $basemapOptions['basemap_attribution'];
+            break;
         }
     }
 
@@ -120,6 +112,16 @@ class Map extends AbstractBase
     }
 
     /**
+     * Get the map type for determining template to use.
+     *
+     * @return string
+     */
+    public function getMapType()
+    {
+        return $this->mapType;
+    }
+
+    /**
      * Get the map graticule setting.
      *
      * @return string
@@ -130,23 +132,13 @@ class Map extends AbstractBase
     }
 
     /**
-     * Get the basemap configuration settings.
-     *
-     * @return array
-     */
-    public function getBasemap()
-    {
-        return $this->basemapOptions;
-    }
-
-    /**
      * Is this tab active?
      *
      * @return bool
      */
     public function isActive()
     {
-        if ($this->mapTabDisplay) {
+        if ($this->mapType == 'openlayers') {
             $geocoords = $this->getRecordDriver()->tryMethod('getGeoLocation');
             return !empty($geocoords);
         }
@@ -173,8 +165,14 @@ class Map extends AbstractBase
                 $lonE = (float)$match[2];
                 $latN = (float)$match[3];
                 $latS = (float)$match[4];
-                // Coordinates ordered for display as WSEN
-                array_push($coordarray, [$lonW, $latS, $lonE, $latN]);
+                // Display as point or polygon?
+                if (($lonE == $lonW) && ($latN == $latS)) {
+                    $shape = 2;
+                } else {
+                    $shape = 4;
+                }
+                // Coordinates ordered for ol3 display as WSEN
+                array_push($coordarray, [$lonW, $latS, $lonE, $latN, $shape]);
             }
         }
         return $coordarray;
@@ -243,7 +241,8 @@ class Map extends AbstractBase
                     $coordmatch = implode('', explode(' ', $val));
                     /* See if coordinate string matches lookup
                         table coordinates and if so return label */
-                    $labelname = $label_lookup[$coordmatch] ?? '';
+                    $labelname = isset($label_lookup[$coordmatch])
+                        ? $label_lookup[$coordmatch] : '';
                     array_push($labels, $labelname);
                 }
             }
@@ -266,7 +265,7 @@ class Map extends AbstractBase
         $mapDisplayCoords = [];
         $mapDisplayLabels = [];
         if ($this->displayCoords) {
-            $mapDisplayCoords = $this->getDisplayCoords();
+             $mapDisplayCoords = $this->getDisplayCoords();
         }
         if (isset($this->mapLabels)) {
             $mapDisplayLabels = $this->getMapLabels();
@@ -285,7 +284,7 @@ class Map extends AbstractBase
                 $mapTabData, [
                     $geoCoords[$key][0], $geoCoords[$key][1],
                     $geoCoords[$key][2], $geoCoords[$key][3],
-                    $mapLabel, $mapCoords
+                    $geoCoords[$key][4], $mapLabel, $mapCoords
                     ]
             );
         }

@@ -2,7 +2,7 @@
 /**
  * LDAP authentication class
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -27,7 +27,6 @@
  * @link     https://vufind.org/wiki/development:plugins:authentication_handlers Wiki
  */
 namespace VuFind\Auth;
-
 use VuFind\Exception\Auth as AuthException;
 
 /**
@@ -292,7 +291,7 @@ class LDAP extends AbstractBase
                         } else {
                             $value = $value[0];
                         }
-
+                        
                         if ($field != "cat_password") {
                             $user->$field = ($value === null) ? '' : $value;
                         } else {

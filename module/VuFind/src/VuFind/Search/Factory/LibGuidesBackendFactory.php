@@ -3,7 +3,7 @@
 /**
  * Factory for LibGuides backends.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2013.
  *
@@ -28,14 +28,14 @@
  */
 namespace VuFind\Search\Factory;
 
-use Interop\Container\ContainerInterface;
-
-use VuFindSearch\Backend\LibGuides\Backend;
 use VuFindSearch\Backend\LibGuides\Connector;
-use VuFindSearch\Backend\LibGuides\QueryBuilder;
+use VuFindSearch\Backend\BackendInterface;
 use VuFindSearch\Backend\LibGuides\Response\RecordCollectionFactory;
+use VuFindSearch\Backend\LibGuides\QueryBuilder;
+use VuFindSearch\Backend\LibGuides\Backend;
 
-use Zend\ServiceManager\Factory\FactoryInterface;
+use Zend\ServiceManager\ServiceLocatorInterface;
+use Zend\ServiceManager\FactoryInterface;
 
 /**
  * Factory for LibGuides backends.
@@ -58,7 +58,7 @@ class LibGuidesBackendFactory implements FactoryInterface
     /**
      * Superior service manager.
      *
-     * @var ContainerInterface
+     * @var ServiceLocatorInterface
      */
     protected $serviceLocator;
 
@@ -70,23 +70,19 @@ class LibGuidesBackendFactory implements FactoryInterface
     protected $libGuidesConfig;
 
     /**
-     * Create service
+     * Create the backend.
      *
-     * @param ContainerInterface $sm      Service manager
-     * @param string             $name    Requested service name (unused)
-     * @param array              $options Extra options (unused)
+     * @param ServiceLocatorInterface $serviceLocator Superior service manager
      *
-     * @return Backend
-     *
-     * @SuppressWarnings(PHPMD.UnusedFormalParameter)
+     * @return BackendInterface
      */
-    public function __invoke(ContainerInterface $sm, $name, array $options = null)
+    public function createService(ServiceLocatorInterface $serviceLocator)
     {
-        $this->serviceLocator = $sm;
-        $configReader = $this->serviceLocator->get('VuFind\Config\PluginManager');
+        $this->serviceLocator = $serviceLocator;
+        $configReader = $this->serviceLocator->get('VuFind\Config');
         $this->libGuidesConfig = $configReader->get('LibGuides');
-        if ($this->serviceLocator->has('VuFind\Log\Logger')) {
-            $this->logger = $this->serviceLocator->get('VuFind\Log\Logger');
+        if ($this->serviceLocator->has('VuFind\Logger')) {
+            $this->logger = $this->serviceLocator->get('VuFind\Logger');
         }
         $connector = $this->createConnector();
         $backend   = $this->createBackend($connector);
@@ -128,8 +124,7 @@ class LibGuidesBackendFactory implements FactoryInterface
             ? $this->libGuidesConfig->General->version : 1;
 
         // Build HTTP client:
-        $client = $this->serviceLocator->get('VuFindHttp\HttpService')
-            ->createClient();
+        $client = $this->serviceLocator->get('VuFind\Http')->createClient();
         $timeout = isset($this->libGuidesConfig->General->timeout)
             ? $this->libGuidesConfig->General->timeout : 30;
         $client->setOptions(['timeout' => $timeout]);
@@ -156,7 +151,7 @@ class LibGuidesBackendFactory implements FactoryInterface
      */
     protected function createRecordCollectionFactory()
     {
-        $manager = $this->serviceLocator->get('VuFind\RecordDriver\PluginManager');
+        $manager = $this->serviceLocator->get('VuFind\RecordDriverPluginManager');
         $callback = function ($data) use ($manager) {
             $driver = $manager->get('LibGuides');
             $driver->setRawData($data);

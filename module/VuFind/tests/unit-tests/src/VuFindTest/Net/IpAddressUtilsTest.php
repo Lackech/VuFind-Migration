@@ -2,7 +2,7 @@
 /**
  * IpAddressUtils Test Class
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) The National Library of Finland 2015.
  *
@@ -26,7 +26,6 @@
  * @link     https://vufind.org/wiki/development:testing:unit_tests Wiki
  */
 namespace VuFindTest\Net;
-
 use VuFind\Net\IpAddressUtils;
 
 /**

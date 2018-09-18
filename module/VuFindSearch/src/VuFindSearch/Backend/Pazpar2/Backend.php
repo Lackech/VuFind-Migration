@@ -2,7 +2,7 @@
 /**
  * Pazpar2 backend.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -27,14 +27,14 @@
  */
 namespace VuFindSearch\Backend\Pazpar2;
 
-use VuFindSearch\Backend\AbstractBackend;
+use VuFindSearch\Query\AbstractQuery;
 
 use VuFindSearch\ParamBag;
 
-use VuFindSearch\Query\AbstractQuery;
+use VuFindSearch\Response\RecordCollectionInterface;
 use VuFindSearch\Response\RecordCollectionFactoryInterface;
 
-use VuFindSearch\Response\RecordCollectionInterface;
+use VuFindSearch\Backend\AbstractBackend;
 
 /**
  * Pazpar2 backend.
@@ -263,6 +263,6 @@ class Backend extends AbstractBackend
     protected function getSearchProgress()
     {
         $statResponse = $this->connector->stat();
-        return (float)$statResponse->progress;
+        return (float) $statResponse->progress;
     }
 }

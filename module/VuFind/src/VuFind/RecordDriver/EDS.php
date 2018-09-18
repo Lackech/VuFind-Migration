@@ -2,7 +2,7 @@
 /**
  * Model for EDS records.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -36,7 +36,7 @@ namespace VuFind\RecordDriver;
  * @license  http://opensource.org/licenses/gpl-2.0.php GNU General Public License
  * @link     https://vufind.org/wiki/development:plugins:record_drivers Wiki
  */
-class EDS extends DefaultRecord
+class EDS extends SolrDefault
 {
     /**
      * Document types that are treated as PDF links.
@@ -199,8 +199,8 @@ class EDS extends DefaultRecord
         if (isset($this->fields['Items']) && !empty($this->fields['Items'])) {
             foreach ($this->fields['Items'] as $item) {
                 $items[] = [
-                    'Label' => $item['Label'] ?? '',
-                    'Group' => $item['Group'] ?? '',
+                    'Label' => isset($item['Label']) ? $item['Label'] : '',
+                    'Group' => isset($item['Group']) ? $item['Group'] : '',
                     'Data'  => isset($item['Data'])
                         ? $this->toHTML($item['Data'], $item['Group']) : ''
                 ];
@@ -391,6 +391,7 @@ class EDS extends DefaultRecord
                     return $this->toHTML($item['Data']);
                 }
             }
+
         }
         return '';
     }

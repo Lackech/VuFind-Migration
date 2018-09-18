@@ -2,7 +2,7 @@
 /**
  * Class for accessing OCLC WorldCat search API
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Andrew Nagy 2008.
  *
@@ -27,7 +27,6 @@
  * @link     https://vufind.org/wiki/development Wiki
  */
 namespace VuFindSearch\Backend\WorldCat;
-
 use VuFindSearch\ParamBag;
 
 /**
@@ -90,10 +89,6 @@ class Connector extends \VuFindSearch\Backend\SRU\Connector
         }
         $uri = "http://www.worldcat.org/webservices/catalog/content/libraries/{$id}"
             . "?wskey={$this->wskey}&servicelevel=full&frbrGrouping=$grouping";
-        if (isset($this->options['latLon'])) {
-            list($lat, $lon) = explode(',', $this->options['latLon']);
-            $uri .= '&lat=' . urlencode($lat) . '&lon=' . urlencode($lon);
-        }
         $this->client->setUri($uri);
         $this->debug('Connect: ' . $uri);
         $result = $this->client->setMethod('POST')->send();
@@ -164,7 +159,7 @@ class Connector extends \VuFindSearch\Backend\SRU\Connector
         return [
             'docs' => $finalDocs,
             'offset' => $offset,
-            'total' => (int)($xml->numberOfRecords ?? 0)
+            'total' => isset($xml->numberOfRecords) ? (int)$xml->numberOfRecords : 0
         ];
     }
 }

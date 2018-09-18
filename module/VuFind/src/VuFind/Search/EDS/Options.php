@@ -2,7 +2,7 @@
 /**
  * EDS API Options
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) EBSCO Industries 2013
  *
@@ -77,7 +77,7 @@ class Options extends \VuFind\Search\Base\Options
      * Available limiter options
      *
      * @var unknown
-     */
+    */
     protected $limiterOptions = [];
 
     /**
@@ -136,10 +136,6 @@ class Options extends \VuFind\Search\Base\Options
             $this->setTranslatedFacets(
                 $facetConf->Advanced_Facet_Settings->translated_facets->toArray()
             );
-        }
-        // Load autocomplete preference:
-        if (isset($searchSettings->Autocomplete->enabled)) {
-            $this->autocompleteEnabled = $searchSettings->Autocomplete->enabled;
         }
     }
 
@@ -225,7 +221,6 @@ class Options extends \VuFind\Search\Base\Options
     {
         return $this->defaultExpanders;
     }
-
     /**
      * Return the route name of the action used for performing advanced searches.
      * Returns false if the feature is not supported.
@@ -464,7 +459,7 @@ class Options extends \VuFind\Search\Base\Options
                         'Label' => $mode['Label'], 'Value' => $mode['Mode']
                     ];
                     if (isset($mode['DefaultOn'])
-                        && 'y' == $mode['DefaultOn']
+                        &&  'y' == $mode['DefaultOn']
                     ) {
                         $this->defaultMode = $mode['Mode'];
                     }
@@ -504,9 +499,12 @@ class Options extends \VuFind\Search\Base\Options
                                 $limiter['LimiterValues']
                             )
                             : [['Value' => $val]],
-                        'DefaultOn' => $limiter['DefaultOn'] ?? 'n',
+                        'DefaultOn' => isset($limiter['DefaultOn'])
+                            ? $limiter['DefaultOn'] : 'n',
                     ];
+
                 }
+
             }
         }
     }

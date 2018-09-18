@@ -2,7 +2,7 @@
 /**
  * Base formatter for API responses
  *
- * PHP version 7
+ * PHP Version 5
  *
  * Copyright (C) The National Library of Finland 2015-2016.
  *
@@ -61,7 +61,7 @@ class BaseFormatter
                 || $value === null || $value === ''
             ) {
                 unset($array[$key]);
-            } elseif (is_bool($value) || $value === 'true' || $value === 'false') {
+            } else if (is_bool($value) || $value === 'true' || $value === 'false') {
                 $array[$key] = $value === true || $value === 'true' ? 1 : 0;
             }
         }

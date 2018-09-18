@@ -3,7 +3,7 @@
 /**
  * Primo Central connector.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -32,7 +32,6 @@
  * @link     https://vufind.org
  */
 namespace VuFindSearch\Backend\Primo;
-
 use Zend\Http\Client as HttpClient;
 
 /**
@@ -325,7 +324,8 @@ class Connector implements \Zend\Log\LoggerAwareInterface
             $qs[] = "loc=adaptor,primo_central_multiple_fe";
 
             if ($this->debug) {
-                echo "URL: " . implode('&', $qs);
+                print "URL: " . implode('&', $qs);
+
             }
 
             // Send Request

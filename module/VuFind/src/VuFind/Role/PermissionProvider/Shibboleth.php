@@ -2,7 +2,7 @@
 /**
  * Shibboleth permission provider for VuFind.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2007.
  *
@@ -28,9 +28,8 @@
  * @link     https://vufind.org Main Page
  */
 namespace VuFind\Role\PermissionProvider;
-
-use VuFind\Auth\Shibboleth as ShibbolethAuth;
 use Zend\Http\PhpEnvironment\Request;
+use VuFind\Auth\Shibboleth as ShibbolethAuth;
 
 /**
  * Shibboleth permission provider for VuFind.

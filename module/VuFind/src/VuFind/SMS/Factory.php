@@ -2,7 +2,7 @@
 /**
  * Factory for instantiating SMS objects
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2009.
  *
@@ -26,9 +26,7 @@
  * @link     https://vufind.org/wiki/development Wiki
  */
 namespace VuFind\SMS;
-
-use Interop\Container\ContainerInterface;
-use Zend\ServiceManager\Factory\FactoryInterface;
+use Zend\ServiceManager\ServiceLocatorInterface;
 
 /**
  * Factory for instantiating SMS objects
@@ -41,25 +39,20 @@ use Zend\ServiceManager\Factory\FactoryInterface;
  *
  * @codeCoverageIgnore
  */
-class Factory implements FactoryInterface
+class Factory implements \Zend\ServiceManager\FactoryInterface
 {
     /**
      * Create service
      *
-     * @param ContainerInterface $container Service manager
-     * @param string             $name      Requested service name (unused)
-     * @param array              $options   Extra options (unused)
+     * @param ServiceLocatorInterface $sm Service manager
      *
-     * @return SMSInterface
-     *
-     * @SuppressWarnings(PHPMD.UnusedFormalParameter)
+     * @return mixed
      */
-    public function __invoke(ContainerInterface $container, $name,
-        array $options = null
-    ) {
+    public function createService(ServiceLocatorInterface $sm)
+    {
         // Load configurations:
-        $mainConfig = $container->get('VuFind\Config\PluginManager')->get('config');
-        $smsConfig = $container->get('VuFind\Config\PluginManager')->get('sms');
+        $mainConfig = $sm->get('VuFind\Config')->get('config');
+        $smsConfig = $sm->get('VuFind\Config')->get('sms');
 
         // Determine SMS type:
         $type = isset($smsConfig->General->smsType)
@@ -68,10 +61,10 @@ class Factory implements FactoryInterface
         // Initialize object based on requested type:
         switch (strtolower($type)) {
         case 'clickatell':
-            $client = $container->get('VuFindHttp\HttpService')->createClient();
+            $client = $sm->get('VuFind\Http')->createClient();
             return new Clickatell($smsConfig, ['client' => $client]);
         case 'mailer':
-            $options = ['mailer' => $container->get('VuFind\Mailer\Mailer')];
+            $options = ['mailer' => $sm->get('VuFind\Mailer')];
             if (isset($mainConfig->Site->email)) {
                 $options['defaultFrom'] = $mainConfig->Site->email;
             }

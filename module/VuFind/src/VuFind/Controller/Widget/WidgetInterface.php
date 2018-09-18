@@ -3,7 +3,7 @@
 /**
  * Widget interface definition.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -64,4 +64,5 @@ interface WidgetInterface
      * @return array
      */
     public function getState();
+
 }

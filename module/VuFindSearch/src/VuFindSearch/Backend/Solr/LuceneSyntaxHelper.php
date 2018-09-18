@@ -3,7 +3,7 @@
 /**
  * Lucene query syntax helper class.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  * Copyright (C) The National Library of Finland 2016.
@@ -487,21 +487,11 @@ class LuceneSyntaxHelper
     {
         // Freestanding hyphens and slashes can cause problems:
         $lookahead = self::$insideQuotes;
-        // remove freestanding hyphens
         $input = preg_replace(
-            '/(\s+[-]$|\s+[-]\s+|^[-]\s+)' . $lookahead . '/',
+            '/(\s+[-\/]$|\s+[-\/]\s+|^[-\/]\s+)' . $lookahead . '/',
             ' ', $input
         );
-        // wrap quotes on standalone slashes
-        $input = preg_replace(
-            '/(\s+[\/]\s+)' . $lookahead . '/',
-            ' "/" ', $input
-        );
-        // remove trailing and leading slashes
-        $input = preg_replace(
-            '/(\s+[\/]$|^[\/]\s+)' . $lookahead . '/',
-            ' ', $input
-        );
+
         // A proximity of 1 is illegal and meaningless -- remove it:
         $input = preg_replace('/~1(\.0*)?$/', '', $input);
         $input = preg_replace('/~1(\.0*)?\s+' . $lookahead . '/', ' ', $input);
@@ -530,7 +520,6 @@ class LuceneSyntaxHelper
         $input = preg_replace('/(\:[:\s]+|[:\s]+:)' . $lookahead . '/', ' ', $input);
         return trim($input, ':');
     }
-
     /**
      * Prepare input to be used in a SOLR query.
      *
@@ -549,7 +538,7 @@ class LuceneSyntaxHelper
 
         // If the user has entered a lone BOOLEAN operator, convert it to lowercase
         // so it is treated as a word (otherwise it will trigger a fatal error):
-        switch (trim($input)) {
+        switch(trim($input)) {
         case 'OR':
             return 'or';
         case 'AND':
@@ -598,7 +587,7 @@ class LuceneSyntaxHelper
             || $this->caseSensitiveBooleans === "0"
         ) {
             return $this->allBools;
-        } elseif ($this->caseSensitiveBooleans === true
+        } else if ($this->caseSensitiveBooleans === true
             || $this->caseSensitiveBooleans === 1
             || $this->caseSensitiveBooleans === "1"
         ) {

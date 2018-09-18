@@ -3,7 +3,7 @@
 /**
  * BrowZine QueryBuilder.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2017.
  *
@@ -28,10 +28,10 @@
  */
 namespace VuFindSearch\Backend\BrowZine;
 
-use VuFindSearch\ParamBag;
 use VuFindSearch\Query\AbstractQuery;
-
 use VuFindSearch\Query\Query;
+
+use VuFindSearch\ParamBag;
 
 /**
  * BrowZine QueryBuilder.

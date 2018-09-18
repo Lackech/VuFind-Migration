@@ -3,7 +3,7 @@
 /**
  * EIT record collection.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -90,6 +90,7 @@ class RecordCollection extends AbstractRecordCollection
      */
     public function getOffset()
     {
+    
         return isset($this->response['offset']) ? $this->response['offset'] : 0;
     }
 }

@@ -2,7 +2,7 @@
 /**
  * Authority Controller
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -26,7 +26,6 @@
  * @link     https://vufind.org Main Site
  */
 namespace VuFind\Controller;
-
 use Zend\ServiceManager\ServiceLocatorInterface;
 
 /**
@@ -64,8 +63,8 @@ class AuthorityController extends AbstractSearch
             return $this->forwardTo('Authority', 'Record');
         }
 
-        // Default behavior:
-        return parent::homeAction();
+        // Do nothing -- just display template
+        return $this->createViewModel();
     }
 
     /**
@@ -78,11 +77,11 @@ class AuthorityController extends AbstractSearch
         $id = $this->params()->fromQuery('id');
         $cfg = $this->serviceLocator->get('Config');
         $tabConfig = $cfg['vufind']['recorddriver_tabs'];
-        $driver = $this->serviceLocator->get('VuFind\Record\Loader')
+        $driver = $this->serviceLocator->get('VuFind\RecordLoader')
             ->load($id, 'SolrAuth');
         $request = $this->getRequest();
         $tabs = $this->serviceLocator
-            ->get('VuFind\RecordTab\PluginManager')
+            ->get('VuFind\RecordTabPluginManager')
             ->getTabsForRecord($driver, $tabConfig, $request);
         return $this->createViewModel(['driver' => $driver, 'tabs' => $tabs]);
     }

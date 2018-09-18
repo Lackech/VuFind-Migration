@@ -1,10 +1,14 @@
 <?php
+use Zend\Loader\AutoloaderFactory;
+use Zend\ServiceManager\ServiceManager;
+use Zend\Mvc\Service\ServiceManagerConfig;
+
 // If the XHProf profiler is enabled, set it up now:
 $xhprof = getenv('VUFIND_PROFILER_XHPROF');
 if (!empty($xhprof)) {
     if (extension_loaded('xhprof')) {
         xhprof_enable();
-    } elseif (extension_loaded('tideways')) {
+    } else if (extension_loaded('tideways')) {
         tideways_enable();
     } else {
         $xhprof = false;
@@ -53,7 +57,7 @@ chdir(APPLICATION_PATH);
 // Ensure vendor/ is on include_path; some PEAR components may not load correctly
 // otherwise (i.e. File_MARC may cause a "Cannot redeclare class" error by pulling
 // from the shared PEAR directory instead of the local copy):
-$pathParts = [];
+$pathParts = array();
 $pathParts[] = APPLICATION_PATH . '/vendor';
 $pathParts[] = get_include_path();
 set_include_path(implode(PATH_SEPARATOR, $pathParts));
@@ -63,8 +67,18 @@ if (file_exists('vendor/autoload.php')) {
     $loader = include 'vendor/autoload.php';
 }
 
+// Support for ZF2_PATH environment variable
+if ($zf2Path = getenv('ZF2_PATH')) {
+    if (isset($loader)) {
+        $loader->add('Zend', $zf2Path . '/Zend');
+    } else {
+        include $zf2Path . '/Zend/Loader/AutoloaderFactory.php';
+        AutoloaderFactory::factory();
+    }
+}
+
 if (!class_exists('Zend\Loader\AutoloaderFactory')) {
-    throw new RuntimeException('Unable to load Zend Framework autoloader.');
+    throw new RuntimeException('Unable to load ZF2.');
 }
 
 // Run the application!

@@ -2,7 +2,7 @@
 /**
  * BrowZine aspect of the Search Multi-class (Params)
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2017.
  *

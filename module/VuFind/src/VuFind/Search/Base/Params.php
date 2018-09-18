@@ -2,7 +2,7 @@
 /**
  * Abstract parameters search model.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -26,12 +26,9 @@
  * @link     https://vufind.org Main Page
  */
 namespace VuFind\Search\Base;
-
-use VuFind\Search\QueryAdapter;
-use VuFind\Solr\Utils as SolrUtils;
-use VuFindSearch\Backend\Solr\LuceneSyntaxHelper;
-use VuFindSearch\Query\Query;
-use VuFindSearch\Query\QueryGroup;
+use VuFindSearch\Backend\Solr\LuceneSyntaxHelper, VuFindSearch\Query\Query,
+    VuFindSearch\Query\QueryGroup;
+use VuFind\Search\QueryAdapter, VuFind\Solr\Utils as SolrUtils;
 
 /**
  * Abstract parameters search model.
@@ -230,10 +227,10 @@ class Params
     public function __clone()
     {
         if (is_object($this->options)) {
-            $this->options = clone $this->options;
+            $this->options = clone($this->options);
         }
         if (is_object($this->query)) {
-            $this->query = clone $this->query;
+            $this->query = clone($this->query);
         }
     }
 
@@ -384,7 +381,7 @@ class Params
     {
         // If no lookfor parameter was found, we have no search terms to
         // add to our array!
-        if (null === ($lookfor = $request->get('lookfor'))) {
+        if (is_null($lookfor = $request->get('lookfor'))) {
             return false;
         }
 
@@ -527,10 +524,10 @@ class Params
         if ($view == 'rss') {
             // RSS is a special case that does not require config validation
             $this->setView('rss');
-        } elseif (!empty($view) && in_array($view, $validViews)) {
+        } else if (!empty($view) && in_array($view, $validViews)) {
             // make sure the url parameter is a valid view
             $this->setView($view);
-        } elseif (!empty($this->lastView)
+        } else if (!empty($this->lastView)
             && in_array($this->lastView, $validViews)
         ) {
             // if there is nothing in the URL, see if we had a previous value
@@ -668,7 +665,7 @@ class Params
      */
     public function getView()
     {
-        return null === $this->view
+        return is_null($this->view)
             ? $this->getOptions()->getDefaultView() : $this->view;
     }
 
@@ -722,7 +719,7 @@ class Params
         $value = count($temp) > 0 ? $temp[0] : '';
 
         // Remove quotes from the value if there are any
-        if (substr($value, 0, 1) == '"') {
+        if (substr($value, 0, 1)  == '"') {
             $value = substr($value, 1);
         }
         if (substr($value, -1, 1) == '"') {
@@ -1072,7 +1069,7 @@ class Params
         if ($firstChar == '-') {
             $operator = 'NOT';
             $field = substr($field, 1);
-        } elseif ($firstChar == '~') {
+        } else if ($firstChar == '~') {
             $operator = 'OR';
             $field = substr($field, 1);
         } else {
@@ -1156,7 +1153,7 @@ class Params
         // Pad to four digits:
         if (strlen($year) == 2) {
             $year = '19' . $year;
-        } elseif (strlen($year) == 3) {
+        } else if (strlen($year) == 3) {
             $year = '0' . $year;
         }
 
@@ -1503,7 +1500,7 @@ class Params
     public function getDisplayQueryWithReplacedTerm($oldTerm, $newTerm)
     {
         // Stash our old data for a minute
-        $oldTerms = clone $this->query;
+        $oldTerms = clone($this->query);
         // Replace the search term
         $this->query->replaceTerm($oldTerm, $newTerm);
         // Get the new query string
@@ -1714,15 +1711,13 @@ class Params
      *
      * @param string $facetList     Config section containing fields to activate
      * @param string $facetSettings Config section containing related settings
-     * @param string $cfgFile       Name of configuration to load (null to load
-     * default facets configuration).
+     * @param string $cfgFile       Name of configuration to load
      *
      * @return bool                 True if facets set, false if no settings found
      */
-    protected function initFacetList($facetList, $facetSettings, $cfgFile = null)
+    protected function initFacetList($facetList, $facetSettings, $cfgFile = 'facets')
     {
-        $config = $this->configLoader
-            ->get($cfgFile ?? $this->getOptions()->getFacetsIni());
+        $config = $this->configLoader->get($cfgFile);
         if (!isset($config->$facetList)) {
             return false;
         }
@@ -1755,16 +1750,14 @@ class Params
      * Initialize checkbox facet settings for the specified configuration sections.
      *
      * @param string $facetList Config section containing fields to activate
-     * @param string $cfgFile   Name of configuration to load (null to load
-     * default facets configuration).
+     * @param string $cfgFile   Name of configuration to load
      *
      * @return bool             True if facets set, false if no settings found
      */
     protected function initCheckboxFacets($facetList = 'CheckboxFacets',
-        $cfgFile = null
+        $cfgFile = 'facets'
     ) {
-        $config = $this->configLoader
-            ->get($cfgFile ?? $this->getOptions()->getFacetsIni());
+        $config = $this->configLoader->get($cfgFile);
         if (empty($config->$facetList)) {
             return false;
         }

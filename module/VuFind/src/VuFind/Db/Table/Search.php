@@ -2,7 +2,7 @@
 /**
  * Table Definition for search
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  * Copyright (C) The National Library of Finland 2016-2017.
@@ -28,7 +28,6 @@
  * @link     https://vufind.org Main Page
  */
 namespace VuFind\Db\Table;
-
 use minSO;
 use VuFind\Db\Row\RowGateway;
 use Zend\Db\Adapter\Adapter;
@@ -110,23 +109,15 @@ class Search extends Gateway
     }
 
     /**
-     * Destroy unsaved searches belonging to the specified session/user.
+     * Delete unsaved searches for a particular session.
      *
      * @param string $sid Session ID of current user.
-     * @param int    $uid User ID of current user (optional).
      *
      * @return void
      */
-    public function destroySession($sid, $uid = null)
+    public function destroySession($sid)
     {
-        $callback = function ($select) use ($sid, $uid) {
-            $select->where->equalTo('session_id', $sid)->and->equalTo('saved', 0);
-            if ($uid !== null) {
-                $select->where->OR
-                    ->equalTo('user_id', $uid)->and->equalTo('saved', 0);
-            }
-        };
-        return $this->delete($callback);
+        $this->delete(['session_id' => $sid, 'saved' => 0]);
     }
 
     /**
@@ -141,7 +132,7 @@ class Search extends Gateway
     {
         $callback = function ($select) use ($sid, $uid) {
             $select->where->equalTo('session_id', $sid)->and->equalTo('saved', 0);
-            if ($uid !== null) {
+            if ($uid != null) {
                 $select->where->OR->equalTo('user_id', $uid);
             }
             $select->order('created');

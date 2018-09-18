@@ -2,7 +2,7 @@
 /**
  * ILS driver test
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2011.
  *
@@ -27,13 +27,12 @@
  * @link     https://vufind.org Main Page
  */
 namespace VuFindTest\ILS\Driver;
+use VuFind\ILS\Driver\PAIA;
+
+use Zend\Http\Client\Adapter\Test as TestAdapter;
+use Zend\Http\Response as HttpResponse;
 
 use InvalidArgumentException;
-
-use VuFind\ILS\Driver\PAIA;
-use Zend\Http\Client\Adapter\Test as TestAdapter;
-
-use Zend\Http\Response as HttpResponse;
 
 /**
  * ILS driver test
@@ -293,13 +292,13 @@ class PAIATest extends \VuFindTest\Unit\ILSDriverTestCase
     protected $profileTestResult = [
         'firstname' => "Nobody",
         'lastname' => "Nothing",
-        'address1' => null,
-        'address2' => null,
-        'city' => null,
-        'country' => null,
-        'zip' => null,
-        'phone' => null,
-        'group' => null,
+        'address1' => NULL,
+        'address2' => NULL,
+        'city' => NULL,
+        'country' => NULL,
+        'zip' => NULL,
+        'phone' => NULL,
+        'group' => NULL,
         'expires' => "12-31-9999",
         'statuscode' => 0,
         'canWrite' => true
@@ -322,11 +321,9 @@ class PAIATest extends \VuFindTest\Unit\ILSDriverTestCase
      */
 
     /**
-     * Standard setup method.
-     *
-     * @return void
+     * Constructor
      */
-    public function setUp()
+    public function __construct()
     {
         $this->driver = $this->createConnector();
     }
@@ -461,7 +458,6 @@ class PAIATest extends \VuFindTest\Unit\ILSDriverTestCase
         $this->assertEquals(false, $result_expired);
         $this->assertEquals(false, $resultStorage_expired);
     }
-
     /**
      * Test
      *
@@ -542,14 +538,14 @@ class PAIATest extends \VuFindTest\Unit\ILSDriverTestCase
 
         $this->assertEquals($this->renewTestResult, $result);
 
-        /* TODO: make me work
-            $conn_fail = $this->createConnector('renew_error.json');
-            $connfail->setConfig($this->validConfig);
-            $conn_fail->init();
-            $result_fail = $conn_fail->renewMyItems($renew_request);
+    /* TODO: make me work
+        $conn_fail = $this->createConnector('renew_error.json');
+        $connfail->setConfig($this->validConfig);
+        $conn_fail->init();
+        $result_fail = $conn_fail->renewMyItems($renew_request);
 
-            $this->assertEquals($this->failedRenewTestResult, $result_fail);
-        */
+        $this->assertEquals($this->failedRenewTestResult, $result_fail);
+    */
     }
 
     /**

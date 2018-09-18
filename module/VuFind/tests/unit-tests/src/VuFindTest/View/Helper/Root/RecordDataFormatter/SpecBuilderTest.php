@@ -2,7 +2,7 @@
 /**
  * RecordDataFormatter spec builder Test Class
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2016.
  *
@@ -26,7 +26,6 @@
  * @link     https://vufind.org/wiki/development:testing:unit_tests Wiki
  */
 namespace VuFindTest\View\Helper\Root\RecordDataFormatter;
-
 use VuFind\View\Helper\Root\RecordDataFormatter\SpecBuilder;
 
 /**

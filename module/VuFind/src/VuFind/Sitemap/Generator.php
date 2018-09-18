@@ -2,7 +2,7 @@
 /**
  * VuFind Sitemap
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -26,11 +26,8 @@
  * @link     https://vufind.org Main Page
  */
 namespace VuFind\Sitemap;
-
-use VuFind\Search\BackendManager;
-use VuFindSearch\Backend\Solr\Backend;
-use VuFindSearch\ParamBag;
-use Zend\Config\Config;
+use VuFindSearch\Backend\Solr\Backend, VuFind\Search\BackendManager,
+    VuFindSearch\ParamBag, Zend\Config\Config;
 
 /**
  * Class for generating sitemaps

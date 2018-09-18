@@ -2,7 +2,7 @@
 /**
  * Authentication manager test class.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2011.
  *
@@ -26,13 +26,9 @@
  * @link     https://vufind.org Main Page
  */
 namespace VuFindTest\Auth;
-
-use VuFind\Auth\Manager;
-use VuFind\Auth\PluginManager;
-use VuFind\Db\Row\User as UserRow;
-use VuFind\Db\Table\User as UserTable;
-use Zend\Config\Config;
-use Zend\Session\SessionManager;
+use VuFind\Auth\Manager, VuFind\Auth\PluginManager,
+    VuFind\Db\Row\User as UserRow, VuFind\Db\Table\User as UserTable,
+    Zend\Config\Config, Zend\Session\SessionManager;
 
 /**
  * Authentication manager test class.
@@ -514,15 +510,7 @@ class ManagerTest extends \VuFindTest\Unit\TestCase
             $pm = $this->getMockPluginManager();
         }
         $cookies = new \VuFind\Cookie\CookieManager([]);
-        $csrf = new \VuFind\Validator\Csrf(
-            [
-                'session' => new \Zend\Session\Container('csrf', $sessionManager),
-                'salt' => 'csrftest'
-            ]
-        );
-        return new Manager(
-            $config, $userTable, $sessionManager, $pm, $cookies, $csrf
-        );
+        return new Manager($config, $userTable, $sessionManager, $pm, $cookies);
     }
 
     /**
@@ -556,7 +544,7 @@ class ManagerTest extends \VuFindTest\Unit\TestCase
      */
     protected function getMockPluginManager()
     {
-        $pm = new PluginManager($this->getServiceManager());
+        $pm = new PluginManager();
         $mockChoice = $this->getMockBuilder('VuFind\Auth\ChoiceAuth')
             ->disableOriginalConstructor()
             ->getMock();
@@ -570,10 +558,10 @@ class ManagerTest extends \VuFindTest\Unit\TestCase
         $mockShib = $this->getMockBuilder('VuFind\Auth\Shibboleth')
             ->disableOriginalConstructor()
             ->getMock();
-        $pm->setService('VuFind\Auth\ChoiceAuth', $mockChoice);
-        $pm->setService('VuFind\Auth\Database', $mockDb);
-        $pm->setService('VuFind\Auth\MultiILS', $mockMulti);
-        $pm->setService('VuFind\Auth\Shibboleth', $mockShib);
+        $pm->setService('ChoiceAuth', $mockChoice);
+        $pm->setService('Database', $mockDb);
+        $pm->setService('MultiILS', $mockMulti);
+        $pm->setService('Shibboleth', $mockShib);
         return $pm;
     }
 

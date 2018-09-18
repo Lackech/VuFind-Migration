@@ -3,7 +3,7 @@
  * VuFind controller base class (defines some methods that can be shared by other
  * controllers).
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -28,12 +28,14 @@
  */
 namespace VuFind\Controller;
 
-use VuFind\Exception\ILS as ILSException;
-use Zend\Mvc\Controller\AbstractActionController;
-use Zend\Mvc\MvcEvent;
-use Zend\ServiceManager\ServiceLocatorInterface;
-use Zend\View\Model\ViewModel;
-use ZfcRbac\Service\AuthorizationServiceAwareInterface;
+use VuFind\Exception\Forbidden as ForbiddenException,
+    VuFind\Exception\ILS as ILSException,
+    Zend\Mvc\Controller\AbstractActionController,
+    Zend\Mvc\MvcEvent,
+    Zend\ServiceManager\ServiceLocatorInterface,
+    Zend\View\Model\ViewModel,
+    ZfcRbac\Service\AuthorizationServiceAwareInterface,
+    ZfcRbac\Service\AuthorizationServiceAwareTrait;
 
 /**
  * VuFind controller base class (defines some methods that can be shared by other
@@ -68,20 +70,13 @@ class AbstractBase extends AbstractActionController
     protected $accessDeniedBehavior = null;
 
     /**
-     * Service manager
-     *
-     * @var ServiceLocatorInterface
-     */
-    protected $serviceLocator;
-
-    /**
      * Constructor
      *
      * @param ServiceLocatorInterface $sm Service locator
      */
     public function __construct(ServiceLocatorInterface $sm)
     {
-        $this->serviceLocator = $sm;
+        $this->setServiceLocator($sm);
     }
 
     /**
@@ -154,7 +149,7 @@ class AbstractBase extends AbstractActionController
         $view = $this->createViewModel($params);
 
         // Load configuration and current user for convenience:
-        $config = $this->getConfig();
+        $config = $this->serviceLocator->get('VuFind\Config')->get('config');
         $view->disableFrom
             = (isset($config->Mail->disable_from) && $config->Mail->disable_from);
         $view->editableSubject = isset($config->Mail->user_editable_subjects)
@@ -188,7 +183,7 @@ class AbstractBase extends AbstractActionController
             ) {
                 $view->userEmailInFrom = true;
                 $view->from = $user->email;
-            } elseif (isset($config->Mail->default_from)
+            } else if (isset($config->Mail->default_from)
                 && $config->Mail->default_from
             ) {
                 $view->from = $config->Mail->default_from;
@@ -218,7 +213,7 @@ class AbstractBase extends AbstractActionController
      */
     protected function getAuthManager()
     {
-        return $this->serviceLocator->get('VuFind\Auth\Manager');
+        return $this->serviceLocator->get('VuFind\AuthManager');
     }
 
     /**
@@ -241,7 +236,7 @@ class AbstractBase extends AbstractActionController
      */
     protected function getILSAuthenticator()
     {
-        return $this->serviceLocator->get('VuFind\Auth\ILSAuthenticator');
+        return $this->serviceLocator->get('VuFind\ILSAuthenticator');
     }
 
     /**
@@ -367,7 +362,7 @@ class AbstractBase extends AbstractActionController
      */
     public function getConfig($id = 'config')
     {
-        return $this->serviceLocator->get('VuFind\Config\PluginManager')->get($id);
+        return $this->serviceLocator->get('VuFind\Config')->get($id);
     }
 
     /**
@@ -377,7 +372,7 @@ class AbstractBase extends AbstractActionController
      */
     public function getILS()
     {
-        return $this->serviceLocator->get('VuFind\ILS\Connection');
+        return $this->serviceLocator->get('VuFind\ILSConnection');
     }
 
     /**
@@ -387,7 +382,7 @@ class AbstractBase extends AbstractActionController
      */
     public function getRecordLoader()
     {
-        return $this->serviceLocator->get('VuFind\Record\Loader');
+        return $this->serviceLocator->get('VuFind\RecordLoader');
     }
 
     /**
@@ -397,7 +392,7 @@ class AbstractBase extends AbstractActionController
      */
     public function getRecordCache()
     {
-        return $this->serviceLocator->get('VuFind\Record\Cache');
+        return $this->serviceLocator->get('VuFind\RecordCache');
     }
 
     /**
@@ -407,7 +402,7 @@ class AbstractBase extends AbstractActionController
      */
     public function getRecordRouter()
     {
-        return $this->serviceLocator->get('VuFind\Record\Router');
+        return $this->serviceLocator->get('VuFind\RecordRouter');
     }
 
     /**
@@ -419,7 +414,7 @@ class AbstractBase extends AbstractActionController
      */
     public function getTable($table)
     {
-        return $this->serviceLocator->get('VuFind\Db\Table\PluginManager')
+        return $this->serviceLocator->get('VuFind\DbTablePluginManager')
             ->get($table);
     }
 
@@ -550,7 +545,7 @@ class AbstractBase extends AbstractActionController
      */
     protected function commentsEnabled()
     {
-        $check = $this->serviceLocator->get('VuFind\Config\AccountCapabilities');
+        $check = $this->serviceLocator->get('VuFind\AccountCapabilities');
         return $check->getCommentSetting() !== 'disabled';
     }
 
@@ -561,7 +556,7 @@ class AbstractBase extends AbstractActionController
      */
     protected function listsEnabled()
     {
-        $check = $this->serviceLocator->get('VuFind\Config\AccountCapabilities');
+        $check = $this->serviceLocator->get('VuFind\AccountCapabilities');
         return $check->getListSetting() !== 'disabled';
     }
 
@@ -572,7 +567,7 @@ class AbstractBase extends AbstractActionController
      */
     protected function tagsEnabled()
     {
-        $check = $this->serviceLocator->get('VuFind\Config\AccountCapabilities');
+        $check = $this->serviceLocator->get('VuFind\AccountCapabilities');
         return $check->getTagSetting() !== 'disabled';
     }
 

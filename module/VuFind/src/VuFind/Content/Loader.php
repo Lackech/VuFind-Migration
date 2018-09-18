@@ -2,7 +2,7 @@
 /**
  * Third-party content loader
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -26,7 +26,6 @@
  * @link     https://vufind.org/wiki/development Wiki
  */
 namespace VuFind\Content;
-
 use VuFind\ServiceManager\AbstractPluginManager;
 
 /**
@@ -100,7 +99,7 @@ class Loader
             $parts = explode(':', trim($provider));
             $provider = $parts[0];
             if (!empty($provider)) {
-                $key = $parts[1] ?? '';
+                $key = isset($parts[1]) ? $parts[1] : '';
                 try {
                     $plugin = $this->loader->get($provider);
                     $results[$provider] = $plugin->loadByIsbn($key, $isbnObj);

@@ -2,7 +2,7 @@
 /**
  * Lightweight Dummy ILS Driver -- Always returns hard-coded sample values.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2007.
  *

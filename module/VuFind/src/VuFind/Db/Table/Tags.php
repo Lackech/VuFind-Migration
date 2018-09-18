@@ -2,7 +2,7 @@
 /**
  * Table Definition for tags
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -26,7 +26,6 @@
  * @link     https://vufind.org Main Site
  */
 namespace VuFind\Db\Table;
-
 use VuFind\Db\Row\RowGateway;
 use Zend\Db\Adapter\Adapter;
 use Zend\Db\Sql\Expression;
@@ -151,7 +150,7 @@ class Tags extends Gateway
             );
             if ($fuzzy) {
                 $select->where->literal('lower(tags.tag) like lower(?)', [$q]);
-            } elseif (!$this->caseSensitive) {
+            } else if (!$this->caseSensitive) {
                 $select->where->literal('lower(tags.tag) = lower(?)', [$q]);
             } else {
                 $select->where->equalTo('tags.tag', $q);
@@ -241,7 +240,7 @@ class Tags extends Gateway
 
                 if ($sort == 'count') {
                     $select->order(['cnt DESC', new Expression('lower(tags.tag)')]);
-                } elseif ($sort == 'tag') {
+                } else if ($sort == 'tag') {
                     $select->order([new Expression('lower(tags.tag)')]);
                 }
 
@@ -250,9 +249,9 @@ class Tags extends Gateway
                 }
                 if ($list === true) {
                     $select->where->isNotNull('rt.list_id');
-                } elseif ($list === false) {
+                } else if ($list === false) {
                     $select->where->isNull('rt.list_id');
-                } elseif (null !== $list) {
+                } else if (null !== $list) {
                     $select->where->equalTo('rt.list_id', $list);
                 }
                 if (null !== $user) {
@@ -272,13 +271,12 @@ class Tags extends Gateway
      * for no filter).
      * @param int    $listId     Filter for tags tied to a specific list (null for no
      * filter).
-     * @param string $source     Filter for tags tied to a specific record source
-     * (null for no filter).
+     * @param string $source     Filter for tags tied to a specific record source.
      *
      * @return \Zend\Db\ResultSet\AbstractResultSet
      */
     public function getForUser($userId, $resourceId = null, $listId = null,
-        $source = null
+        $source = DEFAULT_SEARCH_BACKEND
     ) {
         $callback = function ($select) use ($userId, $resourceId, $listId, $source) {
             $select->columns(
@@ -311,11 +309,8 @@ class Tags extends Gateway
                 ->equalTo(
                     'ur.list_id', 'rt.list_id',
                     Predicate::TYPE_IDENTIFIER, Predicate::TYPE_IDENTIFIER
-                );
-
-            if (null !== $source) {
-                $select->where->equalTo('r.source', $source);
-            }
+                )
+                ->equalTo('r.source', $source);
 
             if (null !== $resourceId) {
                 $select->where->equalTo('r.record_id', $resourceId);

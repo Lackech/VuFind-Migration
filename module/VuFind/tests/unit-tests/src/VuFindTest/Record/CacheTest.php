@@ -3,7 +3,7 @@
 /**
  * Record cache tests.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  * Copyright (C) The National Library of Finland 2015.
@@ -29,7 +29,6 @@
  * @link     https://vufind.org/wiki/development:testing:unit_tests Wiki
  */
 namespace VuFindTest\Record;
-
 use VuFind\Record\Cache;
 use VuFindTest\Unit\TestCase as TestCase;
 
@@ -230,7 +229,7 @@ class CacheTest extends TestCase
     /**
      * Create Record Table
      *
-     * @return PHPUnit\Framework\MockObject\MockObject
+     * @return PHPUnit_Framework_MockObject_MockObject
      */
     protected function getRecordTable()
     {
@@ -281,7 +280,7 @@ class CacheTest extends TestCase
     /**
      * Create a Record Factory Manager
      *
-     * @return PHPUnit\Framework\MockObject\MockObject
+     * @return PHPUnit_Framework_MockObject_MockObject
      */
     protected function getRecordFactoryManager()
     {
@@ -321,7 +320,7 @@ class CacheTest extends TestCase
      * @param string $id     id
      * @param string $source source
      *
-     * @return PHPUnit\Framework\MockObject\MockObject
+     * @return PHPUnit_Framework_MockObject_MockObject
      */
     protected function getDriver($id = 'test', $source = 'Solr')
     {

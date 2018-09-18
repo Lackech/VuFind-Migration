@@ -3,7 +3,7 @@
 /**
  * Primo backend.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -28,15 +28,15 @@
  */
 namespace VuFindSearch\Backend\Primo;
 
-use VuFindSearch\Backend\AbstractBackend;
-
-use VuFindSearch\Backend\Exception\BackendException;
-
-use VuFindSearch\ParamBag;
 use VuFindSearch\Query\AbstractQuery;
 
-use VuFindSearch\Response\RecordCollectionFactoryInterface;
+use VuFindSearch\ParamBag;
+
 use VuFindSearch\Response\RecordCollectionInterface;
+use VuFindSearch\Response\RecordCollectionFactoryInterface;
+
+use VuFindSearch\Backend\AbstractBackend;
+use VuFindSearch\Backend\Exception\BackendException;
 
 /**
  * Primo Central backend.

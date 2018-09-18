@@ -1,0 +1,401 @@
+2018-07-21 06:57:16,837 [main] INFO  main org.solrmarc.driver.ThreadedIndexer - Done writing records to solr
+2018-07-21 06:57:16,838 [main] INFO  main org.solrmarc.driver.Indexer - Commiting updates to Solr
+2018-07-21 06:57:17,328 [main] INFO  main org.solrmarc.driver.IndexDriver - 1 records read
+2018-07-21 06:57:17,328 [main] INFO  main org.solrmarc.driver.IndexDriver - 1 records indexed  and 
+2018-07-21 06:57:17,328 [main] INFO  main org.solrmarc.driver.IndexDriver - 1 records sent to Solr in 0.19 seconds
+2018-07-21 06:57:17,630 [main] INFO  main org.solrmarc.index.indexer.ValueIndexerFactory - Using directory: /usr/local/vufind/import/index_java as location of java sources
+2018-07-21 06:57:17,633 [main] INFO  main org.solrmarc.index.indexer.ValueIndexerFactory - Using directory: /usr/local/vufind/harvest/../import/index_java as location of java sources
+2018-07-21 06:57:17,990 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/vufind.properties
+2018-07-21 06:57:17,997 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/import_KOHA_FL.properties
+2018-07-21 06:57:18,104 [main] DEBUG main org.solrmarc.solr.SolrCoreLoader - Found Solrj class org.apache.solr.client.solrj.impl.HttpSolrClient
+2018-07-21 06:57:18,227 [main] INFO  main org.solrmarc.driver.IndexDriver - Reading and compiling index specifications: marc.properties, marc_KOHA_FL.properties
+2018-07-21 06:57:18,227 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/marc.properties
+2018-07-21 06:57:18,228 [main] INFO  main org.solrmarc.driver.IndexDriver - Opening index spec file: /usr/local/vufind/import/marc.properties
+2018-07-21 06:57:18,228 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/marc_KOHA_FL.properties
+2018-07-21 06:57:18,228 [main] INFO  main org.solrmarc.driver.IndexDriver - Opening index spec file: /usr/local/vufind/import/marc_KOHA_FL.properties
+2018-07-21 06:57:18,267 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/language_map.properties
+2018-07-21 06:57:18,270 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/format_map.properties
+2018-07-21 06:57:18,287 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/callnumber_map.properties
+2018-07-21 06:57:18,288 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/callnumber_subject_map.properties
+2018-07-21 06:57:18,298 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/ddc22_map.properties
+2018-07-21 06:57:18,316 [main] INFO  main org.solrmarc.driver.IndexDriver - Opening input files: [/usr/local/vufind/local/harvest/KOHA_FL/1531941357_BVZT_FL_UCR_30537.xml]
+2018-07-21 06:57:18,403 [main] INFO  main org.solrmarc.driver.ThreadedIndexer - Done with all indexing, finishing writing records to solr
+2018-07-21 06:57:18,519 [main] INFO  main org.solrmarc.driver.ThreadedIndexer - Done writing records to solr
+2018-07-21 06:57:18,519 [main] INFO  main org.solrmarc.driver.Indexer - Commiting updates to Solr
+2018-07-21 06:57:19,135 [main] INFO  main org.solrmarc.driver.IndexDriver - 1 records read
+2018-07-21 06:57:19,135 [main] INFO  main org.solrmarc.driver.IndexDriver - 1 records indexed  and 
+2018-07-21 06:57:19,135 [main] INFO  main org.solrmarc.driver.IndexDriver - 1 records sent to Solr in 0.19 seconds
+2018-07-21 06:57:19,644 [main] INFO  main org.solrmarc.index.indexer.ValueIndexerFactory - Using directory: /usr/local/vufind/import/index_java as location of java sources
+2018-07-21 06:57:19,647 [main] INFO  main org.solrmarc.index.indexer.ValueIndexerFactory - Using directory: /usr/local/vufind/harvest/../import/index_java as location of java sources
+2018-07-21 06:57:20,043 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/vufind.properties
+2018-07-21 06:57:20,049 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/import_KOHA_FL.properties
+2018-07-21 06:57:20,162 [main] DEBUG main org.solrmarc.solr.SolrCoreLoader - Found Solrj class org.apache.solr.client.solrj.impl.HttpSolrClient
+2018-07-21 06:57:20,285 [main] INFO  main org.solrmarc.driver.IndexDriver - Reading and compiling index specifications: marc.properties, marc_KOHA_FL.properties
+2018-07-21 06:57:20,286 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/marc.properties
+2018-07-21 06:57:20,286 [main] INFO  main org.solrmarc.driver.IndexDriver - Opening index spec file: /usr/local/vufind/import/marc.properties
+2018-07-21 06:57:20,286 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/marc_KOHA_FL.properties
+2018-07-21 06:57:20,287 [main] INFO  main org.solrmarc.driver.IndexDriver - Opening index spec file: /usr/local/vufind/import/marc_KOHA_FL.properties
+2018-07-21 06:57:20,326 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/language_map.properties
+2018-07-21 06:57:20,329 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/format_map.properties
+2018-07-21 06:57:20,347 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/callnumber_map.properties
+2018-07-21 06:57:20,348 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/callnumber_subject_map.properties
+2018-07-21 06:57:20,357 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/ddc22_map.properties
+2018-07-21 06:57:20,375 [main] INFO  main org.solrmarc.driver.IndexDriver - Opening input files: [/usr/local/vufind/local/harvest/KOHA_FL/1531941357_BVZT_FL_UCR_30538.xml]
+2018-07-21 06:57:20,466 [main] INFO  main org.solrmarc.driver.ThreadedIndexer - Done with all indexing, finishing writing records to solr
+2018-07-21 06:57:20,587 [main] INFO  main org.solrmarc.driver.ThreadedIndexer - Done writing records to solr
+2018-07-21 06:57:20,588 [main] INFO  main org.solrmarc.driver.Indexer - Commiting updates to Solr
+2018-07-21 06:57:21,124 [main] INFO  main org.solrmarc.driver.IndexDriver - 1 records read
+2018-07-21 06:57:21,124 [main] INFO  main org.solrmarc.driver.IndexDriver - 1 records indexed  and 
+2018-07-21 06:57:21,125 [main] INFO  main org.solrmarc.driver.IndexDriver - 1 records sent to Solr in 0.20 seconds
+2018-07-21 06:57:21,413 [main] INFO  main org.solrmarc.index.indexer.ValueIndexerFactory - Using directory: /usr/local/vufind/import/index_java as location of java sources
+2018-07-21 06:57:21,416 [main] INFO  main org.solrmarc.index.indexer.ValueIndexerFactory - Using directory: /usr/local/vufind/harvest/../import/index_java as location of java sources
+2018-07-21 06:57:21,837 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/vufind.properties
+2018-07-21 06:57:21,849 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/import_KOHA_FL.properties
+2018-07-21 06:57:21,966 [main] DEBUG main org.solrmarc.solr.SolrCoreLoader - Found Solrj class org.apache.solr.client.solrj.impl.HttpSolrClient
+2018-07-21 06:57:22,095 [main] INFO  main org.solrmarc.driver.IndexDriver - Reading and compiling index specifications: marc.properties, marc_KOHA_FL.properties
+2018-07-21 06:57:22,095 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/marc.properties
+2018-07-21 06:57:22,096 [main] INFO  main org.solrmarc.driver.IndexDriver - Opening index spec file: /usr/local/vufind/import/marc.properties
+2018-07-21 06:57:22,096 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/marc_KOHA_FL.properties
+2018-07-21 06:57:22,096 [main] INFO  main org.solrmarc.driver.IndexDriver - Opening index spec file: /usr/local/vufind/import/marc_KOHA_FL.properties
+2018-07-21 06:57:22,139 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/language_map.properties
+2018-07-21 06:57:22,142 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/format_map.properties
+2018-07-21 06:57:22,162 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/callnumber_map.properties
+2018-07-21 06:57:22,163 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/callnumber_subject_map.properties
+2018-07-21 06:57:22,185 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/ddc22_map.properties
+2018-07-21 06:57:22,203 [main] INFO  main org.solrmarc.driver.IndexDriver - Opening input files: [/usr/local/vufind/local/harvest/KOHA_FL/1531941357_BVZT_FL_UCR_30539.xml]
+2018-07-21 06:57:22,321 [main] INFO  main org.solrmarc.driver.ThreadedIndexer - Done with all indexing, finishing writing records to solr
+2018-07-21 06:57:22,436 [main] INFO  main org.solrmarc.driver.ThreadedIndexer - Done writing records to solr
+2018-07-21 06:57:22,436 [main] INFO  main org.solrmarc.driver.Indexer - Commiting updates to Solr
+2018-07-21 06:57:22,980 [main] INFO  main org.solrmarc.driver.IndexDriver - 1 records read
+2018-07-21 06:57:22,981 [main] INFO  main org.solrmarc.driver.IndexDriver - 1 records indexed  and 
+2018-07-21 06:57:22,981 [main] INFO  main org.solrmarc.driver.IndexDriver - 1 records sent to Solr in 0.20 seconds
+2018-07-21 06:57:23,376 [main] INFO  main org.solrmarc.index.indexer.ValueIndexerFactory - Using directory: /usr/local/vufind/import/index_java as location of java sources
+2018-07-21 06:57:23,379 [main] INFO  main org.solrmarc.index.indexer.ValueIndexerFactory - Using directory: /usr/local/vufind/harvest/../import/index_java as location of java sources
+2018-07-21 06:57:23,772 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/vufind.properties
+2018-07-21 06:57:23,779 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/import_KOHA_FL.properties
+2018-07-21 06:57:23,885 [main] DEBUG main org.solrmarc.solr.SolrCoreLoader - Found Solrj class org.apache.solr.client.solrj.impl.HttpSolrClient
+2018-07-21 06:57:24,006 [main] INFO  main org.solrmarc.driver.IndexDriver - Reading and compiling index specifications: marc.properties, marc_KOHA_FL.properties
+2018-07-21 06:57:24,007 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/marc.properties
+2018-07-21 06:57:24,007 [main] INFO  main org.solrmarc.driver.IndexDriver - Opening index spec file: /usr/local/vufind/import/marc.properties
+2018-07-21 06:57:24,008 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/marc_KOHA_FL.properties
+2018-07-21 06:57:24,008 [main] INFO  main org.solrmarc.driver.IndexDriver - Opening index spec file: /usr/local/vufind/import/marc_KOHA_FL.properties
+2018-07-21 06:57:24,047 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/language_map.properties
+2018-07-21 06:57:24,050 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/format_map.properties
+2018-07-21 06:57:24,066 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/callnumber_map.properties
+2018-07-21 06:57:24,067 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/callnumber_subject_map.properties
+2018-07-21 06:57:24,077 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/ddc22_map.properties
+2018-07-21 06:57:24,095 [main] INFO  main org.solrmarc.driver.IndexDriver - Opening input files: [/usr/local/vufind/local/harvest/KOHA_FL/1531941357_BVZT_FL_UCR_30540.xml]
+2018-07-21 06:57:24,175 [main] INFO  main org.solrmarc.driver.ThreadedIndexer - Done with all indexing, finishing writing records to solr
+2018-07-21 06:57:24,288 [main] INFO  main org.solrmarc.driver.ThreadedIndexer - Done writing records to solr
+2018-07-21 06:57:24,289 [main] INFO  main org.solrmarc.driver.Indexer - Commiting updates to Solr
+2018-07-21 06:57:24,763 [main] INFO  main org.solrmarc.driver.IndexDriver - 1 records read
+2018-07-21 06:57:24,763 [main] INFO  main org.solrmarc.driver.IndexDriver - 1 records indexed  and 
+2018-07-21 06:57:24,763 [main] INFO  main org.solrmarc.driver.IndexDriver - 1 records sent to Solr in 0.18 seconds
+2018-07-21 06:57:25,300 [main] INFO  main org.solrmarc.index.indexer.ValueIndexerFactory - Using directory: /usr/local/vufind/import/index_java as location of java sources
+2018-07-21 06:57:25,303 [main] INFO  main org.solrmarc.index.indexer.ValueIndexerFactory - Using directory: /usr/local/vufind/harvest/../import/index_java as location of java sources
+2018-07-21 06:57:25,671 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/vufind.properties
+2018-07-21 06:57:25,677 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/import_KOHA_FL.properties
+2018-07-21 06:57:25,779 [main] DEBUG main org.solrmarc.solr.SolrCoreLoader - Found Solrj class org.apache.solr.client.solrj.impl.HttpSolrClient
+2018-07-21 06:57:25,901 [main] INFO  main org.solrmarc.driver.IndexDriver - Reading and compiling index specifications: marc.properties, marc_KOHA_FL.properties
+2018-07-21 06:57:25,902 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/marc.properties
+2018-07-21 06:57:25,902 [main] INFO  main org.solrmarc.driver.IndexDriver - Opening index spec file: /usr/local/vufind/import/marc.properties
+2018-07-21 06:57:25,903 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/marc_KOHA_FL.properties
+2018-07-21 06:57:25,903 [main] INFO  main org.solrmarc.driver.IndexDriver - Opening index spec file: /usr/local/vufind/import/marc_KOHA_FL.properties
+2018-07-21 06:57:25,942 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/language_map.properties
+2018-07-21 06:57:25,945 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/format_map.properties
+2018-07-21 06:57:25,962 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/callnumber_map.properties
+2018-07-21 06:57:25,963 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/callnumber_subject_map.properties
+2018-07-21 06:57:25,973 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/ddc22_map.properties
+2018-07-21 06:57:25,990 [main] INFO  main org.solrmarc.driver.IndexDriver - Opening input files: [/usr/local/vufind/local/harvest/KOHA_FL/1531941357_BVZT_FL_UCR_30541.xml]
+2018-07-21 06:57:26,065 [main] INFO  main org.solrmarc.driver.ThreadedIndexer - Done with all indexing, finishing writing records to solr
+2018-07-21 06:57:26,178 [main] INFO  main org.solrmarc.driver.ThreadedIndexer - Done writing records to solr
+2018-07-21 06:57:26,179 [main] INFO  main org.solrmarc.driver.Indexer - Commiting updates to Solr
+2018-07-21 06:57:26,615 [main] INFO  main org.solrmarc.driver.IndexDriver - 1 records read
+2018-07-21 06:57:26,616 [main] INFO  main org.solrmarc.driver.IndexDriver - 1 records indexed  and 
+2018-07-21 06:57:26,616 [main] INFO  main org.solrmarc.driver.IndexDriver - 1 records sent to Solr in 0.18 seconds
+2018-07-21 06:57:26,988 [main] INFO  main org.solrmarc.index.indexer.ValueIndexerFactory - Using directory: /usr/local/vufind/import/index_java as location of java sources
+2018-07-21 06:57:26,991 [main] INFO  main org.solrmarc.index.indexer.ValueIndexerFactory - Using directory: /usr/local/vufind/harvest/../import/index_java as location of java sources
+2018-07-21 06:57:27,456 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/vufind.properties
+2018-07-21 06:57:27,461 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/import_KOHA_FL.properties
+2018-07-21 06:57:27,564 [main] DEBUG main org.solrmarc.solr.SolrCoreLoader - Found Solrj class org.apache.solr.client.solrj.impl.HttpSolrClient
+2018-07-21 06:57:27,689 [main] INFO  main org.solrmarc.driver.IndexDriver - Reading and compiling index specifications: marc.properties, marc_KOHA_FL.properties
+2018-07-21 06:57:27,690 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/marc.properties
+2018-07-21 06:57:27,690 [main] INFO  main org.solrmarc.driver.IndexDriver - Opening index spec file: /usr/local/vufind/import/marc.properties
+2018-07-21 06:57:27,690 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/marc_KOHA_FL.properties
+2018-07-21 06:57:27,691 [main] INFO  main org.solrmarc.driver.IndexDriver - Opening index spec file: /usr/local/vufind/import/marc_KOHA_FL.properties
+2018-07-21 06:57:27,730 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/language_map.properties
+2018-07-21 06:57:27,733 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/format_map.properties
+2018-07-21 06:57:27,751 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/callnumber_map.properties
+2018-07-21 06:57:27,753 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/callnumber_subject_map.properties
+2018-07-21 06:57:27,763 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/ddc22_map.properties
+2018-07-21 06:57:27,780 [main] INFO  main org.solrmarc.driver.IndexDriver - Opening input files: [/usr/local/vufind/local/harvest/KOHA_FL/1531941357_BVZT_FL_UCR_30542.xml]
+2018-07-21 06:57:27,885 [main] INFO  main org.solrmarc.driver.ThreadedIndexer - Done with all indexing, finishing writing records to solr
+2018-07-21 06:57:28,072 [main] INFO  main org.solrmarc.driver.ThreadedIndexer - Done writing records to solr
+2018-07-21 06:57:28,073 [main] INFO  main org.solrmarc.driver.Indexer - Commiting updates to Solr
+2018-07-21 06:57:28,633 [main] INFO  main org.solrmarc.driver.IndexDriver - 1 records read
+2018-07-21 06:57:28,633 [main] INFO  main org.solrmarc.driver.IndexDriver - 1 records indexed  and 
+2018-07-21 06:57:28,634 [main] INFO  main org.solrmarc.driver.IndexDriver - 1 records sent to Solr in 0.28 seconds
+2018-07-21 06:57:28,905 [main] INFO  main org.solrmarc.index.indexer.ValueIndexerFactory - Using directory: /usr/local/vufind/import/index_java as location of java sources
+2018-07-21 06:57:28,908 [main] INFO  main org.solrmarc.index.indexer.ValueIndexerFactory - Using directory: /usr/local/vufind/harvest/../import/index_java as location of java sources
+2018-07-21 06:57:29,320 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/vufind.properties
+2018-07-21 06:57:29,329 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/import_KOHA_FL.properties
+2018-07-21 06:57:29,451 [main] DEBUG main org.solrmarc.solr.SolrCoreLoader - Found Solrj class org.apache.solr.client.solrj.impl.HttpSolrClient
+2018-07-21 06:57:29,576 [main] INFO  main org.solrmarc.driver.IndexDriver - Reading and compiling index specifications: marc.properties, marc_KOHA_FL.properties
+2018-07-21 06:57:29,577 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/marc.properties
+2018-07-21 06:57:29,577 [main] INFO  main org.solrmarc.driver.IndexDriver - Opening index spec file: /usr/local/vufind/import/marc.properties
+2018-07-21 06:57:29,578 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/marc_KOHA_FL.properties
+2018-07-21 06:57:29,578 [main] INFO  main org.solrmarc.driver.IndexDriver - Opening index spec file: /usr/local/vufind/import/marc_KOHA_FL.properties
+2018-07-21 06:57:29,617 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/language_map.properties
+2018-07-21 06:57:29,620 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/format_map.properties
+2018-07-21 06:57:29,638 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/callnumber_map.properties
+2018-07-21 06:57:29,640 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/callnumber_subject_map.properties
+2018-07-21 06:57:29,650 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/ddc22_map.properties
+2018-07-21 06:57:29,668 [main] INFO  main org.solrmarc.driver.IndexDriver - Opening input files: [/usr/local/vufind/local/harvest/KOHA_FL/1531941357_BVZT_FL_UCR_30543.xml]
+2018-07-21 06:57:29,763 [main] INFO  main org.solrmarc.driver.ThreadedIndexer - Done with all indexing, finishing writing records to solr
+2018-07-21 06:57:29,876 [main] INFO  main org.solrmarc.driver.ThreadedIndexer - Done writing records to solr
+2018-07-21 06:57:29,876 [main] INFO  main org.solrmarc.driver.Indexer - Commiting updates to Solr
+2018-07-21 06:57:30,336 [main] INFO  main org.solrmarc.driver.IndexDriver - 1 records read
+2018-07-21 06:57:30,336 [main] INFO  main org.solrmarc.driver.IndexDriver - 1 records indexed  and 
+2018-07-21 06:57:30,336 [main] INFO  main org.solrmarc.driver.IndexDriver - 1 records sent to Solr in 0.18 seconds
+2018-07-21 06:57:30,623 [main] INFO  main org.solrmarc.index.indexer.ValueIndexerFactory - Using directory: /usr/local/vufind/import/index_java as location of java sources
+2018-07-21 06:57:30,626 [main] INFO  main org.solrmarc.index.indexer.ValueIndexerFactory - Using directory: /usr/local/vufind/harvest/../import/index_java as location of java sources
+2018-07-21 06:57:31,115 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/vufind.properties
+2018-07-21 06:57:31,125 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/import_KOHA_FL.properties
+2018-07-21 06:57:31,257 [main] DEBUG main org.solrmarc.solr.SolrCoreLoader - Found Solrj class org.apache.solr.client.solrj.impl.HttpSolrClient
+2018-07-21 06:57:31,423 [main] INFO  main org.solrmarc.driver.IndexDriver - Reading and compiling index specifications: marc.properties, marc_KOHA_FL.properties
+2018-07-21 06:57:31,424 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/marc.properties
+2018-07-21 06:57:31,424 [main] INFO  main org.solrmarc.driver.IndexDriver - Opening index spec file: /usr/local/vufind/import/marc.properties
+2018-07-21 06:57:31,425 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/marc_KOHA_FL.properties
+2018-07-21 06:57:31,425 [main] INFO  main org.solrmarc.driver.IndexDriver - Opening index spec file: /usr/local/vufind/import/marc_KOHA_FL.properties
+2018-07-21 06:57:31,466 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/language_map.properties
+2018-07-21 06:57:31,470 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/format_map.properties
+2018-07-21 06:57:31,488 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/callnumber_map.properties
+2018-07-21 06:57:31,489 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/callnumber_subject_map.properties
+2018-07-21 06:57:31,498 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/ddc22_map.properties
+2018-07-21 06:57:31,516 [main] INFO  main org.solrmarc.driver.IndexDriver - Opening input files: [/usr/local/vufind/local/harvest/KOHA_FL/1531941357_BVZT_FL_UCR_30544.xml]
+2018-07-21 06:57:31,603 [main] INFO  main org.solrmarc.driver.ThreadedIndexer - Done with all indexing, finishing writing records to solr
+2018-07-21 06:57:31,722 [main] INFO  main org.solrmarc.driver.ThreadedIndexer - Done writing records to solr
+2018-07-21 06:57:31,722 [main] INFO  main org.solrmarc.driver.Indexer - Commiting updates to Solr
+2018-07-21 06:57:32,217 [main] INFO  main org.solrmarc.driver.IndexDriver - 1 records read
+2018-07-21 06:57:32,217 [main] INFO  main org.solrmarc.driver.IndexDriver - 1 records indexed  and 
+2018-07-21 06:57:32,217 [main] INFO  main org.solrmarc.driver.IndexDriver - 1 records sent to Solr in 0.19 seconds
+2018-07-21 06:57:32,719 [main] INFO  main org.solrmarc.index.indexer.ValueIndexerFactory - Using directory: /usr/local/vufind/import/index_java as location of java sources
+2018-07-21 06:57:32,723 [main] INFO  main org.solrmarc.index.indexer.ValueIndexerFactory - Using directory: /usr/local/vufind/harvest/../import/index_java as location of java sources
+2018-07-21 06:57:33,132 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/vufind.properties
+2018-07-21 06:57:33,140 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/import_KOHA_FL.properties
+2018-07-21 06:57:33,250 [main] DEBUG main org.solrmarc.solr.SolrCoreLoader - Found Solrj class org.apache.solr.client.solrj.impl.HttpSolrClient
+2018-07-21 06:57:33,375 [main] INFO  main org.solrmarc.driver.IndexDriver - Reading and compiling index specifications: marc.properties, marc_KOHA_FL.properties
+2018-07-21 06:57:33,375 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/marc.properties
+2018-07-21 06:57:33,376 [main] INFO  main org.solrmarc.driver.IndexDriver - Opening index spec file: /usr/local/vufind/import/marc.properties
+2018-07-21 06:57:33,376 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/marc_KOHA_FL.properties
+2018-07-21 06:57:33,376 [main] INFO  main org.solrmarc.driver.IndexDriver - Opening index spec file: /usr/local/vufind/import/marc_KOHA_FL.properties
+2018-07-21 06:57:33,415 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/language_map.properties
+2018-07-21 06:57:33,419 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/format_map.properties
+2018-07-21 06:57:33,436 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/callnumber_map.properties
+2018-07-21 06:57:33,438 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/callnumber_subject_map.properties
+2018-07-21 06:57:33,447 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/ddc22_map.properties
+2018-07-21 06:57:33,465 [main] INFO  main org.solrmarc.driver.IndexDriver - Opening input files: [/usr/local/vufind/local/harvest/KOHA_FL/1531941357_BVZT_FL_UCR_30545.xml]
+2018-07-21 06:57:33,592 [main] INFO  main org.solrmarc.driver.ThreadedIndexer - Done with all indexing, finishing writing records to solr
+2018-07-21 06:57:33,819 [main] INFO  main org.solrmarc.driver.ThreadedIndexer - Done writing records to solr
+2018-07-21 06:57:33,820 [main] INFO  main org.solrmarc.driver.Indexer - Commiting updates to Solr
+2018-07-21 06:57:34,589 [main] INFO  main org.solrmarc.driver.IndexDriver - 1 records read
+2018-07-21 06:57:34,589 [main] INFO  main org.solrmarc.driver.IndexDriver - 1 records indexed  and 
+2018-07-21 06:57:34,589 [main] INFO  main org.solrmarc.driver.IndexDriver - 1 records sent to Solr in 0.34 seconds
+2018-07-21 06:57:34,861 [main] INFO  main org.solrmarc.index.indexer.ValueIndexerFactory - Using directory: /usr/local/vufind/import/index_java as location of java sources
+2018-07-21 06:57:34,864 [main] INFO  main org.solrmarc.index.indexer.ValueIndexerFactory - Using directory: /usr/local/vufind/harvest/../import/index_java as location of java sources
+2018-07-21 06:57:35,290 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/vufind.properties
+2018-07-21 06:57:35,301 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/import_KOHA_FL.properties
+2018-07-21 06:57:35,417 [main] DEBUG main org.solrmarc.solr.SolrCoreLoader - Found Solrj class org.apache.solr.client.solrj.impl.HttpSolrClient
+2018-07-21 06:57:35,553 [main] INFO  main org.solrmarc.driver.IndexDriver - Reading and compiling index specifications: marc.properties, marc_KOHA_FL.properties
+2018-07-21 06:57:35,554 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/marc.properties
+2018-07-21 06:57:35,554 [main] INFO  main org.solrmarc.driver.IndexDriver - Opening index spec file: /usr/local/vufind/import/marc.properties
+2018-07-21 06:57:35,555 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/marc_KOHA_FL.properties
+2018-07-21 06:57:35,555 [main] INFO  main org.solrmarc.driver.IndexDriver - Opening index spec file: /usr/local/vufind/import/marc_KOHA_FL.properties
+2018-07-21 06:57:35,593 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/language_map.properties
+2018-07-21 06:57:35,596 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/format_map.properties
+2018-07-21 06:57:35,620 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/callnumber_map.properties
+2018-07-21 06:57:35,621 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/callnumber_subject_map.properties
+2018-07-21 06:57:35,643 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/ddc22_map.properties
+2018-07-21 06:57:35,661 [main] INFO  main org.solrmarc.driver.IndexDriver - Opening input files: [/usr/local/vufind/local/harvest/KOHA_FL/1531941357_BVZT_FL_UCR_30546.xml]
+2018-07-21 06:57:35,759 [main] INFO  main org.solrmarc.driver.ThreadedIndexer - Done with all indexing, finishing writing records to solr
+2018-07-21 06:57:35,879 [main] INFO  main org.solrmarc.driver.ThreadedIndexer - Done writing records to solr
+2018-07-21 06:57:35,880 [main] INFO  main org.solrmarc.driver.Indexer - Commiting updates to Solr
+2018-07-21 06:57:36,382 [main] INFO  main org.solrmarc.driver.IndexDriver - 1 records read
+2018-07-21 06:57:36,383 [main] INFO  main org.solrmarc.driver.IndexDriver - 1 records indexed  and 
+2018-07-21 06:57:36,383 [main] INFO  main org.solrmarc.driver.IndexDriver - 1 records sent to Solr in 0.20 seconds
+2018-07-21 06:57:36,769 [main] INFO  main org.solrmarc.index.indexer.ValueIndexerFactory - Using directory: /usr/local/vufind/import/index_java as location of java sources
+2018-07-21 06:57:36,772 [main] INFO  main org.solrmarc.index.indexer.ValueIndexerFactory - Using directory: /usr/local/vufind/harvest/../import/index_java as location of java sources
+2018-07-21 06:57:37,259 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/vufind.properties
+2018-07-21 06:57:37,277 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/import_KOHA_FL.properties
+2018-07-21 06:57:37,461 [main] DEBUG main org.solrmarc.solr.SolrCoreLoader - Found Solrj class org.apache.solr.client.solrj.impl.HttpSolrClient
+2018-07-21 06:57:37,652 [main] INFO  main org.solrmarc.driver.IndexDriver - Reading and compiling index specifications: marc.properties, marc_KOHA_FL.properties
+2018-07-21 06:57:37,653 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/marc.properties
+2018-07-21 06:57:37,653 [main] INFO  main org.solrmarc.driver.IndexDriver - Opening index spec file: /usr/local/vufind/import/marc.properties
+2018-07-21 06:57:37,653 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/marc_KOHA_FL.properties
+2018-07-21 06:57:37,654 [main] INFO  main org.solrmarc.driver.IndexDriver - Opening index spec file: /usr/local/vufind/import/marc_KOHA_FL.properties
+2018-07-21 06:57:37,694 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/language_map.properties
+2018-07-21 06:57:37,697 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/format_map.properties
+2018-07-21 06:57:37,715 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/callnumber_map.properties
+2018-07-21 06:57:37,716 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/callnumber_subject_map.properties
+2018-07-21 06:57:37,735 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/ddc22_map.properties
+2018-07-21 06:57:37,765 [main] INFO  main org.solrmarc.driver.IndexDriver - Opening input files: [/usr/local/vufind/local/harvest/KOHA_FL/1531941357_BVZT_FL_UCR_30547.xml]
+2018-07-21 06:57:37,868 [main] INFO  main org.solrmarc.driver.ThreadedIndexer - Done with all indexing, finishing writing records to solr
+2018-07-21 06:57:37,989 [main] INFO  main org.solrmarc.driver.ThreadedIndexer - Done writing records to solr
+2018-07-21 06:57:37,989 [main] INFO  main org.solrmarc.driver.Indexer - Commiting updates to Solr
+2018-07-21 06:57:38,492 [main] INFO  main org.solrmarc.driver.IndexDriver - 1 records read
+2018-07-21 06:57:38,492 [main] INFO  main org.solrmarc.driver.IndexDriver - 1 records indexed  and 
+2018-07-21 06:57:38,492 [main] INFO  main org.solrmarc.driver.IndexDriver - 1 records sent to Solr in 0.21 seconds
+2018-07-21 06:57:38,783 [main] INFO  main org.solrmarc.index.indexer.ValueIndexerFactory - Using directory: /usr/local/vufind/import/index_java as location of java sources
+2018-07-21 06:57:38,787 [main] INFO  main org.solrmarc.index.indexer.ValueIndexerFactory - Using directory: /usr/local/vufind/harvest/../import/index_java as location of java sources
+2018-07-21 06:57:39,241 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/vufind.properties
+2018-07-21 06:57:39,260 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/import_KOHA_FL.properties
+2018-07-21 06:57:39,377 [main] DEBUG main org.solrmarc.solr.SolrCoreLoader - Found Solrj class org.apache.solr.client.solrj.impl.HttpSolrClient
+2018-07-21 06:57:39,547 [main] INFO  main org.solrmarc.driver.IndexDriver - Reading and compiling index specifications: marc.properties, marc_KOHA_FL.properties
+2018-07-21 06:57:39,548 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/marc.properties
+2018-07-21 06:57:39,548 [main] INFO  main org.solrmarc.driver.IndexDriver - Opening index spec file: /usr/local/vufind/import/marc.properties
+2018-07-21 06:57:39,548 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/marc_KOHA_FL.properties
+2018-07-21 06:57:39,548 [main] INFO  main org.solrmarc.driver.IndexDriver - Opening index spec file: /usr/local/vufind/import/marc_KOHA_FL.properties
+2018-07-21 06:57:39,589 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/language_map.properties
+2018-07-21 06:57:39,593 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/format_map.properties
+2018-07-21 06:57:39,610 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/callnumber_map.properties
+2018-07-21 06:57:39,611 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/callnumber_subject_map.properties
+2018-07-21 06:57:39,620 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/ddc22_map.properties
+2018-07-21 06:57:39,639 [main] INFO  main org.solrmarc.driver.IndexDriver - Opening input files: [/usr/local/vufind/local/harvest/KOHA_FL/1531941357_BVZT_FL_UCR_30548.xml]
+2018-07-21 06:57:39,713 [main] INFO  main org.solrmarc.driver.ThreadedIndexer - Done with all indexing, finishing writing records to solr
+2018-07-21 06:57:39,838 [main] INFO  main org.solrmarc.driver.ThreadedIndexer - Done writing records to solr
+2018-07-21 06:57:39,839 [main] INFO  main org.solrmarc.driver.Indexer - Commiting updates to Solr
+2018-07-21 06:57:40,350 [main] INFO  main org.solrmarc.driver.IndexDriver - 1 records read
+2018-07-21 06:57:40,351 [main] INFO  main org.solrmarc.driver.IndexDriver - 1 records indexed  and 
+2018-07-21 06:57:40,352 [main] INFO  main org.solrmarc.driver.IndexDriver - 1 records sent to Solr in 0.19 seconds
+2018-07-21 06:57:40,770 [main] INFO  main org.solrmarc.index.indexer.ValueIndexerFactory - Using directory: /usr/local/vufind/import/index_java as location of java sources
+2018-07-21 06:57:40,773 [main] INFO  main org.solrmarc.index.indexer.ValueIndexerFactory - Using directory: /usr/local/vufind/harvest/../import/index_java as location of java sources
+2018-07-21 06:57:41,138 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/vufind.properties
+2018-07-21 06:57:41,144 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/import_KOHA_FL.properties
+2018-07-21 06:57:41,248 [main] DEBUG main org.solrmarc.solr.SolrCoreLoader - Found Solrj class org.apache.solr.client.solrj.impl.HttpSolrClient
+2018-07-21 06:57:41,371 [main] INFO  main org.solrmarc.driver.IndexDriver - Reading and compiling index specifications: marc.properties, marc_KOHA_FL.properties
+2018-07-21 06:57:41,372 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/marc.properties
+2018-07-21 06:57:41,372 [main] INFO  main org.solrmarc.driver.IndexDriver - Opening index spec file: /usr/local/vufind/import/marc.properties
+2018-07-21 06:57:41,373 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/marc_KOHA_FL.properties
+2018-07-21 06:57:41,373 [main] INFO  main org.solrmarc.driver.IndexDriver - Opening index spec file: /usr/local/vufind/import/marc_KOHA_FL.properties
+2018-07-21 06:57:41,412 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/language_map.properties
+2018-07-21 06:57:41,415 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/format_map.properties
+2018-07-21 06:57:41,433 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/callnumber_map.properties
+2018-07-21 06:57:41,434 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/callnumber_subject_map.properties
+2018-07-21 06:57:41,443 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/ddc22_map.properties
+2018-07-21 06:57:41,461 [main] INFO  main org.solrmarc.driver.IndexDriver - Opening input files: [/usr/local/vufind/local/harvest/KOHA_FL/1531941357_BVZT_FL_UCR_30549.xml]
+2018-07-21 06:57:41,550 [main] INFO  main org.solrmarc.driver.ThreadedIndexer - Done with all indexing, finishing writing records to solr
+2018-07-21 06:57:41,671 [main] INFO  main org.solrmarc.driver.ThreadedIndexer - Done writing records to solr
+2018-07-21 06:57:41,672 [main] INFO  main org.solrmarc.driver.Indexer - Commiting updates to Solr
+2018-07-21 06:57:42,250 [main] INFO  main org.solrmarc.driver.IndexDriver - 1 records read
+2018-07-21 06:57:42,251 [main] INFO  main org.solrmarc.driver.IndexDriver - 1 records indexed  and 
+2018-07-21 06:57:42,251 [main] INFO  main org.solrmarc.driver.IndexDriver - 1 records sent to Solr in 0.20 seconds
+2018-07-21 06:57:42,734 [main] INFO  main org.solrmarc.index.indexer.ValueIndexerFactory - Using directory: /usr/local/vufind/import/index_java as location of java sources
+2018-07-21 06:57:42,736 [main] INFO  main org.solrmarc.index.indexer.ValueIndexerFactory - Using directory: /usr/local/vufind/harvest/../import/index_java as location of java sources
+2018-07-21 06:57:43,311 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/vufind.properties
+2018-07-21 06:57:43,317 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/import_KOHA_FL.properties
+2018-07-21 06:57:43,426 [main] DEBUG main org.solrmarc.solr.SolrCoreLoader - Found Solrj class org.apache.solr.client.solrj.impl.HttpSolrClient
+2018-07-21 06:57:43,550 [main] INFO  main org.solrmarc.driver.IndexDriver - Reading and compiling index specifications: marc.properties, marc_KOHA_FL.properties
+2018-07-21 06:57:43,550 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/marc.properties
+2018-07-21 06:57:43,551 [main] INFO  main org.solrmarc.driver.IndexDriver - Opening index spec file: /usr/local/vufind/import/marc.properties
+2018-07-21 06:57:43,551 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/marc_KOHA_FL.properties
+2018-07-21 06:57:43,551 [main] INFO  main org.solrmarc.driver.IndexDriver - Opening index spec file: /usr/local/vufind/import/marc_KOHA_FL.properties
+2018-07-21 06:57:43,590 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/language_map.properties
+2018-07-21 06:57:43,593 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/format_map.properties
+2018-07-21 06:57:43,611 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/callnumber_map.properties
+2018-07-21 06:57:43,612 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/callnumber_subject_map.properties
+2018-07-21 06:57:43,621 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/ddc22_map.properties
+2018-07-21 06:57:43,639 [main] INFO  main org.solrmarc.driver.IndexDriver - Opening input files: [/usr/local/vufind/local/harvest/KOHA_FL/1531941357_BVZT_FL_UCR_30550.xml]
+2018-07-21 06:57:43,714 [main] INFO  main org.solrmarc.driver.ThreadedIndexer - Done with all indexing, finishing writing records to solr
+2018-07-21 06:57:43,828 [main] INFO  main org.solrmarc.driver.ThreadedIndexer - Done writing records to solr
+2018-07-21 06:57:43,829 [main] INFO  main org.solrmarc.driver.Indexer - Commiting updates to Solr
+2018-07-21 06:57:44,299 [main] INFO  main org.solrmarc.driver.IndexDriver - 1 records read
+2018-07-21 06:57:44,300 [main] INFO  main org.solrmarc.driver.IndexDriver - 1 records indexed  and 
+2018-07-21 06:57:44,300 [main] INFO  main org.solrmarc.driver.IndexDriver - 1 records sent to Solr in 0.18 seconds
+2018-07-21 06:57:44,837 [main] INFO  main org.solrmarc.index.indexer.ValueIndexerFactory - Using directory: /usr/local/vufind/import/index_java as location of java sources
+2018-07-21 06:57:44,840 [main] INFO  main org.solrmarc.index.indexer.ValueIndexerFactory - Using directory: /usr/local/vufind/harvest/../import/index_java as location of java sources
+2018-07-21 06:57:45,263 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/vufind.properties
+2018-07-21 06:57:45,278 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/import_KOHA_FL.properties
+2018-07-21 06:57:45,399 [main] DEBUG main org.solrmarc.solr.SolrCoreLoader - Found Solrj class org.apache.solr.client.solrj.impl.HttpSolrClient
+2018-07-21 06:57:45,531 [main] INFO  main org.solrmarc.driver.IndexDriver - Reading and compiling index specifications: marc.properties, marc_KOHA_FL.properties
+2018-07-21 06:57:45,532 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/marc.properties
+2018-07-21 06:57:45,532 [main] INFO  main org.solrmarc.driver.IndexDriver - Opening index spec file: /usr/local/vufind/import/marc.properties
+2018-07-21 06:57:45,533 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/marc_KOHA_FL.properties
+2018-07-21 06:57:45,533 [main] INFO  main org.solrmarc.driver.IndexDriver - Opening index spec file: /usr/local/vufind/import/marc_KOHA_FL.properties
+2018-07-21 06:57:45,572 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/language_map.properties
+2018-07-21 06:57:45,575 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/format_map.properties
+2018-07-21 06:57:45,593 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/callnumber_map.properties
+2018-07-21 06:57:45,595 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/callnumber_subject_map.properties
+2018-07-21 06:57:45,605 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/ddc22_map.properties
+2018-07-21 06:57:45,627 [main] INFO  main org.solrmarc.driver.IndexDriver - Opening input files: [/usr/local/vufind/local/harvest/KOHA_FL/1531941357_BVZT_FL_UCR_30551.xml]
+2018-07-21 06:57:45,721 [main] INFO  main org.solrmarc.driver.ThreadedIndexer - Done with all indexing, finishing writing records to solr
+2018-07-21 06:57:45,836 [main] INFO  main org.solrmarc.driver.ThreadedIndexer - Done writing records to solr
+2018-07-21 06:57:45,837 [main] INFO  main org.solrmarc.driver.Indexer - Commiting updates to Solr
+2018-07-21 06:57:46,313 [main] INFO  main org.solrmarc.driver.IndexDriver - 1 records read
+2018-07-21 06:57:46,313 [main] INFO  main org.solrmarc.driver.IndexDriver - 1 records indexed  and 
+2018-07-21 06:57:46,313 [main] INFO  main org.solrmarc.driver.IndexDriver - 1 records sent to Solr in 0.20 seconds
+2018-07-21 06:57:46,631 [main] INFO  main org.solrmarc.index.indexer.ValueIndexerFactory - Using directory: /usr/local/vufind/import/index_java as location of java sources
+2018-07-21 06:57:46,634 [main] INFO  main org.solrmarc.index.indexer.ValueIndexerFactory - Using directory: /usr/local/vufind/harvest/../import/index_java as location of java sources
+2018-07-21 06:57:47,047 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/vufind.properties
+2018-07-21 06:57:47,053 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/import_KOHA_FL.properties
+2018-07-21 06:57:47,175 [main] DEBUG main org.solrmarc.solr.SolrCoreLoader - Found Solrj class org.apache.solr.client.solrj.impl.HttpSolrClient
+2018-07-21 06:57:47,316 [main] INFO  main org.solrmarc.driver.IndexDriver - Reading and compiling index specifications: marc.properties, marc_KOHA_FL.properties
+2018-07-21 06:57:47,317 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/marc.properties
+2018-07-21 06:57:47,318 [main] INFO  main org.solrmarc.driver.IndexDriver - Opening index spec file: /usr/local/vufind/import/marc.properties
+2018-07-21 06:57:47,318 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/marc_KOHA_FL.properties
+2018-07-21 06:57:47,318 [main] INFO  main org.solrmarc.driver.IndexDriver - Opening index spec file: /usr/local/vufind/import/marc_KOHA_FL.properties
+2018-07-21 06:57:47,357 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/language_map.properties
+2018-07-21 06:57:47,361 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/format_map.properties
+2018-07-21 06:57:47,378 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/callnumber_map.properties
+2018-07-21 06:57:47,379 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/callnumber_subject_map.properties
+2018-07-21 06:57:47,389 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/ddc22_map.properties
+2018-07-21 06:57:47,412 [main] INFO  main org.solrmarc.driver.IndexDriver - Opening input files: [/usr/local/vufind/local/harvest/KOHA_FL/1531941357_BVZT_FL_UCR_30552.xml]
+2018-07-21 06:57:47,495 [main] INFO  main org.solrmarc.driver.ThreadedIndexer - Done with all indexing, finishing writing records to solr
+2018-07-21 06:57:47,625 [main] INFO  main org.solrmarc.driver.ThreadedIndexer - Done writing records to solr
+2018-07-21 06:57:47,626 [main] INFO  main org.solrmarc.driver.Indexer - Commiting updates to Solr
+2018-07-21 06:57:48,104 [main] INFO  main org.solrmarc.driver.IndexDriver - 1 records read
+2018-07-21 06:57:48,105 [main] INFO  main org.solrmarc.driver.IndexDriver - 1 records indexed  and 
+2018-07-21 06:57:48,105 [main] INFO  main org.solrmarc.driver.IndexDriver - 1 records sent to Solr in 0.20 seconds
+2018-07-21 06:57:48,520 [main] INFO  main org.solrmarc.index.indexer.ValueIndexerFactory - Using directory: /usr/local/vufind/import/index_java as location of java sources
+2018-07-21 06:57:48,523 [main] INFO  main org.solrmarc.index.indexer.ValueIndexerFactory - Using directory: /usr/local/vufind/harvest/../import/index_java as location of java sources
+2018-07-21 06:57:49,056 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/vufind.properties
+2018-07-21 06:57:49,062 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/import_KOHA_FL.properties
+2018-07-21 06:57:49,165 [main] DEBUG main org.solrmarc.solr.SolrCoreLoader - Found Solrj class org.apache.solr.client.solrj.impl.HttpSolrClient
+2018-07-21 06:57:49,289 [main] INFO  main org.solrmarc.driver.IndexDriver - Reading and compiling index specifications: marc.properties, marc_KOHA_FL.properties
+2018-07-21 06:57:49,289 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/marc.properties
+2018-07-21 06:57:49,290 [main] INFO  main org.solrmarc.driver.IndexDriver - Opening index spec file: /usr/local/vufind/import/marc.properties
+2018-07-21 06:57:49,290 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/marc_KOHA_FL.properties
+2018-07-21 06:57:49,290 [main] INFO  main org.solrmarc.driver.IndexDriver - Opening index spec file: /usr/local/vufind/import/marc_KOHA_FL.properties
+2018-07-21 06:57:49,330 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/language_map.properties
+2018-07-21 06:57:49,333 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/format_map.properties
+2018-07-21 06:57:49,350 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/callnumber_map.properties
+2018-07-21 06:57:49,351 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/callnumber_subject_map.properties
+2018-07-21 06:57:49,361 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/ddc22_map.properties
+2018-07-21 06:57:49,379 [main] INFO  main org.solrmarc.driver.IndexDriver - Opening input files: [/usr/local/vufind/local/harvest/KOHA_FL/1531941357_BVZT_FL_UCR_30553.xml]
+2018-07-21 06:57:49,473 [main] INFO  main org.solrmarc.driver.ThreadedIndexer - Done with all indexing, finishing writing records to solr
+2018-07-21 06:57:49,586 [main] INFO  main org.solrmarc.driver.ThreadedIndexer - Done writing records to solr
+2018-07-21 06:57:49,587 [main] INFO  main org.solrmarc.driver.Indexer - Commiting updates to Solr
+2018-07-21 06:57:50,172 [main] INFO  main org.solrmarc.driver.IndexDriver - 1 records read
+2018-07-21 06:57:50,173 [main] INFO  main org.solrmarc.driver.IndexDriver - 1 records indexed  and 
+2018-07-21 06:57:50,173 [main] INFO  main org.solrmarc.driver.IndexDriver - 1 records sent to Solr in 0.19 seconds
+2018-07-21 06:57:50,625 [main] INFO  main org.solrmarc.index.indexer.ValueIndexerFactory - Using directory: /usr/local/vufind/import/index_java as location of java sources
+2018-07-21 06:57:50,628 [main] INFO  main org.solrmarc.index.indexer.ValueIndexerFactory - Using directory: /usr/local/vufind/harvest/../import/index_java as location of java sources
+2018-07-21 06:57:51,016 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/vufind.properties
+2018-07-21 06:57:51,023 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/import_KOHA_FL.properties
+2018-07-21 06:57:51,127 [main] DEBUG main org.solrmarc.solr.SolrCoreLoader - Found Solrj class org.apache.solr.client.solrj.impl.HttpSolrClient
+2018-07-21 06:57:51,250 [main] INFO  main org.solrmarc.driver.IndexDriver - Reading and compiling index specifications: marc.properties, marc_KOHA_FL.properties
+2018-07-21 06:57:51,250 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/marc.properties
+2018-07-21 06:57:51,251 [main] INFO  main org.solrmarc.driver.IndexDriver - Opening index spec file: /usr/local/vufind/import/marc.properties
+2018-07-21 06:57:51,251 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/marc_KOHA_FL.properties
+2018-07-21 06:57:51,251 [main] INFO  main org.solrmarc.driver.IndexDriver - Opening index spec file: /usr/local/vufind/import/marc_KOHA_FL.properties
+2018-07-21 06:57:51,289 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/language_map.properties
+2018-07-21 06:57:51,293 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/format_map.properties
+2018-07-21 06:57:51,310 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/callnumber_map.properties
+2018-07-21 06:57:51,311 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/callnumber_subject_map.properties
+2018-07-21 06:57:51,320 [main] INFO  main org.solrmarc.tools.PropertyUtils - Opening file (instead of 1 other options): /usr/local/vufind/import/translation_maps/ddc22_map.properties
+2018-07-21 06:57:51,337 [main] INFO  main org.solrmarc.driver.IndexDriver - Opening input files: [/usr/local/vufind/local/harvest/KOHA_FL/1531941357_BVZT_FL_UCR_30554.xml]
+2018-07-21 06:57:51,418 [main] INFO  main org.solrmarc.driver.ThreadedIndexer - Done with all indexing, finishing writing records to solr
+2018-07-21 06:57:51,530 [main] INFO  main org.solrmarc.driver.ThreadedIndexer - Done writing records to solr
+2018-07-21 06:57:51,530 [main] INFO  main org.solrmarc.driver.Indexer - Commiting updates to Solr
+2018-07-21 06:57:52,034 [main] INFO  main org.solrmarc.driver.IndexDriver - 1 records read
+2018-07-21 06:57:52,035 [main] INFO  main org.solrmarc.driver.IndexDriver - 1 records indexed  and 
+2018-07-21 06:57:52,035 [main] INFO  main org.solrmarc.driver.IndexDriver - 1 records sent to Solr in 0.18 seconds

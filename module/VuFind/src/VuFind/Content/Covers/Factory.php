@@ -2,7 +2,7 @@
 /**
  * Factory for instantiating content loaders
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2009.
  *
@@ -26,7 +26,6 @@
  * @link     https://vufind.org/wiki/development Wiki
  */
 namespace VuFind\Content\Covers;
-
 use Zend\ServiceManager\ServiceManager;
 
 /**
@@ -51,7 +50,7 @@ class Factory
      */
     public static function getAmazon(ServiceManager $sm)
     {
-        $config = $sm->get('VuFind\Config\PluginManager')->get('config');
+        $config = $sm->getServiceLocator()->get('VuFind\Config')->get('config');
         $associate = isset($config->Content->amazonassociate)
             ? $config->Content->amazonassociate : null;
         $secret = isset($config->Content->amazonsecret)
@@ -68,7 +67,7 @@ class Factory
      */
     public static function getBooksite(ServiceManager $sm)
     {
-        $config = $sm->get('VuFind\Config\PluginManager')->get('config');
+        $config = $sm->getServiceLocator()->get('VuFind\Config')->get('config');
         $url = isset($config->Booksite->url)
             ? $config->Booksite->url : 'https://api.booksite.com';
         if (!isset($config->Booksite->key)) {
@@ -86,7 +85,7 @@ class Factory
      */
     public static function getBuchhandel(ServiceManager $sm)
     {
-        $config = $sm->get('VuFind\Config\PluginManager')->get('config');
+        $config = $sm->getServiceLocator()->get('VuFind\Config')->get('config');
         $url = isset($config->Buchhandel->url)
             ? trim($config->Buchhandel->url, '/') . '/'
             : 'https://api.vlb.de/api/v1/cover/';
@@ -105,7 +104,7 @@ class Factory
      */
     public static function getContentCafe(ServiceManager $sm)
     {
-        $config = $sm->get('VuFind\Config\PluginManager')->get('config');
+        $config = $sm->getServiceLocator()->get('VuFind\Config')->get('config');
         $finalConfig = isset($config->Contentcafe)
             ? $config->Contentcafe : new \Zend\Config\Config([]);
         return new ContentCafe($finalConfig);
@@ -120,7 +119,7 @@ class Factory
      */
     public static function getSyndetics(ServiceManager $sm)
     {
-        $config = $sm->get('VuFind\Config\PluginManager')->get('config');
+        $config = $sm->getServiceLocator()->get('VuFind\Config')->get('config');
         return new Syndetics(
             isset($config->Syndetics->use_ssl) && $config->Syndetics->use_ssl
         );

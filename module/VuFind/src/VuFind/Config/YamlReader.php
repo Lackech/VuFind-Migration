@@ -2,7 +2,7 @@
 /**
  * VuFind YAML Configuration Reader
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -26,7 +26,6 @@
  * @link     https://vufind.org Main Site
  */
 namespace VuFind\Config;
-
 use Symfony\Component\Yaml\Yaml;
 
 /**
@@ -144,14 +143,7 @@ class YamlReader
 
         // Override default parent with explicitly-defined parent, if present:
         if (isset($results['@parent_yaml'])) {
-            // First try parent as absolute path, then as relative:
-            $defaultParent = file_exists($results['@parent_yaml'])
-                ? $results['@parent_yaml']
-                : dirname($file) . '/' . $results['@parent_yaml'];
-            if (!file_exists($defaultParent)) {
-                $defaultParent = null;
-                error_log('Cannot find parent file: ' . $results['@parent_yaml']);
-            }
+            $defaultParent = $results['@parent_yaml'];
             // Swallow the directive after processing it:
             unset($results['@parent_yaml']);
         }

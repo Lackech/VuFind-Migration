@@ -3,7 +3,7 @@
 /**
  * ZF2 module definition for the VF2 search service.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -31,7 +31,7 @@ namespace VuFindSearch;
 /**
  * ZF2 module definition for the VF2 search service.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *

@@ -2,7 +2,7 @@
 /**
  * VuFind dynamic role provider.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2007.
  *
@@ -26,9 +26,8 @@
  * @link     https://vufind.org Main Page
  */
 namespace VuFind\Role;
-
-use Rbac\Role\Role;
 use ZfcRbac\Role\RoleProviderInterface;
+use Rbac\Role\Role;
 
 /**
  * VuFind dynamic role provider.
@@ -184,7 +183,7 @@ class DynamicRoleProvider implements RoleProviderInterface
             $currentRoles = $providerObj->getPermissions($options);
             if ($roles === null) {
                 $roles = $currentRoles;
-            } elseif ($mode == 'ANY') {
+            } else if ($mode == 'ANY') {
                 $roles = array_merge($roles, $currentRoles);
             } else {
                 $roles = array_intersect($roles, $currentRoles);

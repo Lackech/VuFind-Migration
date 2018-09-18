@@ -2,7 +2,7 @@
 /**
  * VuFind "Inject Template" Listener
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -54,18 +54,17 @@ class InjectTemplateListener extends \Zend\Mvc\View\Http\InjectTemplateListener
     }
 
     /**
-     * Strip namespace part off controller name for compatibility with theme
-     * system.
+     * Determine the top-level namespace of the controller
      *
-     * @param string $controller controller FQCN
+     * @param string $controller Controller name
      *
-     * @return string|false template name or false if controller was not matched
+     * @return string
+     *
+     * @SuppressWarnings(PHPMD.UnusedFormalParameter)
      */
-    public function mapController($controller)
+    protected function deriveModuleNamespace($controller)
     {
-        $initial = parent::mapController($controller);
-        $parts = explode('/', $initial);
-        array_shift($parts);
-        return implode('/', $parts);
+        // Namespaces just make the theme system more confusing; ignore them:
+        return '';
     }
 }

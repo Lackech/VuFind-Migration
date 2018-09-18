@@ -2,7 +2,7 @@
 /**
  * Record cache aware marker interface.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) 2014 University of Freiburg.
  *

@@ -2,7 +2,7 @@
 /**
  * Record driver view helper
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -26,8 +26,8 @@
  * @link     https://vufind.org/wiki/development Wiki
  */
 namespace VuFind\View\Helper\Root;
-
 use VuFind\Cover\Router as CoverRouter;
+use Zend\View\Exception\RuntimeException, Zend\View\Helper\AbstractHelper;
 
 /**
  * Record driver view helper
@@ -38,7 +38,7 @@ use VuFind\Cover\Router as CoverRouter;
  * @license  http://opensource.org/licenses/gpl-2.0.php GNU General Public License
  * @link     https://vufind.org/wiki/development Wiki
  */
-class Record extends AbstractClassBasedTemplateRenderer
+class Record extends AbstractHelper
 {
     /**
      * Context view helper
@@ -102,11 +102,41 @@ class Record extends AbstractClassBasedTemplateRenderer
      */
     public function renderTemplate($name, $context = null)
     {
-        $template = 'RecordDriver/%s/' . $name;
+        // Set default context if none provided:
+        if (is_null($context)) {
+            $context = ['driver' => $this->driver];
+        }
+
+        // Set up the needed context in the view:
+        $oldContext = $this->contextHelper->apply($context);
+
+        // Get the current record driver's class name, then start a loop
+        // in case we need to use a parent class' name to find the appropriate
+        // template.
         $className = get_class($this->driver);
-        return $this->renderClassTemplate(
-            $template, $className, $context ?? ['driver' => $this->driver]
-        );
+        $resolver = $this->view->resolver();
+        while (true) {
+            // Guess the template name for the current class:
+            $classParts = explode('\\', $className);
+            $template = 'RecordDriver/' . array_pop($classParts) . '/' . $name;
+            if ($resolver->resolve($template)) {
+                // Try to render the template....
+                $html = $this->view->render($template);
+                $this->contextHelper->restore($oldContext);
+                return $html;
+            } else {
+                // If the template doesn't exist, let's see if we can inherit a
+                // template from a parent class:
+                $className = get_parent_class($className);
+                if (empty($className)) {
+                    // No more parent classes left to try?  Throw an exception!
+                    throw new RuntimeException(
+                        'Cannot find ' . $name . ' template for record driver: ' .
+                        get_class($this->driver)
+                    );
+                }
+            }
+        }
     }
 
     /**
@@ -329,8 +359,7 @@ class Record extends AbstractClassBasedTemplateRenderer
     public function getLink($type, $lookfor)
     {
         $link = $this->renderTemplate(
-            'link-' . $type . '.phtml',
-            ['driver' => $this->driver, 'lookfor' => $lookfor]
+            'link-' . $type . '.phtml', ['lookfor' => $lookfor]
         );
         $link .= $this->getView()->plugin('searchTabs')
             ->getCurrentHiddenFilterParams($this->driver->getSourceIdentifier());
@@ -382,16 +411,16 @@ class Record extends AbstractClassBasedTemplateRenderer
      *
      * @param string $idPrefix Prefix for checkbox HTML ids
      * @param string $formAttr ID of form for [form] attribute
-     * @param int    $number   Result number (for label of checkbox)
      *
      * @return string
      */
-    public function getCheckbox($idPrefix = '', $formAttr = false, $number = null)
+    public function getCheckbox($idPrefix = '', $formAttr = false)
     {
+        static $checkboxCount = 0;
         $id = $this->driver->getSourceIdentifier() . '|'
             . $this->driver->getUniqueId();
         $context
-            = ['id' => $id, 'number' => $number, 'prefix' => $idPrefix];
+            = ['id' => $id, 'count' => $checkboxCount++, 'prefix' => $idPrefix];
         if ($formAttr) {
             $context['formAttr'] = $formAttr;
         }
@@ -531,9 +560,9 @@ class Record extends AbstractClassBasedTemplateRenderer
             return false;
         }
 
-        switch ($context) {
-        case "core":
-        case "results":
+        switch($context) {
+        case "core" :
+        case "results" :
             $key = 'showIn' . ucwords(strtolower($context));
             break;
         default:
@@ -617,7 +646,8 @@ class Record extends AbstractClassBasedTemplateRenderer
 
             // Build URL from route/query details if missing:
             if (!isset($link['url'])) {
-                $routeParams = $link['routeParams'] ?? [];
+                $routeParams = isset($link['routeParams'])
+                    ? $link['routeParams'] : [];
 
                 $link['url'] = $serverUrlHelper(
                     $urlHelper($link['route'], $routeParams)

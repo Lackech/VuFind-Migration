@@ -2,7 +2,7 @@
 /**
  * Merge harvested MARC records into a single <collection>
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (c) Demian Katz 2010.
  *

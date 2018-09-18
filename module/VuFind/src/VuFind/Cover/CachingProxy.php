@@ -2,7 +2,7 @@
 /**
  * Caching Proxy for Cover Images
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2015.
  *
@@ -26,9 +26,7 @@
  * @link     https://vufind.org/wiki/configuration:external_content Wiki
  */
 namespace VuFind\Cover;
-
-use Zend\Http\Client;
-use Zend\Http\Response;
+use Zend\Http\Client, Zend\Http\Response;
 
 /**
  * Caching Proxy for Cover Images

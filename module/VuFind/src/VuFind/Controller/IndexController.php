@@ -2,7 +2,7 @@
 /**
  * Default Controller
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -26,9 +26,8 @@
  * @link     https://vufind.org Main Site
  */
 namespace VuFind\Controller;
-
-use VuFind\Auth\Manager as AuthManager;
 use Zend\Config\Config;
+use VuFind\Auth\Manager as AuthManager;
 
 /**
  * Redirects the user to the appropriate default VuFind action.
@@ -75,20 +74,12 @@ class IndexController extends \Zend\Mvc\Controller\AbstractActionController
      */
     public function homeAction()
     {
-        // Load different configurations depending on whether we're logged in or not:
-        if ($this->authManager->isLoggedIn()) {
-            $controller = isset($this->config->Site->defaultLoggedInModule)
-                ? $this->config->Site->defaultLoggedInModule : 'MyResearch';
-            $actionConfig = 'defaultLoggedInAction';
-        } else {
-            $controller = isset($this->config->Site->defaultModule)
-                ? $this->config->Site->defaultModule : 'Search';
-            $actionConfig = 'defaultAction';
-        }
-        $action = isset($this->config->Site->$actionConfig)
-            ? $this->config->Site->$actionConfig : 'Home';
-
-        // Forward to the appropriate controller and action:
-        return $this->forward()->dispatch($controller, compact('action'));
+        $loggedInModule = isset($this->config->Site->defaultLoggedInModule)
+            ? $this->config->Site->defaultLoggedInModule : 'MyResearch';
+        $loggedOutModule = isset($this->config->Site->defaultModule)
+            ? $this->config->Site->defaultModule : 'Search';
+        $module = $this->authManager->isLoggedIn()
+            ? $loggedInModule : $loggedOutModule;
+        return $this->forward()->dispatch($module, ['action' => 'Home']);
     }
 }

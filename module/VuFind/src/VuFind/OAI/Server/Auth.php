@@ -2,7 +2,7 @@
 /**
  * OAI Server class for Authority core
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -26,7 +26,6 @@
  * @link     https://vufind.org/wiki/development Wiki
  */
 namespace VuFind\OAI\Server;
-
 use VuFind\OAI\Server as Base;
 
 /**

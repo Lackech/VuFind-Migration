@@ -2,7 +2,7 @@
 /**
  * Facet-driven channel provider.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2016.
  *
@@ -26,11 +26,9 @@
  * @link     https://vufind.org/wiki/development Wiki
  */
 namespace VuFind\ChannelProvider;
-
 use VuFind\I18n\Translator\TranslatorAwareInterface;
 use VuFind\RecordDriver\AbstractBase as RecordDriver;
-use VuFind\Search\Base\Params;
-use VuFind\Search\Base\Results;
+use VuFind\Search\Base\Params, VuFind\Search\Base\Results;
 use VuFind\Search\Results\PluginManager as ResultsManager;
 use Zend\Mvc\Controller\Plugin\Url;
 
@@ -105,11 +103,14 @@ class Facets extends AbstractChannelProvider
      */
     public function setOptions(array $options)
     {
-        $this->fields = $options['fields']
-            ?? ['topic_facet' => 'Topic', 'author_facet' => 'Author'];
-        $this->maxFieldsToSuggest = $options['maxFieldsToSuggest'] ?? 2;
+        $this->fields = isset($options['fields'])
+            ? $options['fields']
+            : ['topic_facet' => 'Topic', 'author_facet' => 'Author'];
+        $this->maxFieldsToSuggest = isset($options['maxFieldsToSuggest'])
+            ? $options['maxFieldsToSuggest'] : 2;
         $this->maxValuesToSuggestPerField
-            = $options['maxValuesToSuggestPerField'] ?? 2;
+            = isset($options['maxValuesToSuggestPerField'])
+            ? $options['maxValuesToSuggestPerField'] : 2;
     }
 
     /**
@@ -252,7 +253,7 @@ class Facets extends AbstractChannelProvider
             return $retVal;
         }
 
-        $newResults = clone $results;
+        $newResults = clone($results);
         $params = $newResults->getParams();
 
         // Determine the filter for the current channel, and add it:

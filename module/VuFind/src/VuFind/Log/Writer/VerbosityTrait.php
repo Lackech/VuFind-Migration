@@ -2,7 +2,7 @@
 /**
  * Trait to add configurable verbosity settings to loggers
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2016.
  *

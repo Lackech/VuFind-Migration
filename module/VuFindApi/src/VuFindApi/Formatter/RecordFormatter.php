@@ -2,7 +2,7 @@
 /**
  * Record formatter for API responses
  *
- * PHP version 7
+ * PHP Version 5
  *
  * Copyright (C) The National Library of Finland 2015-2016.
  *
@@ -26,7 +26,6 @@
  * @link     https://vufind.org/wiki/development:plugins:controllers Wiki
  */
 namespace VuFindApi\Formatter;
-
 use VuFind\I18n\TranslatableString;
 use Zend\View\HelperPluginManager;
 
@@ -114,7 +113,7 @@ class RecordFormatter extends BaseFormatter
             return $xml;
         }
         $rawData = $record->tryMethod('getRawData');
-        return $rawData['fullrecord'] ?? null;
+        return isset($rawData['fullrecord']) ? $rawData['fullrecord'] : null;
     }
 
     /**
@@ -156,7 +155,7 @@ class RecordFormatter extends BaseFormatter
      */
     protected function getURLs($record)
     {
-        $recordHelper = $this->helperManager->get('record');
+        $recordHelper = $this->helperManager->get('Record');
         return $recordHelper($record)->getLinkDetails();
     }
 

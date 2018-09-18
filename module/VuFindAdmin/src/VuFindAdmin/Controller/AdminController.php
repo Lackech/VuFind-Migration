@@ -2,7 +2,7 @@
 /**
  * Admin Controller
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -58,7 +58,7 @@ class AdminController extends AbstractAdmin
         $config = $this->getConfig();
         $xml = false;
         if (isset($config->Index->url)) {
-            $response = $this->serviceLocator->get('VuFindHttp\HttpService')
+            $response = $this->serviceLocator->get('VuFind\Http')
                 ->get($config->Index->url . '/admin/cores');
             $xml = $response->isSuccess() ? $response->getBody() : false;
         }

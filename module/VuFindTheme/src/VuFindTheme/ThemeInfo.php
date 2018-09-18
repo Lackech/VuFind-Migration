@@ -2,7 +2,7 @@
 /**
  * Class to represent currently-selected theme and related information.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -212,8 +212,9 @@ class ThemeInfo
 
         while (!empty($currentTheme)) {
             $currentThemeSet = array_merge(
-                (array)$currentTheme,
-                $allThemeInfo[$currentTheme]['mixins'] ?? []
+                (array) $currentTheme,
+                isset($allThemeInfo[$currentTheme]['mixins'])
+                    ? $allThemeInfo[$currentTheme]['mixins'] : []
             );
             foreach ($currentThemeSet as $theme) {
                 foreach ($allPaths as $currentPath) {

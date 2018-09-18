@@ -2,7 +2,7 @@
 /**
  * SimpleXML Test Class
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -36,7 +36,7 @@ namespace VuFindTest;
  * @license  http://opensource.org/licenses/gpl-2.0.php GNU General Public License
  * @link     https://vufind.org/wiki/development:testing:unit_tests Wiki
  */
-class SimpleXMLTest extends \PHPUnit\Framework\TestCase
+class SimpleXMLTest extends \PHPUnit_Framework_TestCase
 {
     /**
      * Test attaching one item to another.

@@ -3,7 +3,7 @@
 /**
  * Summon backend.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -29,20 +29,20 @@
 namespace VuFindSearch\Backend\Summon;
 
 use SerialsSolutions\Summon\Zend2 as Connector;
-use SerialsSolutions_Summon_Exception as SummonException;
 use SerialsSolutions_Summon_Query as SummonQuery;
+use SerialsSolutions_Summon_Exception as SummonException;
 
-use VuFindSearch\Backend\AbstractBackend;
+use VuFindSearch\Query\AbstractQuery;
 
-use VuFindSearch\Backend\Exception\BackendException;
+use VuFindSearch\ParamBag;
 
 use VuFindSearch\Feature\RetrieveBatchInterface;
 
-use VuFindSearch\ParamBag;
-use VuFindSearch\Query\AbstractQuery;
-
-use VuFindSearch\Response\RecordCollectionFactoryInterface;
 use VuFindSearch\Response\RecordCollectionInterface;
+use VuFindSearch\Response\RecordCollectionFactoryInterface;
+
+use VuFindSearch\Backend\AbstractBackend;
+use VuFindSearch\Backend\Exception\BackendException;
 
 /**
  * Summon backend.
@@ -266,7 +266,7 @@ class Backend extends AbstractBackend implements RetrieveBatchInterface
         $params = $params->getArrayCopy();
 
         // Extract the query:
-        $query = $params['query'][0] ?? null;
+        $query = isset($params['query'][0]) ? $params['query'][0] : null;
         unset($params['query']);
 
         // Convert the options:

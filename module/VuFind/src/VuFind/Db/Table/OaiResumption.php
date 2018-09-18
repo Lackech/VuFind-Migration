@@ -2,7 +2,7 @@
 /**
  * Table Definition for oai_resumption
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -26,7 +26,6 @@
  * @link     https://vufind.org Main Site
  */
 namespace VuFind\Db\Table;
-
 use VuFind\Db\Row\RowGateway;
 use Zend\Db\Adapter\Adapter;
 

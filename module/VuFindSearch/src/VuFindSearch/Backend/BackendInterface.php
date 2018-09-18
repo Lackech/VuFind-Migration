@@ -3,7 +3,7 @@
 /**
  * Search backend interface definition.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -28,8 +28,8 @@
  */
 namespace VuFindSearch\Backend;
 
-use VuFindSearch\ParamBag;
 use VuFindSearch\Query\AbstractQuery;
+use VuFindSearch\ParamBag;
 
 /**
  * Search backend interface definition.
@@ -81,4 +81,5 @@ interface BackendInterface
      * @return \VuFindSearch\Response\RecordCollectionInterface
      */
     public function retrieve($id, ParamBag $params = null);
+
 }

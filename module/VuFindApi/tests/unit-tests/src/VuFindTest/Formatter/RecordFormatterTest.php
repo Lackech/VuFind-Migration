@@ -3,7 +3,7 @@
 /**
  * Unit tests for record formatter.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2016.
  *
@@ -27,9 +27,8 @@
  * @link     https://vufind.org
  */
 namespace VuFindTest\Formatter;
-
-use VuFind\I18n\TranslatableString;
 use VuFindApi\Formatter\RecordFormatter;
+use VuFind\I18n\TranslatableString;
 
 /**
  * Unit tests for record formatter.
@@ -78,9 +77,7 @@ class RecordFormatterTest extends \VuFindTest\Unit\TestCase
      */
     protected function getHelperPluginManager()
     {
-        $hm = new \Zend\View\HelperPluginManager(
-            $this->createMock('Interop\Container\ContainerInterface')
-        );
+        $hm = new \Zend\View\HelperPluginManager();
         $hm->setService('translate', new \VuFind\View\Helper\Root\Translate());
 
         $mockRecordLink = $this->getMockBuilder('VuFind\View\Helper\Root\RecordLink')

@@ -2,7 +2,7 @@
 /**
  * Tags aspect of the Search Multi-class (Options)
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -54,7 +54,7 @@ class Options extends \VuFind\Search\Base\Options
     public function __construct(\VuFind\Config\PluginManager $configLoader)
     {
         parent::__construct($configLoader);
-        $config = $configLoader->get($this->mainIni);
+        $config = $configLoader->get('config');
         if (isset($config->Social->show_solr_options_in_tag_search)
             && $config->Social->show_solr_options_in_tag_search
         ) {

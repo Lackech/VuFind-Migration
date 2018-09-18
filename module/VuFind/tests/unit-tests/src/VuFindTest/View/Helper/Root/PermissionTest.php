@@ -2,7 +2,7 @@
 /**
  * Permission view helper Test Class
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -27,7 +27,6 @@
  * @link     https://vufind.org/wiki/development:testing:unit_tests Wiki
  */
 namespace VuFindTest\View\Helper\Root;
-
 use VuFind\View\Helper\Root\Permission;
 
 /**
@@ -99,26 +98,24 @@ class PermissionTest  extends \VuFindTest\Unit\ViewHelperTestCase
      * Test the template display
      *
      * @return void
-     *
-     * @expectedException Zend\View\Exception\RuntimeException
      */
     public function testTemplateDisplay()
     {
         // Template does not exist, expect an exception, though
-        $mockPmd = $this->getMockPmd(
-            [
+        $this->setExpectedException('Zend\View\Exception\RuntimeException');
+
+        $mockPmd = $this->getMockPmd([
                 'deniedTemplateBehavior' => [
                     'action' => 'showTemplate',
                     'value' => 'record/displayLogicTest',
                     'params' => [],
                 ],
-            ]
-        );
+            ]);
 
         $helper = new Permission($this->getMockPm(false), $mockPmd);
         $helper->setView($this->getMockView());
 
-        $helper->getAlternateContent('permissionDeniedTemplate');
+        $displayBlock = $helper->getAlternateContent('permissionDeniedTemplate');
     }
 
     /**
@@ -152,8 +149,7 @@ class PermissionTest  extends \VuFindTest\Unit\ViewHelperTestCase
      *
      * @return \VuFind\Role\PermissionDeniedManager
      */
-    protected function getMockPmd($config = false)
-    {
+    protected function getMockPmd($config = false) {
         $mockPmd = $this->getMockBuilder('\VuFind\Role\PermissionDeniedManager')
             ->setConstructorArgs([$this->permissionDeniedConfig])
             ->getMock();
@@ -169,8 +165,7 @@ class PermissionTest  extends \VuFindTest\Unit\ViewHelperTestCase
      *
      * @return \VuFind\Role\PermissionManager
      */
-    protected function getMockPm($isAuthorized = false)
-    {
+    protected function getMockPm($isAuthorized = false) {
         $mockPm = $this->getMockBuilder('\VuFind\Role\PermissionManager')
             ->disableOriginalConstructor()
             ->getMock();

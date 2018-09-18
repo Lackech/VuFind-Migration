@@ -2,7 +2,7 @@
 /**
  * HMAC hash generator
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2007.
  *
@@ -67,7 +67,7 @@ class HMAC
     {
         $str = '';
         foreach ($keysToHash as $key) {
-            $value = $keyValueArray[$key] ?? '';
+            $value = isset($keyValueArray[$key]) ? $keyValueArray[$key] : '';
             $str .= $key . '=' . $value . '|';
         }
         return hash_hmac('md5', $str, $this->hashKey);

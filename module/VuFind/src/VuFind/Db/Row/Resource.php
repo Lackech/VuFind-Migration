@@ -2,7 +2,7 @@
 /**
  * Row Definition for resource
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -26,9 +26,9 @@
  * @link     https://vufind.org Main Site
  */
 namespace VuFind\Db\Row;
-
-use VuFind\Date\DateException;
-use VuFind\Exception\LoginRequired as LoginRequiredException;
+use VuFind\Date\Converter as DateConverter,
+    VuFind\Exception\Date as DateException,
+    VuFind\Exception\LoginRequired as LoginRequiredException;
 
 /**
  * Row Definition for resource
@@ -190,7 +190,7 @@ class Resource extends RowGateway implements \VuFind\Db\Table\DbTableAwareInterf
                 $year = '';
             }
         } else {
-            $year = $dates[0] ?? '';
+            $year = isset($dates[0]) ? $dates[0] : '';
         }
         if (!empty($year)) {
             $this->year = intval($year);

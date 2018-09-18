@@ -2,7 +2,7 @@
 /**
  * Interface for SMS classes.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2009.
  *

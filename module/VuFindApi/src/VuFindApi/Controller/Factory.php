@@ -2,7 +2,7 @@
 /**
  * Factory for controllers.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) The National Library of Finland 2016.
  *
@@ -26,7 +26,6 @@
  * @link     https://vufind.org/wiki/development:plugins:controllers Wiki
  */
 namespace VuFindApi\Controller;
-
 use VuFindApi\Formatter\FacetFormatter;
 use VuFindApi\Formatter\RecordFormatter;
 use Zend\ServiceManager\ServiceManager;
@@ -54,7 +53,7 @@ class Factory
     public static function getApiController(ServiceManager $sm)
     {
         $controller = new ApiController($sm);
-        $controller->addApi($sm->get('ControllerManager')->get('SearchApi'));
+        $controller->addApi($sm->get('SearchApi'));
         return $controller;
     }
 
@@ -67,9 +66,9 @@ class Factory
      */
     public static function getSearchApiController(ServiceManager $sm)
     {
-        $recordFields = $sm->get('VuFind\Config\YamlReader')
-            ->get('SearchApiRecordFields.yaml');
-        $helperManager = $sm->get('ViewHelperManager');
+        $recordFields = $sm->getServiceLocator()
+            ->get('VuFind\YamlReader')->get('SearchApiRecordFields.yaml');
+        $helperManager = $sm->getServiceLocator()->get('ViewHelperManager');
         $rf = new RecordFormatter($recordFields, $helperManager);
         $controller = new SearchApiController($sm, $rf, new FacetFormatter());
         return $controller;

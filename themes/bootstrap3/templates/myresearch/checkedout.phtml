@@ -1,4 +1,4 @@
-<?php
+<?
   // Set up page title:
   $this->headTitle($this->translate('Checked Out Items'));
 
@@ -12,8 +12,8 @@
 
   <?=$this->context($this)->renderInContext('librarycards/selectcard.phtml', ['user' => $this->auth()->isLoggedIn()]); ?>
 
-  <?php if (!empty($this->transactions)): ?>
-    <?php if ($this->renewForm): ?>
+  <? if (!empty($this->transactions)): ?>
+    <? if ($this->renewForm): ?>
     <form name="renewals" method="post" id="renewals">
       <div class="toolbar">
         <div class="checkbox">
@@ -25,45 +25,45 @@
           <input type="submit" class="btn btn-default" id="renewAll" name="renewAll" value="<?=$this->transEsc('renew_all')?>" />
         </div>
       </div>
-    <?php endif; ?>
+    <? endif; ?>
 
-    <?php if ($paginator): ?>
-      <?php
+    <? if ($paginator): ?>
+      <?
         $end = min(
           $paginator->getAbsoluteItemNumber($paginator->getItemCountPerPage()),
           $paginator->getTotalItemCount()
         );
         $transParams = [
           '%%start%%' => $this->localizedNumber($paginator->getAbsoluteItemNumber(1)),
-          '%%end%%' => $this->localizedNumber($end),
+          '%%end%%'   => $this->localizedNumber($end),
           '%%total%%' => $this->localizedNumber($paginator->getTotalItemCount())
         ];
       ?>
       <?=$this->translate('showing_items_of_html', $transParams); ?>
-    <?php endif; ?>
+    <? endif; ?>
 
-    <?php foreach ($hiddenTransactions as $ilsDetails): ?>
-      <?php if (isset($this->renewResult[$ilsDetails['item_id']])): ?>
-        <?php $renewDetails = $this->renewResult[$ilsDetails['item_id']]; ?>
-        <?php $prefix = $ilsDetails['title'] ?? $ilsDetails['item_id']; ?>
-        <?php if (isset($renewDetails['success']) && $renewDetails['success']): ?>
+    <? foreach ($hiddenTransactions as $ilsDetails): ?>
+      <? if (isset($this->renewResult[$ilsDetails['item_id']])): ?>
+        <? $renewDetails = $this->renewResult[$ilsDetails['item_id']]; ?>
+        <? $prefix = isset($ilsDetails['title']) ? $ilsDetails['title'] : $ilsDetails['item_id']; ?>
+        <? if (isset($renewDetails['success']) && $renewDetails['success']): ?>
           <div class="alert alert-success"><?=$this->escapeHtml($prefix . ': ') . $this->transEsc('renew_success')?></div>
-        <?php else: ?>
-          <div class="alert alert-danger"><?=$this->escapeHtml($prefix . ': ') . $this->transEsc('renew_fail')?><?php if (isset($renewDetails['sysMessage'])): ?>: <?=$this->escapeHtml($renewDetails['sysMessage'])?><?php endif; ?></div>
-        <?php endif; ?>
-      <?php endif; ?>
-      <?php if (isset($ilsDetails['renewable']) && $ilsDetails['renewable'] && isset($ilsDetails['renew_details'])): ?>
-        <?php $safeId = preg_replace('/[^a-zA-Z0-9]/', '', $ilsDetails['renew_details']); ?>
+        <? else: ?>
+          <div class="alert alert-danger"><?=$this->escapeHtml($prefix . ': ') . $this->transEsc('renew_fail')?><? if (isset($renewDetails['sysMessage'])): ?>: <?=$this->escapeHtml($renewDetails['sysMessage'])?><? endif; ?></div>
+        <? endif; ?>
+      <? endif; ?>
+      <? if (isset($ilsDetails['renewable']) && $ilsDetails['renewable'] && isset($ilsDetails['renew_details'])): ?>
+        <? $safeId = preg_replace('/[^a-zA-Z0-9]/', '', $ilsDetails['renew_details']); ?>
         <input class="pull-left flip" type="hidden" name="renewAllIDS[]" value="<?=$this->escapeHtmlAttr($ilsDetails['renew_details'])?>" />
-      <?php endif; ?>
-    <?php endforeach; ?>
+      <? endif; ?>
+    <? endforeach; ?>
 
-    <?php $i = 0; foreach ($this->transactions as $resource): ?>
-      <?php $ilsDetails = $resource->getExtraDetail('ils_details'); ?>
+    <? $i = 0; foreach ($this->transactions as $resource): ?>
+      <? $ilsDetails = $resource->getExtraDetail('ils_details'); ?>
       <div id="record<?=$this->escapeHtmlAttr($resource->getUniqueId())?>" class="result">
-        <?php if ($this->renewForm): ?>
-          <?php if (isset($ilsDetails['renewable']) && $ilsDetails['renewable'] && isset($ilsDetails['renew_details'])): ?>
-            <?php $safeId = preg_replace('/[^a-zA-Z0-9]/', '', $ilsDetails['renew_details']); ?>
+        <? if ($this->renewForm): ?>
+          <? if (isset($ilsDetails['renewable']) && $ilsDetails['renewable'] && isset($ilsDetails['renew_details'])): ?>
+            <? $safeId = preg_replace('/[^a-zA-Z0-9]/', '', $ilsDetails['renew_details']); ?>
             <div class="checkbox">
               <label>
                 <input class="checkbox-select-item" type="checkbox" name="renewSelectedIDS[]" value="<?=$this->escapeHtmlAttr($ilsDetails['renew_details'])?>" id="checkbox_<?=$safeId?>" />
@@ -71,10 +71,10 @@
               <input type="hidden" name="selectAllIDS[]" value="<?=$this->escapeHtmlAttr($ilsDetails['renew_details'])?>" />
               <input type="hidden" name="renewAllIDS[]" value="<?=$this->escapeHtmlAttr($ilsDetails['renew_details'])?>" />
             </div>
-          <?php endif; ?>
-        <?php endif; ?>
+          <? endif; ?>
+        <? endif; ?>
 
-        <?php
+        <?
           $coverDetails = $this->record($resource)->getCoverDetails('checkedout', 'small', $this->recordLink()->getUrl($resource));
           $cover = $coverDetails['html'];
           $thumbnail = false;
@@ -84,22 +84,22 @@
             <div class="media-<?=$thumbnailAlignment ?> <?=$this->escapeHtmlAttr($coverDetails['size'])?>">
               <?=$cover ?>
             </div>
-            <?php $thumbnail = ob_get_contents(); ?>
-          <?php ob_end_clean(); ?>
-        <?php endif; ?>
+            <? $thumbnail = ob_get_contents(); ?>
+          <? ob_end_clean(); ?>
+        <? endif; ?>
         <div class="media">
-          <?php if ($thumbnail && $thumbnailAlignment == 'left'): ?>
+          <? if ($thumbnail && $thumbnailAlignment == 'left'): ?>
             <?=$thumbnail ?>
-          <?php endif ?>
+          <? endif ?>
           <div class="media-body">
-            <?php
+            <?
               // If this is a non-missing Solr record, we should display a link:
               if (is_a($resource, 'VuFind\\RecordDriver\\SolrDefault') && !is_a($resource, 'VuFind\\RecordDriver\\Missing')) {
                 $title = $resource->getTitle();
                 $title = empty($title) ? $this->transEsc('Title not available') : $this->escapeHtml($title);
                 echo '<a href="' . $this->recordLink()->getUrl($resource) .
                   '" class="title">' . $title . '</a>';
-              } elseif (isset($ilsDetails['title']) && !empty($ilsDetails['title'])){
+              } else if (isset($ilsDetails['title']) && !empty($ilsDetails['title'])){
                 // If the record is not available in Solr, perhaps the ILS driver sent us a title we can show...
                 echo $this->escapeHtml($ilsDetails['title']);
               } else {
@@ -107,88 +107,84 @@
                 echo $this->transEsc('Title not available');
               }
             ?><br/>
-            <?php $listAuthors = $resource->getPrimaryAuthors(); if (!empty($listAuthors)): ?>
+            <? $listAuthors = $resource->getPrimaryAuthors(); if (!empty($listAuthors)): ?>
               <?=$this->transEsc('by')?>:
-              <a href="<?=$this->record($resource)->getLink('author', $listAuthors[0])?>"><?=$this->escapeHtml($listAuthors[0])?></a><?php if (count($listAuthors) > 1): ?>, <?=$this->transEsc('more_authors_abbrev')?><?php endif; ?><br/>
-            <?php endif; ?>
-            <?php if (count($resource->getFormats()) > 0): ?>
+              <a href="<?=$this->record($resource)->getLink('author', $listAuthors[0])?>"><?=$this->escapeHtml($listAuthors[0])?></a><? if (count($listAuthors) > 1): ?>, <?=$this->transEsc('more_authors_abbrev')?><? endif; ?><br/>
+            <? endif; ?>
+            <? if (count($resource->getFormats()) > 0): ?>
               <?=$this->record($resource)->getFormatList() ?>
               <br/>
-            <?php endif; ?>
-            <?php if (!empty($ilsDetails['volume'])): ?>
+            <? endif; ?>
+            <? if (!empty($ilsDetails['volume'])): ?>
               <strong><?=$this->transEsc('Volume')?>:</strong> <?=$this->escapeHtml($ilsDetails['volume'])?>
               <br />
-            <?php endif; ?>
+            <? endif; ?>
 
-            <?php if (!empty($ilsDetails['publication_year'])): ?>
+            <? if (!empty($ilsDetails['publication_year'])): ?>
               <strong><?=$this->transEsc('Year of Publication')?>:</strong> <?=$this->escapeHtml($ilsDetails['publication_year'])?>
               <br />
-            <?php endif; ?>
-            <?php if ($this->displayItemBarcode && !empty($ilsDetails['barcode'])): ?>
-              <strong><?=$this->transEsc('Barcode')?>:</strong> <?=$this->escapeHtml($ilsDetails['barcode'])?>
-              <br />
-            <?php endif; ?>
+            <? endif; ?>
 
-            <?php if (!empty($ilsDetails['institution_name']) && (empty($ilsDetails['borrowingLocation']) || $ilsDetails['institution_name'] != $ilsDetails['borrowingLocation'])): ?>
+            <? if (!empty($ilsDetails['institution_name']) && (empty($ilsDetails['borrowingLocation']) || $ilsDetails['institution_name'] != $ilsDetails['borrowingLocation'])): ?>
               <strong><?=$this->transEsc('location_' . $ilsDetails['institution_name'], [], $ilsDetails['institution_name'])?></strong>
               <br />
-            <?php endif; ?>
+            <? endif; ?>
 
-            <?php if (!empty($ilsDetails['borrowingLocation'])): ?>
+            <? if (!empty($ilsDetails['borrowingLocation'])): ?>
               <strong><?=$this->transEsc('Borrowing Location')?>:</strong> <?=$this->transEsc('location_' . $ilsDetails['borrowingLocation'], [], $ilsDetails['borrowingLocation'])?>
               <br />
-            <?php endif; ?>
+            <? endif; ?>
 
-            <?php if (isset($ilsDetails['renew'])): ?>
+            <? if (isset($ilsDetails['renew'])): ?>
               <strong><?=$this->transEsc('Renewed')?>:</strong> <?=$this->transEsc($ilsDetails['renew'])?>
-              <?php if (isset($ilsDetails['renewLimit'])): ?>
+              <? if (isset($ilsDetails['renewLimit'])): ?>
                 / <?=$this->transEsc($ilsDetails['renewLimit'])?>
-              <?php endif; ?>
+              <? endif; ?>
               <br />
-            <?php endif; ?>
+            <? endif; ?>
 
-            <?php $showStatus = true; ?>
+            <? $showStatus = true; ?>
 
-            <?php if (isset($this->renewResult[$ilsDetails['item_id']])): ?>
-              <?php $renewDetails = $this->renewResult[$ilsDetails['item_id']]; ?>
-              <?php if (isset($renewDetails['success']) && $renewDetails['success']): ?>
-                <?php $showStatus = false; ?>
-                <strong><?=$this->transEsc('Due Date')?>: <?=$this->escapeHtml($renewDetails['new_date'])?> <?php if (isset($renewDetails['new_time'])): ?><?=$this->escapeHtml($renewDetails['new_time'])?><?php endif; ?></strong>
+            <? if (isset($this->renewResult[$ilsDetails['item_id']])): ?>
+              <? $renewDetails = $this->renewResult[$ilsDetails['item_id']]; ?>
+              <? if (isset($renewDetails['success']) && $renewDetails['success']): ?>
+                <? $showStatus = false; ?>
+                <strong><?=$this->transEsc('Due Date')?>: <?=$this->escapeHtml($renewDetails['new_date'])?> <? if (isset($renewDetails['new_time'])): ?><?=$this->escapeHtml($renewDetails['new_time'])?><? endif; ?></strong>
                 <div class="alert alert-success"><?=$this->transEsc('renew_success')?></div>
-              <?php else: ?>
-                <strong><?=$this->transEsc('Due Date')?>: <?=$this->escapeHtml($ilsDetails['duedate'])?><?php if (isset($ilsDetails['dueTime'])): ?> <?=$this->escapeHtml($ilsDetails['dueTime'])?><?php endif; ?></strong>
-                <div class="alert alert-danger"><?=$this->transEsc('renew_fail')?><?php if (isset($renewDetails['sysMessage'])): ?>: <?=$this->escapeHtml($renewDetails['sysMessage'])?><?php endif; ?></div>
-              <?php endif; ?>
-            <?php else: ?>
-              <strong><?=$this->transEsc('Due Date')?>: <?=$this->escapeHtml($ilsDetails['duedate'])?><?php if (isset($ilsDetails['dueTime'])): ?> <?=$this->escapeHtml($ilsDetails['dueTime'])?><?php endif; ?></strong>
-              <?php if ($showStatus): ?>
-                <?php if (isset($ilsDetails['dueStatus']) && $ilsDetails['dueStatus'] == "overdue"): ?>
+              <? else: ?>
+                <strong><?=$this->transEsc('Due Date')?>: <?=$this->escapeHtml($ilsDetails['duedate'])?><? if (isset($ilsDetails['dueTime'])): ?> <?=$this->escapeHtml($ilsDetails['dueTime'])?><? endif; ?></strong>
+                <div class="alert alert-danger"><?=$this->transEsc('renew_fail')?><? if (isset($renewDetails['sysMessage'])): ?>: <?=$this->escapeHtml($renewDetails['sysMessage'])?><? endif; ?></div>
+              <? endif; ?>
+            <? else: ?>
+              <strong><?=$this->transEsc('Due Date')?>: <?=$this->escapeHtml($ilsDetails['duedate'])?><? if (isset($ilsDetails['dueTime'])): ?> <?=$this->escapeHtml($ilsDetails['dueTime'])?><? endif; ?></strong>
+              <? if ($showStatus): ?>
+                <? if (isset($ilsDetails['dueStatus']) && $ilsDetails['dueStatus'] == "overdue"): ?>
                   <div class="alert alert-danger"><?=$this->transEsc("renew_item_overdue")?></div>
-                <?php elseif (isset($ilsDetails['dueStatus']) && $ilsDetails['dueStatus'] == "due"): ?>
+                <? elseif (isset($ilsDetails['dueStatus']) && $ilsDetails['dueStatus'] == "due"): ?>
                   <div class="alert alert-info"><?=$this->transEsc("renew_item_due")?></div>
-                <?php endif; ?>
-              <?php endif; ?>
-            <?php endif; ?>
+                <? endif; ?>
+              <? endif; ?>
+            <? endif; ?>
 
-            <?php if ($showStatus && isset($ilsDetails['message']) && !empty($ilsDetails['message'])): ?>
+            <? if ($showStatus && isset($ilsDetails['message']) && !empty($ilsDetails['message'])): ?>
               <div class="alert alert-info"><?=$this->transEsc($ilsDetails['message'])?></div>
-            <?php endif; ?>
-            <?php if (isset($ilsDetails['renewable']) && $ilsDetails['renewable'] && isset($ilsDetails['renew_link'])): ?>
+            <? endif; ?>
+            <? if (isset($ilsDetails['renewable']) && $ilsDetails['renewable'] && isset($ilsDetails['renew_link'])): ?>
               <a href="<?=$this->escapeHtmlAttr($ilsDetails['renew_link'])?>"><?=$this->transEsc('renew_item')?></a>
-            <?php endif; ?>
+            <? endif; ?>
           </div>
-          <?php if ($thumbnail && $thumbnailAlignment == 'right'): ?>
+          <? if ($thumbnail && $thumbnailAlignment == 'right'): ?>
             <?=$thumbnail ?>
-          <?php endif ?>
+          <? endif ?>
         </div>
-        <?=$resource->tryMethod('supportsCoinsOpenUrl')?'<span class="Z3988" title="' . $this->escapeHtmlAttr($resource->getCoinsOpenUrl()) . '"></span>':''?>
+        <?=$resource->tryMethod('supportsCoinsOpenUrl')?'<span class="Z3988" title="'.$this->escapeHtmlAttr($resource->getCoinsOpenUrl()).'"></span>':''?>
       </div>
-    <?php endforeach; ?>
-    <?php if ($this->renewForm): ?></form><?php endif; ?>
+    <? endforeach; ?>
+    <? if ($this->renewForm): ?></form><? endif; ?>
     <?=$paginator ? $this->paginationControl($paginator, 'Sliding', 'Helpers/pagination.phtml') : ''?>
-  <?php else: ?>
+  <? else: ?>
     <?=$this->transEsc('You do not have any items checked out')?>.
-  <?php endif; ?>
+  <? endif; ?>
 </div>
 
 <div class="<?=$this->layoutClass('sidebar')?>">

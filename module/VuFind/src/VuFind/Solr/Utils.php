@@ -2,7 +2,7 @@
 /**
  * Solr Utility Functions
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Andrew Nagy 2009.
  *
@@ -102,7 +102,7 @@ class Utils
                     if ($year) {
                         $date = str_replace('1999', $year, $date);
                     }
-                } elseif ($year) {
+                } else if ($year) {
                     // If the best we can do is extract a 4-digit year, that's better
                     // than nothing....
                     $date = $year;

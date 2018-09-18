@@ -4,7 +4,7 @@
  * Trait with utility methods for user creation/management. Assumes that it
  * will be applied to a subclass of DbTestCase.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -28,7 +28,6 @@
  * @link     https://vufind.org/wiki/development:testing:unit_tests Wiki
  */
 namespace VuFindTest\Unit;
-
 use Behat\Mink\Element\Element;
 
 /**
@@ -103,9 +102,9 @@ trait UserCreationTrait
         ];
 
         foreach ($defaults as $field => $default) {
-            $this->findCssAndSetValue(
-                $page, '#account_' . $field,
-                $overrides[$field] ?? $default
+            $element = $this->findCss($page, '#account_' . $field);
+            $element->setValue(
+                isset($overrides[$field]) ? $overrides[$field] : $default
             );
         }
     }
@@ -126,14 +125,16 @@ trait UserCreationTrait
     ) {
         $prefix = ($inModal ? '.modal-body ' : '') . $prefix;
         if (null !== $username) {
-            $this->findCssAndSetValue(
-                $page, $prefix . '[name="username"]', $username
-            );
+            $usernameField = $this->findCss($page, $prefix . '[name="username"]');
+            // Workaround for Chromedriver bug; sometimes setting the username
+            // doesn't work on the first try.
+            while ($usernameField->getValue() !== $username) {
+                $usernameField->setValue($username);
+            }
         }
         if (null !== $password) {
-            $this->findCssAndSetValue(
-                $page, $prefix . '[name="password"]', $password
-            );
+            $passwordField = $this->findCss($page, $prefix . '[name="password"]');
+            $passwordField->setValue($password);
         }
     }
 
@@ -152,9 +153,12 @@ trait UserCreationTrait
         $inModal = false, $prefix = '#newpassword '
     ) {
         $prefix = ($inModal ? '.modal-body ' : '') . $prefix;
-        $this->findCssAndSetValue($page, $prefix . '[name="oldpwd"]', $old);
-        $this->findCssAndSetValue($page, $prefix . '[name="password"]', $new);
-        $this->findCssAndSetValue($page, $prefix . '[name="password2"]', $new);
+        $usernameField = $this->findCss($page, $prefix . '[name="oldpwd"]');
+        $usernameField->setValue($old);
+        $passwordField = $this->findCss($page, $prefix . '[name="password"]');
+        $passwordField->setValue($new);
+        $password2Field = $this->findCss($page, $prefix . '[name="password2"]');
+        $password2Field->setValue($new);
     }
 
     /**

@@ -3,7 +3,7 @@
 /**
  * New items controller plugin tests.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -50,7 +50,7 @@ class NewItemsTest extends TestCase
      */
     public function testGetBibIDsFromCatalog()
     {
-        $flash = $this->createMock('Zend\Mvc\Plugin\FlashMessenger\FlashMessenger');
+        $flash = $this->createMock('Zend\Mvc\Controller\Plugin\FlashMessenger');
         $config = new Config(['result_pages' => 10]);
         $newItems = new NewItems($config);
         $bibs = $newItems->getBibIDsFromCatalog(
@@ -66,7 +66,7 @@ class NewItemsTest extends TestCase
      */
     public function testGetBibIDsFromCatalogWithIDLimit()
     {
-        $flash = $this->createMock('Zend\Mvc\Plugin\FlashMessenger\FlashMessenger');
+        $flash = $this->createMock('Zend\Mvc\Controller\Plugin\FlashMessenger');
         $flash->expects($this->once())->method('addMessage')
             ->with($this->equalTo('too_many_new_items'), $this->equalTo('info'));
         $config = new Config(['result_pages' => 10]);

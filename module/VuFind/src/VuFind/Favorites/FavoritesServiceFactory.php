@@ -2,7 +2,7 @@
 /**
  * Favorites service factory
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2016.
  *
@@ -26,9 +26,7 @@
  * @link     https://vufind.org Main Page
  */
 namespace VuFind\Favorites;
-
-use Interop\Container\ContainerInterface;
-use Zend\ServiceManager\Factory\FactoryInterface;
+use Zend\ServiceManager\ServiceLocatorInterface;
 
 /**
  * Favorites service
@@ -41,26 +39,22 @@ use Zend\ServiceManager\Factory\FactoryInterface;
  *
  * @codeCoverageIgnore
  */
-class FavoritesServiceFactory implements FactoryInterface
+class FavoritesServiceFactory implements \Zend\ServiceManager\FactoryInterface
 {
     /**
      * Create service
      *
-     * @param ContainerInterface $sm      Service manager
-     * @param string             $name    Requested service name (unused)
-     * @param array              $options Extra options (unused)
+     * @param ServiceLocatorInterface $sm Service manager
      *
-     * @return FavoritesService
-     *
-     * @SuppressWarnings(PHPMD.UnusedFormalParameter)
+     * @return mixed
      */
-    public function __invoke(ContainerInterface $sm, $name, array $options = null)
+    public function createService(ServiceLocatorInterface $sm)
     {
-        $tableManager = $sm->get('VuFind\Db\Table\PluginManager');
+        $tableManager = $sm->get('VuFind\DbTablePluginManager');
         return new FavoritesService(
             $tableManager->get('userlist'),
             $tableManager->get('resource'),
-            $sm->get('VuFind\Record\Cache')
+            $sm->get('VuFind\RecordCache')
         );
     }
 }

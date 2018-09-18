@@ -2,7 +2,7 @@
 /**
  * Hierarchy Tree Renderer for the JS_Tree plugin
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -51,25 +51,13 @@ class JSTree extends AbstractBase
     protected $router = null;
 
     /**
-     * Whether the collections functionality is enabled
-     *
-     * @var bool
-     */
-    protected $collectionsEnabled;
-
-    /**
      * Constructor
      *
-     * @param \Zend\Mvc\Controller\Plugin\Url $router             Router plugin for
-     * urls
-     * @param bool                            $collectionsEnabled Whether the
-     * collections functionality is enabled
+     * @param \Zend\Mvc\Controller\Plugin\Url $router Router plugin for urls
      */
-    public function __construct(\Zend\Mvc\Controller\Plugin\Url $router,
-        $collectionsEnabled
-    ) {
+    public function __construct(\Zend\Mvc\Controller\Plugin\Url $router)
+    {
         $this->router = $router;
-        $this->collectionsEnabled = $collectionsEnabled;
     }
 
     /**
@@ -104,7 +92,8 @@ class JSTree extends AbstractBase
             $hierarchies = [];
             foreach ($inHierarchies as $hierarchyTopID) {
                 if ($this->getDataSource()->supports($hierarchyTopID)) {
-                    $hierarchies[$hierarchyTopID] = $inHierarchiesTitle[$i] ?? '';
+                    $hierarchies[$hierarchyTopID] = isset($inHierarchiesTitle[$i])
+                        ? $inHierarchiesTitle[$i] : '';
                 }
                 $i++;
             }
@@ -216,12 +205,8 @@ class JSTree extends AbstractBase
             return $this->getUrlFromRouteCache('collection', $node->id)
                 . '#tabnav';
         } else {
-            $type = $node->type;
-            if ('collection' === $type && !$this->collectionsEnabled) {
-                $type = 'record';
-            }
-            $url = $this->getUrlFromRouteCache($type, $node->id);
-            return $type === 'collection'
+            $url = $this->getUrlFromRouteCache($node->type, $node->id);
+            return $node->type == 'collection'
                 ? $url . '#tabnav'
                 : $url . '#tree-' . preg_replace('/\W/', '-', $node->id);
         }

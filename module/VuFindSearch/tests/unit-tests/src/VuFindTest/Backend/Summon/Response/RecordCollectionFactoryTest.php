@@ -3,7 +3,7 @@
 /**
  * Unit tests for Summon record collection factory
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2013.
  *
@@ -28,8 +28,8 @@
  */
 namespace VuFindTest\Backend\Summon\Response;
 
-use PHPUnit\Framework\TestCase;
 use VuFindSearch\Backend\Summon\Response\RecordCollectionFactory;
+use PHPUnit_Framework_TestCase;
 
 /**
  * Unit tests for Summon record collection factory
@@ -40,7 +40,7 @@ use VuFindSearch\Backend\Summon\Response\RecordCollectionFactory;
  * @license  http://opensource.org/licenses/gpl-2.0.php GNU General Public License
  * @link     https://vufind.org
  */
-class RecordCollectionFactoryTest extends TestCase
+class RecordCollectionFactoryTest extends PHPUnit_Framework_TestCase
 {
     /**
      * Test constructor exceptions.
@@ -67,6 +67,7 @@ class RecordCollectionFactoryTest extends TestCase
     {
         $factory = new RecordCollectionFactory(
             function () {
+
             }
         );
         $factory->factory('bad');

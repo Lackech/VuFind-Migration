@@ -2,7 +2,7 @@
 /**
  * Reviews tab
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -26,7 +26,6 @@
  * @link     https://vufind.org/wiki/development:plugins:record_tabs Wiki
  */
 namespace VuFind\RecordTab;
-
 use VuFind\Content\Loader;
 
 /**

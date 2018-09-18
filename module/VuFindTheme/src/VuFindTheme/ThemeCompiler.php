@@ -2,7 +2,7 @@
 /**
  * Class to compile a theme hierarchy into a single flat theme.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2017.
  *
@@ -122,7 +122,7 @@ class ThemeCompiler extends AbstractThemeUtility
                 // Call this function recursively to deal with the helpers
                 // sub-array:
                 $dest[$key] = $this
-                    ->mergeConfig($value, $dest[$key] ?? []);
+                    ->mergeConfig($value, isset($dest[$key]) ? $dest[$key] : []);
                 break;
             case 'mixins':
                 // Omit mixin settings entirely
@@ -132,7 +132,7 @@ class ThemeCompiler extends AbstractThemeUtility
                 // trump new incoming ones:
                 if (!isset($dest[$key])) {
                     $dest[$key] = $value;
-                } elseif (is_array($dest[$key])) {
+                } else if (is_array($dest[$key])) {
                     $dest[$key] = array_merge($value, $dest[$key]);
                 }
                 break;

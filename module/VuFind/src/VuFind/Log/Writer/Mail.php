@@ -2,7 +2,7 @@
 /**
  * Mail log writer
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -39,7 +39,7 @@ namespace VuFind\Log\Writer;
 class Mail extends \Zend\Log\Writer\Mail
 {
     use VerbosityTrait;
-
+    
     /**
      * Write a message to the log.
      *

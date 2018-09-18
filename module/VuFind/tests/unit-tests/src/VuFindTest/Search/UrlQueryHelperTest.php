@@ -3,7 +3,7 @@
 /**
  * UrlQueryHelper unit tests.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -28,10 +28,10 @@
  */
 namespace VuFindTest\Search;
 
-use VuFind\Search\Factory\UrlQueryHelperFactory;
 use VuFind\Search\UrlQueryHelper;
-use VuFindSearch\Query\Query;
+use VuFind\Search\Factory\UrlQueryHelperFactory;
 use VuFindTest\Unit\TestCase as TestCase;
+use VuFindSearch\Query\Query;
 
 /**
  * UrlQueryHelper unit tests.

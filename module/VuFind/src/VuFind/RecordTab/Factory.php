@@ -2,7 +2,7 @@
 /**
  * Record Tab Factory Class
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2014.
  *
@@ -26,7 +26,6 @@
  * @link     https://vufind.org/wiki/development:plugins:hierarchy_components Wiki
  */
 namespace VuFind\RecordTab;
-
 use Zend\ServiceManager\ServiceManager;
 
 /**
@@ -52,8 +51,8 @@ class Factory
     public static function getCollectionHierarchyTree(ServiceManager $sm)
     {
         return new CollectionHierarchyTree(
-            $sm->get('VuFind\Config\PluginManager')->get('config'),
-            $sm->get('VuFind\Record\Loader')
+            $sm->getServiceLocator()->get('VuFind\Config')->get('config'),
+            $sm->getServiceLocator()->get('VuFind\RecordLoader')
         );
     }
 
@@ -67,8 +66,8 @@ class Factory
     public static function getCollectionList(ServiceManager $sm)
     {
         return new CollectionList(
-            $sm->get('VuFind\Search\SearchRunner'),
-            $sm->get('VuFind\Recommend\PluginManager')
+            $sm->getServiceLocator()->get('VuFind\SearchRunner'),
+            $sm->getServiceLocator()->get('VuFind\RecommendPluginManager')
         );
     }
 
@@ -81,10 +80,10 @@ class Factory
      */
     public static function getExcerpt(ServiceManager $sm)
     {
-        $config = $sm->get('VuFind\Config\PluginManager')->get('config');
+        $config = $sm->getServiceLocator()->get('VuFind\Config')->get('config');
         // Only instantiate the loader if the feature is enabled:
         if (isset($config->Content->excerpts)) {
-            $loader = $sm->get('VuFind\Content\PluginManager')
+            $loader = $sm->getServiceLocator()->get('VuFind\ContentPluginManager')
                 ->get('excerpts');
         } else {
             $loader = null;
@@ -128,7 +127,7 @@ class Factory
     public static function getHierarchyTree(ServiceManager $sm)
     {
         return new HierarchyTree(
-            $sm->get('VuFind\Config\PluginManager')->get('config')
+            $sm->getServiceLocator()->get('VuFind\Config')->get('config')
         );
     }
 
@@ -144,13 +143,15 @@ class Factory
         // If VuFind is configured to suppress the holdings tab when the
         // ILS driver specifies no holdings, we need to pass in a connection
         // object:
-        $config = $sm->get('VuFind\Config\PluginManager')->get('config');
-        $catalog = ($config->Site->hideHoldingsTabWhenEmpty ?? false)
-            ? $sm->get('VuFind\ILS\Connection') : null;
-        return new HoldingsILS(
-            $catalog,
-            (string)($config->Site->holdingsTemplate ?? 'standard')
-        );
+        $config = $sm->getServiceLocator()->get('VuFind\Config')->get('config');
+        if (isset($config->Site->hideHoldingsTabWhenEmpty)
+            && $config->Site->hideHoldingsTabWhenEmpty
+        ) {
+            $catalog = $sm->getServiceLocator()->get('VuFind\ILSConnection');
+        } else {
+            $catalog = false;
+        }
+        return new HoldingsILS($catalog);
     }
 
     /**
@@ -162,7 +163,7 @@ class Factory
      */
     public static function getHoldingsWorldCat(ServiceManager $sm)
     {
-        $bm = $sm->get('VuFind\Search\BackendManager');
+        $bm = $sm->getServiceLocator()->get('VuFind\Search\BackendManager');
         return new HoldingsWorldCat($bm->get('WorldCat')->getConnector());
     }
 
@@ -175,16 +176,17 @@ class Factory
      */
     public static function getMap(ServiceManager $sm)
     {
-        // get Map Tab config options
-        $mapTabConfig = $sm->get('VuFind\GeoFeatures\MapTabConfig');
-        $mapTabOptions = $mapTabConfig->getMapTabOptions();
-        $mapTabDisplay = $mapTabOptions['recordMap'];
-
-        // add basemap options
-        $basemapConfig = $sm->get('VuFind\GeoFeatures\BasemapConfig');
-        $basemapOptions = $basemapConfig->getBasemap('MapTab');
-
-        return new Map($mapTabDisplay, $basemapOptions, $mapTabOptions);
+        $config = $sm->getServiceLocator()->get('VuFind\Config')->get('config');
+        $mapType = isset($config->Content->recordMap)
+            ? $config->Content->recordMap : null;
+        $options = [];
+        $optionFields = ['displayCoords', 'mapLabels', 'graticule'];
+        foreach ($optionFields as $field) {
+            if (isset($config->Content->$field)) {
+                $options[$field] = $config->Content->$field;
+            }
+        }
+        return new Map($mapType, $options);
     }
 
     /**
@@ -196,7 +198,7 @@ class Factory
      */
     public static function getPreview(ServiceManager $sm)
     {
-        $cfg = $sm->get('VuFind\Config\PluginManager')->get('config');
+        $cfg = $sm->getServiceLocator()->get('VuFind\Config')->get('config');
         // currently only active if config [content] [previews] contains google
         // and googleoptions[tab] is not empty.
         $active = false;
@@ -223,7 +225,9 @@ class Factory
      */
     public static function getSimilarItemsCarousel(ServiceManager $sm)
     {
-        return new SimilarItemsCarousel($sm->get('VuFindSearch\Service'));
+        return new SimilarItemsCarousel(
+            $sm->getServiceLocator()->get('VuFind\Search')
+        );
     }
 
     /**
@@ -235,35 +239,15 @@ class Factory
      */
     public static function getReviews(ServiceManager $sm)
     {
-        $config = $sm->get('VuFind\Config\PluginManager')->get('config');
+        $config = $sm->getServiceLocator()->get('VuFind\Config')->get('config');
         // Only instantiate the loader if the feature is enabled:
         if (isset($config->Content->reviews)) {
-            $loader = $sm->get('VuFind\Content\PluginManager')
+            $loader = $sm->getServiceLocator()->get('VuFind\ContentPluginManager')
                 ->get('reviews');
         } else {
             $loader = null;
         }
         return new Reviews($loader, static::getHideSetting($config, 'reviews'));
-    }
-
-    /**
-     * Factory for TOC tab plugin.
-     *
-     * @param ServiceManager $sm Service manager.
-     *
-     * @return TablesOfContents
-     */
-    public static function getTOC(ServiceManager $sm)
-    {
-        $config = $sm->get('VuFind\Config\PluginManager')->get('config');
-        // Only instantiate the loader if the feature is enabled:
-        if (isset($config->Content->toc)) {
-            $loader = $sm->get('VuFind\Content\PluginManager')
-                ->get('toc');
-        } else {
-            $loader = null;
-        }
-        return new TOC($loader, static::getHideSetting($config, 'toc'));
     }
 
     /**
@@ -275,8 +259,8 @@ class Factory
      */
     public static function getUserComments(ServiceManager $sm)
     {
-        $capabilities = $sm->get('VuFind\Config\AccountCapabilities');
-        $config = $sm->get('VuFind\Config\PluginManager')->get('config');
+        $capabilities = $sm->getServiceLocator()->get('VuFind\AccountCapabilities');
+        $config = $sm->getServiceLocator()->get('VuFind\Config')->get('config');
         $useRecaptcha = isset($config->Captcha) && isset($config->Captcha->forms)
             && (trim($config->Captcha->forms) === '*'
             || strpos($config->Captcha->forms, 'userComments') !== false);

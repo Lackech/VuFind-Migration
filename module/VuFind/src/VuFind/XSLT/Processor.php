@@ -2,7 +2,7 @@
 /**
  * VuFind XSLT wrapper
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -26,9 +26,7 @@
  * @link     https://vufind.org/wiki/ Wiki
  */
 namespace VuFind\XSLT;
-
-use DOMDocument;
-use XSLTProcessor;
+use DOMDocument, XSLTProcessor;
 
 /**
  * VuFind XSLT wrapper

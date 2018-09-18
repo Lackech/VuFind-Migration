@@ -3,7 +3,7 @@
  * RemoveFilters Recommendations Module
  * Recommends to remove filters
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -95,8 +95,12 @@ class RemoveFilters implements RecommendInterface
     public function process($results)
     {
         $filters = $results->getParams()->getFilterList(false);
-        foreach ($filters as $filter) {
-            $this->activeFacetsCount += count($filter);
+        if (count($filters) > 0) {
+            foreach ($filters as $filter) {
+                foreach ($filter as $f) {
+                    $this->activeFacetsCount++;
+                }
+            }
         }
         $this->results = $results;
     }
@@ -108,7 +112,7 @@ class RemoveFilters implements RecommendInterface
      */
     public function hasFilters()
     {
-        return $this->activeFacetsCount > 0;
+        return ($this->activeFacetsCount > 0);
     }
 
     /**

@@ -3,7 +3,7 @@
 /**
  * Unit tests for SOLR delete document class.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -28,9 +28,9 @@
  */
 namespace VuFindTest\Backend\Solr\Document;
 
-use PHPUnit\Framework\TestCase;
-
 use VuFindSearch\Backend\Solr\Document\DeleteDocument;
+
+use PHPUnit_Framework_TestCase;
 
 /**
  * Unit tests for SOLR delete document class.
@@ -41,7 +41,7 @@ use VuFindSearch\Backend\Solr\Document\DeleteDocument;
  * @license  http://opensource.org/licenses/gpl-2.0.php GNU General Public License
  * @link     https://vufind.org
  */
-class DeleteDocumentTest extends TestCase
+class DeleteDocumentTest extends PHPUnit_Framework_TestCase
 {
     /**
      * Test creation of XML document.

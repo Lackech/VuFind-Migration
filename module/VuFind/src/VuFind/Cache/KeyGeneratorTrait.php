@@ -2,7 +2,7 @@
 /**
  * VuFind Cache Key Generator Trait
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Leipzig University Library 2016.
  *

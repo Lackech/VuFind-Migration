@@ -2,7 +2,7 @@
 /**
  * API Controller
  *
- * PHP version 7
+ * PHP Version 5
  *
  * Copyright (C) The National Library of Finland 2015-2016.
  *

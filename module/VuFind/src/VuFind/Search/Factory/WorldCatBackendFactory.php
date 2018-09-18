@@ -3,7 +3,7 @@
 /**
  * Factory for WorldCat backends.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2013.
  *
@@ -28,14 +28,14 @@
  */
 namespace VuFind\Search\Factory;
 
-use Interop\Container\ContainerInterface;
-
-use VuFindSearch\Backend\WorldCat\Backend;
-use VuFindSearch\Backend\WorldCat\Connector;
-use VuFindSearch\Backend\WorldCat\QueryBuilder;
+use VuFindSearch\Backend\BackendInterface;
 use VuFindSearch\Backend\WorldCat\Response\XML\RecordCollectionFactory;
+use VuFindSearch\Backend\WorldCat\QueryBuilder;
+use VuFindSearch\Backend\WorldCat\Connector;
+use VuFindSearch\Backend\WorldCat\Backend;
 
-use Zend\ServiceManager\Factory\FactoryInterface;
+use Zend\ServiceManager\ServiceLocatorInterface;
+use Zend\ServiceManager\FactoryInterface;
 
 /**
  * Factory for WorldCat backends.
@@ -58,7 +58,7 @@ class WorldCatBackendFactory implements FactoryInterface
     /**
      * Superior service manager.
      *
-     * @var ContainerInterface
+     * @var ServiceLocatorInterface
      */
     protected $serviceLocator;
 
@@ -77,25 +77,20 @@ class WorldCatBackendFactory implements FactoryInterface
     protected $wcConfig;
 
     /**
-     * Create service
+     * Create the backend.
      *
-     * @param ContainerInterface $sm      Service manager
-     * @param string             $name    Requested service name (unused)
-     * @param array              $options Extra options (unused)
+     * @param ServiceLocatorInterface $serviceLocator Superior service manager
      *
-     * @return Backend
-     *
-     * @SuppressWarnings(PHPMD.UnusedFormalParameter)
+     * @return BackendInterface
      */
-    public function __invoke(ContainerInterface $sm, $name, array $options = null)
+    public function createService(ServiceLocatorInterface $serviceLocator)
     {
-        $this->serviceLocator = $sm;
-        $this->config = $this->serviceLocator->get('VuFind\Config\PluginManager')
-            ->get('config');
+        $this->serviceLocator = $serviceLocator;
+        $this->config = $this->serviceLocator->get('VuFind\Config')->get('config');
         $this->wcConfig = $this->serviceLocator
-            ->get('VuFind\Config\PluginManager')->get('WorldCat');
-        if ($this->serviceLocator->has('VuFind\Log\Logger')) {
-            $this->logger = $this->serviceLocator->get('VuFind\Log\Logger');
+            ->get('VuFind\Config')->get('WorldCat');
+        if ($this->serviceLocator->has('VuFind\Logger')) {
+            $this->logger = $this->serviceLocator->get('VuFind\Logger');
         }
         $connector = $this->createConnector();
         $backend   = $this->createBackend($connector);
@@ -129,8 +124,7 @@ class WorldCatBackendFactory implements FactoryInterface
         $connectorOptions = isset($this->wcConfig->Connector)
             ? $this->wcConfig->Connector->toArray() : [];
         $connector = new Connector(
-            $wsKey,
-            $this->serviceLocator->get('VuFindHttp\HttpService')->createClient(),
+            $wsKey, $this->serviceLocator->get('VuFind\Http')->createClient(),
             $connectorOptions
         );
         $connector->setLogger($this->logger);
@@ -156,7 +150,7 @@ class WorldCatBackendFactory implements FactoryInterface
      */
     protected function createRecordCollectionFactory()
     {
-        $manager = $this->serviceLocator->get('VuFind\RecordDriver\PluginManager');
+        $manager = $this->serviceLocator->get('VuFind\RecordDriverPluginManager');
         $callback = function ($data) use ($manager) {
             $driver = $manager->get('WorldCat');
             $driver->setRawData($data);

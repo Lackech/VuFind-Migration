@@ -2,7 +2,7 @@
 /**
  * ILL trait (for subclasses of AbstractRecord)
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -92,7 +92,7 @@ trait ILLRequestsTrait
             ? explode(":", $checkRequests['extraFields']) : [];
 
         // Process form submissions if necessary:
-        if (null !== $this->params()->fromPost('placeILLRequest')) {
+        if (!is_null($this->params()->fromPost('placeILLRequest'))) {
             // If we made it this far, we're ready to place the hold;
             // if successful, we will redirect and can stop here.
 
@@ -132,7 +132,7 @@ trait ILLRequestsTrait
         // Find and format the default required date:
         $defaultRequired = $this->ILLRequests()
             ->getDefaultRequiredDate($checkRequests);
-        $defaultRequired = $this->serviceLocator->get('VuFind\Date\Converter')
+        $defaultRequired = $this->serviceLocator->get('VuFind\DateConverter')
             ->convertToDisplayDate("U", $defaultRequired);
 
         // Get pickup libraries
@@ -153,7 +153,8 @@ trait ILLRequestsTrait
                 'homeLibrary' => $this->getUser()->home_library,
                 'extraFields' => $extraFields,
                 'defaultRequiredDate' => $defaultRequired,
-                'helpText' => $checkRequests['helpText'] ?? null
+                'helpText' => isset($checkRequests['helpText'])
+                    ? $checkRequests['helpText'] : null
             ]
         );
         $view->setTemplate('record/illrequest');

@@ -3,7 +3,7 @@
 /**
  * Simple JSON-based factory for record collection.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -28,8 +28,8 @@
  */
 namespace VuFindSearch\Backend\Solr\Response\Json;
 
-use VuFindSearch\Exception\InvalidArgumentException;
 use VuFindSearch\Response\RecordCollectionFactoryInterface;
+use VuFindSearch\Exception\InvalidArgumentException;
 
 /**
  * Simple JSON-based factory for record collection.
@@ -102,4 +102,5 @@ class RecordCollectionFactory implements RecordCollectionFactoryInterface
         }
         return $collection;
     }
+
 }

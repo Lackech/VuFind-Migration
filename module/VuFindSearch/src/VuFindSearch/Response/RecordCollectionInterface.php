@@ -3,7 +3,7 @@
 /**
  * Search backend search response interface file.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -102,4 +102,5 @@ interface RecordCollectionInterface extends \Countable, \Iterator
      * @return void
      */
     public function add(RecordInterface $record);
+
 }

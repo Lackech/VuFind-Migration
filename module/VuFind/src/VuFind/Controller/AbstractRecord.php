@@ -2,7 +2,7 @@
 /**
  * VuFind Record Controller
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -26,10 +26,9 @@
  * @link     https://vufind.org/wiki/development:plugins:controllers Wiki
  */
 namespace VuFind\Controller;
-
-use VuFind\Exception\Forbidden as ForbiddenException;
-use VuFind\Exception\Mail as MailException;
-use VuFind\RecordDriver\AbstractBase as AbstractRecordDriver;
+use VuFind\Exception\Forbidden as ForbiddenException,
+    VuFind\Exception\Mail as MailException,
+    VuFind\RecordDriver\AbstractBase as AbstractRecordDriver;
 
 /**
  * VuFind Record Controller
@@ -168,7 +167,7 @@ class AbstractRecord extends AbstractBase
         }
         $id = $this->params()->fromQuery('delete');
         $table = $this->getTable('Comments');
-        if (null !== $id && $table->deleteIfOwnedByUser($id, $user)) {
+        if (!is_null($id) && $table->deleteIfOwnedByUser($id, $user)) {
             $this->flashMessenger()->addMessage('delete_comment_success', 'success');
         } else {
             $this->flashMessenger()->addMessage('delete_comment_failure', 'error');
@@ -289,7 +288,7 @@ class AbstractRecord extends AbstractBase
         $post = $this->getRequest()->getPost()->toArray();
         $tagParser = $this->serviceLocator->get('VuFind\Tags');
         $post['mytags']
-            = $tagParser->parse($post['mytags'] ?? '');
+            = $tagParser->parse(isset($post['mytags']) ? $post['mytags'] : '');
         $favorites = $this->serviceLocator
             ->get('VuFind\Favorites\FavoritesService');
         $results = $favorites->save($post, $user, $driver);
@@ -415,7 +414,7 @@ class AbstractRecord extends AbstractBase
         $driver = $this->loadRecord();
 
         // Create view
-        $mailer = $this->serviceLocator->get('VuFind\Mailer\Mailer');
+        $mailer = $this->serviceLocator->get('VuFind\Mailer');
         $view = $this->createEmailViewModel(
             null, $mailer->getDefaultRecordSubject($driver)
         );
@@ -452,7 +451,7 @@ class AbstractRecord extends AbstractBase
      */
     protected function smsEnabled()
     {
-        $check = $this->serviceLocator->get('VuFind\Config\AccountCapabilities');
+        $check = $this->serviceLocator->get('VuFind\AccountCapabilities');
         return $check->getSmsSetting() !== 'disabled';
     }
 
@@ -472,7 +471,7 @@ class AbstractRecord extends AbstractBase
         $driver = $this->loadRecord();
 
         // Load the SMS carrier list:
-        $sms = $this->serviceLocator->get('VuFind\SMS\SMSInterface');
+        $sms = $this->serviceLocator->get('VuFind\SMS');
         $view = $this->createViewModel();
         $view->carriers = $sms->getCarriers();
         $view->validation = $sms->getValidationType();
@@ -550,33 +549,12 @@ class AbstractRecord extends AbstractBase
                 ->toUrl($export->getRedirectUrl($format, $callback));
         }
 
-        $recordHelper = $this->getViewRenderer()->plugin('record');
-
-        $exportType = $export->getBulkExportType($format);
-        if ('post' === $exportType) {
-            $params = [
-                'exportType' => 'post',
-                'postField' => $export->getPostField($format),
-                'postData' => $recordHelper($driver)->getExport($format),
-                'targetWindow' => $export->getTargetWindow($format),
-                'url' => $export->getRedirectUrl($format, ''),
-                'format' => $format
-            ];
-            $msg = [
-                'translate' => false, 'html' => true,
-                'msg' => $this->getViewRenderer()->render(
-                    'cart/export-success.phtml', $params
-                )
-            ];
-            $this->flashMessenger()->addSuccessMessage($msg);
-            return $this->redirectToRecord();
-        }
-
         // Send appropriate HTTP headers for requested format:
         $response = $this->getResponse();
         $response->getHeaders()->addHeaders($export->getHeaders($format));
 
         // Actually export the record
+        $recordHelper = $this->getViewRenderer()->plugin('record');
         $response->setContent($recordHelper($driver)->getExport($format));
         return $response;
     }
@@ -650,7 +628,7 @@ class AbstractRecord extends AbstractBase
     }
 
     /**
-     * Support method to load tab information from the RecordTab PluginManager.
+     * Support method to load tab information from the RecordTabPluginManager.
      *
      * @return void
      */
@@ -658,7 +636,7 @@ class AbstractRecord extends AbstractBase
     {
         $driver = $this->loadRecord();
         $request = $this->getRequest();
-        $rtpm = $this->serviceLocator->get('VuFind\RecordTab\PluginManager');
+        $rtpm = $this->serviceLocator->get('VuFind\RecordTabPluginManager');
         $details = $rtpm->getTabDetailsForRecord(
             $driver, $this->getRecordTabConfig(), $request,
             $this->fallbackDefaultTab
@@ -738,7 +716,7 @@ class AbstractRecord extends AbstractBase
             && !$this->getUser()
         ) {
             return $this->forceLogin(null);
-        } elseif ($this->params()->fromQuery('catalogLogin', 'false') == 'true'
+        } else if ($this->params()->fromQuery('catalogLogin', 'false') == 'true'
             && !is_array($patron = $this->catalogLogin())
         ) {
             return $patron;
@@ -753,7 +731,7 @@ class AbstractRecord extends AbstractBase
         $view->backgroundTabs = $this->getBackgroundTabs();
         $view->loadInitialTabWithAjax
             = isset($config->Site->loadInitialTabWithAjax)
-            ? (bool)$config->Site->loadInitialTabWithAjax : false;
+            ? (bool) $config->Site->loadInitialTabWithAjax : false;
 
         // Set up next/previous record links (if appropriate)
         if ($this->resultScrollerActive()) {

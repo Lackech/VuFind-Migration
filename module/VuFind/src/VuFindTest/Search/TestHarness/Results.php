@@ -2,7 +2,7 @@
 /**
  * Test results search model.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -26,7 +26,6 @@
  * @link     https://vufind.org Main Page
  */
 namespace VuFindTest\Search\TestHarness;
-
 use VuFind\Record\Loader;
 use VuFindSearch\Service as SearchService;
 use VuFindTest\RecordDriver\TestHarness as RecordDriver;

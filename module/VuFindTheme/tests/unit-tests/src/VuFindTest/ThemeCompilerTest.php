@@ -2,7 +2,7 @@
 /**
  * ThemeCompiler Test Class
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2017.
  *
@@ -26,7 +26,6 @@
  * @link     https://vufind.org/wiki/development:testing:unit_tests Wiki
  */
 namespace VuFindTest;
-
 use VuFindTheme\ThemeCompiler;
 use VuFindTheme\ThemeInfo;
 
@@ -63,15 +62,22 @@ class ThemeCompilerTest extends Unit\TestCase
     protected $targetPath;
 
     /**
+     * Constructor
+     */
+    public function __construct()
+    {
+        $this->fixturePath = realpath(__DIR__ . '/../../fixtures/themes');
+        $this->info = new ThemeInfo($this->fixturePath, 'parent');
+        $this->targetPath = $this->info->getBaseDir() . '/compiled';
+    }
+
+    /**
      * Standard setup method.
      *
      * @return void
      */
     public function setUp()
     {
-        $this->fixturePath = realpath(__DIR__ . '/../../fixtures/themes');
-        $this->info = new ThemeInfo($this->fixturePath, 'parent');
-        $this->targetPath = $this->info->getBaseDir() . '/compiled';
         // Give up if the target directory already exists:
         if (is_dir($this->targetPath)) {
             return $this->markTestSkipped('compiled theme already exists.');
@@ -121,7 +127,7 @@ class ThemeCompilerTest extends Unit\TestCase
                     'foo' => 'fooOverrideFactory',
                     'bar' => 'barFactory',
                 ],
-                'aliases' => [
+                'invokables' => [
                     'xyzzy' => 'Xyzzy',
                 ]
             ],
@@ -179,7 +185,7 @@ class ThemeCompilerTest extends Unit\TestCase
                     'foo' => 'fooOverrideFactory',
                     'bar' => 'barFactory',
                 ],
-                'aliases' => [
+                'invokables' => [
                     'xyzzy' => 'Xyzzy',
                 ]
             ],

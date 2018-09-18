@@ -5,7 +5,7 @@
  * This wrapper works with a driver class to pass information from the ILS to
  * VuFind.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2007.
  *
@@ -30,10 +30,9 @@
  * @link     https://vufind.org/wiki/development:plugins:ils_drivers Wiki
  */
 namespace VuFind\ILS;
-
-use VuFind\Exception\ILS as ILSException;
-use VuFind\I18n\Translator\TranslatorAwareInterface;
-use VuFind\ILS\Driver\DriverInterface;
+use VuFind\Exception\ILS as ILSException,
+    VuFind\ILS\Driver\DriverInterface,
+    VuFind\I18n\Translator\TranslatorAwareInterface;
 use Zend\Log\LoggerAwareInterface;
 
 /**
@@ -338,7 +337,7 @@ class Connection implements TranslatorAwareInterface, LoggerAwareInterface
                 $response['consortium'] = $functionConfig['consortium'];
             }
         } else {
-            $id = $params['id'] ?? null;
+            $id = isset($params['id']) ? $params['id'] : null;
             if ($this->checkCapability('getHoldLink', [$id, []])) {
                 $response = ['function' => "getHoldLink"];
             }
@@ -373,7 +372,7 @@ class Connection implements TranslatorAwareInterface, LoggerAwareInterface
             && $this->checkCapability('cancelHolds', [$params ?: []])
         ) {
             $response = ['function' => "cancelHolds"];
-        } elseif (isset($this->config->cancel_holds_enabled)
+        } else if (isset($this->config->cancel_holds_enabled)
             && $this->config->cancel_holds_enabled == true
             && $this->checkCapability('getCancelHoldLink', [$params ?: []])
         ) {
@@ -408,7 +407,7 @@ class Connection implements TranslatorAwareInterface, LoggerAwareInterface
             && $this->checkCapability('renewMyItems', [$params ?: []])
         ) {
             $response = ['function' => "renewMyItems"];
-        } elseif (isset($this->config->renewals_enabled)
+        } else if (isset($this->config->renewals_enabled)
             && $this->config->renewals_enabled == true
             && $this->checkCapability('renewMyItemsLink', [$params ?: []])
         ) {
@@ -487,7 +486,7 @@ class Connection implements TranslatorAwareInterface, LoggerAwareInterface
             } else {
                 $cancelParams = [
                     $params ?: [],
-                    $params['patron'] ?? null
+                    isset($params['patron']) ? $params['patron'] : null
                 ];
                 $check2 = $this->checkCapability(
                     'getCancelStorageRetrievalRequestLink', $cancelParams
@@ -573,7 +572,7 @@ class Connection implements TranslatorAwareInterface, LoggerAwareInterface
             } else {
                 $cancelParams = [
                     $params ?: [],
-                    $params['patron'] ?? null
+                    isset($params['patron']) ? $params['patron'] : null
                 ];
                 $check2 = $this->checkCapability(
                     'getCancelILLRequestLink', $cancelParams
@@ -613,29 +612,6 @@ class Connection implements TranslatorAwareInterface, LoggerAwareInterface
     }
 
     /**
-     * Check Historic Loans
-     *
-     * A support method for checkFunction(). This is responsible for checking
-     * the driver configuration to determine if the system supports historic
-     * loans.
-     *
-     * @param array $functionConfig Function configuration
-     * @param array $params         Patron data
-     *
-     * @return mixed On success, an associative array with specific function keys
-     * and values; on failure, false.
-     *
-     * @SuppressWarnings(PHPMD.UnusedFormalParameter)
-     */
-    protected function checkMethodgetMyTransactionHistory($functionConfig, $params)
-    {
-        if ($this->checkCapability('getMyTransactionHistory', [$params ?: []])) {
-            return $functionConfig;
-        }
-        return false;
-    }
-
-    /**
      * Get proper help text from the function config
      *
      * @param string|array $helpText Help text(s)
@@ -646,7 +622,7 @@ class Connection implements TranslatorAwareInterface, LoggerAwareInterface
     {
         if (is_array($helpText)) {
             $lang = $this->getTranslatorLocale();
-            return $helpText[$lang] ?? '';
+            return isset($helpText[$lang]) ? $helpText[$lang] : '';
         }
         return $helpText;
     }

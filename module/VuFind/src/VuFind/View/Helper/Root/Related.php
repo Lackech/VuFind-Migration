@@ -2,7 +2,7 @@
 /**
  * Related records view helper
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -26,10 +26,7 @@
  * @link     https://vufind.org/wiki/development Wiki
  */
 namespace VuFind\View\Helper\Root;
-
-use VuFind\Config\PluginManager as ConfigManager;
-use VuFind\Related\PluginManager as RelatedManager;
-use VuFind\Search\Options\PluginManager as OptionsManager;
+use Zend\View\Exception\RuntimeException, Zend\View\Helper\AbstractHelper;
 
 /**
  * Related records view helper
@@ -40,61 +37,24 @@ use VuFind\Search\Options\PluginManager as OptionsManager;
  * @license  http://opensource.org/licenses/gpl-2.0.php GNU General Public License
  * @link     https://vufind.org/wiki/development Wiki
  */
-class Related extends AbstractClassBasedTemplateRenderer
+class Related extends AbstractHelper
 {
-    /**
-     * Config manager
-     *
-     * @var ConfigManager
-     */
-    protected $configManager;
-
-    /**
-     * Plugin manager for search options.
-     *
-     * @var OptionsManager
-     */
-    protected $optionsManager;
-
     /**
      * Plugin manager for related record modules.
      *
-     * @var RelatedManager
+     * @var \VuFind\Related\PluginManager
      */
     protected $pluginManager;
 
     /**
      * Constructor
      *
-     * @param RelatedManager $pluginManager Plugin manager for related record modules
-     * @param ConfigManager  $cm            Configuration manager
-     * @param OptionsManager $om            Search options manager
+     * @param \VuFind\Related\PluginManager $pluginManager Plugin manager for related
+     * record modules.
      */
-    public function __construct(RelatedManager $pluginManager,
-        ConfigManager $cm, OptionsManager $om
-    ) {
-        $this->pluginManager = $pluginManager;
-        $this->configManager = $cm;
-        $this->optionsManager = $om;
-    }
-
-    /**
-     * Given a record source ID, return the appropriate related record configuration.
-     *
-     * @param string $source Source identifier
-     *
-     * @return array
-     */
-    protected function getConfigForSource($source)
+    public function __construct(\VuFind\Related\PluginManager $pluginManager)
     {
-        $options = $this->optionsManager->get($source);
-        $configName = $options->getSearchIni();
-        // Special case -- default Solr stores [Record] section in config.ini
-        if ($configName === 'searches') {
-            $configName = 'config';
-        }
-        $config = $this->configManager->get($configName);
-        return $config->Record->related ?? [];
+        $this->pluginManager = $pluginManager;
     }
 
     /**
@@ -106,21 +66,7 @@ class Related extends AbstractClassBasedTemplateRenderer
      */
     public function getList(\VuFind\RecordDriver\AbstractBase $driver)
     {
-        $retVal = [];
-        $config = $this->getConfigForSource($driver->getSourceIdentifier());
-        foreach ($config as $current) {
-            $parts = explode(':', $current);
-            $type = $parts[0];
-            $params = $parts[1] ?? null;
-            if ($this->pluginManager->has($type)) {
-                $plugin = $this->pluginManager->get($type);
-                $plugin->init($params, $driver);
-                $retVal[] = $plugin;
-            } else {
-                throw new \Exception("Related module {$type} does not exist.");
-            }
-        }
-        return $retVal;
+        return $driver->getRelated($this->pluginManager);
     }
 
     /**
@@ -133,9 +79,38 @@ class Related extends AbstractClassBasedTemplateRenderer
      */
     public function render($related)
     {
-        $template = 'Related/%s.phtml';
+        // Set up the rendering context:
+        $contextHelper = $this->getView()->plugin('context');
+        $oldContext = $contextHelper($this->getView())->apply(
+            ['related' => $related]
+        );
+
+        // Get the current related item module's class name, then start a loop
+        // in case we need to use a parent class' name to find the appropriate
+        // template.
         $className = get_class($related);
-        $context = ['related' => $related];
-        return $this->renderClassTemplate($template, $className, $context);
+        $resolver = $this->getView()->resolver();
+        while (true) {
+            // Guess the template name for the current class:
+            $classParts = explode('\\', $className);
+            $template = 'Related/' . array_pop($classParts) . '.phtml';
+            // Try to resolve the template....
+            if ($resolver->resolve($template)) {
+                $html = $this->getView()->render($template);
+                $contextHelper($this->getView())->restore($oldContext);
+                return $html;
+            } else {
+                // If the template doesn't exist, let's see if we can inherit a
+                // template from a parent class:
+                $className = get_parent_class($className);
+                if (empty($className)) {
+                    // No more parent classes left to try?  Throw an exception!
+                    throw new RuntimeException(
+                        'Cannot find template for related items class: ' .
+                        get_class($related)
+                    );
+                }
+            }
+        }
     }
 }

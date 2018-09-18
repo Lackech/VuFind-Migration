@@ -2,7 +2,7 @@
 /**
  * Horizon ILS Driver
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2007.
  *
@@ -27,11 +27,7 @@
  * @link     https://vufind.org/wiki/development:plugins:ils_drivers Wiki
  */
 namespace VuFind\ILS\Driver;
-
-use PDO;
 use VuFind\Exception\ILS as ILSException;
-use VuFind\Log\LoggerAwareTrait;
-use Zend\Log\LoggerAwareInterface;
 
 /**
  * Horizon ILS Driver
@@ -43,10 +39,8 @@ use Zend\Log\LoggerAwareInterface;
  * @license  http://opensource.org/licenses/gpl-2.0.php GNU General Public License
  * @link     https://vufind.org/wiki/development:plugins:ils_drivers Wiki
  */
-class Horizon extends AbstractBase implements LoggerAwareInterface
+class Horizon extends AbstractBase
 {
-    use LoggerAwareTrait;
-
     /**
      * Date converter object
      *
@@ -87,23 +81,15 @@ class Horizon extends AbstractBase implements LoggerAwareInterface
         }
 
         // Connect to database
-        try {
-            $this->db = new PDO(
-                'dblib:host=' . $this->config['Catalog']['host'] .
-                ':' . $this->config['Catalog']['port'] .
-                ';dbname=' . $this->config['Catalog']['database'],
-                $this->config['Catalog']['username'],
-                $this->config['Catalog']['password']
-            );
+        $this->db = mssql_pconnect(
+            $this->config['Catalog']['host'] . ':'
+            . $this->config['Catalog']['port'],
+            $this->config['Catalog']['username'],
+            $this->config['Catalog']['password']
+        );
 
-            // throw an exception instead of false on sql errors
-            $this->db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-        } catch (\Exception $e) {
-            $this->logError($e->getMessage());
-            throw new ILSException(
-                'ILS Configuration problem : ' . $e->getMessage()
-            );
-        }
+        // Select the databse
+        mssql_select_db($this->config['Catalog']['database']);
     }
 
     /**
@@ -161,13 +147,13 @@ class Horizon extends AbstractBase implements LoggerAwareInterface
             if (in_array(strtolower('available:0'), $arrayValues)) {
                 $available = 0;
             }
-            if (in_array(strtolower('reserve:N'), $arrayValues)) {
+            if (in_array(strtolower('reserve:N'),   $arrayValues)) {
                 $reserve  = 'N';
             }
-            if (in_array(strtolower('reserve:Y'), $arrayValues)) {
+            if (in_array(strtolower('reserve:Y'),   $arrayValues)) {
                 $reserve  = 'Y';
             }
-            if (in_array(strtolower('duedate:0'), $arrayValues)) {
+            if (in_array(strtolower('duedate:0'),   $arrayValues)) {
                 $duedate  = '';
             }
         } else {
@@ -335,7 +321,7 @@ class Horizon extends AbstractBase implements LoggerAwareInterface
      * @param string $id     The record id to retrieve the holdings for
      * @param array  $patron Patron data
      *
-     * @throws VuFind\Date\DateException;
+     * @throws \VuFind\Exception\Date
      * @throws ILSException
      * @return array         On success, an associative array with the following
      * keys: id, availability (boolean), status, location, reserve, callnumber,
@@ -348,16 +334,12 @@ class Horizon extends AbstractBase implements LoggerAwareInterface
 
         try {
             $holding = [];
-            $sqlStmt = $this->db->query($sql);
-            foreach ($sqlStmt as $row) {
+            $sqlStmt = mssql_query($sql);
+            while ($row = mssql_fetch_assoc($sqlStmt)) {
                 $holding[] = $this->processHoldingRow($id, $row, $patron);
             }
-
-            $this->debug(json_encode($holding));
-
             return $holding;
         } catch (\Exception $e) {
-            $this->logError($e->getMessage());
             throw new ILSException($e->getMessage());
         }
     }
@@ -375,14 +357,12 @@ class Horizon extends AbstractBase implements LoggerAwareInterface
         $item_status  = $row['STATUS_CODE']; //get the item status code
         $statusValues = $this->parseStatus($item_status);
 
-        $status = [
-            'id'           => $id,
-            'availability' => $statusValues['available'],
-            'status'       => $row['STATUS'],
-            'location'     => $row['LOCATION'],
-            'reserve'      => $statusValues['reserve'],
-            'callnumber'   => $row['CALLNUMBER']
-        ];
+        $status = ['id'           => $id,
+                        'availability' => $statusValues['available'],
+                        'status'       => $row['STATUS'],
+                        'location'     => $row['LOCATION'],
+                        'reserve'      => $statusValues['reserve'],
+                        'callnumber'   => $row['CALLNUMBER']];
 
         return $status;
     }
@@ -437,12 +417,10 @@ class Horizon extends AbstractBase implements LoggerAwareInterface
         $sqlWhere = ["i.bib# in (" . $bibIDs . ")",
                           "i.staff_only = 0"];
 
-        $sqlArray = [
-            'expressions' => $sqlExpressions,
-            'from'        => $sqlFrom,
-            'innerJoin'   => $sqlInnerJoin,
-            'where'       => $sqlWhere
-        ];
+        $sqlArray = ['expressions' => $sqlExpressions,
+                          'from'        => $sqlFrom,
+                          'innerJoin'   => $sqlInnerJoin,
+                          'where'       => $sqlWhere];
 
         return $sqlArray;
     }
@@ -476,14 +454,13 @@ class Horizon extends AbstractBase implements LoggerAwareInterface
 
         try {
             $status  = [];
-            $sqlStmt = $this->db->query($sql);
-            foreach ($sqlStmt as $row) {
+            $sqlStmt = mssql_query($sql);
+            while ($row = mssql_fetch_assoc($sqlStmt)) {
                 $id            = $row['ID'];
                 $status[$id][] = $this->processStatusRow($id, $row);
             }
             return $status;
         } catch (\Exception $e) {
-            $this->logError($e->getMessage());
             throw new ILSException($e->getMessage());
         }
     }
@@ -514,46 +491,39 @@ class Horizon extends AbstractBase implements LoggerAwareInterface
      *
      * @throws ILSException
      * @return mixed          Associative array of patron info on successful login,
-     * ILSException on unsuccessful login.
+     * null on unsuccessful login.
      */
     public function patronLogin($username, $password)
     {
         $sql = "select name_reconstructed as FULLNAME, " .
-            "email_address as EMAIL " .
-            "from borrower " .
+            "email_address as EMAIL from borrower " .
             "left outer join borrower_address on " .
-                "borrower_address.borrower# = borrower.borrower# " .
+            "borrower_address.borrower#=borrower.borrower# " .
             "inner join borrower_barcode on " .
-                "borrower.borrower# = borrower_barcode.borrower# " .
-            "where borrower_barcode.bbarcode = " .
-                "'" . addslashes($username) . "' " .
-            "and pin# = '" . addslashes($password) . "'";
+            "borrower.borrower#=borrower_barcode.borrower# " .
+            "where borrower_barcode.bbarcode=\"" . addslashes($username) .
+            "\" and pin# = \"" . addslashes($password) . "\"";
 
         try {
             $user = [];
-
-            $sqlStmt = $this->db->query($sql);
-            foreach ($sqlStmt as $row) {
-                list($lastname, $firstname) = explode(', ', $row['FULLNAME']);
-                $user = [
-                    'id' => $username,
-                    'firstname' => $firstname,
-                    'lastname' => $lastname,
-                    'cat_username' => $username,
-                    'cat_password' => $password,
-                    'email' => $row['EMAIL'],
-                    'major' => null,
-                    'college' => null
-                ];
-
-                $this->debug(json_encode($user));
+            $sqlStmt = mssql_query($sql);
+            $row = mssql_fetch_assoc($sqlStmt);
+            if ($row) {
+                list($lastname,$firstname) = explode(', ', $row['FULLNAME']);
+                $user = ['id' => $username,
+                              'firstname' => $firstname,
+                              'lastname' => $lastname,
+                              'cat_username' => $username,
+                              'cat_password' => $password,
+                              'email' => $row['EMAIL'],
+                              'major' => null,
+                              'college' => null];
 
                 return $user;
+            } else {
+                return null;
             }
-
-            throw new ILSException('Unable to login patron ' . $username);
         } catch (\Exception $e) {
-            $this->logError($e->getMessage());
             throw new ILSException($e->getMessage());
         }
     }
@@ -607,7 +577,8 @@ class Horizon extends AbstractBase implements LoggerAwareInterface
 
         // Where
         $sqlWhere = [
-            "bb.bbarcode='" . addslashes($patron['id']) . "'"
+            "bb.bbarcode=\"" . addslashes($patron['id']) .
+               "\""
         ];
 
         $sqlOrder = [
@@ -632,7 +603,7 @@ class Horizon extends AbstractBase implements LoggerAwareInterface
      *
      * @param array $row An sql row
      *
-     * @throws VuFind\Date\DateException;
+     * @throws \VuFind\Exception\Date
      * @return array Keyed data
      */
     protected function processHoldsRow($row)
@@ -690,7 +661,7 @@ class Horizon extends AbstractBase implements LoggerAwareInterface
      *
      * @param array $patron The patron array from patronLogin
      *
-     * @throws VuFind\Date\DateException;
+     * @throws \VuFind\Exception\Date
      * @throws ILSException
      * @return array        Array of the patron's holds on success.
      */
@@ -700,19 +671,16 @@ class Horizon extends AbstractBase implements LoggerAwareInterface
         $sql      = $this->buildSqlFromArray($sqlArray);
 
         try {
-            $sqlStmt = $this->db->query($sql);
-            foreach ($sqlStmt as $row) {
+            $sqlStmt = mssql_query($sql);
+
+            while ($row = mssql_fetch_assoc($sqlStmt)) {
                 $hold = $this->processHoldsRow($row);
                 if ($hold) {
                     $holdList[] = $hold;
                 }
             }
-
-            $this->debug(json_encode($holdList));
-
             return $holdList;
         } catch (\Exception $e) {
-            $this->logError($e->getMessage());
             throw new ILSException($e->getMessage());
         }
     }
@@ -724,7 +692,7 @@ class Horizon extends AbstractBase implements LoggerAwareInterface
      *
      * @param array $patron The patron array from patronLogin
      *
-     * @throws VuFind\Date\DateException;
+     * @throws \VuFind\Exception\Date
      * @throws ILSException
      * @return mixed        Array of the patron's fines on success.
      */
@@ -781,7 +749,7 @@ class Horizon extends AbstractBase implements LoggerAwareInterface
                "       on bu4.reference# = bu.reference# " .
                "      and bu4.ord = 0 " .
                "      and bu4.block in ('l', 'LostPro','fine','he') " .
-               "    where bb.bbarcode = '" . addslashes($patron['id']) . "' " .
+               "    where bb.bbarcode = \"" . addslashes($patron['id']) . "\" " .
                "      and bu.ord = 0 " .
                "      and bl.pac_display = 1 " .
                " order by FEEBLOCK desc " .
@@ -791,26 +759,20 @@ class Horizon extends AbstractBase implements LoggerAwareInterface
                "        , bu.date";
 
         try {
-            $sqlStmt = $this->db->query($sql);
-            $fineList = [];
-            foreach ($sqlStmt as $row) {
-                $fineList[] = [
-                    'amount'     => $row['AMOUNT'],
-                    'checkout'   => $row['CHECKOUT'],
-                    'fine' => $row['FINE'],
-                    'balance'    => $row['BALANCE'],
-                    'createdate' => $row['CREATEDATE'],
-                    'duedate'    => $row['DUEDATE'],
-                    'id'         => $row['ID'],
-                    'title'      => $row['TITLE']
-                ];
+            $sqlStmt = mssql_query($sql);
+
+            while ($row = mssql_fetch_assoc($sqlStmt)) {
+                 $fineList[] = ['amount'     => $row['AMOUNT'],
+                                     'checkout'   => $row['CHECKOUT'],
+                                    'fine' => $row['FINE'],
+                                     'balance'    => $row['BALANCE'],
+                                     'createdate' => $row['CREATEDATE'],
+                                     'duedate'    => $row['DUEDATE'],
+                                     'id'         => $row['ID'],
+                                     'title'      => $row['TITLE']];
             }
-
-            $this->debug(json_encode($fineList));
-
             return $fineList;
         } catch (\Exception $e) {
-            $this->logError($e->getMessage());
             throw new ILSException($e->getMessage());
         }
     }
@@ -823,8 +785,7 @@ class Horizon extends AbstractBase implements LoggerAwareInterface
      * @param array $patron The patron array
      *
      * @throws ILSException
-     * @return array        Array of the patron's profile data on success,
-     * throw ILSException if none found
+     * @return array        Array of the patron's profile data on success.
      */
     public function getMyProfile($patron)
     {
@@ -832,38 +793,32 @@ class Horizon extends AbstractBase implements LoggerAwareInterface
             "city_st.descr as ADDRESS2, postal_code as ZIP, phone_no as PHONE " .
             "from borrower " .
             "left outer join borrower_phone on " .
-                "borrower_phone.borrower#=borrower.borrower# " .
+            "borrower_phone.borrower#=borrower.borrower# " .
             "inner join borrower_address on " .
-                "borrower_address.borrower#=borrower.borrower# " .
+            "borrower_address.borrower#=borrower.borrower# " .
             "inner join city_st on city_st.city_st=borrower_address.city_st " .
             "inner join borrower_barcode on " .
-            "borrower_barcode.borrower# = borrower.borrower# " .
-            "where borrower_barcode.bbarcode = '" . addslashes($patron['id']) . "'";
+            "borrower_barcode.borrower#=borrower.borrower# " .
+            "where borrower_barcode.bbarcode=\"" . addslashes($patron['id']) . "\"";
 
         try {
-            $sqlStmt = $this->db->query($sql);
-            foreach ($sqlStmt as $row) {
-                list($lastname, $firstname) = explode(', ', $row['FULLNAME']);
-                $profile = [
-                    'lastname' => $lastname,
-                    'firstname' => $firstname,
-                    'address1' => $row['ADDRESS1'],
-                    'address2' => $row['ADDRESS2'],
-                    'zip' => $row['ZIP'],
-                    'phone' => $row['PHONE'],
-                    'group' => null
-                ];
+            $sqlStmt = mssql_query($sql);
 
-                $this->debug(json_encode($profile));
-
+            $row = mssql_fetch_assoc($sqlStmt);
+            if ($row) {
+                list($lastname,$firstname) = explode(', ', $row['FULLNAME']);
+                $profile = ['lastname' => $lastname,
+                                'firstname' => $firstname,
+                                'address1' => $row['ADDRESS1'],
+                                'address2' => $row['ADDRESS2'],
+                                'zip' => $row['ZIP'],
+                                'phone' => $row['PHONE'],
+                                'group' => null];
                 return $profile;
+            } else {
+                return null;
             }
-
-            throw new ILSException(
-                'Unable to retrieve profile for patron ' . $patron['id']
-            );
         } catch (\Exception $e) {
-            $this->logError($e->getMessage());
             throw new ILSException($e->getMessage());
         }
     }
@@ -910,7 +865,7 @@ class Horizon extends AbstractBase implements LoggerAwareInterface
 
         // Where
         $sqlWhere = [
-            "bb.bbarcode='" . addslashes($patron['id']) . "'"];
+            "bb.bbarcode=\"" . addslashes($patron['id']) . "\""];
 
         // Order by
         $sqlOrder = [
@@ -935,7 +890,7 @@ class Horizon extends AbstractBase implements LoggerAwareInterface
      *
      * @param array $row An array of keyed data
      *
-     * @throws VuFind\Date\DateException;
+     * @throws \VuFind\Exception\Date
      * @return array Keyed data for display by template files
      */
     protected function processTransactionsRow($row)
@@ -953,7 +908,7 @@ class Horizon extends AbstractBase implements LoggerAwareInterface
             if (is_numeric($dueTimeStamp)) {
                 if ($now > $dueTimeStamp) {
                     $dueStatus = "overdue";
-                } elseif ($now > $dueTimeStamp - (1 * 24 * 60 * 60)) {
+                } else if ($now > $dueTimeStamp - (1 * 24 * 60 * 60)) {
                     $dueStatus = "due";
                 }
             }
@@ -961,15 +916,15 @@ class Horizon extends AbstractBase implements LoggerAwareInterface
 
         return [
             'id'               => $row['BIB_NUM'],
-            'item_id'          => $row['ITEM_NUM'],
-            'duedate'          => $dueDate,
-            'barcode'          => $row['ITEM_BARCODE'],
-            'renew'            => $row['RENEW'],
-            'request'          => $row['REQUEST'],
-            'dueStatus'        => $dueStatus,
-            'volume'           => $row['VOLUME'],
-            'publication_year' => $row['PUBLICATION_YEAR'],
-            'title'            => $row['TITLE']
+             'item_id'          => $row['ITEM_NUM'],
+             'duedate'          => $dueDate,
+             'barcode'          => $row['ITEM_BARCODE'],
+             'renew'            => $row['RENEW'],
+             'request'          => $row['REQUEST'],
+             'dueStatus'        => $dueStatus,
+             'volume'           => $row['VOLUME'],
+             'publication_year' => $row['PUBLICATION_YEAR'],
+             'title'            => $row['TITLE']
         ];
     }
 
@@ -981,7 +936,7 @@ class Horizon extends AbstractBase implements LoggerAwareInterface
      *
      * @param array $patron The patron array from patronLogin
      *
-     * @throws VuFind\Date\DateException;
+     * @throws \VuFind\Exception\Date
      * @throws ILSException
      * @return array        Array of the patron's transactions on success.
      */
@@ -992,16 +947,12 @@ class Horizon extends AbstractBase implements LoggerAwareInterface
         $sql       = $this->buildSqlFromArray($sqlArray);
 
         try {
-            $sqlStmt = $this->db->query($sql);
-            foreach ($sqlStmt as $row) {
+            $sqlStmt = mssql_query($sql);
+            while ($row = mssql_fetch_assoc($sqlStmt)) {
                 $transList[] = $this->processTransactionsRow($row);
             }
-
-            $this->debug(json_encode($transList));
-
             return $transList;
         } catch (\Exception $e) {
-            $this->logError($e->getMessage());
             throw new ILSException($e->getMessage());
         }
     }
@@ -1050,7 +1001,6 @@ class Horizon extends AbstractBase implements LoggerAwareInterface
 
             // Set the Sybase or MSSQL rowcount limit (TODO: account for $page)
             $limitsql = "set rowcount {$limit}";
-            // for Sybase ASE 12.5 : "set rowcount $limit"
 
             // This is the actual query for IDs.
             $newsql = "  select nb.bib# "
@@ -1065,25 +1015,19 @@ class Horizon extends AbstractBase implements LoggerAwareInterface
             $results = [];
 
             // Set the rowcount limit before executing the query for IDs
-            $this->db->query($limitsql);
+            mssql_query($limitsql);
 
             // Actual query for IDs
-            try {
-                $sqlStmt = $this->db->query($newsql);
-                foreach ($sqlStmt as $row) {
-                    $results[] = $row['bib#'];
-                }
-
-                $retVal = ['count' => count($results), 'results' => []];
-                foreach ($results as $result) {
-                    $retVal['results'][] = ['id' => $result];
-                }
-
-                return $retVal;
-            } catch (\Exception $e) {
-                $this->logError($e->getMessage());
-                throw new ILSException($e->getMessage());
+            $sqlStmt = mssql_query($newsql);
+            while ($row = mssql_fetch_assoc($sqlStmt)) {
+                $results[] = $row['bib#'];
             }
+
+            $retVal = ['count' => count($results), 'results' => []];
+            foreach ($results as $result) {
+                $retVal['results'][] = ['id' => $result];
+            }
+            return $retVal;
         } else {
             return ['count' => 0, 'results' => []];
         }
@@ -1103,14 +1047,9 @@ class Horizon extends AbstractBase implements LoggerAwareInterface
     {
         $checkHzVersionSQL = "select database_revision from matham";
 
-        try {
-            $versionResult = $this->db->query($checkHzVersionSQL);
-            foreach ($versionResult as $row) {
-                $hzVersionFound = $row['database_revision'];
-            }
-        } catch (\Exception $e) {
-            $this->logError($e->getMessage());
-            throw new ILSException($e->getMessage());
+        $versionResult = mssql_query($checkHzVersionSQL);
+        while ($row = mssql_fetch_assoc($versionResult)) {
+            $hzVersionFound = $row['database_revision'];
         }
 
         /* The Horizon database version is made up of 4 numbers separated by periods.
@@ -1155,12 +1094,11 @@ class Horizon extends AbstractBase implements LoggerAwareInterface
             "  from bib_control bc" .
             " where bc.staff_only = 1";
         try {
-            $sqlStmt = $this->db->query($sql);
-            foreach ($sqlStmt as $row) {
+            $sqlStmt = mssql_query($sql);
+            while ($row = mssql_fetch_assoc($sqlStmt)) {
                 $list[] = $row['bib#'];
             }
         } catch (\Exception $e) {
-            $this->logError($e->getMessage());
             throw new ILSException($e->getMessage());
         }
 

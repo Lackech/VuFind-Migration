@@ -2,7 +2,7 @@
 /**
  * Error Controller
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -63,4 +63,5 @@ class ErrorController extends AbstractActionController
             ['msg' => $this->params()->fromQuery('msg')]
         );
     }
+
 }

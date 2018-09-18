@@ -3,7 +3,7 @@
 /**
  * Simple WorldCat record.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -28,8 +28,8 @@
  */
 namespace VuFindSearch\Backend\WorldCat\Response\XML;
 
-use File_MARC_Record;
 use VuFindSearch\Response\RecordInterface;
+use File_MARC_Record;
 
 /**
  * Simple WorldCat record.

@@ -2,7 +2,7 @@
 /**
  * III ILS Driver
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2007.
  *
@@ -26,7 +26,6 @@
  * @link     https://vufind.org/wiki/development:plugins:ils_drivers Wiki
  */
 namespace VuFind\ILS\Driver;
-
 use VuFind\Exception\ILS as ILSException;
 
 /**
@@ -176,7 +175,7 @@ class Innovative extends AbstractBase implements
                 // replace non blocking space encodings with a space.
                 $cols[$i] = str_replace("&nbsp;", " ", $cols[$i]);
                 // remove html comment tags
-                $cols[$i] = preg_replace("/<!--([^(-->)]*)-->/", "", $cols[$i]);
+                $cols[$i] = ereg_replace("<!--([^(-->)]*)-->", "", $cols[$i]);
                 // Remove closing th or td tag, trim whitespace and decode html
                 // entities
                 $cols[$i] = html_entity_decode(
@@ -187,7 +186,7 @@ class Innovative extends AbstractBase implements
                 // names
                 if ($count == 1) {
                     $keys[$i] = $cols[$i];
-                } elseif ($count > 1) { // not the first row, has holding info
+                } else if ($count > 1) { // not the first row, has holding info
                     //look for location column
                     if (stripos($keys[$i], $loc_col_name) > -1) {
                         $ret[$count - 2]['location'] = strip_tags($cols[$i]);
@@ -270,7 +269,7 @@ class Innovative extends AbstractBase implements
      * @param string $id     The record id to retrieve the holdings for
      * @param array  $patron Patron data
      *
-     * @throws VuFind\Date\DateException;
+     * @throws \VuFind\Exception\Date
      * @throws ILSException
      * @return array         On success, an associative array with the following
      * keys: id, availability (boolean), status, location, reserve, callnumber,

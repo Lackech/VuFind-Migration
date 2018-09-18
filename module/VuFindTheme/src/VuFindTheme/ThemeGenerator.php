@@ -2,7 +2,7 @@
 /**
  * Class to generate a new theme from a template and reconfigure VuFind to use it.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2017.
  *
@@ -27,7 +27,6 @@
  * @link     https://vufind.org Main Site
  */
 namespace VuFindTheme;
-
 use VuFind\Config\Locator as ConfigLocator;
 use VuFind\Config\Writer as ConfigWriter;
 use Zend\Config\Config;

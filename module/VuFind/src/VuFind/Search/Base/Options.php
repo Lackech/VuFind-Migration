@@ -2,7 +2,7 @@
 /**
  * Abstract options search model.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -26,7 +26,6 @@
  * @link     https://vufind.org Main Page
  */
 namespace VuFind\Search\Base;
-
 use VuFind\I18n\Translator\TranslatorAwareInterface;
 
 /**
@@ -227,13 +226,6 @@ abstract class Options implements TranslatorAwareInterface
     protected $autocompleteEnabled = false;
 
     /**
-     * Configuration file to read global settings from
-     *
-     * @var string
-     */
-    protected $mainIni = 'config';
-
-    /**
      * Configuration file to read search settings from
      *
      * @var string
@@ -413,17 +405,6 @@ abstract class Options implements TranslatorAwareInterface
     }
 
     /**
-     * Get the name of the ini file used for loading primary settings in this
-     * object.
-     *
-     * @return string
-     */
-    public function getMainIni()
-    {
-        return $this->mainIni;
-    }
-
-    /**
      * Get the name of the ini file used for configuring search parameters in this
      * object.
      *
@@ -534,23 +515,23 @@ abstract class Options implements TranslatorAwareInterface
     }
 
     /**
-     * Returns the defaultFacetDelimiter value.
-     *
-     * @return string
-     */
+    * Returns the defaultFacetDelimiter value.
+    *
+    * @return string
+    */
     public function getDefaultFacetDelimiter()
     {
         return $this->defaultFacetDelimiter;
     }
 
     /**
-     * Set the defaultFacetDelimiter value.
-     *
-     * @param string $defaultFacetDelimiter A default delimiter to be used with
-     * delimited facets
-     *
-     * @return void
-     */
+    * Set the defaultFacetDelimiter value.
+    *
+    * @param string $defaultFacetDelimiter A default delimiter to be used with
+    * delimited facets
+    *
+    * @return void
+    */
     public function setDefaultFacetDelimiter($defaultFacetDelimiter)
     {
         $this->defaultFacetDelimiter = $defaultFacetDelimiter;
@@ -586,12 +567,12 @@ abstract class Options implements TranslatorAwareInterface
     }
 
     /**
-     * Set the delimitedFacets value.
-     *
-     * @param array $delimitedFacets An array of delimited facet names
-     *
-     * @return void
-     */
+    * Set the delimitedFacets value.
+    *
+    * @param array $delimitedFacets An array of delimited facet names
+    *
+    * @return void
+    */
     public function setDelimitedFacets($delimitedFacets)
     {
         $this->delimitedFacets = $delimitedFacets;
@@ -654,7 +635,7 @@ abstract class Options implements TranslatorAwareInterface
      */
     public function spellcheckEnabled($bool = null)
     {
-        if (null !== $bool) {
+        if (!is_null($bool)) {
             $this->spellcheck = $bool;
         }
         return $this->spellcheck;
@@ -682,7 +663,7 @@ abstract class Options implements TranslatorAwareInterface
     {
         if (isset($this->basicHandlers[$field])) {
             return $this->translate($this->basicHandlers[$field]);
-        } elseif (isset($this->advancedHandlers[$field])) {
+        } else if (isset($this->advancedHandlers[$field])) {
             return $this->translate($this->advancedHandlers[$field]);
         } else {
             return $field;

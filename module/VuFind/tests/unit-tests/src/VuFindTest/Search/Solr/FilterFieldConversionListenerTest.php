@@ -3,7 +3,7 @@
 /**
  * Unit tests for FilterFieldConversionListener.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2015.
  *
@@ -28,9 +28,9 @@
  */
 namespace VuFindTest\Search\Solr;
 
-use VuFind\Search\Solr\FilterFieldConversionListener;
-
 use VuFindSearch\ParamBag;
+
+use VuFind\Search\Solr\FilterFieldConversionListener;
 use VuFindTest\Unit\TestCase;
 use Zend\EventManager\Event;
 

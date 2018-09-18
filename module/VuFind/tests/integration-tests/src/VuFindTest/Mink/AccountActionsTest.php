@@ -2,7 +2,7 @@
 /**
  * Mink account actions test class.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2011.
  *
@@ -87,16 +87,13 @@ class AccountActionsTest extends \VuFindTest\Unit\MinkTestCase
         $this->findCss($page, '.logoutOptions a.logout')->click();
         $this->snooze();
 
-        // Go to profile page:
-        $session->visit($this->getVuFindUrl('/MyResearch/Profile'));
-
         // Log back in
         $this->findCss($page, '#loginOptions a')->click();
         $this->fillInLoginForm($page, 'username1', 'test');
         $this->findCss($page, '.modal-body .btn.btn-primary')->click();
         $this->snooze();
 
-        // Now click change password button:
+        // We should now be on account screen; go to change password page
         $this->findAndAssertLink($page, 'Change Password')->click();
         $this->snooze();
 

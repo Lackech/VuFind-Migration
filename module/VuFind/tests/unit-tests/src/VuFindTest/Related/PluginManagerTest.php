@@ -2,7 +2,7 @@
 /**
  * Related Items Plugin Manager Test Class
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -26,7 +26,6 @@
  * @link     https://vufind.org/wiki/development:testing:unit_tests Wiki
  */
 namespace VuFindTest\Related;
-
 use VuFind\Related\PluginManager;
 
 /**
@@ -47,10 +46,8 @@ class PluginManagerTest extends \VuFindTest\Unit\TestCase
      */
     public function testShareByDefault()
     {
-        $pm = new PluginManager(
-            $this->createMock('Interop\Container\ContainerInterface')
-        );
-        $this->assertFalse($this->getProperty($pm, 'sharedByDefault'));
+        $pm = new PluginManager(null);
+        $this->assertFalse($pm->shareByDefault());
     }
 
     /**
@@ -58,14 +55,12 @@ class PluginManagerTest extends \VuFindTest\Unit\TestCase
      *
      * @return void
      *
-     * @expectedException        Zend\ServiceManager\Exception\InvalidServiceException
+     * @expectedException        Zend\ServiceManager\Exception\RuntimeException
      * @expectedExceptionMessage Plugin ArrayObject does not belong to VuFind\Related\RelatedInterface
      */
     public function testExpectedInterface()
     {
-        $pm = new PluginManager(
-            $this->createMock('Interop\Container\ContainerInterface')
-        );
-        $pm->validate(new \ArrayObject());
+        $pm = new PluginManager(null);
+        $pm->validatePlugin(new \ArrayObject());
     }
 }

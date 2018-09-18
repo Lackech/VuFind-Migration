@@ -3,7 +3,7 @@
 /**
  * A group of single/simples queries, joined by boolean operator.
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -106,7 +106,7 @@ class QueryGroup extends AbstractQuery
     {
         $new = [];
         foreach ($this->queries as $q) {
-            $new[] = clone $q;
+            $new[] = clone($q);
         }
         $this->queries = $new;
     }

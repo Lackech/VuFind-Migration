@@ -2,7 +2,7 @@
 /**
  * VuFind Config Plugin Factory
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -26,11 +26,9 @@
  * @link     https://vufind.org/wiki/development Wiki
  */
 namespace VuFind\Config;
-
-use Interop\Container\ContainerInterface;
-use Zend\Config\Config;
-use Zend\Config\Reader\Ini as IniReader;
-use Zend\ServiceManager\Factory\AbstractFactoryInterface;
+use Zend\Config\Config, Zend\Config\Reader\Ini as IniReader,
+    Zend\ServiceManager\AbstractFactoryInterface,
+    Zend\ServiceManager\ServiceLocatorInterface;
 
 /**
  * VuFind Config Plugin Factory
@@ -106,7 +104,7 @@ class PluginFactory implements AbstractFactoryInterface
 
         // Now we'll pull all the children down one at a time and override settings
         // as appropriate:
-        while (null !== ($child = array_pop($configs))) {
+        while (!is_null($child = array_pop($configs))) {
             $overrideSections = isset($child->Parent_Config->override_full_sections)
                 ? explode(
                     ',', str_replace(
@@ -160,15 +158,17 @@ class PluginFactory implements AbstractFactoryInterface
     /**
      * Can we create a service for the specified name?
      *
-     * @param ContainerInterface $container     Service container
-     * @param string             $requestedName Name of service
+     * @param ServiceLocatorInterface $serviceLocator Service locator
+     * @param string                  $name           Name of service
+     * @param string                  $requestedName  Unfiltered name of service
      *
      * @return bool
      *
      * @SuppressWarnings(PHPMD.UnusedFormalParameter)
      */
-    public function canCreate(ContainerInterface $container, $requestedName)
-    {
+    public function canCreateServiceWithName(ServiceLocatorInterface $serviceLocator,
+        $name, $requestedName
+    ) {
         // Assume that configurations exist:
         return true;
     }
@@ -176,16 +176,16 @@ class PluginFactory implements AbstractFactoryInterface
     /**
      * Create a service for the specified name.
      *
-     * @param ContainerInterface $container     Service container
-     * @param string             $requestedName Name of service
-     * @param array              $options       Options (unused)
+     * @param ServiceLocatorInterface $serviceLocator Service locator
+     * @param string                  $name           Name of service
+     * @param string                  $requestedName  Unfiltered name of service
      *
      * @return object
      *
      * @SuppressWarnings(PHPMD.UnusedFormalParameter)
      */
-    public function __invoke(ContainerInterface $container, $requestedName,
-        array $options = null
+    public function createServiceWithName(ServiceLocatorInterface $serviceLocator,
+        $name, $requestedName
     ) {
         return $this->loadConfigFile($requestedName . '.ini');
     }

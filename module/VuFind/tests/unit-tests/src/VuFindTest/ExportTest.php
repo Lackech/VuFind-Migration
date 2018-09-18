@@ -2,7 +2,7 @@
 /**
  * Export Support Test Class
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -26,9 +26,7 @@
  * @link     https://vufind.org/wiki/development:testing:unit_tests Wiki
  */
 namespace VuFindTest;
-
-use VuFind\Export;
-use Zend\Config\Config;
+use VuFind\Export, Zend\Config\Config;
 
 /**
  * Export Support Test Class
@@ -39,7 +37,7 @@ use Zend\Config\Config;
  * @license  http://opensource.org/licenses/gpl-2.0.php GNU General Public License
  * @link     https://vufind.org/wiki/development:testing:unit_tests Wiki
  */
-class ExportTest extends \PHPUnit\Framework\TestCase
+class ExportTest extends \PHPUnit_Framework_TestCase
 {
     /**
      * Test bulk options using legacy (deprecated) configuration.

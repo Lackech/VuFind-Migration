@@ -2,7 +2,7 @@
 /**
  * Search params plugin factory
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2010.
  *
@@ -26,8 +26,7 @@
  * @link     https://vufind.org/wiki/development:plugins:record_drivers Wiki
  */
 namespace VuFind\Search\Params;
-
-use Interop\Container\ContainerInterface;
+use Zend\ServiceManager\ServiceLocatorInterface;
 
 /**
  * Search params plugin factory
@@ -52,23 +51,22 @@ class PluginFactory extends \VuFind\ServiceManager\AbstractPluginFactory
     /**
      * Create a service for the specified name.
      *
-     * @param ContainerInterface $container     Service container
-     * @param string             $requestedName Name of service
-     * @param array              $extras        Extra options
+     * @param ServiceLocatorInterface $serviceLocator Service locator
+     * @param string                  $name           Name of service
+     * @param string                  $requestedName  Unfiltered name of service
+     * @param array                   $extraParams    Extra constructor parameters
+     * (to follow the Options object and config loader)
      *
      * @return object
-     *
-     * @SuppressWarnings(PHPMD.UnusedFormalParameter)
      */
-    public function __invoke(ContainerInterface $container, $requestedName,
-        array $extras = null
+    public function createServiceWithName(ServiceLocatorInterface $serviceLocator,
+        $name, $requestedName, array $extraParams = []
     ) {
-        $optionsService = preg_replace('/Params$/', 'Options', $requestedName);
-        $options = $container->get('VuFind\Search\Options\PluginManager')
-            ->get($optionsService);
-        $class = $this->getClassName($requestedName);
-        $configLoader = $container->get('VuFind\Config\PluginManager');
+        $options = $serviceLocator->getServiceLocator()
+            ->get('VuFind\SearchOptionsPluginManager')->get($requestedName);
+        $class = $this->getClassName($name, $requestedName);
+        $configLoader = $serviceLocator->getServiceLocator()->get('VuFind\Config');
         // Clone the options instance in case caller modifies it:
-        return new $class(clone $options, $configLoader, ...($extras ?: []));
+        return new $class(clone($options), $configLoader, ...$extraParams);
     }
 }

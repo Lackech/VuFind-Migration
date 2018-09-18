@@ -2,7 +2,7 @@
 /**
  * Summon Search Results
  *
- * PHP version 7
+ * PHP version 5
  *
  * Copyright (C) Villanova University 2011.
  *
@@ -131,7 +131,7 @@ class Results extends \VuFind\Search\Base\Results
         }
 
         // If there is no filter, we'll use all facets as the filter:
-        $filter = null === $filter
+        $filter = is_null($filter)
             ? $this->getParams()->getFacetConfig()
             : $this->stripFilterParameters($filter);
 
@@ -229,7 +229,8 @@ class Results extends \VuFind\Search\Base\Results
             // present in the filter list?  Second, is the current value
             // an active filter for the current field?
             $orField = '~' . $field;
-            $itemsToCheck = $filterList[$field] ?? [];
+            $itemsToCheck = isset($filterList[$field])
+                ? $filterList[$field] : [];
             if (isset($filterList[$orField])) {
                 $itemsToCheck += $filterList[$orField];
             }
