@@ -6,12 +6,16 @@
     $this->sortOptions = [ 'default' => 'default' ];
   }
   $urlBase = $this->url($facetLightbox) . $results->getUrlQuery()->getParams() . '&amp;facet=' . urlencode($this->facet) . '&amp;facetexclude=' . $this->exclude . '&amp;facetop=' . $this->operator;
+
   $searchAction = $this->url($options->getSearchAction());
   if (!empty($this->baseUriExtra)) {
     $searchAction .= urlencode($this->baseUriExtra);
     $urlBase .= '&amp;baseUriExtra=' . urlencode($this->baseUriExtra);
   }
 ?>
+
+
+
 <h2><?=$this->transEsc($this->facetLabel) ?></h2>
 <?php if (count($this->sortOptions) > 1): ?>
   <div class="full-facet-sort-options">

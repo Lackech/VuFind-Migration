@@ -8,13 +8,12 @@
   <?php foreach($topFacetSet as $title => $cluster): ?>
     <?php $moreClass = ' NarrowGroupHidden_' . $this->escapeHtml($title) . ' hidden'; ?>
     <?php $allowExclude = $this->recommend->excludeAllowed($title); ?>
-    <div class="top-facets">
+    <div class="top-facets" data-toggle="collapse">
       <!--Toggle for mobile collapse -->
-      <?php $topLabel = $this->transEsc('top_facet_label', ['%%label%%' => $this->translate($cluster['label'])]); ?>
-      <a class="top-title js-toggle visible-xs" data-toggle="collapse" data-target="#top_<?=$this->escapeHtml($title) ?>"><i class="fa fa-caret-right"></i> <?=$topLabel ?></a>
-      <!--Regular title for non-mobile -->
-      <strong class="top-title hidden-xs"><?=$topLabel ?></strong>
-      <div class="collapse in" id="top_<?=$this->escapeHtml($title) ?>">
+      <div class="top-facet-title"><?=$this->transEsc('top_facet_label', ['%%label%%' => $cluster['label']]) ?></div>
+
+
+      <div class="" id="top_<?=$this->escapeHtml($title) ?>">
         <?php $limit = $topFacetSettings['rows'] * $topFacetSettings['cols']; ?>
         <?php foreach($cluster['list'] as $index => $thisFacet): ?>
           <span class="facet <?=$index > $limit ? $moreClass : '' ?>">

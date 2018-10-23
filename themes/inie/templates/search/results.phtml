@@ -57,6 +57,8 @@
     <?php foreach ($this->results->getRecommendations('top') as $current): ?>
       <?=$this->recommend($current)?>
     <?php endforeach; ?>
+
+      <script>$(".top-facets").appendTo($('.search-bar'));</script>
   <?php endif; ?>
   <?=$this->flashmessages()?>
   <nav class="search-header hidden-print">
@@ -107,12 +109,7 @@
     <?=$this->paginationControl($this->results->getPaginator(), 'Sliding', 'search/pagination.phtml', ['results' => $this->results, 'options' => isset($this->paginationOptions) ? $this->paginationOptions : []])?>
 
     <div class="searchtools hidden-print">
-      <strong><?=$this->transEsc('Search Tools')?>:</strong>
-      <a href="<?=$this->results->getUrlQuery()->setViewParam('rss')?>"><i class="fa fa-bell" aria-hidden="true"></i> <?=$this->transEsc('Get RSS Feed')?></a>
-      &mdash;
-      <a href="<?=$this->url('search-email')?>" class="mailSearch" data-lightbox id="mailSearch<?=$this->escapeHtmlAttr($this->results->getSearchId())?>">
-        <i class="fa fa-envelope" aria-hidden="true"></i> <?=$this->transEsc('Email this Search')?>
-      </a>
+      
       <?php if ($this->accountCapabilities()->getSavedSearchSetting() === 'enabled'): ?>
         &mdash;
         <?php if (is_numeric($this->results->getSearchId())): ?>
