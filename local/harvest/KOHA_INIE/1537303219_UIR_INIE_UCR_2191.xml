@@ -1,0 +1,44 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00597nam a2200157Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2191</subfield>
+    <subfield code="d">2191</subfield>
+  </datafield>
+  <controlfield tag="008">180712b2006    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">15.04.03 </subfield>
+    <subfield code="b">903</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Quesada Sancho, Rolando</subfield>
+    <subfield code="9">195</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Informe de actividad de investigación: jornada de análisis acerca de la cultura y comunidad sorda / </subfield>
+    <subfield code="c">Rolando Sancho Quesada</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">Costa Rica: </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2006</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">10 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Programa No. 724-A5-769 Cambio, Desarrollo y gestión de la educación superior</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">INFORMES DE INVESTIGACIÓN </subfield>
+    <subfield code="9">4007</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">SORDOMUDEZ</subfield>
+    <subfield code="9">4023</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

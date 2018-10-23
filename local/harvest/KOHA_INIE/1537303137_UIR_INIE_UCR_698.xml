@@ -1,0 +1,73 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00942nam a2200241Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">698</subfield>
+    <subfield code="d">698</subfield>
+  </datafield>
+  <controlfield tag="008">170420b2009    cr a|||| |||| 00| | spa d</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9789968989565</subfield>
+  </datafield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">09.04.05 </subfield>
+    <subfield code="b">1801</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="2" tag="110">
+    <subfield code="9">2663</subfield>
+    <subfield code="a">Instituto Costarricense de Turismo</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Certificación para la sostenibilidad turística: manual técnico: programa de formación bajo la norma CST / </subfield>
+    <subfield code="c">Instituto Costarricense de Turismo; [Con la colaboración del Observatorio del Desarrollo de la Universidad de Costa Rica]</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">Costa Rica : </subfield>
+    <subfield code="b">Instituto Costarricense de Turismo, </subfield>
+    <subfield code="c">2009</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">154 páginas,</subfield>
+    <subfield code="b">Ilustraciones</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">TURISMO</subfield>
+    <subfield code="9">2676</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">ADMINISTRACIÓN</subfield>
+    <subfield code="9">2299</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">DESARROLLO  SOSTENIBLE</subfield>
+    <subfield code="9">443</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">CONTAMINACIÓN</subfield>
+    <subfield code="9">793</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">AGUA</subfield>
+    <subfield code="9">2677</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">ENERGÍA ELÉCTRICA</subfield>
+    <subfield code="9">2678</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">DESASTRES </subfield>
+    <subfield code="9">1892</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">CONSERVACIÓN AMBIENTAL</subfield>
+    <subfield code="9">2679</subfield>
+  </datafield>
+  <datafield tag="651" ind2="4" ind1=" ">
+    <subfield code="a">COSTA RICA</subfield>
+    <subfield code="9">47</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

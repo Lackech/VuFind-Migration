@@ -1,0 +1,48 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00598nam a2200169Ia 4500</leader>
+  <controlfield tag="008">160831b1978    mx ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="020">
+    <subfield code="a">9681602048</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">06.02.05 </subfield>
+    <subfield code="b">1313</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="a">Brodersonhn, Mario</subfield>
+    <subfield code="9">1960</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Financiamiento de la Educación en America Latina / </subfield>
+    <subfield code="c">Mario Brodersohn; María Ester Sanjuro</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">México: </subfield>
+    <subfield code="b">Fondo de Cultura Económica, Banco Interamericano de Desarrollo, </subfield>
+    <subfield code="c">1978</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">654 páginas</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">FINANCIAMIENTO DE LA EDUCACIÓN </subfield>
+    <subfield code="9">338</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="4">
+    <subfield code="a">AMÉRICA LATINA</subfield>
+    <subfield code="9">273</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Sanjuro, María Ester</subfield>
+    <subfield code="9">1961</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">381</subfield>
+    <subfield code="d">381</subfield>
+  </datafield>
+</record>

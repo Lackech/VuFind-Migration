@@ -1,0 +1,43 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00454nam a2200157Ia 4500</leader>
+  <controlfield tag="008">150731b1984    sp ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="020">
+    <subfield code="a">8403270291</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">R 464.03 </subfield>
+    <subfield code="b">S15.7 d 8 </subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">De Robles Sainz, Federico Carlos</subfield>
+    <subfield code="9">637</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Diccionario Español de Sinónimos y Antonimos</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">España : </subfield>
+    <subfield code="b">Aguilar Ediciones, </subfield>
+    <subfield code="c">1984</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">1149 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="0" tag="650">
+    <subfield code="9">34</subfield>
+    <subfield code="a">DICCIONARIOS</subfield>
+  </datafield>
+  <datafield tag="650" ind2="0" ind1=" ">
+    <subfield code="a">ESPAÑOL</subfield>
+    <subfield code="9">36</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">151</subfield>
+    <subfield code="d">151</subfield>
+  </datafield>
+</record>

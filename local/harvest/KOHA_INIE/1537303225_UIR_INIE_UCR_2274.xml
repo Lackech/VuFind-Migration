@@ -1,0 +1,59 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03076nam a2200205Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2274</subfield>
+    <subfield code="d">2274</subfield>
+  </datafield>
+  <controlfield tag="008">180705b1997    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">18.08.01 </subfield>
+    <subfield code="b">733</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="a">Contreras Montes de Oca, Ileana</subfield>
+    <subfield code="9">959</subfield>
+  </datafield>
+  <datafield tag="245" ind2="3" ind1="1">
+    <subfield code="a">El rol del profesor de matemáticas en la educación secundaria : algunos determinantes y consecuencias / </subfield>
+    <subfield code="c">Ileana Contreras Montes de Oca</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1997</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">17 hojas</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Informe final, primer y segundo parciales. Proyecto de Investigación No. 724-93-317</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">En este informe se describen el proceso y los resultados de un estudio realizado (desde un enfoque etnográfico), en tres instituciones públicas de educación secundaria, cuyas metas consistían en conocer la relación existente entre la teoría y la práctica en la enseñanza de las matemáticas en el contexto educativo costarricense, la percepción que los profesores de esta materia manejan de su rol como educadores y el rol que deducen los investigadores al observar y analizar las prácticas diarias de estos docentes. Se propuso también, como meta, identificar cuáles factores determinan el rol "teórico", cuáles el rol "en uso" y las consecuencias de este último. Para lograr los objetivos, se llevó a cabo una revisión bibliográfica sobre la teoría y la investigación de la enseñanza de las matemáticas, que abarcara los estudios realizados en los diez años previos a la puesta en marcha del proyecto (1994). Se consideraron, además, las expectativas en torno a la enseñanza y al papel del profesor de matemáticas contempladas en las políticas curriculares vigentes en Costa Rica, así como los cambios que se dieron con los nuevos programas de la Política Educativa Hacia el Siglo XXI. La recolección de datos se ejecutó durante los años 1994,1995 y 1996 en dos instituciones públicas. Esta tarea consistió en la observación de clases y la realización de entrevistas a los docentes que participaron en el estudio, para saber qué idea tenían ellos con respecto a su rol y cómo afectaban el bagaje cultural y la experiencia previa (como estudiantes de matemáticas) su labor docente. También se entrevistó a algunos estudiantes para conocer su apreciación sobre el aprendizaje, las clases y el profesor de matemáticas. En la tercera institución se efectuó un seminario-taller sobre el papel del profesor de matemáticas (1996), en el que se aprovecharon los resultados del estudio hecho en los dos primeros liceos. En general, se llegó a la conclusión de que la brecha entre la teoría y la práctica de la enseñanza de las matemáticas es tal, que se puede afirmar que no guardan relación. Se identificaron, además, categorías centrales para caracterizar la percepción que los profesores tienen de su rol y se determinaron algunos factores que explican dicho rol.</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">EDUCACIÓN SECUNDARIA</subfield>
+    <subfield code="9">456</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">PAPEL DEL DOCENTE</subfield>
+    <subfield code="9">1815</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">MATEMÁTICAS  </subfield>
+    <subfield code="9">482</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">INVESTIGACIÓN</subfield>
+    <subfield code="9">163</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">ANÁLISIS CAUSAL</subfield>
+    <subfield code="9">3938</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,50 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00843nam a2200193Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">CD #68</subfield>
+  </datafield>
+  <datafield tag="110" ind2=" " ind1=" ">
+    <subfield code="a">Centro de Investigación en Estudios de la Mujer</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="245">
+    <subfield code="a">Recursos educativos para la docencia y la investigación género-sensitivas / </subfield>
+    <subfield code="c">Centro de Investigación en Estudios de la Mujer</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">CIEM, </subfield>
+    <subfield code="c">2003</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">disco compacto</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Contenido: \ Presentación Como diseñar una campaña contra el Hostigamiento Sexual \ Para una enseñanza no sexista \ Ambientes de Trabajo y estudio no discriminatorios \ Sistematizando experiencias y procesos con perspectiva de género \ Aplicando la per</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="650">
+    <subfield code="a">MATERIALES DIDACTICOS</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="650">
+    <subfield code="a">GENERO</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">EVALUACION</subfield>
+  </datafield>
+  <datafield tag="650" ind2=" " ind1=" ">
+    <subfield code="a">INDICADORES</subfield>
+  </datafield>
+  <datafield tag="650" ind2=" " ind1=" ">
+    <subfield code="a">ABUSO SEXUAL </subfield>
+  </datafield>
+  <datafield tag="650" ind2=" " ind1=" ">
+    <subfield code="a">COSTA RICA</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="p">001964 </subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">2516</subfield>
+    <subfield code="d">2516</subfield>
+  </datafield>
+</record>

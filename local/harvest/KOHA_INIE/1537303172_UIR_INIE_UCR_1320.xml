@@ -1,0 +1,52 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00597nam a2200169Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">1320</subfield>
+    <subfield code="d">1320</subfield>
+  </datafield>
+  <controlfield tag="008">170606b2008    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">05.01.01 </subfield>
+    <subfield code="b">1608</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="a">Burgos, Juan Manuel</subfield>
+    <subfield code="9">2910</subfield>
+    <subfield code="e">Editor/a</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Hacia una definición de la filosofía personalista / </subfield>
+    <subfield code="c">Juan Manuel Burgos, José Luis Cañas, Urbano Ferrer, editores</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">PROMESA, </subfield>
+    <subfield code="c">2008?</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">273 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="490" ind1=" ">
+    <subfield code="a">Filosofía,</subfield>
+    <subfield code="v">8</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="0" tag="650">
+    <subfield code="a">FILOSOFÍA</subfield>
+    <subfield code="9">336</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="a">Cañas, José Luis </subfield>
+    <subfield code="9">2911</subfield>
+    <subfield code="e">Editor/a</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="a">Ferrer, Urbano</subfield>
+    <subfield code="9">2912</subfield>
+    <subfield code="e">Editor/a</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

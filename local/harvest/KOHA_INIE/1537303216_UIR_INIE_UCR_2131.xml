@@ -1,0 +1,71 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01960nam a2200241Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2131</subfield>
+    <subfield code="d">2131</subfield>
+  </datafield>
+  <controlfield tag="008">180821b1988    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">14.02.02 </subfield>
+    <subfield code="b">57</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="a">Brenes Blanco, Adelina</subfield>
+    <subfield code="9">4098</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Educación y los ancianos en Costa Rica / </subfield>
+    <subfield code="c">Adelina Brenes Blanco</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1988</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">101 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Informe Final del Proyecto de Investigación N° 724-86-002</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">	En las últimas décadas, debido a los avances en la medicina, el control de la mortalidad y el incremento en la expectativa de vida, el número de ancianos en nuestro país ha aumentado drásticamente, fenómeno que afecta en general a toda la sociedad costarricense. Si las actuales tendencias se mantienen, en el futuro, las mujeres constituirían la proporción más grande en la población de senescentes. Esta diferencia en la longevidad entre hombres y mujeres, tiene efectos sobre las condiciones de vida, el ingreso, la atención médica y otros programas de apoyo. Por su parte, el término "educación", tradicionalmente aplicado solo a la población más joven, debe ampliarse y ofrecer opciones a este creciente grupo de la sociedad. Se empieza a hablar de la reivindicación del derecho a la educación permanente y continua para personas de 60 años o más, ya que este grupo debe experimentar formas de organización para utilizar su tiempo libre y concebir un sistema de vida significativo. Entre las instituciones que han abierto un espacio para satisfacer las necesidades de los adultos mayores, destaca la Universidad de Costa Rica y los diferentes programas que se implementan en dicho centro.</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">ANCIANOS</subfield>
+    <subfield code="9">2660</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">ENVEJECIMIENTO</subfield>
+    <subfield code="9">2659</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">POBLACIÓN</subfield>
+    <subfield code="9">78</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">TASA DE NATALIDAD</subfield>
+    <subfield code="9">4099</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">ALFABETIZACIÓN</subfield>
+    <subfield code="9">80</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">EDUCACIÓN PERMANENTE</subfield>
+    <subfield code="9">1520</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">GERIATRÍA</subfield>
+    <subfield code="9">2661</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

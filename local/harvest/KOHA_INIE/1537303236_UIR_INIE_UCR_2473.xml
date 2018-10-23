@@ -1,0 +1,37 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00346nam a2200145Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">CD #21</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1=" ">
+    <subfield code="a"/>
+  </datafield>
+  <datafield ind2=" " tag="245" ind1=" ">
+    <subfield code="a">De cuba con amor: Danzón</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">México : </subfield>
+    <subfield code="b">Dirección general de culturas populares, </subfield>
+    <subfield code="c">1994</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">diámetro 12 cm.</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">[disco compacto]</subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2=" ">
+    <subfield code="a">MUSICA</subfield>
+  </datafield>
+  <datafield ind1=" " tag="651" ind2=" ">
+    <subfield code="a">CUBA</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="p">001406 </subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2473</subfield>
+    <subfield code="d">2473</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,52 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00554nam a2200181Ia 4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">138</subfield>
+    <subfield code="d">138</subfield>
+  </datafield>
+  <controlfield tag="008">150730b1992    sp ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="020" ind2=" " ind1=" ">
+    <subfield code="a">2034513231</subfield>
+  </datafield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">R 423.6 </subfield>
+    <subfield code="b">g 216 La </subfield>
+  </datafield>
+  <datafield ind1=" " tag="100" ind2=" ">
+    <subfield code="9">603</subfield>
+    <subfield code="a">Garcia-Pelayo y Gross, Ramón</subfield>
+  </datafield>
+  <datafield ind2=" " tag="245" ind1="1">
+    <subfield code="a">Diccionario General Español-Francés / </subfield>
+    <subfield code="c">Ramón García-Pelayo y Gross y Jean Testas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">España : </subfield>
+    <subfield code="b">Editorial Larousse, </subfield>
+    <subfield code="c">1992</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">1759 páginas</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">34</subfield>
+    <subfield code="a">DICCIONARIOS</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">ESPAÑOL</subfield>
+    <subfield code="9">36</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">FRANCÉS</subfield>
+    <subfield code="9">604</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1=" ">
+    <subfield code="a">Testas, Jean</subfield>
+    <subfield code="9">2141</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">09</subfield>
+  </datafield>
+</record>

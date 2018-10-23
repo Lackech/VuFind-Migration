@@ -1,0 +1,46 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01447nab a2200169   4500</leader>
+  <controlfield tag="005">20160428161515.0</controlfield>
+  <controlfield tag="008">160428b2012    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">1643</subfield>
+    <subfield code="a">García Retana, José Ángel</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Leducación emocional, su importancia en el proceso de aprendizaje /</subfield>
+    <subfield code="c">José Ángel García Retana </subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2012</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">páginas 97-109</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">Dentro del proceso educativo, se ha tendido a privilegiar los aspectos cognitivos por encima de los emocionales. Incluso para muchos estos dos aspectos deben ser por separado; sin embargo esto no es conveniente si se pretende lograr el desarrollo integral del educando. Para poder incorporar los aspectos emocionales en el proceso educativo  se debe caracterizar en qué consisten las emociones, cómo a partir de estas surge la educación emocional y qué papel juega esta dentro de dicho proceso. A su vez, se debe considerar  el papel del maestro y cómo las emociones - tanto propias como de los estudiantes-, deben ser tomadas en cuenta en su acto pedagógico; por último se considerará la relación entre emociones y estilos de aprendizaje.</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind1="0" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0625</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.36, no.1 (ene.-jun., 2012)</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">3174</subfield>
+    <subfield code="d">3174</subfield>
+  </datafield>
+</record>

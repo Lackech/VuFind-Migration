@@ -1,0 +1,56 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02346nam a2200193Ia 4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2095</subfield>
+    <subfield code="d">2095</subfield>
+  </datafield>
+  <controlfield tag="008">180828b2011    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">13.09.09</subfield>
+    <subfield code="b"> 2037</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1=" ">
+    <subfield code="a">D'Antoni, Maurizia </subfield>
+    <subfield code="9">706</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="245">
+    <subfield code="a">Experiencias de inserción profesional de docentes extranjeros (as) en la Universidad de Costa Rica / </subfield>
+    <subfield code="c">Maurizia D'Antoni</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Escuela de Formación Docente; </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2011</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">79 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="500" ind2=" ">
+    <subfield code="a">Informe final proyecto No.724-A9-321</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">La investigación parte de una revisión bibliográfica sobre constructos para entender el proceso de inserción profesional en un contexto de aculturación. Tiene como objetivo general conocer las dificultades específicas y las necesidades de acompañamiento expresadas por un grupo de seis docentes extranjeros(as) que laboran en la Universidad de Costa Rica. En cuanto al tipo de investigación esta es exploratoria, por la escasez de datos previos que den cuenta del proceso de introducción al trabajo de docentes extranjeros(as), en América Latina o en el país. El abordaje metodológico escogido es de enfoque cualitativo: se escogió realizar seis entrevistas semi estructuradas. Sobre los criterios de exclusión, se escogieron a docentes extranjeras de la Universidad de Costa Rica que tenían más de tres años de trabajar en la misma. Las profesoras se entrevistaron para conocer acerca de su proceso de inserción laboral. Emerge la relación con el estudiantado y consideraciones sobre la exigencia de la universidad, que las docentes europeas consideran muy baja. En el primer impacto cultural de las docentes destacan los y las colegas como fuente de información pero a la vez, y sorprendentemente, de desconcierto, competencia, conflicto. En todas las historias de las docentes que no estudiaron en Costa Rica emerge como un momento muy impactante el trámite burocrático para el reconocimiento de títulos de estudio extranjero. Los docentes están de acuerdo sobre la necesidad de una inducción al trabajo docente en Costa Rica. Se sugiere promover la mediación cultural en la Universidad de Costa Rica y estudiar su relación con la figura docente.</subfield>
+  </datafield>
+  <datafield ind1=" " tag="610" ind2="4">
+    <subfield code="9">714</subfield>
+    <subfield code="a">UNIVERSIDAD DE COSTA RICA</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">DOCENTES</subfield>
+    <subfield code="9">331</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">MIGRACIÓN</subfield>
+    <subfield code="9">323</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">ACULTURACIÓN</subfield>
+    <subfield code="9">4127</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

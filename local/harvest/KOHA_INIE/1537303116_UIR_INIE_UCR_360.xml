@@ -1,0 +1,47 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00551nam a2200169Ia 4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">360</subfield>
+    <subfield code="d">360</subfield>
+  </datafield>
+  <controlfield tag="008">160208b2006    C  ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="020" ind1=" ">
+    <subfield code="a">9562828174</subfield>
+  </datafield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">04.02.01 </subfield>
+    <subfield code="b">1466</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="a">Magendzo K. , Abraham</subfield>
+    <subfield code="9">1450</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Educación en Derechos Humanos: un Desafío para los Docentes de Hoy / </subfield>
+    <subfield code="c">Abraham Magendzo K.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Santiago, Chile: </subfield>
+    <subfield code="b">LOM Ediciones, </subfield>
+    <subfield code="c">2006</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">184 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="490">
+    <subfield code="a">Enfoques pedagógicos/ Abraham Magendzo K.</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">DERECHOS HUMANOS</subfield>
+    <subfield code="9">588</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

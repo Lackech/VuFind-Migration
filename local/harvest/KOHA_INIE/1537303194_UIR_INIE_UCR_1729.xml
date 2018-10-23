@@ -1,0 +1,39 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00577nam a2200145Ia 4500</leader>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">06.03.04 </subfield>
+    <subfield code="b">967</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1=" ">
+    <subfield code="a">Galland, Gustavo</subfield>
+  </datafield>
+  <datafield ind1=" " tag="245" ind2=" ">
+    <subfield code="a">Informe del curso "Diseño de sistemas multimedia" / </subfield>
+    <subfield code="c">Gustavo Galland; Alicia Gurdían</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica. : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">2001</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">12 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="500" ind2=" ">
+    <subfield code="a">La Unidad también posee  Taller : Tecnología en el tercer ciclo de la educación general básica E.G.B.\Proyecto de Acción Social ED-800</subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2=" ">
+    <subfield code="a">EDUCACION GENERAL</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="650">
+    <subfield code="a">CIENCIA Y TECNOLOGIA</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1=" ">
+    <subfield code="a">Gurdián Fernández, Alicia</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">1729</subfield>
+    <subfield code="d">1729</subfield>
+  </datafield>
+</record>

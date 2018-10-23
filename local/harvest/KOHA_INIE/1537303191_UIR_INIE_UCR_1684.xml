@@ -1,0 +1,46 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00312nam a2200109Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">1684</subfield>
+    <subfield code="d">1684</subfield>
+  </datafield>
+  <controlfield tag="008">180404b2002    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">06.03.04 </subfield>
+    <subfield code="b">1380</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="245">
+    <subfield code="a">Estrategias metodológicas para promotores de educación del aire limpio</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">[San José, Costa Rica] :</subfield>
+    <subfield code="c">2002</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">1 volumen (en varias paginaciones)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Actividad realizada en el Instituto de Investigación para el  Mejoramiento de la Educación Costarricense (IIMEC) del 18 al 22 de marzo de 2002</subfield>
+  </datafield>
+  <datafield ind2=" " tag="505" ind1=" ">
+    <subfield code="r">Velasco Saldaña, Erik </subfield>
+    <subfield code="t">Introducción a la meteorología de la capa límite aplicada a la dispersión de contaminantes</subfield>
+  </datafield>
+  <datafield ind1=" " tag="505" ind2=" ">
+    <subfield code="r">Velasco Saldaña, Erik </subfield>
+    <subfield code="t">Introducción a los modelos de dispersión atmosférica</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="505">
+    <subfield code="r">Velasco Saldaña, Erik </subfield>
+    <subfield code="t">Conceptos básicos de los inventarios de emisiones</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">EDUCACIÓN AMBIENTAL </subfield>
+    <subfield code="9">439</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

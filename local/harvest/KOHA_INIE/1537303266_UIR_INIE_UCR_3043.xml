@@ -1,0 +1,61 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00728nam a2200205   4500</leader>
+  <controlfield tag="008">160127b2015    ck a|||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="020">
+    <subfield code="a">9789588780368</subfield>
+  </datafield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">06.02.03</subfield>
+    <subfield code="b">2283</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">1348</subfield>
+    <subfield code="a">Vargas Amaya, Jorge</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Jornada 40 x 40: Sistematización y análisis de la experiencia piloto /</subfield>
+    <subfield code="c">Jorge Vargas Amaya, José Vicente Rubio Delgado</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">Bogotá, Colombia :</subfield>
+    <subfield code="b">IDEP,</subfield>
+    <subfield code="c">2015</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">107 páginas;</subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield tag="490" ind1=" " ind2=" ">
+    <subfield code="a">Serie Investigación IDEP,</subfield>
+    <subfield code="v">13</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">152</subfield>
+    <subfield code="a">PROYECTOS DE EDUCACION </subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">326</subfield>
+    <subfield code="a">INVESTIGACIÓN EDUCATIVA</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">11</subfield>
+    <subfield code="a">CALIDAD DE LA EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="4">
+    <subfield code="9">1349</subfield>
+    <subfield code="a">COLOMBIA</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">1350</subfield>
+    <subfield code="a">Rubio Delgado, José Vicente</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">3043</subfield>
+    <subfield code="d">3043</subfield>
+  </datafield>
+</record>

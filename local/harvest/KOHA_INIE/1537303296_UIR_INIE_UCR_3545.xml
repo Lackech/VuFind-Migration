@@ -1,0 +1,60 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00784nam a2200205   4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">3545</subfield>
+    <subfield code="d">3545</subfield>
+  </datafield>
+  <controlfield tag="008">180716b2017    p  a|||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="020" ind1=" ">
+    <subfield code="a">9789972841262</subfield>
+  </datafield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">13.09.09</subfield>
+    <subfield code="b">2488</subfield>
+  </datafield>
+  <datafield ind2=" " tag="110" ind1=" ">
+    <subfield code="9">4067</subfield>
+    <subfield code="a">Perú. Ministerio de Educación</subfield>
+  </datafield>
+  <datafield ind2="4" tag="245" ind1="1">
+    <subfield code="a">Una mirada a la profesión docente en el Perú: Futuros docentes, docentes en servicio y formadores de docentes /</subfield>
+    <subfield code="c">Ministerio de Eucación</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">Lima, Perú :</subfield>
+    <subfield code="b">Ministerio de Educación; UNESCO</subfield>
+    <subfield code="c">2017</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">91 páginas;</subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield tag="490" ind1=" " ind2=" ">
+    <subfield code="a">Aportes para la reflexión y construcción de políticas docentes</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">331</subfield>
+    <subfield code="a">DOCENTES</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">611</subfield>
+    <subfield code="a">ACTITUDES</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1021</subfield>
+    <subfield code="a">RELACIONES ENTRE DOCENTES Y ALUMNOS </subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">9</subfield>
+    <subfield code="a">FORMACIÓN DE DOCENTES</subfield>
+  </datafield>
+  <datafield ind2="4" ind1=" " tag="651">
+    <subfield code="9">1736</subfield>
+    <subfield code="a">PERÚ</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,45 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01152nab a2200157   4500</leader>
+  <controlfield tag="008">150617b2000    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">205</subfield>
+    <subfield code="a">Soto Calderón, Ronald</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Más allá de la clasificación y la comprensión de los conceptos de los grupos de discapacidad: la persona /</subfield>
+    <subfield code="c">Ronald Soto Calderón</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2000</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a"> páginas 135-149</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">Este trabajo presenta aspectos básicos sobre los conceptos de los grupos en los cuales han sido clasificadas las limitaciones, para posteriormente definir otros conceptos relacionados con los nuevos enfoques sobre discapacidad, en la segunda parte del artículo, se presentan una serie de ideas relacionadas con la forma en que la sociedad debe desarrollar estrategias para favorecer la igualdad y equiparación de oportunidades para las personas con discapacidad</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0026</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.24, no.2 (2000)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2685</subfield>
+    <subfield code="d">2685</subfield>
+  </datafield>
+</record>

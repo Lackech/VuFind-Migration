@@ -1,0 +1,64 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00844nam a2200217   4500</leader>
+  <controlfield tag="008">150925b2014    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">19.01.02 </subfield>
+    <subfield code="b">2166 </subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">1114</subfield>
+    <subfield code="a">Marín Sánchez, Patricia </subfield>
+  </datafield>
+  <datafield tag="245" ind2="3" ind1="1">
+    <subfield code="a">La configuración didáctica de los cursos apoyados por TIC en la univerisidad / </subfield>
+    <subfield code="c">Patricia Marín Sánchez</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">INIE,</subfield>
+    <subfield code="c">2014</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">109 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Informe final Proyecto de Investigación N°724-B0-323</subfield>
+  </datafield>
+  <datafield ind1="2" ind2="4" tag="610">
+    <subfield code="9">1116</subfield>
+    <subfield code="a">FACULTAD DE INGENIERÍA DE LA UNIVERSIDAD DE COSTA RICA</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">484</subfield>
+    <subfield code="a">TECNOLOGÍA DE LA INFORMACIÓN </subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">925</subfield>
+    <subfield code="a">TECNOLOGÍA DE LAS COMUNICACIONES</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">997</subfield>
+    <subfield code="a">DIDÁCTICA </subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">339</subfield>
+    <subfield code="a">ESTUDIOS DE CASOS</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">8</subfield>
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1115</subfield>
+    <subfield code="a">ENSEÑANZA CON AYUDA DE COMPUTADORAS </subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2903</subfield>
+    <subfield code="d">2903</subfield>
+  </datafield>
+</record>

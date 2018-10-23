@@ -1,0 +1,59 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01068nam a2200229Ia 4500</leader>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">CD #232</subfield>
+  </datafield>
+  <datafield ind2=" " tag="110" ind1=" ">
+    <subfield code="a">Secretaria General de la Coordinación Educativa y Cultural Centroamericana (CECC/SICA)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="245" ind1=" ">
+    <subfield code="a">Estado de la situación de los sistemas educativos en Centroamérica y República Dominicana en la última década 2001-2010 / </subfield>
+    <subfield code="c">Secretaria General de la Coordinación Educativa y Cultural Centroamericana (CECC/SICA)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">CECC/SICA, </subfield>
+    <subfield code="c">2011</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">disco compacto</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Proyecto "Integración centroamericana por medio de la reforma educativa" (SECC/SICA/TAIWAN). Componente: Mejoramiento significativo de los sitemas educativos\Contiene un informe  de cada país titulado: Sistematización de experiencias y esfuerzos rele</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="650">
+    <subfield code="a">REFORMA DE LA EDUCACION</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="650">
+    <subfield code="a">POLITICA EDUCATIVA</subfield>
+  </datafield>
+  <datafield tag="651" ind2=" " ind1=" ">
+    <subfield code="a">GUATEMALA</subfield>
+  </datafield>
+  <datafield ind1=" " tag="651" ind2=" ">
+    <subfield code="a">HONDURAS</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="651">
+    <subfield code="a">EL SALVADOR</subfield>
+  </datafield>
+  <datafield ind1=" " tag="651" ind2=" ">
+    <subfield code="a">NICARAGUA</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="651">
+    <subfield code="a">COSTA RICA</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="651">
+    <subfield code="a">PANAMÁ</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="651">
+    <subfield code="a">REPÚBLCIA DOMINICANA</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="p">003620 </subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2488</subfield>
+    <subfield code="d">2488</subfield>
+  </datafield>
+</record>

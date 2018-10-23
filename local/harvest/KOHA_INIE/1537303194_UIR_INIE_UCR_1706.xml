@@ -1,0 +1,53 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00928nam a2200181Ia 4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">1706</subfield>
+    <subfield code="d">1706</subfield>
+  </datafield>
+  <controlfield tag="008">170313b1985    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">06.03.06</subfield>
+    <subfield code="b">88</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Mejía Ramírez, Gabriel</subfield>
+    <subfield code="9">2525</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Conocimientos y opiniones sobre actitudes y prácticas relacionadas con las enfermedades / </subfield>
+    <subfield code="c">Gabriel Mejía Ramírez, Manuel Sandí Murillo</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Escuela de Administración Educativa, </subfield>
+    <subfield code="c">1985</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">88 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">I etapa: "Conocimientos y opiniones sobre actitudes y prácticas relacionadas con las enfermedades de trasmisiòn sexual" Proyecto de investigación adscrito a la Escuela de Adminsitración Educativa 
+II etapa:  Proyecto de Investigación N° 724-84-059 adscrito al IIMEC</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">EDUCACIÓN SEXUAL</subfield>
+    <subfield code="9">1552</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">ESTUDIANTES UNIVERSITARIOS </subfield>
+    <subfield code="9">481</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">SALUD</subfield>
+    <subfield code="9">268</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="a">Sandí Murillo, Manuel A.</subfield>
+    <subfield code="9">2524</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

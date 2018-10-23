@@ -1,0 +1,46 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02180nab a2200169   4500</leader>
+  <controlfield tag="005">20160831161441.0</controlfield>
+  <controlfield tag="008">160422b2011    cr ||||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">1601</subfield>
+    <subfield code="a">Luís López, Marcelo</subfield>
+  </datafield>
+  <datafield ind2="3" ind1="1" tag="245">
+    <subfield code="a">La demanda como aspecto metodológico de la extensión universitaria a partit de un avance de investigación en Carreras de Ingeniería /</subfield>
+    <subfield code="c">Marcelo Luís López</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2011</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">páginas 51-67</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">El trabajo corresponde a un avance de investigación que, desde un enfoque cualitativo, aborda el problema del tratamiento que tiene la demanda en materia de Extensión Universitaria en distintos ámbitos de la Universidad Pública Estatal de Jujuy, en el noroeste argentino. Ello se realiza con el objetivo de analizar y vincular estilos de abordaje de la demanda con procesos y resultados utilizando como procedimiento de base para la recolección de información entrevistas a agentes extensionistas y miembros de organizaciones impactadas. Se presentan resultados preliminares de las primeras entrevistas realizadas en el ámbito de las ingenierías, para lo cual se examinaron 8 precategorías semiestructurantes de las entrevistas: 1) concepto de extensión que orienta la práctica; 2) ámbitos, organizaciones y agentes con los que se realiza la vinculación; 3) características asignadas a los demandantes; 4) criterios para clasificar pedidos y acciones; 5) formas y vías como se tratan estos pedidos; 6) formación sobre demanda; 7) estrategias extensionistas; 8) actividades de alto/bajo impacto evocadas en madera de extensión. Además, se encontraron códigos emergentes que junto con las anteriores permitieron establecer cuatro categorías relevantes para el análisis de la demanda en extensión (académica, política, normativa y económica), con derivaciones metodológicas para la actividad extensionista</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="0" tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0398</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.35, no.1 (ene.-jun., 2011)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">3143</subfield>
+    <subfield code="d">3143</subfield>
+  </datafield>
+</record>

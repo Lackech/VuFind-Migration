@@ -1,0 +1,46 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01656nab a2200169   4500</leader>
+  <controlfield tag="005">20160328164958.0</controlfield>
+  <controlfield tag="008">151008b2004    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">1120</subfield>
+    <subfield code="a">D'Agostino Santoro, Giuseppa</subfield>
+  </datafield>
+  <datafield ind2="3" tag="245" ind1="1">
+    <subfield code="a">El alumno sobresaliente, su educación y la atención a sus necesidades especiales en el sistema educativo costarricense /</subfield>
+    <subfield code="c">Giuseppa D'Agostino Santoro</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2004</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">páginas 145-155</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">Las páginas aquí representadas constituyen una reflexión analítica-descriptiva acerca de la educación del aprendiz sobresaliente y talentoso en el área académica. Para ello, primero se efectúa una somera caracterización de este tipo de alumno y se brinda una visión de las alternativas educacionales más aplicadas en la práctica pedagógica, para su formación. Seguidamente, se aportan algunas acciones estatales, efectuadas a nivel de política del sistema educativo costarricense para atender las necesidades de este colectivo de alumnos y se evidencia su situación actual de descuido en dicho sistema. Se concluye evidenciando la presencia de una visión reduccionista de las necesidades educativas especiales en la Normativa pertinente, lo cual contraviene la filosofía de la educación inclusiva, y el derecho a la diversidad y a una educación doversificada de todos  y cada uno de los alumnos</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" tag="773" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0215</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.28, no.1 (2004) </subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2907</subfield>
+    <subfield code="d">2907</subfield>
+  </datafield>
+</record>

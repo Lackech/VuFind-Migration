@@ -1,0 +1,59 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02579nam a2200205Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2253</subfield>
+    <subfield code="d">2253</subfield>
+  </datafield>
+  <controlfield tag="008">180710b1991    CR ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">18.08.00 </subfield>
+    <subfield code="b">128</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">121</subfield>
+    <subfield code="a">Peralta Monge, Teresita</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Uso de la calculadora en la transición del pensamiento concreto al pensamiento semi-concreto y simbólico en la matemática de segundo y cuarto año de la enseñanza general básica / </subfield>
+    <subfield code="c">Teresita Peralta Monge ...[et al.]</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica :  </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1991</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">150 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Informe Final del Proyecto de Investigación N° 724-85-018</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">Esta investigación pretende corroborar las hipótesis planteadas por diversos Investigadores que proponen la calculadora como un instrumento altamente valioso en la enseñanza de las matemáticas; no solo porque facilita el paso del pensamiento concreto hacia otros estadios más evolucionados, sino porque le brinda a los niños otras ventajas como: perder menos tiempo en las operaciones y centrarse más en la resolución de problemas, promover el trabajo en grupo, crear actitudes positivas hacia las matemáticas, salirse de la rutina diaria de la clase e incursionar en técnicas más interesantes y participativas, reforzamiento de destrezas computacionales, simplificar la revisión del trabajo, etc. Se concluye que algunos aspectos son determinantes en los resultados obtenidos en las pruebas aplicadas a los estudiantes que participaron en la investigación, por ejemplo, el grado que cursaban y el tipo de institución a la que asistían (los de escuelas privadas tuvieron resultados más altos); asimismo, se mostró que las niñas tienen son más aventajadas en cuanto al razonamiento, en tanto que los niños lo son con respecto a la aritmética. Sobre el uso de la calculadora, se mostró que para el grupo que solo usó este instrumento los resultados fueron muy similares a los del grupo que solo usó material concreto; no obstante, para el grupo que usó una mezcla de ambos, los resultados fueron significativamente superiores, lo cual, parece indicar que en el paso hacia el pensamiento semi-concreto y simbólico, una combinación de las herramientas es lo idóneo. En cuanto a la actitud hacia las matemáticas, según este estudio, no pareciera que la calculadora ayude mucho a mejorar la concepción que los estudiantes tienen de la materia.</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">MATEMÁTICAS  </subfield>
+    <subfield code="9">482</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">EDUCACIÓN PRIMARIA</subfield>
+    <subfield code="9">367</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">APRENDIZAJE </subfield>
+    <subfield code="9">387</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">PRUEBAS</subfield>
+    <subfield code="9">629</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">RENDIMIENTO DE LA EDUCACION</subfield>
+    <subfield code="9">3914</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

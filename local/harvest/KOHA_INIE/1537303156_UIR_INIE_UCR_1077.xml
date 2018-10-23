@@ -1,0 +1,48 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00815nam a2200169Ia 4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">1077</subfield>
+    <subfield code="d">1077</subfield>
+  </datafield>
+  <controlfield tag="008">180530b2001    CR ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">14.02.02 </subfield>
+    <subfield code="b">278</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1=" ">
+    <subfield code="a">Campos Ramírez, Domingo</subfield>
+    <subfield code="9">3696</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="3">
+    <subfield code="a">El mundo infantil y el mundo de la televisión : el desarrollo de las teorías infantiles sobre el mundo social / </subfield>
+    <subfield code="c">Domingo Campos Ramírez</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, C.R. : </subfield>
+    <subfield code="b">Editorial de la Universidad de Costa Rica, </subfield>
+    <subfield code="c">2001</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">76 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">El centro posee: El mundo infantil y el mundo de la economía : el desarrollo de las teorías infantiles sobre la economía y El mundo infantil y el mundo de la política : el desarrollo de las teorías infantiles sobre la política</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">NIÑOS</subfield>
+    <subfield code="9">59</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">ECONOMÍA</subfield>
+    <subfield code="9">344</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">POLÍTICA</subfield>
+    <subfield code="9">1010</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

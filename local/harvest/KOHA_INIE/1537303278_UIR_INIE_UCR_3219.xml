@@ -1,0 +1,69 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00905nam a2200217   4500</leader>
+  <controlfield tag="008">160511b2015    P  a|||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="020">
+    <subfield code="a">9786124206818</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">06.06.02</subfield>
+    <subfield code="b">2333</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">1735</subfield>
+    <subfield code="a">Díaz Bazo, Carmen</subfield>
+    <subfield code="e">Editor/a</subfield>
+  </datafield>
+  <datafield tag="245" ind2="3" ind1="1">
+    <subfield code="a">La universidad en la formación de formadores de acompañantes pedagógicos para la innovación en el aula / </subfield>
+    <subfield code="c">Editores Carmen Díaz Bazo, Arja Haapakorpi, Anu Särkijärvi-Martínez, Päivi Virtanen</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Lima, Perú :</subfield>
+    <subfield code="b">Pontificia Universidad Católica del Perú,</subfield>
+    <subfield code="c">2015</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">270 páginas;</subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">9</subfield>
+    <subfield code="a">FORMACIÓN DE DOCENTES</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">485</subfield>
+    <subfield code="a">EDUCACIÓN INTERCULTURAL </subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1072</subfield>
+    <subfield code="a">INVESTIGACIÓN ACCIÓN</subfield>
+  </datafield>
+  <datafield ind2="4" ind1=" " tag="651">
+    <subfield code="9">1736</subfield>
+    <subfield code="a">PERÚ</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="9">1737</subfield>
+    <subfield code="a"> Haapakorpi, Arja</subfield>
+    <subfield code="e">Editor/a</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">1738</subfield>
+    <subfield code="a">Särkijärvi-Martínez, Anu </subfield>
+    <subfield code="e">Editor/a</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="9">1739</subfield>
+    <subfield code="a">Virtanen, Päivi </subfield>
+    <subfield code="e">Editor/a</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">3219</subfield>
+    <subfield code="d">3219</subfield>
+  </datafield>
+</record>

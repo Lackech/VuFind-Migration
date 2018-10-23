@@ -1,0 +1,56 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01764nab a22001937a 4500</leader>
+  <controlfield tag="005">20160328160336.0</controlfield>
+  <controlfield tag="008">150806b2002    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">756</subfield>
+    <subfield code="a">Cerdas Núñez, Jeannette </subfield>
+  </datafield>
+  <datafield ind2="3" tag="245" ind1="1">
+    <subfield code="a">El lenguaje integral en el Grupo Interactivo II: Guía pedagogíca /</subfield>
+    <subfield code="c">Jeanneth Cercas Núñez,  Ana Polanco Hernández, Patricia Rojas Núñez</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2002</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">páginas 183-197</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">En los últimos años la filosofía del Lenguaje Integral se ha venido promoviendo en diversas instituciones educativas, como una opción para generar procesos de construcción de lenguaje y conocimiento desde una perpectiva constructivista en los salones de clase.
+Con base en algunas de las experiencias desarrolladas en nuestro contexto costarricense, surgió la idea de elaborar una guía didáctica que considere algunos elementos de la filosofía del Lenguaje Integral para abordar la práctica pedagógica con niños de edades entre 4 y 5 años. Dicha guía contempla básicamente estrategias para disñar y operacionalizar el planeamiento didáctica y lineamientos para organizar el ambiente físico del aula.
+Para efectos de implementar la guía didáctica elaborada, es necesario que cada usuario profundice en los diferentes aspectos de la filosofía del Lenguaje Integral y de esta manera pueda adecuar la propuesta a su contexto</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="9">737</subfield>
+    <subfield code="a">Polanco Hernández, Ana</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">738</subfield>
+    <subfield code="a">Rojas Núñez, Patricia</subfield>
+  </datafield>
+  <datafield ind1="0" tag="773" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0060</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.26, no.1  (2002) </subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2778</subfield>
+    <subfield code="d">2778</subfield>
+  </datafield>
+</record>

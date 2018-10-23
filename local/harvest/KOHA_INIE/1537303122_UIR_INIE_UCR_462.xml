@@ -1,0 +1,38 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00500nam a2200145Ia 4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">462</subfield>
+    <subfield code="d">462</subfield>
+  </datafield>
+  <controlfield tag="008">170203b2007    u  ||||| |||| 00| | eng d</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9780321499790</subfield>
+  </datafield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">08.05.02 </subfield>
+    <subfield code="b">1529 CD #144</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Adobe after effects CS3 professional: classroom in a book: the official training workbook from adobe systems</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, California : </subfield>
+    <subfield code="b">Peachpit Press, Berkeley, </subfield>
+    <subfield code="c">2007</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">473 págians</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Incluye DVD</subfield>
+  </datafield>
+  <datafield ind2="0" ind1=" " tag="650">
+    <subfield code="a">PROGRAMAS DE COMPUTADORA</subfield>
+    <subfield code="9">1302</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

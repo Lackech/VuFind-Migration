@@ -1,0 +1,40 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00520nam a2200157Ia 4500</leader>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">CD #233</subfield>
+  </datafield>
+  <datafield tag="111" ind2=" " ind1=" ">
+    <subfield code="a">Congreso Pedagógico (3 : 2011: San José, C.R)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="245">
+    <subfield code="a">Formación profesional del educador y la educadora: una responsabilidad compartida</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">CONARE, COLYPRO, </subfield>
+    <subfield code="c">2012</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">1 disco compacto</subfield>
+  </datafield>
+  <datafield ind2=" " tag="650" ind1=" ">
+    <subfield code="a">FORMACION PROFESIONAL</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="650">
+    <subfield code="a">DOCENTES</subfield>
+  </datafield>
+  <datafield tag="650" ind2=" " ind1=" ">
+    <subfield code="a">CONFERENCIAS</subfield>
+  </datafield>
+  <datafield tag="711" ind2=" " ind1=" ">
+    <subfield code="a">Congreso Pedagógico (3 : 2011 : San José, C.R)</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="p">003624 </subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2489</subfield>
+    <subfield code="d">2489</subfield>
+  </datafield>
+</record>

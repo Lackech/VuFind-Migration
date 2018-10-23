@@ -1,0 +1,46 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01237nab a2200169   4500</leader>
+  <controlfield tag="005">20160328163817.0</controlfield>
+  <controlfield tag="008">150924b2004    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">715</subfield>
+    <subfield code="a">Cordero Cordero, Teresita </subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Educación inicial en América Latina:  Situaciones y retos.  Caso Panameño / </subfield>
+    <subfield code="c">Teresita Cordero Cordero</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2004</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">páginas 39-53</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">Este artículo expone algunas de las controversias y puntos de discusión en la Educación inicial con el propósito de constribuir a su reflexión y análisis. El interés parte de la vinculación que tiene la autora como una modalidad de educación inicial no convencional. De manera explícita se considera que es necesario apoyar acciones que beneficien a la niñez, la mujer y las familias respetando sus prácticas culturales. Se aboga porque se respeten y apoyen acciones que distintas organizaciones sociales realizan en favor de la niñez</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0215</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.28, no.1 (2004)</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2889</subfield>
+    <subfield code="d">2889</subfield>
+  </datafield>
+</record>

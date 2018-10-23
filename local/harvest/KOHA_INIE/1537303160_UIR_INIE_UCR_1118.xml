@@ -1,0 +1,75 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01074nam a2200253Ia 4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">1118</subfield>
+    <subfield code="d">1118</subfield>
+  </datafield>
+  <controlfield tag="008">180606b2005    ec ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="020" ind1=" ">
+    <subfield code="a">9978-44-633-8</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">07.06.01 </subfield>
+    <subfield code="b">1600</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1=" ">
+    <subfield code="a">Gomes de Castro, Antonio Maria </subfield>
+    <subfield code="9">3723</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Proyecto Quo Vadis: El futuro de la investigación agrícola y la innovación institucional en América Latina y el Caribe / </subfield>
+    <subfield code="c">Antônio Maria Gomes de Castro; SuzanaMaria Valle Lima; José de Souza Silva; Albina Maestrey, Javier Ramírez Gastón, Julio Santamaría Guerra, Oneyda Mengo, Alejandro Ayala Sánchez.</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">Quito, EC. : </subfield>
+    <subfield code="b">Red Nuevo Paradigma, </subfield>
+    <subfield code="c">2005</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">276 páginas</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">INVESTIGACIÓN</subfield>
+    <subfield code="9">163</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">INNOVACIONES</subfield>
+    <subfield code="9">649</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">AGRICULTURA</subfield>
+    <subfield code="9">2541</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1=" ">
+    <subfield code="a">Valle Lima, Suzana María</subfield>
+    <subfield code="9">3722</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="700">
+    <subfield code="a">Souza Silva, José de</subfield>
+    <subfield code="9">2811</subfield>
+  </datafield>
+  <datafield ind1=" " tag="700" ind2=" ">
+    <subfield code="a">Maestrey, Albina </subfield>
+    <subfield code="9">3725</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1=" ">
+    <subfield code="a">Ramírez Gastón, Javier </subfield>
+  </datafield>
+  <datafield ind1=" " tag="700" ind2=" ">
+    <subfield code="a"> Santamaría Guerra, Julio</subfield>
+    <subfield code="9">3719</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2=" ">
+    <subfield code="a">Mengo, Oneyda </subfield>
+    <subfield code="9">3728</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1=" ">
+    <subfield code="a"> Ayala Sánchez, Alejandro</subfield>
+    <subfield code="9">3729</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,48 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00622nam a2200169Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">1120</subfield>
+    <subfield code="d">1120</subfield>
+  </datafield>
+  <controlfield tag="008">180606b2001    py ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">99925-3-146-0</subfield>
+  </datafield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">06.02.01 </subfield>
+    <subfield code="b">1357</subfield>
+  </datafield>
+  <datafield ind1=" " tag="100" ind2=" ">
+    <subfield code="a">Bautista Vallejo, José Manuel</subfield>
+    <subfield code="9">1143</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="3">
+    <subfield code="a">La educación como proceso de personalización: El desarrollo personal y su conocimiento como base de la didactica / </subfield>
+    <subfield code="c">José Manuel Bautista-Vallejo; Jeronima Ipland García</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">Paraguay : </subfield>
+    <subfield code="b">J.M.B,</subfield>
+    <subfield code="c">2001</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">57 páginas</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">DESARROLLO SOCIAL </subfield>
+    <subfield code="9">613</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1=" ">
+    <subfield code="9">3731</subfield>
+    <subfield code="a">Ipland García,  Jeronima </subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

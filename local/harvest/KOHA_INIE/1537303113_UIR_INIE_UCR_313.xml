@@ -1,0 +1,51 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00476nam a2200181Ia 4500</leader>
+  <controlfield tag="008">160106b1995    c  ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="020" ind2=" " ind1=" ">
+    <subfield code="a">9291360112</subfield>
+  </datafield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">05.02.01 </subfield>
+    <subfield code="b">913</subfield>
+  </datafield>
+  <datafield ind2=" " tag="110" ind1="2">
+    <subfield code="a">UNESCO</subfield>
+    <subfield code="9">1248</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Niñas y niños del maíz</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">UNESCO, </subfield>
+    <subfield code="c">1995</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">127 páginas</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">CULTURA TRADICIONAL </subfield>
+    <subfield code="9">1249</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">POESÍA </subfield>
+    <subfield code="9">1250</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">ETNICIDAD</subfield>
+    <subfield code="9">580</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">LEYENDA</subfield>
+    <subfield code="9">1251</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">313</subfield>
+    <subfield code="d">313</subfield>
+  </datafield>
+</record>

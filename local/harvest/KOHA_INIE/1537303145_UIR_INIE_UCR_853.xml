@@ -1,0 +1,60 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00726nam a2200205Ia 4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">853</subfield>
+    <subfield code="d">853</subfield>
+  </datafield>
+  <controlfield tag="008">170125b1998    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="020" ind2=" ">
+    <subfield code="a">9968786071</subfield>
+  </datafield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">04.02.03 </subfield>
+    <subfield code="b">2000</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="a">Aguilar, Lorena</subfield>
+    <subfield code="9">2293</subfield>
+  </datafield>
+  <datafield ind2="3" ind1="1" tag="245">
+    <subfield code="a">Lo que comienza bien termina mejor: elaboración de propuestas con enfoque de género / </subfield>
+    <subfield code="c">Lorena Aguilar con la colaboración de REDNA Nicaragua</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, C.R. : </subfield>
+    <subfield code="b">Unión Mundial para la Naturaleza, </subfield>
+    <subfield code="c">1998</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">33 páginas</subfield>
+  </datafield>
+  <datafield tag="490" ind1=" " ind2=" ">
+    <subfield code="a">Serie hacia la equidad,</subfield>
+    <subfield code="v">1</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">956</subfield>
+    <subfield code="a">IGUALDAD DE GÉNERO </subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">MUJERES</subfield>
+    <subfield code="9">55</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">ASPECTOS SOCIALES </subfield>
+    <subfield code="9">576</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">EJECUCION DE PROYECTOS</subfield>
+    <subfield code="9">2322</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="9">2327</subfield>
+    <subfield code="a">REDNA NICARAGUA</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,19 @@
+<?
+  // Set page title.
+  $this->headTitle($this->translate('Catálogo RUIE'));
+
+  // Disable top search box -- this page has a special layout.
+
+  // Set default value if necessary:
+  if (!isset($this->searchClassId)) {
+    $this->searchClassId = 'Solr';
+  }
+
+  // Load search actions and settings (if any):
+  $options = $this->searchOptions($this->searchClassId);
+  $basicSearch = $options->getSearchAction();
+  $advSearch = $options->getAdvancedSearchAction();
+
+  $this->layout()->breadcrumbs = true;
+?>
+

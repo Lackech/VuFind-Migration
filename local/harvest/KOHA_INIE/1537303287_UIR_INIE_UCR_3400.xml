@@ -1,0 +1,75 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01226nam a2200253   4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">3400</subfield>
+    <subfield code="d">3400</subfield>
+  </datafield>
+  <controlfield tag="008">170303b2016    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">Tesis # 61</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">2504</subfield>
+    <subfield code="a">Arguedas Arroyo, Marianela</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Voces múltiples: trayectorias profesionales y personales de ingenieros e ingenieras de la Universidad de Costa Rica y la opinión de sus parejas a partir de  estudios de caso /</subfield>
+    <subfield code="c">Marianela Arguedas Arroyo, Landy Esther Chavarría Garita, Pamela Karina Méndez Sánchez y Greivin Ignacio Solano Vindas</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Costa Rica :</subfield>
+    <subfield code="c">2016</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">272 hojas;</subfield>
+    <subfield code="e">1 disco de computadora; archivo en PDF</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="502">
+    <subfield code="a">Tesis (memoria de semianrio de graduación para optar el grado de licenciatura en psicologìa)-- Universidad de Costa Rica. FAcultad de Ciencias Sociales. Escuela de Pasicologìa.</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">69</subfield>
+    <subfield code="a">GÉNERO</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">420</subfield>
+    <subfield code="a">EQUIDAD DE GÉNERO</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">324</subfield>
+    <subfield code="a">FEMINISMO</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">37</subfield>
+    <subfield code="a">CIENCIA Y TECNOLOGÍA </subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1299</subfield>
+    <subfield code="a">INGENIERÍA </subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">339</subfield>
+    <subfield code="a">ESTUDIOS DE CASOS</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">2505</subfield>
+    <subfield code="a">Chavarría Garita, Landy Esther</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="9">2506</subfield>
+    <subfield code="a">Méndez Sánchez, Pamela Karina</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">2507</subfield>
+    <subfield code="a">Solano Vindas, Greivin Ignacio</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">02</subfield>
+  </datafield>
+</record>

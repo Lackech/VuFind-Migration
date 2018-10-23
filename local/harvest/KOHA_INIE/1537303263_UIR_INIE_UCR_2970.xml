@@ -1,0 +1,55 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00979nam a22001937a 4500</leader>
+  <controlfield tag="008">151214b2013    c  ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">CD #245</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">1209</subfield>
+    <subfield code="a">Castro Araya, Hazel</subfield>
+  </datafield>
+  <datafield ind2=" " tag="245" ind1="1">
+    <subfield code="a">Análisis de la gestión del Programa Nacional de Tecnologías Móviles en el Aula del proyecto Cerrando Brechas en la Educación del Ministerio de Educación Pública. Estudio de caso de su implementación por parte de la Fundación Omar Dengo /</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">H. Castro A.,</subfield>
+    <subfield code="c">2013</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">1 disco óptico de computadora; </subfield>
+    <subfield code="b">12 cm.</subfield>
+  </datafield>
+  <datafield ind1=" " tag="502" ind2=" ">
+    <subfield code="a">Tesis(Maestría Profesional en Administración Educativa)-- Universidad de Costa Rica. Sistema de Estudios de Posgrado</subfield>
+  </datafield>
+  <datafield ind2="0" tag="610" ind1="2">
+    <subfield code="9">1211</subfield>
+    <subfield code="a">FUNDACIÓN OMAR DENGO (COSTA RICA)</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">484</subfield>
+    <subfield code="a">TECNOLOGÍA DE LA INFORMACIÓN </subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">483</subfield>
+    <subfield code="a">TECNOLOGÍA EDUCATIVA </subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1115</subfield>
+    <subfield code="a">ENSEÑANZA CON AYUDA DE COMPUTADORAS </subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1210</subfield>
+    <subfield code="a">ADMINISTRACIÓN DE LA ENSEÑANZA</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">08</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2970</subfield>
+    <subfield code="d">2970</subfield>
+  </datafield>
+</record>

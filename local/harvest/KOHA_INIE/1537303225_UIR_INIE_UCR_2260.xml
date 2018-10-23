@@ -1,0 +1,66 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03522nam a2200229Ia 4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2260</subfield>
+    <subfield code="d">2260</subfield>
+  </datafield>
+  <controlfield tag="008">180706b1994    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">18.08.00 </subfield>
+    <subfield code="b">71</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1=" ">
+    <subfield code="a">Mainieri Hidalgo, Aida María</subfield>
+    <subfield code="9">3534</subfield>
+  </datafield>
+  <datafield tag="245" ind2="4" ind1="1">
+    <subfield code="a">Estudio de un grupo de niños que presentan alto logro en matemáticas / </subfield>
+    <subfield code="c">Aida Mainieri Hidalgo  Zayra Méndez Barrantes</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica :  </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1994</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">302 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Informe Final el proyecto de Investigación No. 724-90-053</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">Esta investigación estudia a un grupo de niños con un rendimiento alto en matemáticas. La muestra primaria estuvo conformada por 502 niños de quinto grado y 12 educadores de San José. De estos, se eligieron los más talentosos mediante la aplicación de dos técnicas: una prueba de Mialaret adaptada (serie de problemas matemáticos con diferentes tipos de razonamiento) y el criterio del maestro. De este grupo inicial, se seleccionaron 30 niños (23 hombres y 7 mujeres, con edades de entre los 10 y 11 años). También se pudo confirmar que los maestros no resultan ser buenos detectores de las potencialidades de sus alumnos, pues hubo discrepancia entre sus criterios y los resultados de la prueba (lograron detectar a solo el 62% de los sujetos). Posteriormente, se aplicaron tres pruebas psicogenéticas (modelo de Piaget) para determinar el grado de desarrollo cognoscitivo de los niños: prueba de proporcionalidad, prueba de relaciones espaciales, y prueba de cuantificación de la inclusión de clases (clasificación). Además, los niños tuvieron que tomar dos pruebas más de personalidad: la figura humana de Machover (para determinar rasgos de personalidad) y la prueba de autoestima de Piers y Harris. Por último, se llevó a cabo una entrevista con cada niño y con la familia de estos. En general, el 71,01% de los niños se encuentran en estadios altos en las tres pruebas, lo que muestra un excelente desarrollo de las operaciones mentales evaluadas y por encima de la generalidad de los niños costarricenses y acordes con una muestra de niños canadienses. Se observan buenos niveles de autoestima en el grupo de niños: el 26,66% se encuentra en una medida media-alta de autoestima y la mayoría, el 66,6%, en alta. La mayor debilidad del grupo consiste en no sentirse populares ni sentir llevar el liderazgo en los juegos y deportes, además de una fuerte tendencia al aislamiento. Por el contrario, obtienen un cien por ciento de éxito en aspectos relacionados con la autoconfianza, la inteligencia, su capacidad de aprender y de aportar buenas ideas. En cuanto a la personalidad, sobresale la dependencia materna, la falta de confianza en los contactos sociales y en la propia productividad. Al analizar su rendimiento académico, se comprueba que este es excelente (el 53,3% con notas mayores a 91 en matemática y el 59,8% en el promedio de las cuatro materias básicas). Muchos de estos niños se diferencian por un precoz aprendizaje de habilidades como la lecto-escritura y la suma, la creatividad e invención de aparatos, el cultivo de hortalizas, la música, el ajedrez, etc. El estudio termina con la exposición de cada caso (resultados en la pruebas y aspectos mencionados por el propio niño y su familia).</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">MATEMÁTICAS  </subfield>
+    <subfield code="9">482</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">DATOS ESTADÍSTICOS</subfield>
+    <subfield code="9">452</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">FAMILIA</subfield>
+    <subfield code="9">404</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">DESARROLLO DEL NIÑO</subfield>
+    <subfield code="9">723</subfield>
+  </datafield>
+  <datafield ind1=" " tag="700" ind2=" ">
+    <subfield code="a">Méndez Barrantes, Zayra</subfield>
+    <subfield code="9">2957</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+  </datafield>
+</record>

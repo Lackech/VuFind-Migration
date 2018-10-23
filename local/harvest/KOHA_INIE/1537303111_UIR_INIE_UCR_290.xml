@@ -1,0 +1,43 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00468nam a2200157Ia 4500</leader>
+  <controlfield tag="008">151104b2004    S  ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="020" ind2=" " ind1=" ">
+    <subfield code="a">8496373258</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">06.03.07 </subfield>
+    <subfield code="b">1263</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="a">Rubio Alcalá, Fernando D.</subfield>
+    <subfield code="9">1149</subfield>
+  </datafield>
+  <datafield tag="245" ind2="3" ind1="1">
+    <subfield code="a">La ansiedad en el aprendizaje de idiomas / </subfield>
+    <subfield code="c">Fernando D. Rubio Alcalá</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">España : Universidad de Huelva, </subfield>
+    <subfield code="c">2004</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">256 páginas</subfield>
+  </datafield>
+  <datafield tag="650" ind2="0" ind1=" ">
+    <subfield code="a">LENGUAJE </subfield>
+    <subfield code="9">889</subfield>
+  </datafield>
+  <datafield tag="650" ind2="0" ind1=" ">
+    <subfield code="a">ENSEÑANZA</subfield>
+    <subfield code="9">14</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">290</subfield>
+    <subfield code="d">290</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,46 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01717nab a2200169   4500</leader>
+  <controlfield tag="005">20160331140721.0</controlfield>
+  <controlfield tag="008">160107b2       cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">1270</subfield>
+    <subfield code="a">Penabad Camacho, Maria Amalia</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Relaciones de género en la actividad pastoril  /</subfield>
+    <subfield code="c">Maria Amalia Penabad Camacho</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2007</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a"> páginas 193-201</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">La preocupación por la histórica invisibilidad de la mujer en todos los campos social, cultural y económico motiva la elaboración de este artículo titulado "Relaciones de género en la actividad pastoril". Se expone un marco de referencias general basado en la revisión bibliográfica en la que se describen las relaciones de género en la actividad pastoril. Se muestran los resultados y el análisis de la información que surge de  la revisión bibliográfica y que indica aún  una marcada invisibilidad de las mujeres en diversos campos; pero también se encontró  que existen varias iniciativas para cambiar este rumbo.
+Además, se considera que un diagnóstico participativo con  enfoque de género, va a plantear diversas acciones estrátegicas y concretas para enfrentar la exclusión y discriminación de las mujeres en el pastoreo.  Se citan algunos ejemplos sobre esto como el que existe por parte de la FAO, con el Proyecto forestal IDA-FAO Holanda titulado "Diagnóstico Rural Rápido Participativo como enfoque de Género: Guía Metodológica"</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind1="0" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0309</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3004</subfield>
+    <subfield code="d">3004</subfield>
+  </datafield>
+</record>

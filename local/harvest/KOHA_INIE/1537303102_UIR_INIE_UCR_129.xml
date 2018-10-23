@@ -1,0 +1,58 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00804nam a2200205Ia 4500</leader>
+  <controlfield tag="008">150730b2002    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="022" ind2=" " ind1=" ">
+    <subfield code="a">14092964</subfield>
+  </datafield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">06.01.01 </subfield>
+    <subfield code="b">427</subfield>
+  </datafield>
+  <datafield ind1="2" tag="110" ind2=" ">
+    <subfield code="9">44</subfield>
+    <subfield code="a">Consejo Nacional de Rectores. Oficina de Planificación de la Educación Superior</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Estadísticas de las bibliotecas de las instituciones de educación superior universitaria estatal y del CONARE 1991-2000</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">CONARE, </subfield>
+    <subfield code="c">2002</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">63 páginas</subfield>
+  </datafield>
+  <datafield ind1="2" tag="610" ind2="4">
+    <subfield code="a">INSTITUTO TECNOLÓGICO DE COSTA RICA </subfield>
+    <subfield code="9">582</subfield>
+  </datafield>
+  <datafield ind2="4" tag="610" ind1="2">
+    <subfield code="a">UNIVERSIDAD ESTATAL A DISTANCIA </subfield>
+    <subfield code="9">583</subfield>
+  </datafield>
+  <datafield tag="610" ind2="4" ind1="2">
+    <subfield code="a">UNIVERSIDAD NACIONAL </subfield>
+    <subfield code="9">584</subfield>
+  </datafield>
+  <datafield ind2="4" tag="610" ind1="2">
+    <subfield code="9">585</subfield>
+    <subfield code="a">Universidad de Costa Rica</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">ESTADISTICAS DE LA EDUCACION </subfield>
+    <subfield code="9">586</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">BIBLIOTECAS UNIVERSITARIAS</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">129</subfield>
+    <subfield code="d">129</subfield>
+  </datafield>
+</record>

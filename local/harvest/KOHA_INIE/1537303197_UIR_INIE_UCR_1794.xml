@@ -1,0 +1,52 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00732nam a2200181Ia 4500</leader>
+  <controlfield tag="008">160905b2009    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">06.03.06 </subfield>
+    <subfield code="b">423</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="a">Ávila Durán, Ana Lucía</subfield>
+    <subfield code="9">1991</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Educación Inclusiva en nuestras aulas / </subfield>
+    <subfield code="c">Ana Lucía Ávila Durán Victoria E. Esquivel Cordero</subfield>
+  </datafield>
+  <datafield ind2=" " tag="250" ind1=" ">
+    <subfield code="a">2 edición</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">[San José, C.R. ] : </subfield>
+    <subfield code="b">Coordinación Educativa y Cultural Centroamericana, </subfield>
+    <subfield code="c">2009</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">154 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="490" ind2=" ">
+    <subfield code="a">Colección pedagógica formación inicial de docentes centroamericanos de educación primaria o básica,</subfield>
+    <subfield code="v">37</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">EDUCACIÓN PRIMARIA</subfield>
+    <subfield code="9">367</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">EDUCACIÓN INCLUSIVA</subfield>
+    <subfield code="9">2</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="a">Esquivel Cordero, Victoria E.</subfield>
+    <subfield code="9">1992</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">1794</subfield>
+    <subfield code="d">1794</subfield>
+  </datafield>
+</record>

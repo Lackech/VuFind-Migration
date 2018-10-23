@@ -1,0 +1,50 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00528nam a2200193Ia 4500</leader>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">CD #119</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">Villareal, Ana Lucía</subfield>
+  </datafield>
+  <datafield ind2=" " tag="245" ind1=" ">
+    <subfield code="a">La Mitad por el Todo/ </subfield>
+    <subfield code="c">Ana Lucía Villareal</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2006</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a"/>
+  </datafield>
+  <datafield ind1=" " tag="500" ind2=" ">
+    <subfield code="a">Programa de Investigación y Género PIEG\Documental</subfield>
+  </datafield>
+  <datafield ind2=" " tag="650" ind1=" ">
+    <subfield code="a">MUJERES</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="650">
+    <subfield code="a">VIOLENCIA CONTRA LAS MUJERES</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="650">
+    <subfield code="a">RELACIONES DE  GÉNERO</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="650">
+    <subfield code="a">SOCIALIZACIÓN</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="p">003437 </subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="p">002037 </subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="p">003436 </subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">2438</subfield>
+    <subfield code="d">2438</subfield>
+  </datafield>
+</record>

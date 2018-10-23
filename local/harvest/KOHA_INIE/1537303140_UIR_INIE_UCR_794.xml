@@ -1,0 +1,64 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00838nam a2200217Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">794</subfield>
+    <subfield code="d">794</subfield>
+  </datafield>
+  <controlfield tag="008">170712b2007    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="020">
+    <subfield code="a">9968250864</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">04.02.03 </subfield>
+    <subfield code="b">1587</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">2998</subfield>
+    <subfield code="a">Fernández, Antonieta</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Aprendo, juego y celebro fechas importantes de mi país: Cuadernillo de trabajo para maestras y maestros de educación primaria por una educación no sexista / </subfield>
+    <subfield code="c">Antonieta Frenández, Instituto Nacional de las Mujeres</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INAMU, </subfield>
+    <subfield code="c">2007</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">36 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="490" ind2=" ">
+    <subfield code="a">Colección Metodologías,</subfield>
+    <subfield code="v">12 </subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a"> IGUALDAD DE OPORTUNIDADES</subfield>
+    <subfield code="9">952</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">ENSEÑANZA</subfield>
+    <subfield code="9">14</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">PROGRAMA DE ESTUDIOS</subfield>
+    <subfield code="9">1364</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">EDUCACIÓN PRIMARIA</subfield>
+    <subfield code="9">367</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="9">1766</subfield>
+    <subfield code="a">Instituto Nacional de las Mujeres</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

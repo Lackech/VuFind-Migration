@@ -1,0 +1,73 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00846nam a2200241Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">1351</subfield>
+    <subfield code="d">1351</subfield>
+  </datafield>
+  <controlfield tag="008">170613b2003    p  ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">05.03.05 </subfield>
+    <subfield code="b">346</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="a">Espejo Ramos, Javier Carlos</subfield>
+    <subfield code="9">2934</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="3" tag="245">
+    <subfield code="a">El liderazgo transformacional y el aprendizaje virtual en la formación permanente de maestros /</subfield>
+    <subfield code="c">Javier Carlos Espejo Ramos</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">Lima, Perú : </subfield>
+    <subfield code="b">C. Espejo R.</subfield>
+    <subfield code="c">2003</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a"> 65 páginas</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">LIDERAZGO</subfield>
+    <subfield code="9">301</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">FORMACIÓN DE DOCENTES</subfield>
+    <subfield code="9">9</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">APRENDIZAJE </subfield>
+    <subfield code="9">387</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">ENSEÑANZA VIRTUAL</subfield>
+    <subfield code="9">1267</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">ESTABLECIMIENTOS DE ENSEÑANZA</subfield>
+    <subfield code="9">1519</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">NUEVA TECNOLOGÍA</subfield>
+    <subfield code="9">2053</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">TECNOLOGÍA DE LA INFORMACIÓN </subfield>
+    <subfield code="9">484</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">TECNOLOGÍA DE LAS COMUNICACIONES</subfield>
+    <subfield code="9">925</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">DOCENTES</subfield>
+    <subfield code="9">331</subfield>
+  </datafield>
+  <datafield tag="651" ind2="4" ind1=" ">
+    <subfield code="a">AMÉRICA LATINA</subfield>
+    <subfield code="9">273</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

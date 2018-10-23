@@ -1,0 +1,48 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00630nam a2200181Ia 4500</leader>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">06.03.04 </subfield>
+    <subfield code="b">195</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1=" ">
+    <subfield code="a">Aragón Durand, Fernando</subfield>
+  </datafield>
+  <datafield ind1=" " tag="245" ind2=" ">
+    <subfield code="a">Educación e investigación ambiental para el desarrollo sustentable en Puebla / </subfield>
+    <subfield code="c">Fernando Aragón Durand, Iliana Ayala Rodríguez, Alfonso Benítez de la Torre</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">México D.F. : </subfield>
+    <subfield code="b">Color Print, </subfield>
+    <subfield code="c">1997</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">86 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2=" ">
+    <subfield code="a">EDUCACION AMBIENTAL </subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2=" ">
+    <subfield code="a">DESARROLLO SOSTENIBLE </subfield>
+  </datafield>
+  <datafield tag="650" ind2=" " ind1=" ">
+    <subfield code="a">INVESTIGACION </subfield>
+  </datafield>
+  <datafield tag="650" ind2=" " ind1=" ">
+    <subfield code="a">UNIVERSIDADES</subfield>
+  </datafield>
+  <datafield ind1=" " tag="651" ind2=" ">
+    <subfield code="a">MEXICO</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1=" ">
+    <subfield code="a">Ayala Rodríguez, Iliana</subfield>
+  </datafield>
+  <datafield ind1=" " tag="700" ind2=" ">
+    <subfield code="a">Benitez de la Torre, Alfonso</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">1702</subfield>
+    <subfield code="d">1702</subfield>
+  </datafield>
+</record>

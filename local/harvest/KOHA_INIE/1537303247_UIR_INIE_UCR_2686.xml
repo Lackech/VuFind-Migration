@@ -1,0 +1,49 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01880nab a2200169   4500</leader>
+  <controlfield tag="005">20160317160218.0</controlfield>
+  <controlfield tag="008">150617b2000    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">206</subfield>
+    <subfield code="a">Solano Solano, María Rosa</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="3" tag="245">
+    <subfield code="a">El proceso enseñanza-aprendizaje de la lectura /</subfield>
+    <subfield code="c">María Rosa Solano Solano</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2000</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">páginas 151-156</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">El ensayo define la lectura como interpretación del pensamiento escrito y como acto importante para lograr la integración plena del individuo al contexto sociocultural; señala la utilidad de la lectura y el enfoque más apto, para que leer resulte provechoso.
+La segunda parte caracteriza el proceso de enseñanza-aprendizaje de la lectura, y recalca la necesidad de seleccionar material adecuad, estímulo del pensamiento del educando. Indica que el desarrollo de experiencias docentes para formar lectores debe considerar que leer es un acto intencional, una búsqueda de información, placer y esparciamiento; solo así la lectura facilita la evolución social y cultural del educando.
+La tercera parte se refiere al desarrollo del proceso de enseñanza-aprendizaje de la lectura en Costa Rica: débiles esfuerzos significativos para promover la lectura, falta de enfoque específico en la comprensión lectora, descuido al evaluar la lectura, desarrollo impositivo, mecánico y superficial del proceso de enseñanza-aprendizaje, incapaz de despertar la criticidad, el ingenio y la creatividad.
+Plantea la necesidad de revisar los programas de Español, a fin de subsanar esta debilidad del sistema educativo</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind2=" " ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0026</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.24, no.2 (2000)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2686</subfield>
+    <subfield code="d">2686</subfield>
+  </datafield>
+</record>

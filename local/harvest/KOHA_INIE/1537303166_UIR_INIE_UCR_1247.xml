@@ -1,0 +1,48 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00517nam a2200169Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">1247</subfield>
+    <subfield code="d">1247</subfield>
+  </datafield>
+  <controlfield tag="008">170523b199?    pe ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">02.04.02 </subfield>
+    <subfield code="b">955</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="a">Carrasco Reyes, Ella</subfield>
+    <subfield code="9">2829</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Nadie sabe lo que pasa en mi casa, yo nomás conozco mi pena...</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">Lima, Perú : </subfield>
+    <subfield code="b">Manuela Ramos, </subfield>
+    <subfield code="c">199?</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">41 páginas</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">VIOLENCIA CONTRA LAS MUJERES</subfield>
+    <subfield code="9">85</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">GÉNERO</subfield>
+    <subfield code="9">69</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">SALUD REPRODUCTIVA</subfield>
+    <subfield code="9">62</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">SALUD DE LA MUJER</subfield>
+    <subfield code="9">4</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

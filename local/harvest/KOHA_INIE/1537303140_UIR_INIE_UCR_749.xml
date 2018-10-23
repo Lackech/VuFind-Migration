@@ -1,0 +1,56 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00681nam a2200193Ia 4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">749</subfield>
+    <subfield code="d">749</subfield>
+  </datafield>
+  <controlfield tag="008">170621b2002    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">996810017X</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">06.03.06 </subfield>
+    <subfield code="b">423</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="a">Maya Betancourt, Arnobio</subfield>
+    <subfield code="9">212</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Conceptos básicos para una pedagogía de la ternura / </subfield>
+    <subfield code="c">Arnobio Maya Betancourt</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">CECC, </subfield>
+    <subfield code="c">2002</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">162 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="490">
+    <subfield code="a">Colección Pedagógica Formación Inicial de Docentes Centroamericanos de Educación Primaria o Básica,</subfield>
+    <subfield code="v">4</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">EDUCACIÓN PRIMARIA</subfield>
+    <subfield code="9">367</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">AFECTIVIDAD</subfield>
+    <subfield code="9">2962</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">PEDAGOGÍA</subfield>
+    <subfield code="9">1770</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="4">
+    <subfield code="a">AMÉRICA CENTRAL</subfield>
+    <subfield code="9">457</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,51 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00525nam a2200181Ia 4500</leader>
+  <controlfield tag="008">150814b1980    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="020">
+    <subfield code="a">8470462040</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">371.3 </subfield>
+    <subfield code="b">V168d </subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="a">Valett, Robert E.</subfield>
+    <subfield code="9">868</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Tratamiento de los problemas de aprendizaje</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">Madrid, España : </subfield>
+    <subfield code="b">Cincel, </subfield>
+    <subfield code="c">1980</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">339 páginas</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">APRENDIZAJE </subfield>
+    <subfield code="9">387</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">DESARROLLO MOTOR </subfield>
+    <subfield code="9">869</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">DESARROLLO DE HABILIDADES</subfield>
+    <subfield code="9">644</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">DESARROLLO INTEGRADO</subfield>
+    <subfield code="9">870</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">209</subfield>
+    <subfield code="d">209</subfield>
+  </datafield>
+</record>

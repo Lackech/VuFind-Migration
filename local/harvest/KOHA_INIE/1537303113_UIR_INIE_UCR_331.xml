@@ -1,0 +1,45 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00486nam a2200157Ia 4500</leader>
+  <controlfield tag="008">160125b1974    A  ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="020" ind2=" " ind1=" ">
+    <subfield code="a">9505188013</subfield>
+  </datafield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">05.03.03 </subfield>
+    <subfield code="b">331</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="3">
+    <subfield code="a">La integración del niño en el mundo social /  </subfield>
+    <subfield code="c">Martín Richards, compilador</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">Argentina : </subfield>
+    <subfield code="b">Amorrotu, </subfield>
+    <subfield code="c">1974</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">302 páginas</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">SOCIALIZACION </subfield>
+    <subfield code="9">1103</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">DESARROLLO DEL NIÑO</subfield>
+    <subfield code="9">723</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="a">Richards, Martín</subfield>
+    <subfield code="e">compilador</subfield>
+    <subfield code="9">1304</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">331</subfield>
+    <subfield code="d">331</subfield>
+  </datafield>
+</record>

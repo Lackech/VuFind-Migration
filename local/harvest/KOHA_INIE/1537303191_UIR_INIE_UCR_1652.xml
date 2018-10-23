@@ -1,0 +1,64 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00917nam a2200241Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">1652</subfield>
+    <subfield code="d">1652</subfield>
+  </datafield>
+  <controlfield tag="008">180320b1989    p  ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">06.02.04 </subfield>
+    <subfield code="b">596</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="a">Young, Luzmina R. de</subfield>
+    <subfield code="9">3487</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Identificación de factores que influyen en la definición y desarrollo de las políticas universitarias vigentes en la Universidad de Panamá /  </subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">Panamá : </subfield>
+    <subfield code="b">Vicerrectoría de Investigación y Posgrado, </subfield>
+    <subfield code="c">1989</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">270 páginas</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">POLÍTICA EDUCATIVA</subfield>
+    <subfield code="9">451</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">UNIVERSIDADES </subfield>
+    <subfield code="9">16</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">ECONOMÍA DE LA EDUCACIÓN</subfield>
+    <subfield code="9">3398</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">FINANCIAMIENTO DE LA EDUCACIÓN </subfield>
+    <subfield code="9">338</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">PARTICIPACIÓN ESTUDIANTIL</subfield>
+    <subfield code="9">1518</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">DOCENTES</subfield>
+    <subfield code="9">331</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1=" ">
+    <subfield code="a">Salazar Ch., Pedro</subfield>
+    <subfield code="9">3489</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1=" ">
+    <subfield code="a">Mock Cedeño, Ariel</subfield>
+    <subfield code="9">3488</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

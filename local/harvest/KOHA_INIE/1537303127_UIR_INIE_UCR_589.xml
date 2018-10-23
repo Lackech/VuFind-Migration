@@ -1,0 +1,80 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03343nam a2200277Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">589</subfield>
+    <subfield code="d">589</subfield>
+  </datafield>
+  <controlfield tag="008">160525b2010    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="020" ind2=" ">
+    <subfield code="a">9789968527002</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">18.01.01 </subfield>
+    <subfield code="b">1516 (2010)</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="a">Chaves Salas, Ana Lupita</subfield>
+    <subfield code="9">255</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Investigación-acción colaborativa: un encuentro con el quehacer cotidiano del centro educativo para su transformación / </subfield>
+    <subfield code="c">Lupita Chaves Salas; María Díaz Madrigal; Jacqueline García Fallas; Grace Rojas Alvarado</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="250">
+    <subfield code="a">1a. reimpresión</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2010</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">145 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="490">
+    <subfield code="a">Colección Yiguirro</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">El contenido de este libro es producto de una investigación-acción colaborativa que se desarrolló durante tres años en un centro educativo, con la participación de educadoras, directora y asistente de dirección además de las autoras que pertenecen al Departamento de Análisis y Orientación de los Procesos de Enseñanza y Aprendizaje (PEA) del Centro Nacional de Didáctica, dependencia del Ministerio de Educación Pública y al Instituto de Investigación en Educación de la Universidad de Costa Rica. En el documento se da a conocer el proceso seguido por el equipo de investigadoras en el contexto de una institución educativa. De ahí que se presenta una construcción teórica a partir de situaciones reales vividas por las docentes-investigadoras que estudiaron su práctica pedagógica para transformarla. El libro cuenta con cuatro capítulos titulados: 1. El paradigma cualitativo en la investigación educativa: una aproximación teórica. Presenta una aproximación teórica al tema, el cual se analizó y discutió en sesiones de trabajo del equipo de investigadoras. 2. Partiendo de nuestras creencias y transformando nuestras visiones de mundo. A lo largo del capítulo se sostiene una discusión pendiente y que busca evidencia la condición de la labor docente. Se toma como referencia el trabajo realizado durante tres años con las docentes-investigadoras de un centro educativo. Se presentan ejemplos de las experiencias. 3. Construyendo la propuesta de investigación-acción. Se presentan los pasos a seguir en este proceso, para ello se retoma la experiencia de las docentes que participaron en el proyecto. Se enfatiza que estos pasos se encuentran íntimamente interrelacionados entre sí y no constituyen una secuencia lineal. 4. Reconstruyendo aprendizajes de la experiencia de investigación-acción colaborativa en el aula. Se realiza una aproximación a los procesos desarrollados durante la investigación-acción, que se convirtieron en aprendizajes para el equipo de investigadoras, al llevar a cabo la experiencia con cada una de las docentes-investigadoras. Estos aprendizajes son construidos a posteriori; su sistematización y análisis permiten reflexionar sobre las condiciones necesarias para realizar este tipo de investigación en los centros educativos.</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">INVESTIGACIÓN ACCIÓN</subfield>
+    <subfield code="9">1072</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">INNOVACIONES</subfield>
+    <subfield code="9">649</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">ESCUELAS </subfield>
+    <subfield code="9">300</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">INVESTIGACIÓN SOCIAL</subfield>
+    <subfield code="9">290</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">1438</subfield>
+    <subfield code="a">Díaz Madrigal, María</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">759</subfield>
+    <subfield code="a">García Fallas, Jacqueline</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">1812</subfield>
+    <subfield code="a">Rojas, Alvarado, Grace</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="856">
+    <subfield code="u">http://repositorio.inie.ucr.ac.cr/handle/123456789/381</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

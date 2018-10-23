@@ -1,0 +1,49 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>     nam a22        4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">3470</subfield>
+    <subfield code="d">3470</subfield>
+  </datafield>
+  <controlfield tag="008">180221b2017    S  a|||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="020">
+    <subfield code="a">9788476666721</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">06.04.08</subfield>
+    <subfield code="b">2445</subfield>
+  </datafield>
+  <datafield tag="110" ind2=" " ind1="2">
+    <subfield code="9">1898</subfield>
+    <subfield code="a">Organización de los Estados Iberoamericanos para la Educación, la Ciencia y la Cultura</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="245">
+    <subfield code="a">Miradas sobre la educación en Iberoamérica: desarrollo profesional y liderazgo de directores escolares en Iberoamérica/</subfield>
+    <subfield code="c">OEI</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">Madrid, España :</subfield>
+    <subfield code="b">OEI,</subfield>
+    <subfield code="c">2017</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">256 páginas;</subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">305</subfield>
+    <subfield code="a">ADMINISTRACIÓN ESCOLAR</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">301</subfield>
+    <subfield code="a">LIDERAZGO</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">300</subfield>
+    <subfield code="a">ESCUELAS </subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

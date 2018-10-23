@@ -1,0 +1,44 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00519nam a22001577a 4500</leader>
+  <controlfield tag="008">160727b2006    ve ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="020">
+    <subfield code="a">9802764310</subfield>
+  </datafield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">06.04.05</subfield>
+    <subfield code="b">2345</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">1899</subfield>
+    <subfield code="a">Ribeiro, Darcy</subfield>
+  </datafield>
+  <datafield ind2="3" ind1="1" tag="245">
+    <subfield code="a">La universidad nueva: un proyecto /</subfield>
+    <subfield code="c">Darcy Ribeiro, presentación Gabriel González</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">Caracas, Venezuela :</subfield>
+    <subfield code="b">Fundación Biblioteca Ayacucho,</subfield>
+    <subfield code="c">2006</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">xi, 172 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="490">
+    <subfield code="a">colección claves de Amèrica, </subfield>
+    <subfield code="v">32</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">16</subfield>
+    <subfield code="a">UNIVERSIDADES </subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">3280</subfield>
+    <subfield code="d">3280</subfield>
+  </datafield>
+</record>

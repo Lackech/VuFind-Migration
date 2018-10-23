@@ -1,0 +1,38 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00427nam a2200145Ia 4500</leader>
+  <controlfield tag="008">150812b1985    sp ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="020">
+    <subfield code="a">8432986038</subfield>
+  </datafield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">912.014</subfield>
+    <subfield code="b">C735c2</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Cómo explicar los mapas : Ideas y ejercicios para la interpretación y realización de mapas</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">Barcelona, España : </subfield>
+    <subfield code="b">Ceac, </subfield>
+    <subfield code="c">1985</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">106 páginas</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">MAPAS</subfield>
+    <subfield code="9">804</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="650">
+    <subfield code="a">ESTUDIO</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">179</subfield>
+    <subfield code="d">179</subfield>
+  </datafield>
+</record>

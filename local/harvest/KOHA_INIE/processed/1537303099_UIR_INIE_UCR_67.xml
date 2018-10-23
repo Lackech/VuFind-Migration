@@ -1,0 +1,62 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00641nam a2200217Ia 4500</leader>
+  <controlfield tag="008">150721b1997    u  ||||| |||| 00| | e   d</controlfield>
+  <datafield ind1=" " tag="020" ind2=" ">
+    <subfield code="a">0873674944</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">06.02.01 1219</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Ashmore A. Rhea</subfield>
+    <subfield code="9">414</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Teacher education in the people´s Republic of China / </subfield>
+    <subfield code="c">Rhea A. Ashmore, Zhen Cao</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">Indiana : </subfield>
+    <subfield code="b">Phi Delta Kappa Educational Foundation, </subfield>
+    <subfield code="c">1997</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">83 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Material en idioma inglés</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">CULTURA </subfield>
+    <subfield code="9">378</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">HISTORIA</subfield>
+    <subfield code="9">22</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">DOCENTES</subfield>
+    <subfield code="9">331</subfield>
+  </datafield>
+  <datafield ind2="4" tag="651" ind1=" ">
+    <subfield code="a">CHINA</subfield>
+    <subfield code="9">415</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="9">416</subfield>
+    <subfield code="a"> Cao, Zhen</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">67</subfield>
+    <subfield code="d">67</subfield>
+  </datafield>
+</record>

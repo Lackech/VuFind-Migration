@@ -1,0 +1,56 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00694nam a22001937a 4500</leader>
+  <controlfield tag="008">160205b2013    cr ||||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">06.02.02 </subfield>
+    <subfield code="b">2171 CD# 247</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">1430</subfield>
+    <subfield code="a">Cascante Salas, Warner</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Uso del software libre como un medio para democratizar la educación /</subfield>
+    <subfield code="c"> Warner Cascante Salas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">INIE,</subfield>
+    <subfield code="c">2013</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">66 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Informe final de proyecto de investigación N° 724-B0-078. 
+</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">2 anexos en DVD</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1431</subfield>
+    <subfield code="a">DEMOCRATIZACIÓN DE LA EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">483</subfield>
+    <subfield code="a">TECNOLOGÍA EDUCATIVA </subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">231</subfield>
+    <subfield code="a">SOFTWARE DE CODIGO ABIERTO</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">3071</subfield>
+    <subfield code="d">3071</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,46 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00503nam a22001577a 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">3420</subfield>
+    <subfield code="d">3420</subfield>
+  </datafield>
+  <controlfield tag="008">170421b1999    us a|||| |||| 00| | eng d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">08.15.02</subfield>
+    <subfield code="b">1191 </subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="110">
+    <subfield code="9">2685</subfield>
+    <subfield code="a">Thomson ISI</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">ProCite versión 5 / </subfield>
+    <subfield code="c">Thomson Isi Researchsoft</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">Estados Unidos : </subfield>
+    <subfield code="b">Thomson Isi Researchsoft, </subfield>
+    <subfield code="c">1999</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">514 páginas;</subfield>
+    <subfield code="b">ilustraciones;</subfield>
+    <subfield code="e">2 discos de computadora</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Contiene disco de instalación</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="9">426</subfield>
+    <subfield code="a">MANUALES </subfield>
+  </datafield>
+  <datafield tag="650" ind2="0" ind1=" ">
+    <subfield code="9">1822</subfield>
+    <subfield code="a">GUÍA</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

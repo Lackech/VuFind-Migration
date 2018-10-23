@@ -1,0 +1,48 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01823nab a2200169   4500</leader>
+  <controlfield tag="005">20160328163206.0</controlfield>
+  <controlfield tag="008">150903b2003    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">963</subfield>
+    <subfield code="a">Prado Vargas, Mariano Alberto</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Construcción del sólido cúbico y sus parientes utilización de los elementos estructurales y de la técnica del visado para todos los prismas básicos /</subfield>
+    <subfield code="c">Mariano Alberto Prado Vargas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2003</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a"> páginas 163-186</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">El objetivo de este artículo es explicar un proceso de dibujo que involucra el estudio de los elementos estructurales del cubo.
+Es un planteamiento dirigido a estudiantes de los cursos de dibujo quienes deben aprender a percibir las cualidades volumétricas del objeto real y representarlo por medio de los elementos estructurales intrínsecos. Para aplicar estos conocimientos el estudiante debe aprender la relación que existe entre la posición del observador respecto del objeto, la ubicación del plano de cuadro y los conceptos básicos de la perspectiva, el método de visado, el dominio de las proporciones del cubo, la relación de los ángulos del cubo respecto de los lados, la estructura y la aplicación de la triangulación. Todos estos procedimientos se enumeran en el presente artículo, explicados paso a paso, por medio de ilustraciones.
+Además, se toman en cuenta los distintos errores que cometen los estudiantes. Estos son demostrados por medio de ilustraciones que permiten observar el origen del mismo y su resolución</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" tag="773" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0190</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.27, no.1  (2003)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2846</subfield>
+    <subfield code="d">2846</subfield>
+  </datafield>
+</record>

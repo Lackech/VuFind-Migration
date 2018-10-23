@@ -1,0 +1,60 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00682nam a2200205Ia 4500</leader>
+  <controlfield tag="008">161011b1993    mx ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="020">
+    <subfield code="a">9688423793</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">05.02.01 </subfield>
+    <subfield code="b">197</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="a">Arizpe, Lourdes</subfield>
+    <subfield code="9">2073</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Cultura y cambio global:  percepciones sociales sobre la desforestación en la selva Lacandona / </subfield>
+    <subfield code="c">Lourdes Arizpe, Fernanda Paz, Margarita Velázquez</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">México : </subfield>
+    <subfield code="b">CRIM, </subfield>
+    <subfield code="c">1993</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">230 páginas</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">CULTURA </subfield>
+    <subfield code="9">378</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a"> CAMBIO SOCIAL </subfield>
+    <subfield code="9">470</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">DEFORESTACIÓN</subfield>
+    <subfield code="9">2074</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">ASPECTOS SOCIALES </subfield>
+    <subfield code="9">576</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="a">Paz, Fernanda</subfield>
+    <subfield code="9">2075</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="a">Velázquez, Margarita</subfield>
+    <subfield code="9">2076</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">420</subfield>
+    <subfield code="d">420</subfield>
+  </datafield>
+</record>

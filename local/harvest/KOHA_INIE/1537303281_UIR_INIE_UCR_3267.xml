@@ -1,0 +1,100 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01177nmm a22003617a 4500</leader>
+  <controlfield tag="003">cru INIE</controlfield>
+  <controlfield tag="005">20160623142510.0</controlfield>
+  <controlfield tag="007">ca aa aaaaa</controlfield>
+  <controlfield tag="008">160623b2014    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="022" ind1=" " ind2=" ">
+    <subfield code="a">2215-4124</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="040">
+    <subfield code="a">cru INIE</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">CD #251</subfield>
+  </datafield>
+  <datafield tag="110" ind1=" " ind2=" ">
+    <subfield code="9">1861</subfield>
+    <subfield code="a">Costa Rica. Ministerio de Cultura y Juventud. Consejo de la Persona Joven</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Investigación en juventudes: Revista del Consejo de la Persona Joven</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Unidad de Investigación, Consejo de la Persona Joven, </subfield>
+    <subfield code="c">2014</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">152 páginas; </subfield>
+    <subfield code="b">PDF, ilustraciones</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Vol. 1, no.1, Agosto, 2014</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">476</subfield>
+    <subfield code="a">JUVENTUD</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">574</subfield>
+    <subfield code="a">INMIGRACIÓN </subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">268</subfield>
+    <subfield code="a">SALUD</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">588</subfield>
+    <subfield code="a">DERECHOS HUMANOS</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1862</subfield>
+    <subfield code="a">DROGAS DE USO INDEBIDO</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">48</subfield>
+    <subfield code="a">SEXUALIDAD</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1863</subfield>
+    <subfield code="a">PREVENCIÓN DEL SIDA</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">484</subfield>
+    <subfield code="a">TECNOLOGÍA DE LA INFORMACIÓN </subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">925</subfield>
+    <subfield code="a">TECNOLOGÍA DE LAS COMUNICACIONES</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">350</subfield>
+    <subfield code="a">INTERNET </subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1864</subfield>
+    <subfield code="a">TRABAJO DE MENORES</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">548</subfield>
+    <subfield code="a">EMPLEO </subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">589</subfield>
+    <subfield code="a">DEMOCRACIA</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">08</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">3267</subfield>
+    <subfield code="d">3267</subfield>
+  </datafield>
+</record>

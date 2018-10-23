@@ -1,0 +1,54 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00575nam a2200193Ia 4500</leader>
+  <controlfield tag="008">160923b1995    mx ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="020">
+    <subfield code="a">9686719504</subfield>
+  </datafield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">06.04.05 </subfield>
+    <subfield code="b">1404</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="a">Martínez Delgado, Manuel</subfield>
+    <subfield code="9">2012</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Pluralidad y universidad / </subfield>
+    <subfield code="c">Manuel Martínez Delgado, coordinador</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">México : </subfield>
+    <subfield code="b">LaJornada Ediciones, </subfield>
+    <subfield code="c">1995</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">264 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="490">
+    <subfield code="a">Papeles de educación</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">UNIVERSIDAD</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">8</subfield>
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">PLURALISMO CULTURAL</subfield>
+    <subfield code="9">841</subfield>
+  </datafield>
+  <datafield ind2="4" ind1=" " tag="651">
+    <subfield code="a">MÉXICO</subfield>
+    <subfield code="9">19</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">404</subfield>
+    <subfield code="d">404</subfield>
+  </datafield>
+</record>

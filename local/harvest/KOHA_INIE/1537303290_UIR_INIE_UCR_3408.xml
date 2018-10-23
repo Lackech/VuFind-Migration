@@ -1,0 +1,50 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00585nam a22001697a 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">3408</subfield>
+    <subfield code="d">3408</subfield>
+  </datafield>
+  <controlfield tag="008">170320b2013    ec a|||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">06.03.07</subfield>
+    <subfield code="b">2405</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">2036</subfield>
+    <subfield code="a">Villarroel Idrovo, Jorge</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Guía para la formulación del proyecto de vida académica /</subfield>
+    <subfield code="c">Jorge Villarroel Idrovo</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">Ibarra, Ecuador :</subfield>
+    <subfield code="b">Universidad Técnica del Norte,</subfield>
+    <subfield code="c">2013</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">64 páginas;</subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">498</subfield>
+    <subfield code="a">FORMACIÓN PROFESIONAL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">481</subfield>
+    <subfield code="a">ESTUDIANTES UNIVERSITARIOS </subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">8</subfield>
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1822</subfield>
+    <subfield code="a">GUÍA</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,68 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02958nam a22002177a 4500</leader>
+  <controlfield tag="008">160826b2016    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">06.03.04</subfield>
+    <subfield code="b">2363 </subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">759</subfield>
+    <subfield code="a">García Fallas, Jacqueline</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Indicadores educativos para la sostenibilidad para los campus de las universidades públicas de Costa Rica /</subfield>
+    <subfield code="c">Jacqueline García Fallas, Patricia Rojas Núñez, Lidia Hernández Rojas, Ana Cristina Benavides Benavides</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">[San José, Costa Rica]</subfield>
+    <subfield code="b">INIE,</subfield>
+    <subfield code="c">2016</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">1 volumen (sin paginar)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Informe final proyecto de investigación No. 724-B4-518</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">El proyecto tiene como objetivo general potenciar acciones de sostenibilidad en los campus universitarios estatales por medio de un sistema de indicadores que contribuyan al fortalecimiento de la gestión integral y de una cultura ambiental.
+La metodología implementada para la construcción de los indicadores fue de carácter cualitativa.  Contó con la participación de funcionarios académicos y administrativos involucrados en las acciones orientadas a la gestión ambiental integral en los campus universitarios, así como expertos académicos en educación ambiental y desarrollo sostenible.  Se realizaron entrevistas, encuestas, sesiones de trabajo usando la técnica de grupos focales.  Se buscó información bibliográfica, así como la disponible en las páginas web de las universidades.
+Entre los resultados se mencionan los siguientes:
+La matriz de indicadores ambientales contribuye a fortalecer la convicción epistemológica en relación con que las universidades públicas deben ser ejemplo en la incorporación de la Dimensión Ambiental (DA), lo cual trasciende la mirada sobre la gestión ambiental e integral como centro de la sostenibilidad, por eso propone que lo fundamental es ofrecer una herramienta que contenga una visión holística e integradora en materia de educación y gestión ambiental integral como engranajes para la sostenibilidad de los campus universitarios.
+En la construcción de una cultura ambiental se debe partir de la formación profesional y del abordaje sistémico integral del quehacer universitario, para que las universidades puedan constituirse en interlocutores legitimados en este campo para la sociedad.
+El fortalecimiento del quehacer interuniversitario en esta materia promueve la cooperación y el aprendizaje colectivo e interinstitucional, lo cual facilita el intercambio de experiencias y lecciones aprendidas mediante la aplicación de la matriz de indicadores realizada, ya que esta puede ser utilizada para realizar estudios comparativos desde una perspectiva diacrónica y sincrónica.</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">439</subfield>
+    <subfield code="a">EDUCACIÓN AMBIENTAL </subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">8</subfield>
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1943</subfield>
+    <subfield code="a">INDICADORES EDUCATIVOS</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">738</subfield>
+    <subfield code="a">Rojas Núñez, Patricia</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">233</subfield>
+    <subfield code="a">Hernández Rojas, Lidia</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">237</subfield>
+    <subfield code="a">Benavides Benavides, Ana Cristina</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">3305</subfield>
+    <subfield code="d">3305</subfield>
+  </datafield>
+</record>

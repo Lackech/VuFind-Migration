@@ -1,0 +1,48 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00547nam a2200169Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2102</subfield>
+    <subfield code="d">2102</subfield>
+  </datafield>
+  <controlfield tag="008">180828b1998    -us||||| |||| 00| | eng d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">13.09.09 </subfield>
+    <subfield code="b">620</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="100">
+    <subfield code="a">Craig, Helen J.</subfield>
+    <subfield code="9">4135</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Teacher development :  marking an impact / </subfield>
+    <subfield code="c">Helen Craig, Richard J. Kraft, Joy du Plessis</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">Washington D.C., Estados Unidos :  </subfield>
+    <subfield code="c">1998</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">167 páginas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">DOCENTES</subfield>
+    <subfield code="9">331</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">PROGRAMAS DE CAPACITACION</subfield>
+    <subfield code="9">3933</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1=" ">
+    <subfield code="a">Kraft, Richard J.</subfield>
+    <subfield code="9">4136</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2=" ">
+    <subfield code="a">Plessis, Joy du</subfield>
+    <subfield code="9">4137</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

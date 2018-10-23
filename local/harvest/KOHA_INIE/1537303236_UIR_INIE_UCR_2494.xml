@@ -1,0 +1,40 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00393nam a2200157Ia 4500</leader>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">CD #26</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="110">
+    <subfield code="a">Universidad de Colima</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="245">
+    <subfield code="a">SIABUC SIGLO XXI</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">México : </subfield>
+    <subfield code="b">Universidad de Colima, </subfield>
+    <subfield code="c"/>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">1 disco compacto</subfield>
+  </datafield>
+  <datafield ind1=" " tag="500" ind2=" ">
+    <subfield code="a">Disponible  Siabuc 8</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="650">
+    <subfield code="a">PROGRAMAS DE COMPUTADORA\SIABUC</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="p">0037   </subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="p">002131  </subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="p">002034  </subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2494</subfield>
+    <subfield code="d">2494</subfield>
+  </datafield>
+</record>

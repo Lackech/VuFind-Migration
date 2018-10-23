@@ -1,0 +1,56 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00692nam a2200193   4500</leader>
+  <controlfield tag="008">160511b2010    mx a|||| |||| 00| | spa d</controlfield>
+  <datafield tag="020" ind2=" " ind1=" ">
+    <subfield code="a">9786074716733</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">06.02.01</subfield>
+    <subfield code="b">2330</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">1721</subfield>
+    <subfield code="a">Pérez Fragoso, Ana Cristina</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="245">
+    <subfield code="a">Las voces del aula: conversar en la escuela /</subfield>
+    <subfield code="c">Ana Cristina Pérez Fragoso y Miguel Bazdresch Parada, con prólogo de Sylvia Schmelkese</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">México :</subfield>
+    <subfield code="b">SM de ediciones,</subfield>
+    <subfield code="c">2010</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">127 páginas;</subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield tag="490" ind1=" " ind2=" ">
+    <subfield code="a">Somos maestros. Convivencia escolar</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">150</subfield>
+    <subfield code="a">COMUNICACIÓN</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">691</subfield>
+    <subfield code="a">CONVIVENCIA ESCOLAR</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">1722</subfield>
+    <subfield code="a">Bazdresch Parada, Miguel</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3215</subfield>
+    <subfield code="d">3215</subfield>
+  </datafield>
+</record>

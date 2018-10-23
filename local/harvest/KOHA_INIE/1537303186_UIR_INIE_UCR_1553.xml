@@ -1,0 +1,51 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00963nam a2200193Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">1553</subfield>
+    <subfield code="d">1553</subfield>
+  </datafield>
+  <controlfield tag="008">180226b1987    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">06.02.01 </subfield>
+    <subfield code="b">43</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Arrieta F., María Cristina</subfield>
+    <subfield code="9">3402</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Adquisición de conceptos básicos de física, necesarias para la comprensión de la climatología en estudiantes de educación general básica del Área Metropolitana / </subfield>
+    <subfield code="c">María Cristina Arrieta F., Giuliana Vicarioli C.</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b"> IIMEC, </subfield>
+    <subfield code="c">1987</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">14 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Informe Final Proyecto No. 724-82-030</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">	Este estudio llegó a la conclusión de que es un porcentaje mínimo de alumnos el que comprende los temas de metereología, el resto, repiten términos de apariencia científica sin que haya comprensión de por medio. Además, se observó una mejora sustancial en la comprensión de conceptos y en la motivación de los estudiantes, al tener experiencia a través de las cuales estudiaron Física. Por lo tanto, se concluye que parte del fracaso en la comprensión de estos temas, tiene que ver con la presentación aislada de los temas de metereología.</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">FÍSICA</subfield>
+    <subfield code="9">673</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">3403</subfield>
+    <subfield code="a">Vicarioli C., Giuliana.</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

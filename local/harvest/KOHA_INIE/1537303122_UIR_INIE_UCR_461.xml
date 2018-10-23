@@ -1,0 +1,43 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00496nam a2200157Ia 4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">461</subfield>
+    <subfield code="d">461</subfield>
+  </datafield>
+  <controlfield tag="008">170203b2007    ne ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="020" ind2=" ">
+    <subfield code="a">9780240809106</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">08.15.02 </subfield>
+    <subfield code="b">1535 CD #149</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">208</subfield>
+    <subfield code="a">Skidgel, John</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Producing Flash CS3 video: Techniques for video pros and web designers / </subfield>
+    <subfield code="c">John Skidgel</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">Amsterdam, NL : </subfield>
+    <subfield code="b">Elsevier, </subfield>
+    <subfield code="c">2007</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">243 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Incluye DVD # 149</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">PROGRAMAS DE COMPUTADORA</subfield>
+    <subfield code="9">1302</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

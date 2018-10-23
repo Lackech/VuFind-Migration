@@ -1,0 +1,63 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00813nam a2200229Ia 4500</leader>
+  <controlfield tag="008">161010b1999    mx ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9687798327</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">06.03.06 </subfield>
+    <subfield code="b">332</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="2" tag="110">
+    <subfield code="9">1754</subfield>
+    <subfield code="a">Asociación Nacional de Universidades e Instituciones de Educación Superior (ANUIES)</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="3">
+    <subfield code="a">La educación superior ante los desafíos de la sustentabilidad</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">México : </subfield>
+    <subfield code="b">ANUIES, </subfield>
+    <subfield code="c">1999</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">volúmenes.</subfield>
+  </datafield>
+  <datafield tag="490" ind1=" " ind2=" ">
+    <subfield code="a">Serie bibliográfica</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="505">
+    <subfield code="a">Volumen 1 En torno al desarrollo sostenible</subfield>
+  </datafield>
+  <datafield tag="505" ind1=" " ind2=" ">
+    <subfield code="a">Volumen 2 En torno a la educación ambiental</subfield>
+  </datafield>
+  <datafield tag="505" ind1=" " ind2=" ">
+    <subfield code="a">Volumen 3 En torno al curriculum ambiental</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">8</subfield>
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">DESARROLLO  SOSTENIBLE</subfield>
+    <subfield code="9">443</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">MEDIO AMBIENTE</subfield>
+    <subfield code="9">792</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">EDUCACIÓN AMBIENTAL </subfield>
+    <subfield code="9">439</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">414</subfield>
+    <subfield code="d">414</subfield>
+  </datafield>
+</record>

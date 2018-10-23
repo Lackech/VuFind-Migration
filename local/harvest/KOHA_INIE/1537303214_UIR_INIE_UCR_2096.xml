@@ -1,0 +1,87 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01175nam a2200289Ia 4500</leader>
+  <controlfield tag="008">160808b2013    cr a|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">13.09.09 </subfield>
+    <subfield code="b">2096</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="a">Cordero Cantillo, Rebeca</subfield>
+    <subfield code="9">1924</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Educación secundaria: análisis de funciones y carga docente: el caso del personal docente agremiado a la ANDE /</subfield>
+    <subfield code="c"> Rebeca Cordero Cantillo, Noilin Molina Rojas, Wendy Páez Cerdas, Yensi Vargas Sandoval, Annia Espeleta Sibaja (investigadora colaboradora)</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2013</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">57 páginas;</subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield ind1=" " tag="500" ind2=" ">
+    <subfield code="a">Informe final proyecto de investigación N° 724-B1-557</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">DOCENTES</subfield>
+    <subfield code="9">331</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">DESCRIPCIÓN DEL CARGO </subfield>
+    <subfield code="9">1925</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">EDUCACIÓN SECUNDARIA</subfield>
+    <subfield code="9">456</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">ORGANIZACIONES DE DOCENTES </subfield>
+    <subfield code="9">1926</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1210</subfield>
+    <subfield code="a">ADMINISTRACIÓN DE LA ENSEÑANZA</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">RECURSOS HUMANOS</subfield>
+    <subfield code="9">1166</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">ANÁLISIS DEL EMPLEO</subfield>
+    <subfield code="9">1927</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="4" tag="651">
+    <subfield code="a">COSTA RICA</subfield>
+    <subfield code="9">47</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">1106</subfield>
+    <subfield code="a">Molina Rojas, Noilin</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a"> Páez Cerdas, Wendy</subfield>
+    <subfield code="9">154</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="a">Vargas Sandoval, Yensi</subfield>
+    <subfield code="9">746</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="a">Espeleta sibaja, Annia</subfield>
+    <subfield code="9">1906</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2096</subfield>
+    <subfield code="d">2096</subfield>
+  </datafield>
+</record>

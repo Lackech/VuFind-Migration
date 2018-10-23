@@ -1,0 +1,31 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00355nam a2200121Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">DOC # 62</subfield>
+  </datafield>
+  <datafield ind2=" " tag="110" ind1=" ">
+    <subfield code="a">Asamblea Legislativa de Costa Rica</subfield>
+  </datafield>
+  <datafield ind1=" " tag="245" ind2=" ">
+    <subfield code="a">Ley del hostigamiento sexual en el empleo y la docencia</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b"> La Asamblea, </subfield>
+    <subfield code="c">sin fecha</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">4 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="650" ind1=" ">
+    <subfield code="a">ABUSO SEXUAL  </subfield>
+  </datafield>
+  <datafield ind2=" " tag="650" ind1=" ">
+    <subfield code="a">ACOSO SEXUA</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2557</subfield>
+    <subfield code="d">2557</subfield>
+  </datafield>
+</record>

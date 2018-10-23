@@ -1,0 +1,46 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01870nab a2200169   4500</leader>
+  <controlfield tag="005">20160428153340.0</controlfield>
+  <controlfield tag="008">160428b2012    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">1642</subfield>
+    <subfield code="a">Hernández-Rivera, Patricia</subfield>
+  </datafield>
+  <datafield tag="245" ind2="1" ind1="1">
+    <subfield code="a">¿Por qué es importante establecer una rúbrica de evaluación? El caso del curso Clínica de Exodoncia y Cirugía /</subfield>
+    <subfield code="c">Patricia Hernández-Rivera</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2012</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">páginas 63-72</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">En la actualidad los procesos evaluativos han cobrado importancia, pues se requiere instrumentos objetivos que ofrezcan un medio para valorar las competencias logradas por el estudiantado, en determinado proceso de enseñanza- aprendizaje.Las rúbricas de evaluación ofrecen un mecanismo objetivo, que estandariza los indicadores a valorar, según el rendimiento mostrado por el estudiantado. Además, le permite al personal docente orientar y retroalimentar al alumnado, quienes también podrán utilizar el instrumento para autoevaluarse y prepararse de antemano, de acuerdo con las especificaciones descritas en la rúbrica. El objetivo del presente trabajo es elaborar una rúbrica de evaluación para el curso de Clínica de Exodoncia y Cirugía. Dicho instrumento se realizó considerando las opiniones del 40% del profesorado a cargo del curso, por medio de una entrevista semi-estructurada. Esta rúbrica ofrece una herramienta que estandariza el proceso de evaluación de las "presentaciones del caso" y permite que el equipo docente pueda retroalimentar al estudiantado y favorece la interacción docente-estudiante.</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0625</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.36, no.1 (ene.-jun., 2012)</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">3171</subfield>
+    <subfield code="d">3171</subfield>
+  </datafield>
+</record>

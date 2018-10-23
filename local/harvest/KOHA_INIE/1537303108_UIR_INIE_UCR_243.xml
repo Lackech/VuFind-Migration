@@ -1,0 +1,47 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00481nam a2200169Ia 4500</leader>
+  <controlfield tag="008">150916b1991    sp ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">8475090931</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">150  </subfield>
+    <subfield code="b">F932co</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="a">Fromm, Erich</subfield>
+    <subfield code="9">1008</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Condición humana actual y otros temas de la vida contemporánea</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">Barcelona, España : </subfield>
+    <subfield code="b">Paidós, </subfield>
+    <subfield code="c">1991</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">122 páginas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">CONDICIÓN SOCIAL </subfield>
+    <subfield code="9">514</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">SEXO</subfield>
+    <subfield code="9">39</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">PSICOLOGÍA</subfield>
+    <subfield code="9">657</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">243</subfield>
+    <subfield code="d">243</subfield>
+  </datafield>
+</record>

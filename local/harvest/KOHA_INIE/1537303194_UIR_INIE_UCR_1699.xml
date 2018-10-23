@@ -1,0 +1,68 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00830nam a2200193Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">1699</subfield>
+    <subfield code="d">1699</subfield>
+  </datafield>
+  <controlfield tag="008">180413b2010    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">06.03.04 </subfield>
+    <subfield code="b">1924</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Fonseca González, Vanessa</subfield>
+    <subfield code="9">1940</subfield>
+  </datafield>
+  <datafield ind2=" " tag="245" ind1=" ">
+    <subfield code="a">El cuento el guardapelo: una lectura desde la visión del grupo docente / </subfield>
+    <subfield code="c">Vanesa Fonseca, Isabel Gallardo</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="b">2010</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">88 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Informe final del proyecto No. 724-A9-747</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">En esta investigación se pretende conocer los niveles de lectura que alcanza el grupo de docentes de español,
+para la lectura del cuento El Guardapelo, del escritor costarricense Carlos Gagini y de lectura obligatoria en
+los colegios del Tercer Ciclo de la Educación General Básica. Asimismo, ofrece herramientas tecnológicas par
+la enseñanza de la literatura.
+Para ello se desarrolló un taller de veinte horas, a veinte docentes de español, donde mediante el uso de un
+blog, una animación y la elaboración de una presentación, se capacitó y al mismo tiempo se constató los niveles
+de lectura de estos docentes.
+Con la capacitación se pretende dar e este grupo de profesores nuevas herramientas tecnológicas para que
+desarrollen en el aula y puedan hacer que la lectura de textos literarios sea más amena y cercana a los grupos
+estudiantiles que tienen a su cargo.</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">LECTURA</subfield>
+    <subfield code="9">365</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">ENSEÑANZA</subfield>
+    <subfield code="9">14</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">TECNOLOGÍA EDUCATIVA </subfield>
+    <subfield code="9">483</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">CUENTO</subfield>
+    <subfield code="9">3333</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="9">88</subfield>
+    <subfield code="a">Gallardo Álvarez, Isabel</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

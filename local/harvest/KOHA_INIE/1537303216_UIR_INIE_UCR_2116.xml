@@ -1,0 +1,75 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02488nam a2200265Ia 4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">2116</subfield>
+    <subfield code="d">2116</subfield>
+  </datafield>
+  <controlfield tag="008">180822b2010    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">14.02.02 </subfield>
+    <subfield code="b">1539</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Chavarría González, María Celina</subfield>
+    <subfield code="9">200</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Ecoanálisis y decodificación de lo cotidiano en las prácticas formativas en los programas de atención a la niñez en los centros infantiles universitarios / </subfield>
+    <subfield code="c">María Celina Chavarría González,  María del Milagro Obando Obando, Marina Rivera Vargas, Cynthia</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2010</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">65 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Informe final Proyecto Nº 724-A7-102\La Unidad posee informe parcial 2007\Proyecto de Acción Social ED-2015</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">Este proyecto plantea un esfuerzo conjunto hacia la búsqueda de coherencia y correspondencia entre las filosofías de atención a la niñez y las prácticas formativas cotidianas en centros infantiles de la Universidad de Costa Rica, enlazando componentes de investigación y acción social. Con el fin de problematizar las condiciones de existencia dentro de un marco humanista-existencial, como herramienta de investigación-acción se abordó un ecoanálisis. Éste pasa por la decodificación de lo cotidiano en las actividades y espacios organizados para la niñez, problematizando sobre puntos de coherencia entre principios orientadores y las prácticas y vivencias. La investigación se enfoca hacia el fortalecimiento de modelos de atención de la niñez centrados en paradigmas holistas, contextuales y sociohistóricos, priorizando el criterio de correspondencia o relevancia para el alcance de objetivos dialogados y acordados desde un marco de pedagogía crítica problematizadora, que tiende a reflexiones y acuerdos que dan pie a una comprensión comunicativa hacia la transformación. La lectura del currículo oculto y la naturaleza activa y comprometida de la investigación, incluyendo la mirada a lo posible, fueron los medios para una construcción conjunta hacia la transformación, asumiendo como fin la contribución a mejorar las condiciones de existencia de cada uno de los centros infantiles decodificados.</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">NIÑOS</subfield>
+    <subfield code="9">59</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">FORMACIÓN</subfield>
+    <subfield code="9">4123</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">ESTABLECIMIENTOS DE ENSEÑANZA</subfield>
+    <subfield code="9">1519</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2=" ">
+    <subfield code="a"> Rivera Vargas, Marina</subfield>
+    <subfield code="9">3243</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1=" ">
+    <subfield code="a">Obando Obando, María del Milagro</subfield>
+    <subfield code="9">3242</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="700">
+    <subfield code="a">Orozco Castro, Cynthia</subfield>
+    <subfield code="9">3241</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+  </datafield>
+</record>

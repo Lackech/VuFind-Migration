@@ -1,0 +1,65 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00960nam a22002177a 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">3386</subfield>
+    <subfield code="d">3386</subfield>
+  </datafield>
+  <controlfield tag="008">170206b2014    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="020">
+    <subfield code="a">9789968412551</subfield>
+  </datafield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">05.05.03</subfield>
+    <subfield code="b">1595</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">781</subfield>
+    <subfield code="a">Ospina Garcés, Helena</subfield>
+    <subfield code="e">Editor/a</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Nueva literatura para un siglo nuevo: el Popol Wuuj, el libro del amanecer: actas del VIII Encuentro Mesoamericano "Escritura-Cultura"; VI Coloquio "Escritoras y Escritores Latinoamericanos" / </subfield>
+    <subfield code="c">Helena Ospina, Erika Chinchilla Ramírez, Gabriel Quesada Mora.</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">PROMESA, </subfield>
+    <subfield code="c">impresión de 2014</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">684 páginas </subfield>
+  </datafield>
+  <datafield tag="490" ind1=" " ind2=" ">
+    <subfield code="a">Encuentros mesoamericanos,</subfield>
+    <subfield code="v">7</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">655</subfield>
+    <subfield code="a">LITERATURA </subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">506</subfield>
+    <subfield code="a">CONFERENCIA</subfield>
+  </datafield>
+  <datafield ind2="4" ind1=" " tag="651">
+    <subfield code="9">273</subfield>
+    <subfield code="a">AMÉRICA LATINA</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">1223</subfield>
+    <subfield code="a">Chinchilla Ramírez, Erika</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="9">1458</subfield>
+    <subfield code="a">Quesada Mora, Gabriel</subfield>
+  </datafield>
+  <datafield ind1="1" tag="710" ind2=" ">
+    <subfield code="9">789</subfield>
+    <subfield code="a">Encuentro mesoamericano Escritura-Cultura (8 : 2014 : San José, Costa Rica)</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

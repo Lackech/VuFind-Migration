@@ -1,0 +1,48 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00582nam a2200169   4500</leader>
+  <controlfield tag="008">161003b2013    e  ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">06.06.02</subfield>
+    <subfield code="b">2381</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">2036</subfield>
+    <subfield code="a">Villarroel Idrovo, Jorge</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Formación docente para el buen vivir /</subfield>
+    <subfield code="c">Jorge Villarroel Idrovo</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">Ibarra, Ecuador :</subfield>
+    <subfield code="b">Instituto Pedagógico Alfredo Pérez Guerrero,</subfield>
+    <subfield code="c">2013</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">180 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Proyecto "Leer para educar" / tomo 5</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">9</subfield>
+    <subfield code="a">FORMACIÓN DE DOCENTES</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">498</subfield>
+    <subfield code="a">FORMACIÓN PROFESIONAL</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">8</subfield>
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">3328</subfield>
+    <subfield code="d">3328</subfield>
+  </datafield>
+</record>

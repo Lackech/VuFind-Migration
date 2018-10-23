@@ -1,0 +1,54 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00975nam a2200169Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">1810</subfield>
+    <subfield code="d">1810</subfield>
+  </datafield>
+  <controlfield tag="008">180424b1995    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">06.03.06 </subfield>
+    <subfield code="b">570</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Bolaños Cubero, Carolina</subfield>
+    <subfield code="9">178</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Experiencias didácticas ciencias naturales II ciclo</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">Heredia, Costa Rica : </subfield>
+    <subfield code="b">Programa de impresiones y publicaciones Universidad Nacional, </subfield>
+    <subfield code="c">1995</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">43 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Producto del proyecto de Investigación Plan piloto para el mejoramiento de la enseñanza de la ciencia y la matemática.  A la cabeza de la portada: Universidad de Costa Rica. Universidad Nacional. Consejo Nacional para Investigaciones Científicas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">Este folleto se elaboró con el propósito de desarrollar una experiencia tendiente a mejorar el proceso de enseñanza aprendizaje de las Ciencias Naturales y la Matemática en las escuelas primarias y secundarias del país.  </subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">EDUCACIÓN PRIMARIA</subfield>
+    <subfield code="9">367</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">FORMACIÓN DE DOCENTES</subfield>
+    <subfield code="9">9</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">CIENCIAS NATURALES</subfield>
+    <subfield code="9">1934</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">MATEMÁTICAS  </subfield>
+    <subfield code="9">482</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

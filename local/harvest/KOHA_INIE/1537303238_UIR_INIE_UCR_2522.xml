@@ -1,0 +1,41 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00411nam a2200157Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">CD #86</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="110">
+    <subfield code="a">Universidad de Costa Rica</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="245">
+    <subfield code="a">Video feria de la Salud / </subfield>
+    <subfield code="c">Universidad de Costa Rica</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">UCR, </subfield>
+    <subfield code="c">2006</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">CD</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Video</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="650">
+    <subfield code="a">SALUD INTEGRAL</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="650">
+    <subfield code="a">AMBIENTE UNIVERSITARIO</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">SERVICIOS MÉDICOS</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="p">002189</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2522</subfield>
+    <subfield code="d">2522</subfield>
+  </datafield>
+</record>

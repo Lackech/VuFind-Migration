@@ -1,0 +1,80 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00930nam a2200265   4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3415</subfield>
+    <subfield code="d">3415</subfield>
+  </datafield>
+  <controlfield tag="008">170403b2014    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">06.03.04</subfield>
+    <subfield code="b">521</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">1082</subfield>
+    <subfield code="a">Castro Bonilla, Julieta</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Programa de educación continua y servicios especiales /</subfield>
+    <subfield code="c">Julieta Castro Bonilla, Ana Lupita Chaves Salas, Wendy Páez Cerdas</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">[San José, Costa Rica] :</subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2014</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">15 páginas + 29 hojas (sin numerar)</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Informe final Proyecto de Acción Social ED-821</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="9">11</subfield>
+    <subfield code="a">CALIDAD DE LA EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="650" ind2="0" ind1=" ">
+    <subfield code="9">729</subfield>
+    <subfield code="a">CAPACITACIÓN</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="0" tag="650">
+    <subfield code="9">24</subfield>
+    <subfield code="a">DESARROLLO DE LA EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="650" ind2="0" ind1=" ">
+    <subfield code="9">997</subfield>
+    <subfield code="a">DIDÁCTICA </subfield>
+  </datafield>
+  <datafield ind2="0" ind1=" " tag="650">
+    <subfield code="9">709</subfield>
+    <subfield code="a">DISCIPLINA ESCOLAR</subfield>
+  </datafield>
+  <datafield tag="650" ind2="0" ind1=" ">
+    <subfield code="9">1841</subfield>
+    <subfield code="a">DOCENCIA</subfield>
+  </datafield>
+  <datafield tag="650" ind2="0" ind1=" ">
+    <subfield code="9">331</subfield>
+    <subfield code="a">DOCENTES</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="9">14</subfield>
+    <subfield code="a">ENSEÑANZA</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">255</subfield>
+    <subfield code="a">Chaves Salas, Ana Lupita</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">154</subfield>
+    <subfield code="a"> Páez Cerdas, Wendy</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

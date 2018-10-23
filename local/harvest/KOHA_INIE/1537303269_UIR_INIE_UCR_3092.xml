@@ -1,0 +1,61 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00760nam a2200205   4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">3092</subfield>
+    <subfield code="d">3092</subfield>
+  </datafield>
+  <controlfield tag="008">160302b2005    cr a|||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="020" ind2=" ">
+    <subfield code="a">9977678898</subfield>
+  </datafield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">18.01.01  </subfield>
+    <subfield code="b">2175</subfield>
+  </datafield>
+  <datafield ind1=" " tag="100" ind2=" ">
+    <subfield code="9">1492</subfield>
+    <subfield code="a">Thouin, Marcel</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Problemas de ciencias y tecnología para docentes de enseñanza preescolar y primaria / </subfield>
+    <subfield code="c">Marcel Thouin, Olga Emilia Brenes, Giselle Yong</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica, </subfield>
+    <subfield code="c">2005</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">xiv, 299 páginas; </subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="0" tag="650">
+    <subfield code="9">37</subfield>
+    <subfield code="a">CIENCIA Y TECNOLOGÍA </subfield>
+  </datafield>
+  <datafield tag="650" ind2="0" ind1=" ">
+    <subfield code="9">367</subfield>
+    <subfield code="a">EDUCACIÓN PRIMARIA</subfield>
+  </datafield>
+  <datafield tag="650" ind2="0" ind1=" ">
+    <subfield code="9">455</subfield>
+    <subfield code="a">EDUCACIÓN PREESCOLAR</subfield>
+  </datafield>
+  <datafield ind2="0" tag="650" ind1=" ">
+    <subfield code="9">14</subfield>
+    <subfield code="a">ENSEÑANZA</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="9">1494</subfield>
+    <subfield code="a">Yong, Giselle</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="a">Brenes Chacón, Olga Emilia</subfield>
+    <subfield code="9">2614</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

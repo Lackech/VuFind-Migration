@@ -1,0 +1,55 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01335nam a2200289Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">1785</subfield>
+    <subfield code="d">1785</subfield>
+  </datafield>
+  <controlfield tag="008">141002s1988    cr            000 | und d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">06.03.06 </subfield>
+    <subfield code="b">27</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Gurdián Fernández, Alicia</subfield>
+    <subfield code="9">169</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Tendencias de graduación en la Universidad de Costa Rica : 1980-1990 / </subfield>
+    <subfield code="c">Alicia Gurdián Fernández, Olga Marta Coto Sánchez, Alicia Vargas Porras</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1993</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">194 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Informe Final Proyecto de Investigación N° 724-91-226</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">Estudio estadístico entre cuyos objetivos generales se propone establecer los patrones de graduación de la Universidad de Costa Rica, durante la década de 1980 a 1990, y analizar el peso que las variables socioeconómicas, académicas y geográficas.</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+    <subfield code="9">8</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">GRADUADOS</subfield>
+    <subfield code="9">779</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="a">Coto Sánchez, Olga Marta</subfield>
+    <subfield code="9">3594</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="a">Vargas Porras, Alicia</subfield>
+    <subfield code="9">131</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

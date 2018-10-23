@@ -1,0 +1,76 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00959nam a2200253Ia 4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">2206</subfield>
+    <subfield code="d">2206</subfield>
+  </datafield>
+  <controlfield tag="008">180712b1983    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">18.01.00 </subfield>
+    <subfield code="b">113</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">Quesada Yannarella, Liliana</subfield>
+    <subfield code="9">3580</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Diagnóstico de las necesidades de investigación en la enseñanza de español, inglés, francés,  matemática, estudios sociales y educación física  señaladas por los docentes que trabajan en las instituciones oficiales del país / </subfield>
+    <subfield code="c">Liliana Quesada Yannarella</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1983</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">129 páginas</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">NECESIDADES DE EDUCACIÓN </subfield>
+    <subfield code="9">834</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">INVESTIGACIÓN</subfield>
+    <subfield code="9">163</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">DIAGNÓSTICO</subfield>
+    <subfield code="9">632</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">ENSEÑANZA DE IDIOMAS</subfield>
+    <subfield code="9">1317</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">ESPAÑOL</subfield>
+    <subfield code="9">36</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">INGLÉS</subfield>
+    <subfield code="9">35</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">FRANCÉS</subfield>
+    <subfield code="9">604</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">MATEMÁTICAS  </subfield>
+    <subfield code="9">482</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">ESTUDIOS SOCIALES</subfield>
+    <subfield code="9">675</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">EDUCACIÓN FÍSICA </subfield>
+    <subfield code="9">479</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+  </datafield>
+</record>

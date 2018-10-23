@@ -1,0 +1,51 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00599nam a2200181Ia 4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">1101</subfield>
+    <subfield code="d">1101</subfield>
+  </datafield>
+  <controlfield tag="008">180601b1989    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="020" ind1=" ">
+    <subfield code="a">9977-926-80-5</subfield>
+  </datafield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">370.115 </subfield>
+    <subfield code="b">J37a</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1=" ">
+    <subfield code="a">Jara Holliday, Oscar</subfield>
+    <subfield code="9">1903</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Aprender desde la práctica: reflexiones y experiencias de educación popular en Centroamérica</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, C.R. : </subfield>
+    <subfield code="b">ALFORJA, </subfield>
+    <subfield code="c">1989</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">115 páginas</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">EDUCACIÓN POPULAR</subfield>
+    <subfield code="9">1904</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">METODOLOGÍA</subfield>
+    <subfield code="9">285</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">PARTICIPACIÓN SOCIAL</subfield>
+    <subfield code="9">822</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">ORGANIZACIONES SIN FINES DE LUCRO</subfield>
+    <subfield code="9">2939</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

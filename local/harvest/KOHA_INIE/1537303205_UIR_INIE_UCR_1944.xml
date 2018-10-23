@@ -1,0 +1,52 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00923nam a2200205Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">06.05.02 1141</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1=" ">
+    <subfield code="a">Cubero Venegas, Carmen</subfield>
+  </datafield>
+  <datafield tag="110" ind2=" " ind1=" ">
+    <subfield code="a">Instituto de Investigación en Educación</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="245">
+    <subfield code="a">Como facilitar el proceso de enseñanza-aprendizaje en personas con trastornos de atención / Carmen Cubero Venegas; Marisol Nieto Izaguirre</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2005</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">243 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Proyecto de Investigación No. 724-99-361</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">Esta investigación tuvo como objetivos crear un marco teórico-conceptual sobre los trastornos de la atención; construir estrategias para la atención de las personas con trastornos de la atención en el aula de educación primaria; capacitar en la atenció</subfield>
+  </datafield>
+  <datafield ind2=" " tag="650" ind1=" ">
+    <subfield code="a">ENSEÑANZA</subfield>
+  </datafield>
+  <datafield ind2=" " tag="650" ind1=" ">
+    <subfield code="a">APRENDIZAJE</subfield>
+  </datafield>
+  <datafield tag="650" ind2=" " ind1=" ">
+    <subfield code="a">DOCENTES</subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2=" ">
+    <subfield code="a">CAPACITACION</subfield>
+  </datafield>
+  <datafield tag="650" ind2=" " ind1=" ">
+    <subfield code="a">DEFICIT ATENCIONAL</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="p">001852 </subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">1944</subfield>
+    <subfield code="d">1944</subfield>
+  </datafield>
+</record>

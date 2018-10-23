@@ -1,0 +1,57 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00619nam a2200205   4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">3367</subfield>
+    <subfield code="d">3367</subfield>
+  </datafield>
+  <controlfield tag="005">20170127140104.0</controlfield>
+  <controlfield tag="008">170127b2012    ck ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="020">
+    <subfield code="a">9789587620535</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">06.03.07 </subfield>
+    <subfield code="b">2248</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">2332</subfield>
+    <subfield code="a">Caicedo López, Humberto</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Neuroaprendizaje: una propuesta educativa /</subfield>
+    <subfield code="c"> Humberto Caicedo López</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">Bogotá, Colombia :</subfield>
+    <subfield code="b"> Ediciones de la U,</subfield>
+    <subfield code="c"> 2012</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">200 páginas</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">387</subfield>
+    <subfield code="a">APRENDIZAJE </subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1026</subfield>
+    <subfield code="a">CEREBRO</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">2333</subfield>
+    <subfield code="a">NEUROCIENCIA</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1520</subfield>
+    <subfield code="a">EDUCACIÓN PERMANENTE</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">41</subfield>
+    <subfield code="a">COGNICIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

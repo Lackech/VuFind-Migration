@@ -1,0 +1,51 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03288nam a2200181Ia 4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">1355</subfield>
+    <subfield code="d">1355</subfield>
+  </datafield>
+  <controlfield tag="008">170620b2000    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">05.03.07 </subfield>
+    <subfield code="b">119</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Herrera Zavaleta, Rosalila</subfield>
+    <subfield code="9">2937</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Formas de lucha y organización de las maestras costarricenses : 1930 - 1940 / </subfield>
+    <subfield code="c">Rosalila Herrera Zavaleta</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">2000</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">73 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Este documento incluye el Informe Final del Proyecto de Investigación N° 724-98-405</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">Con el objetivo de recuperar la historia de los movimientos sociales y las formas de lucha de las maestras costarricenses durante el período comprendido entre 1930-1940, además de analizar los niveles de conflicto, el patrón de protesta social, la acción contestataria, la problemática de la educación y del género, la respuesta estatal y las formas de represión, y los aportes de las maestras costarricenses en el campo organizativo y de lucha, la investigadora revisó varias fuentes escritas y realizó entrevistas a alumnas de las maestras involucradas.  La década de 1930-1940 se caracteriza por un proceso social dinámico, contradictorio, cargado de prejuicios y moldes patriarcales, en el cual las maestras encuentran la posibilidad de transgresión, lucha y transformación. El informe se divide en cinco capítulos.  En el capítulo I se abordan las principales corrientes de pensamiento de la época ligados a las luchas emprendidas por las maestras: el pensamiento teosófico (promovido por varios de los educadores que trabajaban en la Escuela Normal y que se lo transmitieron a las estudiantes de dicha institución, junto con la teoría de la evolución y las ideas de una educación mixta), y la corriente liberal (que concibe la educación como factor eficiente del desarrollo social y agente fundamental para lograr la modernización capitalista). El segundo capítulo se centra en los antecedentes de la lucha y la organización, como la formación y beligerancia de la Escuela Normal, el Colegio Superior de Señoritas y la Liga Feminista.  El capítulo III trata sobre las maestras en la década del treinta y su participación en relación con las repercusiones de la crisis económica de 1929, el debilitamiento de las condiciones de trabajo, y la situación subordinada de la mujer con respecto al hombre.  El capítulo IV aborda el tema de las maestras y su militancia comunista y rescata la labor de destacadas intelectuales del calibre de Carmen Lyra y Luisa González.  Se enfatiza, además, la importancia que esta asociación tuvo para alcanzar el derecho al voto femenino y la crítica al sistema educativo, así como la represión estatal que sufrieron quienes fueron políticamente activas.  Por  último, el capítulo V reseña el papel de las maestras en la lucha por el sufragio femenino y la importancia sobresaliente de la Liga Feminista, y se resaltan las contradicciones del movimiento, como la exclusión de los sectores populares y la defensa de valores tradicionales promovidos por la sociedad patriarcal: el nacionalismo, el legalismo y el papel maternal de la mujer en el hogar.</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">ORGANIZACIONES FEMENINAS</subfield>
+    <subfield code="9">2938</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">GÉNERO</subfield>
+    <subfield code="9">69</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">HISTORIA DE LA EDUCACIÓN</subfield>
+    <subfield code="9">832</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,49 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02318nab a2200169   4500</leader>
+  <controlfield tag="005">20170826062554.0</controlfield>
+  <controlfield tag="008">151008b2004    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">736</subfield>
+    <subfield code="a">Arguedas Quesada, Consuelo</subfield>
+  </datafield>
+  <datafield ind2="3" tag="245" ind1="1">
+    <subfield code="a">La expresión corporal y la transversalidad como un eje metodológico construido a partir de la expresión artística /</subfield>
+    <subfield code="c">Consuelo Arguedas Quesada</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2004</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">páginas 123-131</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">La expresión corporal es una disciplina que le ofrece al ser humano la posibilidad de comunicar sentimientos, estados de ánimo, emociones, conocimientos y sensaciones de manera creativa y que hacen referencia a la parte subjetiva del hombre y de la mujer. Le permite manifestarse de manera espontánea a partir del conocimiento del cuerpo en forma individual o grupal, teniendo en cuenta las impresiones que perciba a través de los sentidos y su relación con el espacio y el tiempo, además le permite fortalecer la autoestima del individuo. 
+Para obtener prácticas adecuadas de expresión corporal, es necesario tener en cuenta el manejo apropiado de los estímulos o consignas, así como de los materiales utilizados, los recursos y la diversidad de actividades creativas .
+La expresión corporal favorece el desarrollo armónico del ser mediante estímulos biológicos, intelectuales y socioemocionales, que le facilitan el proceso creativo y de sensibilización, admitiendo además, que la persona actúe en relación consigo misma, con otras personas, con otros seres vivos y con los objetos. 
+Al ofrecer beneficios para el desarrollo integral del hombre, la expresión corporal se convierte en un eje transversal en la educación primaria, al consentir la integración de contenidos de las distintas áreas del currículo escolar. Mediante estrategias novedosas se establece una interrelación entre los objetivos y se tranforman los contenidos temáticos en aprendizajes significativo, que benefician la creatividad y por ende la expresión artística de los estudiantes</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0215</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.28, no.1 (2004)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2905</subfield>
+    <subfield code="d">2905</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,49 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00578nam a2200169Ia 4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">1174</subfield>
+    <subfield code="d">1174</subfield>
+  </datafield>
+  <controlfield tag="008">170330b1972    us ||||| |||| 00| | eng d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">371.3 </subfield>
+    <subfield code="b">W151r</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Walbesser, Henry H.</subfield>
+    <subfield code="9">2643</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="2">
+    <subfield code="a">A review of research on behavioral objetives and learning hierarchies / </subfield>
+    <subfield code="c">Henry H. Wilbesser, Theodore A. Eisenberg</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">Ohio, Estados Unidos : </subfield>
+    <subfield code="b">Ohio State University, </subfield>
+    <subfield code="c">1972</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">78 páginas</subfield>
+  </datafield>
+  <datafield ind2="0" tag="650" ind1=" ">
+    <subfield code="a">COMPORTAMIENTO</subfield>
+    <subfield code="9">298</subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2="0">
+    <subfield code="a">INVESTIGACIÓN</subfield>
+    <subfield code="9">163</subfield>
+  </datafield>
+  <datafield ind2="0" tag="650" ind1=" ">
+    <subfield code="a">DOCENTES</subfield>
+    <subfield code="9">331</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="a">Eisenberg, Theodore A.</subfield>
+    <subfield code="9">2644</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

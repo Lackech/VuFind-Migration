@@ -1,0 +1,46 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01290nab a2200169   4500</leader>
+  <controlfield tag="005">20160328162814.0</controlfield>
+  <controlfield tag="008">150827b2003    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">943</subfield>
+    <subfield code="a">Sánchez Salazar, Marta</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Cognición y transacción estética: un enfoque para la enseñanza de la lectura / </subfield>
+    <subfield code="c">Marta Sánchez Salazar</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2003</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">páginas 27-39</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">Se discute aquí sobre la importancia de enfatizar el uso de metodologías de orden estético transaccional, como complemento de los métodos de enseñanza de la lengua materna los que, en la práctica, se han concentrado mayormente en el aspecto cognitivo-mecanicista de la lengua. Se argumenta que en la carencia de metodologías transaccionales podría yacer una de las causas de los malos hábitos de lectura en la población. Finalmente, se sugiere un respaldo filosófico y metodológico bidireccional, por medio de la teoría de la transacción estética de Rosenblatt y la teoría del esquema</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind1="0" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0190</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.27, no.1  (2003)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2832</subfield>
+    <subfield code="d">2832</subfield>
+  </datafield>
+</record>

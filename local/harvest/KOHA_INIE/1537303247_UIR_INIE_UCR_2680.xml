@@ -1,0 +1,46 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01758nab a2200169   4500</leader>
+  <controlfield tag="005">20160317155824.0</controlfield>
+  <controlfield tag="008">150617b2000    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">197</subfield>
+    <subfield code="a">Bolaños González, Jimmy</subfield>
+  </datafield>
+  <datafield tag="245" ind2="4" ind1="1">
+    <subfield code="a">Los nombramientos interinos de docentes en la jurisprudencia constitucional /</subfield>
+    <subfield code="c">Jimmy Bolaños González</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2000</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">páginas 61-69</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">La situación laboral en el sector público educativo, en relación con los miles de servidores que imparten lecciones en los centros educativos del Ministerio de Educación Pública es ampliamente tratada a la luz de una amplia sistematización y cita de las resoluciones de la Sala  Constitucional emitidas por cientos en los últimos años. Se analiza el marco jurídico general que regula la posibilidad de sustituir  a un interino versus el derecho fundamental al trabajo y a la estabilidad garantizadas por los numerales 56 y 192 de la Carta Magna respectivamente. Se procura contemplar la amplia casuística que puede existir, con el fin de contribuir a la certeza y seguridad jurídica que ha de imperar en todo el ordenamiento jurídico, de modo que pueda salirse al paso de arbitrariedades y abusos, no solo de las autoridades de la cartera ministerial como patrono sino incluso de los mismos docentes que acuden a la vía de amparo en algunos casos en forma temeraria tan solo para alargar sus nombramientos mientras el Tribunal Constitucional resuelve su caso</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " tag="773" ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0026</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.24, no.2 (2000)</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2680</subfield>
+    <subfield code="d">2680</subfield>
+  </datafield>
+</record>

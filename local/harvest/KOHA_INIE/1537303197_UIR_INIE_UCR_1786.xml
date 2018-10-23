@@ -1,0 +1,72 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00730nam a2200241Ia 4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">1786</subfield>
+    <subfield code="d">1786</subfield>
+  </datafield>
+  <controlfield tag="008">180420b2001    g  ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">06.03.06 </subfield>
+    <subfield code="b">323</subfield>
+  </datafield>
+  <datafield tag="110" ind2=" " ind1="2">
+    <subfield code="a">Banco Mundial</subfield>
+    <subfield code="9">337</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Educación superior en Centroamérica y República Dominicana</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">Antigua, Guatemala : </subfield>
+    <subfield code="b">Banco Mundial, </subfield>
+    <subfield code="c"> 2001</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">varias paginaciones</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+    <subfield code="9">8</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">INDICADORES ECONÓMICOS</subfield>
+    <subfield code="9">794</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">INDICADORES SOCIALES</subfield>
+    <subfield code="9">795</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">CALIDAD DE LA EDUCACIÓN</subfield>
+    <subfield code="9">11</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">REFORMA DE LA EDUCACIÓN</subfield>
+    <subfield code="9">7</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">ESTUDIANTES UNIVERSITARIOS </subfield>
+    <subfield code="9">481</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">UNIVERSIDADES </subfield>
+    <subfield code="9">16</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">DESERCIÓN ESCOLAR </subfield>
+    <subfield code="9">1454</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">EQUIDAD</subfield>
+    <subfield code="9">343</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">FINANCIAMIENTO DE LA EDUCACIÓN </subfield>
+    <subfield code="9">338</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

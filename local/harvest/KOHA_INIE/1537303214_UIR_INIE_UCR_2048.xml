@@ -1,0 +1,64 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01032nam a2200217Ia 4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2048</subfield>
+    <subfield code="d">2048</subfield>
+  </datafield>
+  <controlfield tag="008">180904b1984    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">12.04.01 </subfield>
+    <subfield code="b">764</subfield>
+  </datafield>
+  <datafield ind1=" " tag="100" ind2=" ">
+    <subfield code="a">Chaves Granados, Damaris</subfield>
+    <subfield code="9">4175</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Elaboración de un manual para la enseñanza del proceso de toma de decisiones en la situación de orientación en III ciclo y Educación Diversificada / </subfield>
+    <subfield code="c">Damaris Chaves Granados; Carmen María Frías Quesada; Alejandrina Mata Segreda; Marta Eugenia Monge Cordero; Ana María Rodríguez Brenes</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1984?</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">49 hojas.</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Datos tomados de la cubierta: Programa de Divulgación de la Investigación Educativa</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">INVESTIGACIÓN EDUCATIVA</subfield>
+    <subfield code="9">326</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">ORIENTACIÓN PEDAGÓGICA</subfield>
+    <subfield code="9">1483</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">APRENDIZAJE </subfield>
+    <subfield code="9">387</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1=" ">
+    <subfield code="a">Frías Quesada, Carmen María</subfield>
+    <subfield code="9">2158</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="9">109</subfield>
+    <subfield code="a">Mata Segreda, Alejandrina</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">4177</subfield>
+    <subfield code="a">Monge Cordero, Marta Eugenia</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">4178</subfield>
+    <subfield code="a">Rodríguez Brenes, Ana María </subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

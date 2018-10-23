@@ -1,0 +1,52 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00667nam a2200169Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">1727</subfield>
+    <subfield code="d">1727</subfield>
+  </datafield>
+  <controlfield tag="008">180417b1997    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">06.03.04 </subfield>
+    <subfield code="b">934</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Arnáez Serrano, Elizabeth</subfield>
+    <subfield code="9">2521</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Memoria: Foros I y II : Experiencias para la incorporación de la dimensión ambiental en el quehacer universitario / </subfield>
+    <subfield code="c">Elizabeth Arnáez, Sonia Rojas, compiladoras y editoras</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">OPES; </subfield>
+    <subfield code="c">1997</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">75 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">La Unidad posee la memoria del Foro III: Manejo de deshechos en el campus universitario</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+    <subfield code="9">8</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">EDUCACIÓN AMBIENTAL </subfield>
+    <subfield code="9">439</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">CONFERENCIA</subfield>
+    <subfield code="9">506</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">3566</subfield>
+    <subfield code="a">Rojas, Sonia</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

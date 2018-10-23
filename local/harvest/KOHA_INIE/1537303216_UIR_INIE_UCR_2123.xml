@@ -1,0 +1,51 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03539nam a2200181Ia 4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">2123</subfield>
+    <subfield code="d">2123</subfield>
+  </datafield>
+  <controlfield tag="008">180822b2012    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">14.02.02 </subfield>
+    <subfield code="b">222</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">Grosser Guillén, Kattya</subfield>
+    <subfield code="9">1379</subfield>
+  </datafield>
+  <datafield tag="245" ind2="3" ind1="1">
+    <subfield code="a">La institución educativa en la actualidad: una tensión entre el sometimiento y la independencia / </subfield>
+    <subfield code="c">Kattya Grosser Guillén</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2012</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">260 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Informe final proyecto de investigación N°724-A9-328</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">Los objetivos generales del estudio son: a) analizar las normas disciplinantes propias de la institución educativa, contenidas en el Reglamento de Evaluación de los Aprendizajes del Ministerio de Educación Pública, y la interpretación de las mismas por parte de los y las adolescentes de décimo nivel inscritos en dos colegios del área metropolitana, uno público y otro privado y b) analizar el impacto de las normas disciplinantes propias de la institución educativa en el proceso subjetivo adolescente. Se escogió el décimo nivel, porque, a criterio de la investigadora, en ese nivel se está totalmente incorporado en la dinámica institucional, es el penúltimo nivel, lo que da a los adolescentes no solo el sentimiento de pertenencia sino también el conocimiento de la dinámica institucional. En el colegio privado se trabajó con tres grupos de 40 estudiantes y en el colegio público fueron cuatro grupos con 25 a 35 estudiantes. De mayo a agosto del 2010 la investigadora visitó todas las semanas las instituciones donde se le asignó una lección entera (45 minutos) con cada grupo. Para recolectar información se utilizó un cuestionario de preguntas abiertas y dos grupos focales, uno en cada colegio. También se realizó una entrevista a profundidad a cuatro jóvenes (dos que aún cuando se encuentran en sistema educativo formal han repetido algunos niveles y han sido objeto de sanciones y dos que se encuentran fuera del sistema de educación formal, producto de sus dificultades con las normas disciplinantes. Como aspectos principales de las conclusiones se mencionan los siguientes: La institución educativa está habitada por contradicciones. La institución educativa se encuentra dentro de una lógica que incluye el panóptico y el sinóptico así como la lógica tanto de la sociedad de control como la de normalización. El rechazo y la exclusión de la institución educativa son una manifestación del malestar en la cultura. La educación ha dejado de ser un bien social para pasar a ser una mercancía más. En la institución educativa hay vínculos de poder, que en violación de la libertad de los tutelados en ocasiones se transmutan en vínculos de dominación, estos últimos son un obstáculo en el proceso de estructuración subjetivo del adolescente. La posición adolescente en la institución educativa es la de un parrhesiasta. En la institución educativa la resistencia se asume como indisciplina. El ideal institucional corresponde a una subjetividad pedagógica que hoy no tiene ninguna condición de posibilidad. A través de el control sobre el uso de uniforme, se pretende el control del cuerpo, la sexualidad y la autonomía del adolescente. La institución educativa en la actualidad requiere abandonar lo disciplinar como forma de organización, para abrirse a nuevas formas de ordenamiento social que pasan por el reconocimiento de sí y del otro.</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">DISCIPLINA ESCOLAR</subfield>
+    <subfield code="9">709</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">ADOLESCENTES</subfield>
+    <subfield code="9">5</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

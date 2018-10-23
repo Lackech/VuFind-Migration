@@ -1,0 +1,35 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00438nam a2200133Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">CD #99</subfield>
+  </datafield>
+  <datafield tag="110" ind1=" " ind2=" ">
+    <subfield code="a">Organización de las Naciones Unidas</subfield>
+  </datafield>
+  <datafield tag="245" ind2=" " ind1=" ">
+    <subfield code="a">Sueño Imposible / </subfield>
+    <subfield code="c">Organización de las Naciones Unidas, Kratky Films de Praga</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Chirripó Audiovisuales Distribución, </subfield>
+    <subfield code="c">sin fecha</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Disco compacto</subfield>
+  </datafield>
+  <datafield tag="650" ind2=" " ind1=" ">
+    <subfield code="a">RELACIONES DE GÉNERO </subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="650">
+    <subfield code="a">AGRESIÓN</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="p">002036</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">2527</subfield>
+    <subfield code="d">2527</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,60 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00729nam a2200205Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">777</subfield>
+    <subfield code="d">777</subfield>
+  </datafield>
+  <controlfield tag="008">170628b2002    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9968100463</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">06.03.06 </subfield>
+    <subfield code="b">423</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="a">Villalobos Morales, José Alberto</subfield>
+    <subfield code="9">2625</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Física para docentes de educación primaria / </subfield>
+    <subfield code="c">José Alberto Villalobos Morales</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José,  Costa Rica : </subfield>
+    <subfield code="b">CECC, </subfield>
+    <subfield code="c">2002</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">120 páginas</subfield>
+  </datafield>
+  <datafield tag="490" ind1=" " ind2=" ">
+    <subfield code="a">Colección Pedagógica Formación Inicial de Docentes Centroamericanos de Educación Primaria o Básica,</subfield>
+    <subfield code="v">31</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">EDUCACIÓN PRIMARIA</subfield>
+    <subfield code="9">367</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">ENSEÑANZA</subfield>
+    <subfield code="9">14</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">FÍSICA</subfield>
+    <subfield code="9">673</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">FORMACIÓN DE DOCENTES</subfield>
+    <subfield code="9">9</subfield>
+  </datafield>
+  <datafield ind2="4" ind1=" " tag="651">
+    <subfield code="a">AMÉRICA CENTRAL</subfield>
+    <subfield code="9">457</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

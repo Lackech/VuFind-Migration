@@ -1,0 +1,59 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00958nam a2200181Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">1897</subfield>
+    <subfield code="d">1897</subfield>
+  </datafield>
+  <controlfield tag="008">180517b1994    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">06.03.07</subfield>
+    <subfield code="b"> 567</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Mora Vargas, Ana Isabel</subfield>
+    <subfield code="9">129</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Perfil académico profesional de la carrera de derecho /  </subfield>
+    <subfield code="c">Ana Isabel  Mora Vargas, María Agustina Cedeño Suárez,  María Eugenia Herrera Peña</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica :  </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1994</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">37 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Véase también en la misma línea de investigación: Perfil académico profesional de la carrera de periodismo y de la carrera de enfermería.</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">El objetivo central de este informe es elaborar una propuesta del perfil académico profesional de la carrera de Derecho, que responda a las necesidades de un nuevo plan de estudios y se ajuste no solo a las "exigencias" de la sociedad, sino que también favorezca la proyección, de esta disciplina, hacia la sociedad. Esta tarea se realizó en tres etapas. Durante la primera etapa se diagnosticaron las necesidades curriculares de la carrera y se elaboró un documento base como propuesta sobre los componentes del perfil. En la segunda etapa se realizaron una serie de talleres en los que autoridades, docentes, estudiantes, profesionales en servicio, representantes de entes empleadores y del colegio profesional de esta disciplina opinaron sobre el documento base y aportaron sus propias ideas. Finalmente, en la tercera etapa se confeccionó el documento final. Este documento incluye un marco referencial en el que se exponen los antecedentes históricos (origen y desarrollo de la carrera) que permiten conocer qué tipo de profesional se ha formado y cuál ha sido la relación universidad-sociedad a través del tiempo. También brinda una justificación sobre el ideal de una carrera universitaria. En el marco conceptual se define cuál es el objeto de estudio de la carrera de Derecho y también se definen los conceptos de ser humano, de sociedad y del proceso de enseñanza-aprendizaje. En lo que concierne a los componentes del perfil profesional, estos se estructuran en tres áreas: la académica, que incluye los conocimientos, las habilidades y las destrezas; la personal, constituida por los valores y las actitudes, y la laboral, conformada por las funciones y las tareas. También se exponen los objetivos del plan de estudios, los cuales determinan dos aspectos fundamentales, a saber, la estructura curricular y la propuesta programática de los cursos. Entre las conclusiones, se presenta la necesidad de formar a un abogado jurista que conozca de otras disciplinas, en contraposición al abogado litigante que históricamente se ha formado y que no conoce la interdisciplinariedad dentro de su campo. Además, se afima la urgencia de reformar las bases filosóficas y epistemológicas de esta carrera, así como también deben implementarse nuevas estrategias metodológicas en el proceso enseñanza-aprendizaje. Finalmente, se expone una serie de problemas que presenta el curriculum vigente a la fecha en que se realizó el estudio. </subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">FORMACIÓN PROFESIONAL</subfield>
+    <subfield code="9">498</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">DERECHO</subfield>
+    <subfield code="9">823</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">PERFIL PROFESIONAL</subfield>
+    <subfield code="9">1698</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">1512</subfield>
+    <subfield code="a">Cedeño Suárez, María Agustina</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="9">177</subfield>
+    <subfield code="a">Herrera Peña, María Eugenia</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

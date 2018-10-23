@@ -1,0 +1,46 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01734nab a22001697a 4500</leader>
+  <controlfield tag="005">20160831160646.0</controlfield>
+  <controlfield tag="008">151216b2006    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">253</subfield>
+    <subfield code="a">Salas Madriz, Flora Eugenia</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="4">
+    <subfield code="a">Las teorías de la modernidad reflexiva y los sistemas sociales: aportes a la comprensión de las macrotendencias de la educación comtemporánea /</subfield>
+    <subfield code="c">Flora Eugenia Salas Madriz</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2006</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">páginas 83-99</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">En este artículo se describen y analizan algunos aportes de los sociólogos Anthony Giddens, Scott Lash, Ulrich Beck y Elizabeth Gernsheim, para la comprensión de los cambios que ha sufrido la sociedad en general y la familia en particular, con el paso de la Edad Media a la Era Moderna  y a la Postmodernidad. Estos pensadores son representantes de la teoría sociológica conocida como  "Teoría de la Modernidad Reflexiva", a partir de la cual revisan y explican algunas de las funciones tradicionales y emergentes de la familia, como entidad social paradigmática. Con base en algunas de sus conclusiones se examinan nuevas demandas educativas de la sociedad, con el propósito de revisar cometidos para la educación en ese contexto. Se revisan algunas tesis de Luhmann  sobre el origen moderno de la educación y el déficit tecnológico en pedagogía, para señalar algunas de las macrotendencias de la educación contemporánea en el contexto de la modernización</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="0" tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0307</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.30, no.2 (2006)</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2980</subfield>
+    <subfield code="d">2980</subfield>
+  </datafield>
+</record>

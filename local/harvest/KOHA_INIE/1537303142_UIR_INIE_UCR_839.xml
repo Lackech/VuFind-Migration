@@ -1,0 +1,67 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00856nam a2200229Ia 4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">839</subfield>
+    <subfield code="d">839</subfield>
+  </datafield>
+  <controlfield tag="008">170125b1999    c  ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="020">
+    <subfield code="a">9968743267</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">04.02.03 </subfield>
+    <subfield code="b">2000</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="a">Rodríguez Villalobos, Rocío</subfield>
+    <subfield code="9">2295</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Compartiendo secretos: sistematización desde la equidad / </subfield>
+    <subfield code="c">Rocío Rodríguez Villalobos; CANTERA; REDNAS Centroamericanas, con la colaboración de Ana Elena Badilla</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Unión Mundial para la Naturaleza, </subfield>
+    <subfield code="c">1999</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">42 páginas</subfield>
+  </datafield>
+  <datafield tag="490" ind1=" " ind2=" ">
+    <subfield code="a">Serie hacia la equidad, no.8</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a"> IGUALDAD DE OPORTUNIDADES</subfield>
+    <subfield code="9">952</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">EQUIDAD DE GÉNERO</subfield>
+    <subfield code="9">420</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">ASPECTOS SOCIALES </subfield>
+    <subfield code="9">576</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">METODOLOGÍA</subfield>
+    <subfield code="9">285</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="a">Badilla, Ana Elena</subfield>
+    <subfield code="9">2294</subfield>
+  </datafield>
+  <datafield ind1="2" tag="710" ind2=" ">
+    <subfield code="9">2296</subfield>
+    <subfield code="a">CANTERA</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="2" tag="710">
+    <subfield code="9">2297</subfield>
+    <subfield code="a">REDNAS CENTROAMERICANAS</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

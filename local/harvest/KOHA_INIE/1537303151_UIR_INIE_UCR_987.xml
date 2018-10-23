@@ -1,0 +1,44 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00652nam a2200169Ia 4500</leader>
+  <datafield ind1=" " tag="020" ind2=" ">
+    <subfield code="a">9977-30-304-5</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">05.02.01 </subfield>
+    <subfield code="b">880</subfield>
+  </datafield>
+  <datafield ind1=" " tag="111" ind2=" ">
+    <subfield code="a">Seminario-Taller Multiculturalismo y Macrointegración Regional (1° : 1996 : Coronado, San José)</subfield>
+  </datafield>
+  <datafield ind1=" " tag="245" ind2=" ">
+    <subfield code="a">Memoria : Análisis comparativo de la experiencia de integración europea y centroamericana</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, C.R. : </subfield>
+    <subfield code="b">EDUCA, </subfield>
+    <subfield code="c">1996</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">140 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="650">
+    <subfield code="a">CULTURA</subfield>
+  </datafield>
+  <datafield ind2=" " tag="650" ind1=" ">
+    <subfield code="a">INTEGRACION CULTURAL</subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2=" ">
+    <subfield code="a">VALORES SOCIALES</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="650">
+    <subfield code="a">ACULTURACION</subfield>
+  </datafield>
+  <datafield ind1=" " tag="711" ind2=" ">
+    <subfield code="a">Seminario-Taller Multiculturalismo y Macrointegración Regional (1° : 1996 : Coronado, San José)</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">987</subfield>
+    <subfield code="d">987</subfield>
+  </datafield>
+</record>

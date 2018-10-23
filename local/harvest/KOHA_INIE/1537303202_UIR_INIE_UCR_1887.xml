@@ -1,0 +1,56 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00916nam a2200217Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">1887</subfield>
+    <subfield code="d">1887</subfield>
+  </datafield>
+  <controlfield tag="008">180517b1992    CR ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">06.03.07</subfield>
+    <subfield code="b"> 4</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">3534</subfield>
+    <subfield code="a">Mainieri Hidalgo, Aida María</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Estudio psicogénetico del proceso de aprendizaje en niños talentosos de la región de Turrialba /</subfield>
+    <subfield code="c"> Aida María Mainieri Hidalgo ...[et al.]</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1992</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">259 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">El estudio busca determinar las características ambientales y las habilidades que poseen los niños turrialbeños considerados por sus maestros como talentosos. Asimismo, se describen las cualidades que los docentes toman en consideración para definir a un alumno como un niño de "alto logro". Este es un trabajo innovador, no sólo por la amplitud de la investigación y el tema mismo, sino porque se desarrolló en un área rural, donde casi todos los estudiantes vienen de familias de estrato socioeconómico medio bajo y cuyos padres, en su mayoría, solo han cursado estudios primarios. En general, los docentes definen a un niño como talentoso basándose en su rendimiento académico, y especialmente, en su desempeño en materias como español y matemática, dejando fuera de consideración habilidades especiales o artísticas, sentido crítico y otros aspectos importantes. Tras una gran cantidad de pruebas que pretendían medir las habilidades y características de estos niños en diversos aspectos, se comprobó que no todos tienen alto logro en todas las facetas en que los maestros los citaban como sobresalientes, aunque sí hay una gran mayoría que se mostró con una buena autoestima, con una soltura y expresión oral y escrita considerables, buenos para el dibujo y con inclinación y aptitud para las matemáticas. En todos los casos, se recomienda la identificación temprana de estas habilidades, para, de esta forma, darles a estos niños la estimulación y motivación adecuadas. El estudio mostró que la mayor parte de estos niños proviene de familias integradas y reciben apoyo y estímulo por parte de sus padres. Por otra parte, quedó en evidencia la necesidad de capacitación y orientación para los docentes en cuanto a la mejor manera de atender estos casos. Igualmente, se señala que las instituciones educativas tampoco cuentan con la infraestructura ni los recursos adecuados para facilitar el proceso. </subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">APRENDIZAJE </subfield>
+    <subfield code="9">387</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">EDUCACIÓN ESPECIAL</subfield>
+    <subfield code="9">817</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">TALENTO</subfield>
+    <subfield code="9">668</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">PROCESO DE APRENDIZAJE</subfield>
+    <subfield code="9">1523</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">PSICOLOGÍA DE LA EDUCACIÓN</subfield>
+    <subfield code="9">625</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

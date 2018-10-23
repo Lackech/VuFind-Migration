@@ -1,0 +1,52 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00733nam a2200181Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">696</subfield>
+    <subfield code="d">696</subfield>
+  </datafield>
+  <controlfield tag="008">170420b2009    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9789968989541</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">09.04.05 </subfield>
+    <subfield code="b">1801</subfield>
+  </datafield>
+  <datafield ind1="2" ind2=" " tag="110">
+    <subfield code="9">2663</subfield>
+    <subfield code="a">Instituto Costarricense de Turismo</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Certificación de sostenibilidad turística: guía didáctica: programa de formación bajo la norma CST / </subfield>
+    <subfield code="c">Instituto Costarricense de Turismo; [con la colaboración del Observatorio del Desarrollo de la Universidad de Costa Rica]</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Costa Rica : </subfield>
+    <subfield code="b">Instituto Costarricense de Turismo, </subfield>
+    <subfield code="c">2009</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">67 páginas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">TURISMO</subfield>
+    <subfield code="9">2676</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">EVALUACIÓN </subfield>
+    <subfield code="9">287</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">ENSEÑANZA</subfield>
+    <subfield code="9">14</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">DESARROLLO  SOSTENIBLE</subfield>
+    <subfield code="9">443</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

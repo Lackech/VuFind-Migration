@@ -1,0 +1,48 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01871nab a22001697a 4500</leader>
+  <controlfield tag="005">20160317163829.0</controlfield>
+  <controlfield tag="008">150730b2002    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">205</subfield>
+    <subfield code="a">Soto Calderón, Ronald</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="3">
+    <subfield code="a">El síndrome autista : Un acercamiento a sus características y generalidades /</subfield>
+    <subfield code="c">Ronald Soto Calderón</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2002</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">páginas 47-62</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">En este artículo se presentan aspectos generales sobre el Síndrome del Autismo, se mencionan algunas propuestas etiológicas, los aspectos clínicos relacionados con el Síndrome, entre los que se incluyen algunas definiciones y descripciones propuestas por investigadores y científicos, y manuales psiquiátricos, de los cuales se extraen los criterios propuestos para un diagnóstico del Síndrome.
+Por otro lado, se escribe un apartado sobre la planificación de la acción correctiva a partir de un diagnóstico, en donde se respeta la individualidad de la persona, se hace referencia a los aspectos familiares, los aspectos educativos, y a diferentes aspectos relacionados con el diagnóstico, los servicios, y los tratamientos en nuestro país. También se menciona la epidemiología del Síndrome y su pronóstico.  Se presenta además, un cuadro donde se resumen las características del Síndrome Autista.
+De esta manera se considera importante que las personas que interactúan  con las personas portadoras del Síndrome del Autismo, conozcan sobre este síndrome y la forma en que pueden ser apoyadas en su proceso de desarrollo, desde una visión más interdisciplinaria</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind2=" " ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0060</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.26, no.1  (2002)</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">2744</subfield>
+    <subfield code="d">2744</subfield>
+  </datafield>
+</record>

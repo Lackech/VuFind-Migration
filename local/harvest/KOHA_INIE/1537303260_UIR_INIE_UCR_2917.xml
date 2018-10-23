@@ -1,0 +1,50 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01661nab a22001817a 4500</leader>
+  <controlfield tag="005">20170826062600.0</controlfield>
+  <controlfield tag="008">151028b2004    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">1125</subfield>
+    <subfield code="a">Acevedo Álvarez, Raziel</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="3" tag="245">
+    <subfield code="a">La percepción de los estudiantes universitarios en la medida de la competencia docente: validación de una escala /</subfield>
+    <subfield code="c">Raziel Acevedo Alvarez, María José Fernández Díaz</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2004</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">páginas 145-166</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">El propósito de este artículo consiste en desarrollar y validar la medida de un constructo de competencia docente universitaria, utilizando un cuestionario de opinión de los estudiantes, con 30 ítems. En la muestra han participado 374 estudiantes de tres departamentos de la Universidad de Costa Rica, Sede de Guanacaste, cuyo mayor grupo está representado por estudiantes de primer ingreso (39,4%), con una edad media de 19,9 años. Para validar el constructo propuesto se han aplicado los modelos de ecuaciones estructurales a seis factores de competencia docente universitaria, identificados como: organización, evaluación, presentación, entusiasmo, interacción y valoración global del estudiante. Las universidades interesadas en la innovación pueden utilizar estos factores para desarrollar planes de formación y mejora de sus docentes</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="9">1126</subfield>
+    <subfield code="a">Fernández Díaz, María José</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0253</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.28, no.2 (2004)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2917</subfield>
+    <subfield code="d">2917</subfield>
+  </datafield>
+</record>

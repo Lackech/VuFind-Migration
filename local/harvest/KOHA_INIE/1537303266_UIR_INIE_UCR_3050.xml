@@ -1,0 +1,51 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00654nam a2200181   4500</leader>
+  <controlfield tag="008">160128b2012    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">04.02.01 2223</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="2" tag="110">
+    <subfield code="9">1368</subfield>
+    <subfield code="a">Consejo Nacional de Rehabilitación y Educación Especial</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Antología de documentos sobre discapacidad: rectoría en discapacidad</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">[Lugar de publicación no identificada] :</subfield>
+    <subfield code="b">CNREE,</subfield>
+    <subfield code="c">2012</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">43 páginas;</subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Título tomado de la cubierta</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">588</subfield>
+    <subfield code="a">DERECHOS HUMANOS</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1369</subfield>
+    <subfield code="a">PERSONAS CON DISCAPACIDAD</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">952</subfield>
+    <subfield code="a"> IGUALDAD DE OPORTUNIDADES</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">45</subfield>
+    <subfield code="a">LEGISLACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">3050</subfield>
+    <subfield code="d">3050</subfield>
+  </datafield>
+</record>

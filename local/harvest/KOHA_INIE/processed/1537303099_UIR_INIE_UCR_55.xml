@@ -1,0 +1,51 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00549nam a2200181Ia 4500</leader>
+  <controlfield tag="008">150720b1994    us ||||| |||| 00| | e   d</controlfield>
+  <datafield ind1=" " ind2=" " tag="020">
+    <subfield code="a">0873674693</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">06.04.02 </subfield>
+    <subfield code="b">1223</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="a">Webster, William E.</subfield>
+    <subfield code="9">382</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Voices in the Hall high school pricipals at work / </subfield>
+    <subfield code="c">William E. Webster</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">USA : </subfield>
+    <subfield code="b">Phi Delta Kappa Educational Foundation, </subfield>
+    <subfield code="c">1994</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">81 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Material en idioma inglés</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">ESTUDIANTES </subfield>
+    <subfield code="9">332</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">ESCUELAS </subfield>
+    <subfield code="9">300</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">55</subfield>
+    <subfield code="d">55</subfield>
+  </datafield>
+</record>

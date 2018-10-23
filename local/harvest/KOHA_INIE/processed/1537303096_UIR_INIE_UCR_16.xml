@@ -1,0 +1,44 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00514nam a2200157Ia 4500</leader>
+  <controlfield tag="008">150714b1986    u  ||||| |||| 00| | e   d</controlfield>
+  <datafield ind2=" " tag="020" ind1=" ">
+    <subfield code="a">0226476081</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">06.03.06 </subfield>
+    <subfield code="b">2018</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="a">Levy, Daniel C.</subfield>
+    <subfield code="9">15</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Higher education and the State in Latin America : private challenges to public dominance /</subfield>
+    <subfield code="c">Daniel C. Levy</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">Chicago : </subfield>
+    <subfield code="b">The University of Chicago Pres, </subfield>
+    <subfield code="c">1986</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">434 páginas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">8</subfield>
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="4">
+    <subfield code="a">AMÉRICA LATINA</subfield>
+    <subfield code="9">273</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">16</subfield>
+    <subfield code="d">16</subfield>
+  </datafield>
+</record>

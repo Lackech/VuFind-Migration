@@ -1,0 +1,49 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00537nam a2200169Ia 4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2063</subfield>
+    <subfield code="d">2063</subfield>
+  </datafield>
+  <controlfield tag="008">180829b1993    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">13.01.02 </subfield>
+    <subfield code="b">605</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1=" ">
+    <subfield code="a">Purcallas, Daniel</subfield>
+    <subfield code="9">4161</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Transformación estratégica en recursos humanos en salud / </subfield>
+    <subfield code="c">Daniel Purcallas </subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">PASCAP, </subfield>
+    <subfield code="c">1993</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">326 páginas</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">RECURSOS HUMANOS</subfield>
+    <subfield code="9">1166</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">SALUD</subfield>
+    <subfield code="9">268</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">PLANIFICACIÓN ESTRATÉGICA</subfield>
+    <subfield code="9">762</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">ANÁLISIS DE DATOS </subfield>
+    <subfield code="9">903</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

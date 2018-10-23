@@ -1,0 +1,68 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00963nam a22002537a 4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">3320</subfield>
+    <subfield code="d">3320</subfield>
+  </datafield>
+  <controlfield tag="003">cru INIE</controlfield>
+  <controlfield tag="005">20170206113904.0</controlfield>
+  <controlfield tag="008">160916b2012    C  ||||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " tag="040" ind1=" ">
+    <subfield code="a">cru INIE</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">CD #273</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">2001</subfield>
+    <subfield code="a">González Ferrer, Yamila</subfield>
+  </datafield>
+  <datafield ind2="3" ind1="1" tag="245">
+    <subfield code="a">La discriminación de género en el derecho y sus expresiones en la legislación y en la práctica jurídica /</subfield>
+    <subfield code="c"> Yamila González Ferrer, compilador/a</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Cuba :</subfield>
+    <subfield code="b">Unión Nacional de Juristas de Cuba,</subfield>
+    <subfield code="c">2012</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">856 páginas;</subfield>
+    <subfield code="b">archivo pdf</subfield>
+  </datafield>
+  <datafield tag="490" ind1=" " ind2=" ">
+    <subfield code="a">Justicia en clave de género,</subfield>
+    <subfield code="v">1</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="505">
+    <subfield code="t">Activismo y educación jurídica, una relación recíproca</subfield>
+  </datafield>
+  <datafield ind1=" " tag="505" ind2=" ">
+    <subfield code="t">Género, derecho y educación.  El reto de llegar a las y los jóvenes</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">896</subfield>
+    <subfield code="a">DISCRIMINACIÓN BASADA EN EL GÉNERO </subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">797</subfield>
+    <subfield code="a">RELACIONES DE GÉNERO</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">588</subfield>
+    <subfield code="a">DERECHOS HUMANOS</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">55</subfield>
+    <subfield code="a">MUJERES</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">45</subfield>
+    <subfield code="a">LEGISLACIÓN</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">08</subfield>
+  </datafield>
+</record>

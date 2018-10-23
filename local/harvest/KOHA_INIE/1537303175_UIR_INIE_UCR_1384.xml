@@ -1,0 +1,56 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00665nam a2200193Ia 4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">1384</subfield>
+    <subfield code="d">1384</subfield>
+  </datafield>
+  <controlfield tag="008">170621b1991    cl ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">06.01.01 </subfield>
+    <subfield code="b">1340</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="a">López, Gabriela</subfield>
+    <subfield code="9">2967</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="3" tag="245">
+    <subfield code="a">La cultura escolar ¿responsable del fracaso?: estudio etnográfico en dos escuelas urbano-populares / </subfield>
+    <subfield code="c">Gabriela López; Jenny Assaél; Elisa Neumann</subfield>
+  </datafield>
+  <datafield tag="250" ind2=" " ind1=" ">
+    <subfield code="a">2 edición</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">Santiago, Chile : </subfield>
+    <subfield code="b">PIIE, </subfield>
+    <subfield code="c">1991</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">400 páginas</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">SOCIOLOGÍA DE LA EDUCACIÓN</subfield>
+    <subfield code="9">947</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">DESERCIÓN ESCOLAR </subfield>
+    <subfield code="9">1454</subfield>
+  </datafield>
+  <datafield tag="651" ind2="4" ind1=" ">
+    <subfield code="a">CHILE</subfield>
+    <subfield code="9">1078</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Assaél, Jenny</subfield>
+    <subfield code="9">2968</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Neumann, Elisa</subfield>
+    <subfield code="9">2969</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

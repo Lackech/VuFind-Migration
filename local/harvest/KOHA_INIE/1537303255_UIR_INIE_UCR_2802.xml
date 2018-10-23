@@ -1,0 +1,64 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00910nam a2200217   4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2802</subfield>
+    <subfield code="d">2802</subfield>
+  </datafield>
+  <controlfield tag="008">150812b2014    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">06.02.01 </subfield>
+    <subfield code="b">2251 </subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">1375</subfield>
+    <subfield code="a">Solórzano Salas, Julieta</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Capacitación en competencias evaluadoras para estudiantes y docentes de la Universidad de Costa Rica / </subfield>
+    <subfield code="c">María Julieta Solórzano Salas, Leda Badilla Chavarría, Graciela Ordóñez Gutiérrez, Melissa Valverde Hernández</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">[San José, Costa Rica] :</subfield>
+    <subfield code="b">INIE,</subfield>
+    <subfield code="c">2013</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">30 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="500">
+    <subfield code="a">Informe resultados de Proyecto de Acción Social ED-3115</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">729</subfield>
+    <subfield code="a">CAPACITACIÓN</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">287</subfield>
+    <subfield code="a">EVALUACIÓN </subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">8</subfield>
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">644</subfield>
+    <subfield code="a">DESARROLLO DE HABILIDADES</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">2083</subfield>
+    <subfield code="a">Badilla Chavarría, Leda</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">2087</subfield>
+    <subfield code="a">Ordoñez Gutiérrez, Graciela </subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">2084</subfield>
+    <subfield code="a">Valverde Hernández, Melissa</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

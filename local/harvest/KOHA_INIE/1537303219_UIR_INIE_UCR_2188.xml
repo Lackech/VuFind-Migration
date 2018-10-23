@@ -1,0 +1,51 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03089nam a2200181Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2188</subfield>
+    <subfield code="d">2188</subfield>
+  </datafield>
+  <controlfield tag="008">180712b2009    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">15.04.02 </subfield>
+    <subfield code="b">1764</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="100">
+    <subfield code="a">Cabezas Pizarro, Hannia </subfield>
+    <subfield code="9">1117</subfield>
+  </datafield>
+  <datafield tag="245" ind2="3" ind1="1">
+    <subfield code="a">El autismo en Costa Rica, mitos y realidades / </subfield>
+    <subfield code="c">Hannia Cabezas Pizarro</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2009</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">250 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Informe final Proyecto No.724-A6-328</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">Esta investigación tiene como objetivos, elaborar un documento que presente las creencias más frecuentes de padres, y profesionales sobre el autismo en Costa Rica; reforzar los aspectos (creencias) con sustento científico, aclarando y ampliando en aquellos en donde se encuentran errores que distorsionen la percepción de las características del síndrome y de las personas que lo portan, además del tratamiento de las misma; y elaborar dos manuales uno básico para padres que oriente, al menos en los primeros pasos del proceso de educación y tratamiento de sus hijos e hijas con autismo y el otro que oriente, en cuanto al manejo conductual, a los profesionales que atienden a la población con autismo. Para la elaboración de este documento, durante los meses de febrero, marzo, abril del 2006, se llevó a cabo una investigación bibliográfica sobre las diferentes publicaciones tanto dentro como fuera del país en relación con el síndrome del autismo. Dentro de los temas revisados se apuntan: a) El desarrollo del concepto a través de las diferentes épocas, tomando como punto de partida el año 1943, cuando es descrito por Leo Kanner y su evolución hasta nuestros días, pasando por las diferentes definiciones como: 1. El autismo como trastorno emocional 2. El autismo como trastorno neurológico y 3. Diferentes teorías que pudiesen dar una explicación del autismo desde una condición neurobiológica dentro de las que citamos: el espectro autista, las teorías de la mente y el autismo como trastorno de la función ejecutiva. b) Revisión de investigaciones realizadas con padres y documentos específicos sobre el entrenamiento a padres. Como parte de los procedimientos empleados, se encuestaron a padres y madres de diferentes zonas del país. Se brindaron asesoramientos, y charlas tanto a padres como a maestros. El resultado de esta investigación se canaliza hacia la confección de dos instrumentos que sirvieron como base para elaborar un cuestionario para maestros y maestras y un cuestionario para padres y madres de familia. Entre los logros obtenidos de este proyecto se encuentran dos publicaciones: Manual para padres: modificación de conducta y Manual para maestros: manejo de conducta-lectura. Como beneficio académico, es la primera investigación que se hace en Costa Rica, sobre autismo en este nivel, y esto permite ir elaborando un perfil de las personas, sus familias y profesionales que trabajan en el campo; cómo perciben esta discapacidad y cómo se relacionan estas persona.</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">ENFERMEDADES MENTALES</subfield>
+    <subfield code="9">1780</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">AUTISMO</subfield>
+    <subfield code="9">1612</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="651">
+    <subfield code="9">47</subfield>
+    <subfield code="a">COSTA RICA</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

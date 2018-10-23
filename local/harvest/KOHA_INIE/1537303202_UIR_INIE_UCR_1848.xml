@@ -1,0 +1,43 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00672nam a2200157Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">1848</subfield>
+    <subfield code="d">1848</subfield>
+  </datafield>
+  <controlfield tag="008">180507b2000    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">06.03.06</subfield>
+    <subfield code="b"> 966</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="a">Gurdián Fernández, Alicia</subfield>
+    <subfield code="9">169</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Dinámica de la Educación Superior en Costa Rica :  Desafíos y tendencias (1996-1999)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">2000</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">51 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">	El estudio aborda la dinámica de la educación superior (universitaria y parauniversitaria) costarricense, en el marco de los desafíos impuestos por los cambios en la economía mundial (consideración de las demandas del mercado en la formación de los profesionales; competencia para atraer los factores de producción como profesores, tecnología y financiamiento; maximización de las ganancias; búsqueda de nuevas fuentes de ingreso). El documento ofrece un diagnóstico de los aspectos más sobresalientes en esta materia e incluye varias recomendaciones sobre opciones estratégicas y reformas posibles. En cuanto al diagnóstico, se concibe el crecimiento de las instituciones universitarias y parauniversitarias privadas en Costa Rica como parte de una lógica mercantilista que excluye la inversión social y la intervención del Estado, lo que provoca una inadecuada regulación de su desarrollo y una doble moral por parte del gobierno: se les reclama su mala calidad académica al tiempo que se las incentiva como una forma de absorber, sin costo para el Estado, una población deseosa de incorporarse al mercado laboral o de obtener un título universitario con mayor facilidad. Después de pasar revista al proceso de creación de las cuatro universidades públicas, se presenta la proliferación de instituciones privadas, caracterizadas por la carencia de investigación, la ausencia de programas de acción social y la exclusión de los estudios generales, así como por ofrecer, en general, un número reducido de opciones académicas y por graduar a más profesionales en los últimos años que las universidades estatales. Estas últimas, por su parte, ofrecen más carreras, con una mayor concentración en las áreas de educación, ciencias sociales y económicas, artes, letras, recursos naturales, ingeniería, ciencias básicas y salud. En las instituciones privadas, la concentración de carreras se da en ciencias económicas, educación, ciencias sociales, ingeniería, ciencias de la salud, artes, letras, ciencias básicas y recursos naturales. Las recomendaciones del documento se centran en la necesidad de realizar una reforma educativa que asuma los cambios que vive la humanidad y garantice el puesto de la educación como factor democratizador de la sociedad y promotor de la igualdad.</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+    <subfield code="9">8</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">DATOS ESTADÍSTICOS</subfield>
+    <subfield code="9">452</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

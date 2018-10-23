@@ -1,0 +1,32 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00451nam a2200121Ia 4500</leader>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">CD #74 (Material perdido)</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="100">
+    <subfield code="a">Jara H. Oscar</subfield>
+  </datafield>
+  <datafield tag="245" ind2=" " ind1=" ">
+    <subfield code="a">Desafío Político de aprender de nuestras prácticas / </subfield>
+    <subfield code="c">Oscar Jara H.</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">España : </subfield>
+    <subfield code="b">s.n., </subfield>
+    <subfield code="c">2002</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">disco compacto</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Ponencia presentada en el evento inagural del Encuentro Internacional sobre Educación Popular y Educación para el Desarrollo</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="p">001867</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">2519</subfield>
+    <subfield code="d">2519</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,46 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00506nam a2200169Ia 4500</leader>
+  <controlfield tag="008">150818b1999    sp ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">8471124076</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">06.02.01 </subfield>
+    <subfield code="b">439</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Carr, Wilfred</subfield>
+    <subfield code="9">887</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="245">
+    <subfield code="a">Una teoría para la educación: hacia una investigación educativa crítica</subfield>
+  </datafield>
+  <datafield tag="250" ind2=" " ind1=" ">
+    <subfield code="a">2 edición</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">Madrid, España :</subfield>
+    <subfield code="b">Ediciones Morata, </subfield>
+    <subfield code="c">1999</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">175 páginas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">FILOSOFÍA DE LA EDUCACIÓN </subfield>
+    <subfield code="9">21</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">222</subfield>
+    <subfield code="d">222</subfield>
+  </datafield>
+</record>

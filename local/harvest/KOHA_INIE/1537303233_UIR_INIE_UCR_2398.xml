@@ -1,0 +1,68 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00937nam a2200229Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2398</subfield>
+    <subfield code="d">2398</subfield>
+  </datafield>
+  <controlfield tag="008">180918b1999    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">19.04.01 </subfield>
+    <subfield code="b">902</subfield>
+  </datafield>
+  <datafield ind1=" " tag="111" ind2=" ">
+    <subfield code="a">Encuentro Nacional de Administradores de la Educación (1° : 1999 abril 28-30 : San José, Costa Rica) </subfield>
+    <subfield code="9">4243</subfield>
+  </datafield>
+  <datafield ind1=" " tag="245" ind2=" ">
+    <subfield code="a">Memorias 1999 / </subfield>
+    <subfield code="c">Encuentro Nacional de Administradores de la Educación</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Universidad de Costa Rica, </subfield>
+    <subfield code="c"> 1999</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">209 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="500" ind2=" ">
+    <subfield code="a">También incluye el Encuentro Regional de Administradores de la Educación (1° : 1999 oct. 1° : San José, Costa Rica)</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">CONFERENCIA</subfield>
+    <subfield code="9">506</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">ADMINISTRACIÓN DE LA ENSEÑANZA</subfield>
+    <subfield code="9">1210</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">CALIDAD DE LA EDUCACIÓN</subfield>
+    <subfield code="9">11</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">LIDERAZGO</subfield>
+    <subfield code="9">301</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">EDUCACIÓN PRIMARIA</subfield>
+    <subfield code="9">367</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">RELACIONES HUMANAS</subfield>
+    <subfield code="9">1874</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">LEGISLACIÓN</subfield>
+    <subfield code="9">45</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">PAPEL DEL DOCENTE</subfield>
+    <subfield code="9">1815</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

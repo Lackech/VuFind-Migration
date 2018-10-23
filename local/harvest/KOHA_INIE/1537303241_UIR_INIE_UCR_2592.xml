@@ -1,0 +1,45 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02109nab a2200157   4500</leader>
+  <controlfield tag="008">150527b1998    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">143</subfield>
+    <subfield code="a">Flores Montero, Corina</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Problemas metodológicos en la utilización de las pruebas piagettianas /</subfield>
+    <subfield code="c">Corina Flores M.</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">1998</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">páginas 53 - 66</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">En el presente trabajo analizamos los principales argumentos a favor de la aplicación de las pruebas piagetianas y más adelante a través  de los resultados de diferentes investigaciones planteamos algunos problemas metodológicos que se presentan con la utilización de las pruebas psicogenéticas. En primer lugar presentamos los resultados de una investigación exploratoria realizada sobre un grupo de niñas y niños que presentaban severos transtornos del aprendizaje, y de esta manera examinamos la posibilidad de utilizar estas pruebas en el diagnóstico y tratamiento clínicos. Indagamos además, la posibilidad de sobrepasar los transtormos cognitivos, en particular en lo que respecta a las correspondencias entre sub-estadios y las diferentes pruebas y los desfases particulares. En relación a la validez de estas pruebas, nos preguntamos si evaluan realmente, las competencias operatorias de los sujetos; ya que en algunas investigaciones se ha encontrado que los desfases entre los resultados a las diferentes pruebas son los mismos que presentan los sujetos normales de las misma edad y del mismo origen sociocultural (Rieben, de Ribaupierre y Lautrey (1983); Gregorie, (1992). Los resultados evidencian asimismo, que ciertas pruebas que parecen evaluar el desarrollo operatorio evalúan otra cosa, pudiéndose observar, que frente a una misma prueba, dos sujetos pueden llegar al mismo resultado utilizando procesos de nivel genético diferente</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " tag="773" ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0020</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.22, no.1 (1998)</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">2592</subfield>
+    <subfield code="d">2592</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,39 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00875nab a2200145   4500</leader>
+  <controlfield tag="008">150611b2000    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">117</subfield>
+    <subfield code="a">Hernández Cruz, Omar</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Rituales de iniciación escolar.  El caso de una escuela caribeña costarricense</subfield>
+    <subfield code="c">Omar Hernández Cruz</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2000</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">páginas 61-76</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">En este artículo se describen e interpretan como rituales de iniciación un conjunto de procesos conducentes al ingreso y permanencia en el sistema escolar de poblaciones infantiles de muy diversos orígenes culturales. Estas experiencias de ingreso y socialización en el sistema escolar fueron abordadas etnográficamente en una escuela de poblado liniero del litoral Caribe  costarricense</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2669</subfield>
+    <subfield code="d">2669</subfield>
+  </datafield>
+</record>

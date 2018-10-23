@@ -1,0 +1,42 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00428nam a2200133Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">909</subfield>
+    <subfield code="d">909</subfield>
+  </datafield>
+  <controlfield tag="008">170829b2004    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="020">
+    <subfield code="a">9968-9521-9-4</subfield>
+  </datafield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">06.03.06 </subfield>
+    <subfield code="b">836</subfield>
+  </datafield>
+  <datafield ind1=" " tag="100" ind2=" ">
+    <subfield code="a">Romero Pérez, Jorge Enrique</subfield>
+  </datafield>
+  <datafield tag="245" ind2="3" ind1="1">
+    <subfield code="a">El régimen de autonomía constitucional de las universidades públicas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">Costa Rica : </subfield>
+    <subfield code="b">Instituto de Investigaciones Jurídicas, </subfield>
+    <subfield code="c">2004</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">84 páginas</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+    <subfield code="9">8</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">AUTONOMÍA UNIVERSITARIA</subfield>
+    <subfield code="9">1752</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

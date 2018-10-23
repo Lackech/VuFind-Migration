@@ -1,0 +1,49 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02213nab a2200157   4500</leader>
+  <controlfield tag="008">150618b2000    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">207</subfield>
+    <subfield code="a">Carabaguías Suazo, Juanita</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Consideraciones teóricas para la elaboración de módulos con fines didácticos /</subfield>
+    <subfield code="c">Juanita Carabaguías Suazo</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2000</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">páginas 157-164</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">El artículo se refiere a brindar bases teóricas para la elaboración de módulos con fines didácticos. Se presentan postulados sustentados en tres autores y por consiguiente tres enfoques cognitivos; Berlo, con la teoría sistémica y Gagné, con su concepción sobre análisis de tareas.
+Se puntualiza y dan recomendaciones de cómo utilizar la comunicación escrita de manera de  manera que el mensaje que se transmite, en este caso por medio de un módulo escrito, llegue fielmente al usuario del mismo utilizando el sistema de signos y códigos, canal, receptor, mensaje y destinatario. Se dan algunas sugerencias de cómo utilizar este concepto para que la comunicación sea fidedigna.
+Bertalanfy y su teoría de sistemas facilita la organización del módulo por medio del análisis de la totalidad de lo que se quiere escribir, dividiéndola en partes, relaconando estas partes de manera que la totalidad (el módulo) tenga sentido.
+Por último, se dan propuestas para que se planifique el módulo de acuerdo con la teoría de análisis de tareas propuesta por Garné, de manera que en cada módulo se diseñe el planeamiento comenzando con el objetivo más simple hasta llegar al más complejo. La  obtención de una habilidad inferior facilita la adquisición de destrezas ubicadas en un nivel superior, lo anterior puede ayudar a un aprendizaje efectivo.
+También, en este artículo se dan algunas pautas para seleccionar las conductas de entrada, las estrategias de instrucción y de evaluación, tanto sumativa como formativa</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " tag="773" ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0026</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.24, no.2 (2000)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2688</subfield>
+    <subfield code="d">2688</subfield>
+  </datafield>
+</record>

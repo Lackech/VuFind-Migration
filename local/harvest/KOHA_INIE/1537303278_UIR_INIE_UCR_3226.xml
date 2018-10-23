@@ -1,0 +1,81 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01291nam a2200265   4500</leader>
+  <controlfield tag="008">160512b2012    cr a|||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="020">
+    <subfield code="a">9789977682341</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">03.02.05  </subfield>
+    <subfield code="b">2206</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Sociedades fracturadas. La exclusión social en Centroamérica / </subfield>
+    <subfield code="c">Juan Pablo Pérez Sáinz, editor, Diego Fernández Montero, Rafael Segura Carmona, Jorge Vargas Cullell</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">FLACSO,</subfield>
+    <subfield code="c">2012</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">171 páginas;</subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="490">
+    <subfield code="a">Colección Pensamiento Social</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="505">
+    <subfield code="t">Exclusión social: una propuesta crítica para abordar las carencias mateiales en América Latina /</subfield>
+    <subfield code="r">Juan Pablo Pérez Sáinz</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="505">
+    <subfield code="t">La exclusión social en Centroamérica a inicios del siglo XXI /</subfield>
+    <subfield code="r">Juan Pablo Pérez Sáinz; Rafael Segura Carmona y Diego Fernández Montero</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="505">
+    <subfield code="t">El bloqueo político a la reducción de la exclusión social en Centroamérica /</subfield>
+    <subfield code="r">Jorge Vargas Cullell</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">263</subfield>
+    <subfield code="a">POBREZA</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1756</subfield>
+    <subfield code="a">EXCLUSIÓN SOCIAL</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">973</subfield>
+    <subfield code="a">ASPECTOS ECONÓMICOS</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">576</subfield>
+    <subfield code="a">ASPECTOS SOCIALES </subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">1757</subfield>
+    <subfield code="a">Pérez Sáinz, Juan Pablo</subfield>
+    <subfield code="e">Editor/a</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">1758</subfield>
+    <subfield code="a"> Segura Carmona, Rafael</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">1759</subfield>
+    <subfield code="a">Fernández Montero, Diego </subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="9">1760</subfield>
+    <subfield code="a"> Vargas Cullell, Jorge</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">3226</subfield>
+    <subfield code="d">3226</subfield>
+  </datafield>
+</record>

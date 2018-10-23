@@ -1,0 +1,55 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00737nam a2200193   4500</leader>
+  <controlfield tag="008">150602b2013    cr ||||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " tag="020" ind2=" ">
+    <subfield code="a">9789977770680</subfield>
+  </datafield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">06.03.06 1287</subfield>
+  </datafield>
+  <datafield tag="110" ind2=" " ind1="2">
+    <subfield code="9">44</subfield>
+    <subfield code="a">Consejo Nacional de Rectores. Oficina de Planificación de la Educación Superior</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Plan nacional de la educación superior universitaria estatal 2011-2015: Resumen / </subfield>
+    <subfield code="c">Consejo Nacional de Rectores. Oficina de Planificación de la Educación Superior</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">CONARE,</subfield>
+    <subfield code="c">2013</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">32 páginas</subfield>
+  </datafield>
+  <datafield ind1="2" ind2="4" tag="610">
+    <subfield code="9">125</subfield>
+    <subfield code="a">CONARE</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">8</subfield>
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">124</subfield>
+    <subfield code="a">PLANIFICACIÓN DE LA EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="4" tag="651">
+    <subfield code="9">47</subfield>
+    <subfield code="a">COSTA RICA</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2607</subfield>
+    <subfield code="d">2607</subfield>
+  </datafield>
+</record>

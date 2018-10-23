@@ -1,0 +1,54 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00614nam a2200193Ia 4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">1073</subfield>
+    <subfield code="d">1073</subfield>
+  </datafield>
+  <controlfield tag="008">161108b2005    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="020" ind1=" ">
+    <subfield code="a">9977676569</subfield>
+  </datafield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">R 04.01.01 </subfield>
+    <subfield code="b">271</subfield>
+  </datafield>
+  <datafield ind2=" " tag="110" ind1="2">
+    <subfield code="a">Universidad de Costa Rica. Consejo Universitario</subfield>
+    <subfield code="9">1007</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Estatuto Orgánico</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, C.R. : </subfield>
+    <subfield code="b">El Consejo, </subfield>
+    <subfield code="c">2005</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">93 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">La Unidad de Información cuenta con la edición del 2001</subfield>
+  </datafield>
+  <datafield ind1="2" ind2="4" tag="610">
+    <subfield code="9">714</subfield>
+    <subfield code="a">UNIVERSIDAD DE COSTA RICA</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">LEGISLACIÓN</subfield>
+    <subfield code="9">45</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">SISTEMAS DE ENSEÑANZA</subfield>
+    <subfield code="9">401</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">8</subfield>
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">09</subfield>
+  </datafield>
+</record>

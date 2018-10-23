@@ -1,0 +1,57 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02187nab a22001937a 4500</leader>
+  <controlfield tag="005">20150807103343.0</controlfield>
+  <controlfield tag="008">150806b2002    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="100">
+    <subfield code="9">756</subfield>
+    <subfield code="a">Cerdas Núñez, Jeannette </subfield>
+  </datafield>
+  <datafield ind2="3" tag="245" ind1="1">
+    <subfield code="a">El niño entre cuatro y cinco años: características de su desarrollo socioemocional, psicomotriz y cognitivo-lingüístico</subfield>
+    <subfield code="c">Jeanneth Cerdas Núñez, Ana Polanco Hernández, Patricia Rojas Núñez</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b"> Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2002</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">páginas 169-182</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">Este artículo corresponde a un perfil teórico del infante costarricense cuya edad oscila entre cuatro y cinco años. Contempla algunas de las características del desarrollo socioemocional, psicomotriz y cognitivo-lingüístico de esta población.
+Su propósito es enriquecer el Programa de Estudio del Ciclo Materno Infantil propuesto por el Ministerio de Educación Pública, brindando al docente que atiende infantes del Grupo Interactivo II, información básica que le permita identificar la etapa del desarrollo en que se encuentran estos niños, de manera que les pueda ofrecer un proceso educativo acorde a sus necesidades e intereses.
+La caracterización que se expone se definió con el aporte de diversos especialistas en el campo de la salud y la educación. Razón por la cual los datos presentados no estuvieron sujetos a estandarización alguna, sino que se describen con base en el conocimiento y la experiencia de cada uno de los profesionales citados. Se complementa la información con la teoría que aporta la bibliografía existente con respecto al desarrollo del niño.
+Para efectos de presentación,el perfil que se describe se ha dividido en cuatro apartados: características generales del desarrollo físico, área socioemocional, área psicomotriz y área cognitivo-lingüística</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">737</subfield>
+    <subfield code="a">Polanco Hernández, Ana</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">738</subfield>
+    <subfield code="a">Rojas Núñez, Patricia</subfield>
+  </datafield>
+  <datafield ind1="0" tag="773" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0060</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.26, no.1  (2002)</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">2777</subfield>
+    <subfield code="d">2777</subfield>
+  </datafield>
+</record>

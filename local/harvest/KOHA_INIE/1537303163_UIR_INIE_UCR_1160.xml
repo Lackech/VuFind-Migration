@@ -1,0 +1,44 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00472nam a2200157Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">1160</subfield>
+    <subfield code="d">1160</subfield>
+  </datafield>
+  <controlfield tag="008">170320b1980    ck ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">301.4 </subfield>
+    <subfield code="b">A598a6</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="a"> Marieca, Eduardo</subfield>
+    <subfield code="9">2588</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Animador de reuniones /</subfield>
+    <subfield code="c">Eduardo Marcieca, ...[et al.]</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">Bogotá, Colombia : </subfield>
+    <subfield code="b">INDO-AMERICAN PRESS SERVICE, </subfield>
+    <subfield code="c">1989</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">96 páginas</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1965</subfield>
+    <subfield code="a">REUNIONES</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">EVALUACIÓN </subfield>
+    <subfield code="9">287</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1=" ">
+    <subfield code="a">Mercieca, Eduardo</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

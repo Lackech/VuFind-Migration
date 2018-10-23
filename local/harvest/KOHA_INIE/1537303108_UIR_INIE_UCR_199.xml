@@ -1,0 +1,43 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00506nam a2200157Ia 4500</leader>
+  <controlfield tag="008">150813b1999    s  ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">8436933052</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">19.01.03 </subfield>
+    <subfield code="b">684</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Carmona de los Santos, María</subfield>
+    <subfield code="9">835</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Sellos, fotografías y documentación notarial</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="b">Subdirección General de los de los Archivos Estatales, </subfield>
+    <subfield code="c">1999</subfield>
+    <subfield code="a">[Madrid] :</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">63 páginas</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">ARCHIVÍSTICA</subfield>
+    <subfield code="9">836</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">PROCESAMIENTO DE LA INFORMACIÓN</subfield>
+    <subfield code="9">837</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">199</subfield>
+    <subfield code="d">199</subfield>
+  </datafield>
+</record>

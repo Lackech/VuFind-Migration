@@ -1,0 +1,65 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00897nam a2200229Ia 4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">640</subfield>
+    <subfield code="d">640</subfield>
+  </datafield>
+  <controlfield tag="008">170320b2007    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="020">
+    <subfield code="a">9789968818322 </subfield>
+  </datafield>
+  <datafield tag="020" ind2=" " ind1=" ">
+    <subfield code="a">9789968462433</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">06.01.01 </subfield>
+    <subfield code="b">1437 </subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="a">Gurdián Fernández, Alicia</subfield>
+    <subfield code="9">169</subfield>
+  </datafield>
+  <datafield tag="245" ind2="3" ind1="1">
+    <subfield code="a">El paradigma cualitativo en la investigación socio educativa / </subfield>
+    <subfield code="c">Alicia Gurdián Fernández</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Cordinación Educativa  y Cultural Centroamericana, </subfield>
+    <subfield code="c">2007</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">265 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="490" ind1=" ">
+    <subfield code="a">Colección  IDER</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Incluye el libro en formato digital en el CD #164 \ La Unidad posee edición de 2010 de la Editorial de la Universidad de Costa Rica</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">INVESTIGACIÓN EDUCATIVA</subfield>
+    <subfield code="9">326</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">INVESTIGACIÓN SOCIAL</subfield>
+    <subfield code="9">290</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">CIENCIA</subfield>
+    <subfield code="9">890</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">MÉTODOS DE INVESTIGACIÓN </subfield>
+    <subfield code="9">288</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">CIENCIAS SOCIALES </subfield>
+    <subfield code="9">276</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

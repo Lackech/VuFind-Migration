@@ -1,0 +1,52 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00522nam a2200181Ia 4500</leader>
+  <controlfield tag="008">160107b199     A  ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="020" ind1=" ">
+    <subfield code="a">9500417278</subfield>
+  </datafield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">08.16.01 </subfield>
+    <subfield code="b">1871</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="a">Papert, Seymour</subfield>
+    <subfield code="9">1266</subfield>
+  </datafield>
+  <datafield ind2="3" tag="245" ind1="1">
+    <subfield code="a">La familia conectada: padres, hijos y computadoras / </subfield>
+    <subfield code="c">Seymour Papert</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">Buenos Aires : </subfield>
+    <subfield code="b">Emecé Editores, </subfield>
+    <subfield code="c">1997</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">265 páginas</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">INTERNET </subfield>
+    <subfield code="9">350</subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2="4">
+    <subfield code="a">NIÑOS</subfield>
+    <subfield code="9">59</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">PADRES</subfield>
+    <subfield code="9">405</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">ENSEÑANZA VIRTUAL</subfield>
+    <subfield code="9">1267</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">319</subfield>
+    <subfield code="d">319</subfield>
+  </datafield>
+</record>

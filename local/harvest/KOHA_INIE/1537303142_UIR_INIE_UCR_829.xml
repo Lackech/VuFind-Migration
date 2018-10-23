@@ -1,0 +1,48 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00624nam a2200169Ia 4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">829</subfield>
+    <subfield code="d">829</subfield>
+  </datafield>
+  <controlfield tag="008">170726b1995    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="020" ind1=" ">
+    <subfield code="a">9968722073</subfield>
+  </datafield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">04.02.01 </subfield>
+    <subfield code="b">881</subfield>
+  </datafield>
+  <datafield ind2=" " tag="110" ind1="2">
+    <subfield code="a">Comisión para la Defensa de los Derechos Humanos en Centroamérica (CODEHUCA)</subfield>
+    <subfield code="9">2879</subfield>
+  </datafield>
+  <datafield ind2="3" ind1="1" tag="245">
+    <subfield code="a">La impunidad en Centroamérica: causas y efectos /</subfield>
+    <subfield code="c">Comisión para la Defensa de los Derechos Humanos en Centroamérica</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">CODEHUCA, </subfield>
+    <subfield code="c">1995</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">214 páginas</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">DERECHOS HUMANOS</subfield>
+    <subfield code="9">588</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">DERECHOS CIVILES</subfield>
+    <subfield code="9">1502</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="4">
+    <subfield code="a">AMÉRICA CENTRAL</subfield>
+    <subfield code="9">457</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

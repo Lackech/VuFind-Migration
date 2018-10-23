@@ -1,0 +1,64 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00828nam a2200217Ia 4500</leader>
+  <controlfield tag="008">160519b2008    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">13.09.09 </subfield>
+    <subfield code="b">1592</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Alfaro Rodríguez, Magdalena</subfield>
+    <subfield code="9">1797</subfield>
+  </datafield>
+  <datafield tag="245" ind2="3" ind1="1">
+    <subfield code="a">El perfil integrado emergente de desempeño docente para sétimo año / Magdalena Alfaro Rodríguez; Susana Jiménez Sánchez; Jorge Pérez Martín; Andrea Ramírez González; Marie Claire Vargas Dengo</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">Heredia, Costa Rica : </subfield>
+    <subfield code="b">UNA, </subfield>
+    <subfield code="c">2008</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">94 páginas</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">DOCENTES</subfield>
+    <subfield code="9">331</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">APRENDIZAJE </subfield>
+    <subfield code="9">387</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">ESTUDIANTES </subfield>
+    <subfield code="9">332</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="a">Jiménez Sánchez, Susana</subfield>
+    <subfield code="9">1798</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="a">Martín Pérez, Jorge</subfield>
+    <subfield code="9">1799</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="a">Ramírez González, Andrea </subfield>
+    <subfield code="9">1800</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="a">Vargas Dengo, Marie Claire</subfield>
+    <subfield code="9">1801</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2088</subfield>
+    <subfield code="d">2088</subfield>
+  </datafield>
+</record>

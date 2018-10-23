@@ -1,0 +1,46 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01114nab a2200169   4500</leader>
+  <controlfield tag="005">20160328155343.0</controlfield>
+  <controlfield tag="008">150730b2002    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">610</subfield>
+    <subfield code="a">Romero, Hernando A</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Importacia de las diferencias entre actividad-procedimiento-proceso para la autoevaluación institucional universitaria /</subfield>
+    <subfield code="c">Hernando Romero</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2002</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">páginas 63-72</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">Se refiere en una amplia reflexión, a que tener clara la diferencia de significados entre actividad, procedimiento-proceso, actividad social, proceso social y personal es muy importante en el campo de la autoevaluación institucional porque si no se reconocen sus diferencias, no se puede aludir correctamente lo que se entiende por actividad académica y las diferencias en el proceso pedagógico</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind2=" " ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0060</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.26, no.1  (2002)</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2745</subfield>
+    <subfield code="d">2745</subfield>
+  </datafield>
+</record>

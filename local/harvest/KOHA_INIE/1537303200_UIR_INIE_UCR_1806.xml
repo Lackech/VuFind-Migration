@@ -1,0 +1,37 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00720nam a2200157Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">1806</subfield>
+    <subfield code="d">1806</subfield>
+  </datafield>
+  <controlfield tag="008">180424b1992    CR ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">06.03.06</subfield>
+    <subfield code="b"> 546</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1=" ">
+    <subfield code="9">3601</subfield>
+    <subfield code="a">Aguilar Duarte, Bernardita </subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Estudio evaluativo de la ejecución de la propuesta curricular del instituto de educación integral / </subfield>
+    <subfield code="c">Bernardita Aguilar Duarte,  ... [et al.]</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">El Ministerio, </subfield>
+    <subfield code="c">1992</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">42 páginas</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">EDUCACIÓN SECUNDARIA</subfield>
+    <subfield code="9">456</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

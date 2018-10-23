@@ -1,0 +1,51 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02091nab a2200181   4500</leader>
+  <controlfield tag="005">20160328163937.0</controlfield>
+  <controlfield tag="008">150924b2004    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">97</subfield>
+    <subfield code="a">Meneses Montero, Maureen</subfield>
+  </datafield>
+  <datafield tag="245" ind2="3" ind1="1">
+    <subfield code="a">El trabajo con cuerdas en los niños /</subfield>
+    <subfield code="c">Maureen Meneses Montero, Yamileth Chacón Araya</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2004</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">páginas 87-97</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">En la actualidad, los niños se ven expuestos a diferentes situaciones ambientales que pueden poner en peligro su salud y conducirlos a manifestar hábitos con tendencias hacia el sedentarismo. Lo fundamental en esta etapa de la vida es mejorar sus destrezas básicas de movimiento, promoviendo una adecuada condición física desde edades tempranas. Se hace necesario entonces, apoyar programas que impliquen el mejoramiento de la aptitud física y motriz, principalmente los factores de coordinación, la resistencia cardiorrespiratoria, la fuerza y la flexibilidad. Estos componentes se deben fortalecer con el fin de satisfacer diferentes necesidades, de acuerdo con los objetivos planteados y con actividades variadas, que toman mayor importancia cuando se realizan de una forma divertida y con una metodología apropiada, como es el caso del salto de la cuerda, mediante la cual se tiende a incrementar la disposición de los niños hacia la práctica de estas actividades tradicionales, fundamentales para las siguientes etapas de desarrollo. El propósito principal del presente trabajo es plantear la importancia de la práctica del salto con la cuerda y estimular su enseñanza, tomando en cuenta aspectos técnicos, de organización y metodología para promover el mejoramiento de la condición física de los niños por medio de las actividades propuestas</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">960</subfield>
+    <subfield code="a">Chacón Araya, Yamileth</subfield>
+    <subfield code="c">coautora</subfield>
+  </datafield>
+  <datafield ind1="0" tag="773" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0215</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.28, no.1 (2004)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2892</subfield>
+    <subfield code="d">2892</subfield>
+  </datafield>
+</record>

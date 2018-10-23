@@ -1,0 +1,47 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00567nam a2200169Ia 4500</leader>
+  <controlfield tag="008">151104b20      s  ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="020">
+    <subfield code="a">848476303X</subfield>
+  </datafield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">06.03.06 </subfield>
+    <subfield code="b">1886</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="3">
+    <subfield code="a">La educación superior en el mundo 2007: acreditación para la garantía de la calidad: ¿qué está en juego?</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">Madrid : </subfield>
+    <subfield code="b">Ediciones Mundi-Prensa, </subfield>
+    <subfield code="c">2006</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">415 páginas</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">8</subfield>
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">ACREDITACIÓN (EDUCACIÓN)</subfield>
+    <subfield code="9">1135</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">CALIDAD DE LA EDUCACIÓN</subfield>
+    <subfield code="9">11</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">UNIVERSIDADES </subfield>
+    <subfield code="9">16</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">283</subfield>
+    <subfield code="d">283</subfield>
+  </datafield>
+</record>

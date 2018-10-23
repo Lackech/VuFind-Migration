@@ -1,0 +1,52 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00545nam a2200157Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">1830</subfield>
+    <subfield code="d">1830</subfield>
+  </datafield>
+  <controlfield tag="008">180426b1995    CR ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">06.03.06 </subfield>
+    <subfield code="b">755</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Baldares C., Manuel J.</subfield>
+    <subfield code="9">3617</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Costo del crédito y las carreras en la Universidad de Costa Rica : 1990-1993</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Universidad de Costa Rica. Instituto de Investigaciones en Ciencias Económicas, </subfield>
+    <subfield code="c">1995</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">65 páginas</subfield>
+  </datafield>
+  <datafield ind1="2" ind2="4" tag="610">
+    <subfield code="a">UNIVERSIDAD DE COSTA RICA</subfield>
+    <subfield code="9">714</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+    <subfield code="9">8</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">COSTOS</subfield>
+    <subfield code="9">3618</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Cordero V., Martha E.</subfield>
+    <subfield code="9">3619</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="a">Volio E., Andrés</subfield>
+    <subfield code="9">3620</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

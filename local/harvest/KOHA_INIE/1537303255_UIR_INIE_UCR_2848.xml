@@ -1,0 +1,49 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01822nab a2200169   4500</leader>
+  <controlfield tag="005">20160328163257.0</controlfield>
+  <controlfield tag="008">150903b2003    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">964</subfield>
+    <subfield code="a">Muñoz Villalobos, Vernor</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Emilia escribe en la noche /</subfield>
+    <subfield code="c">Vernor Muñoz Villalobos</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2003</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">páginas 199-213</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">Los procesos de resolución de conflictos deben pensarse como ejercicios responsables del respeto a las diferencias y a la diversidad, en el contexto de la exigibilidad y la vigencia de los derechos humanos. Los conflictos son necesarios, si se conciben como una de las fuerzas motivadoras del cambio social, pues fortalecen la creatividad de las relaciones entre las personas.
+La premisa de humanización del conflicto sugiere entonces que la posibilidad de atender las desavenencias en forma pacífica se encuentra determinada por modelos de socialización y educación en los que las personas deben conocer y prepararse para negociar, pero también para ejercer plenamente sus derechos y responsabilidades.
+En el marco del pensamiento filosófico sobre la existencia y aceptación de los conflictos, resulta imprescindible esperar que el Estado funja como facilitador y promotor de la concertación social.
+Gracias al aporte epistemológico que ofrecieron Jean Piaget (1896-1980), María Montessori (1870-1952) y, a partir de ellos, Paulo Freire (1921-1997), la práctica educativa liberadora empieza a vincularse a la construcción de una ciudadanía responsable y proactiva</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="0" tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0190</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.27, no.1  (2003)</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2848</subfield>
+    <subfield code="d">2848</subfield>
+  </datafield>
+</record>

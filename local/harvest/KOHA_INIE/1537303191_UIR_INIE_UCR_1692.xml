@@ -1,0 +1,45 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00548nam a2200169Ia 4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">1692</subfield>
+    <subfield code="d">1692</subfield>
+  </datafield>
+  <controlfield tag="008">180405b2003    pn ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">06.03.04 </subfield>
+    <subfield code="b">1578</subfield>
+  </datafield>
+  <datafield ind1="2" tag="110" ind2=" ">
+    <subfield code="a">Tribunal Electoral de Panamá</subfield>
+    <subfield code="9">3539</subfield>
+  </datafield>
+  <datafield ind2="3" tag="245" ind1="1">
+    <subfield code="a">La democracia, los valores y principios que la sustentan / </subfield>
+    <subfield code="c">Tribunal electoral de Panamá</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">Panamá : </subfield>
+    <subfield code="b">Departamento  de Imprenta del Tribunal Electoral, </subfield>
+    <subfield code="c">2003</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">31 páginas</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">EDUCACIÓN CÍVICA</subfield>
+    <subfield code="9">1363</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">DEMOCRACIA</subfield>
+    <subfield code="9">589</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">DOCENTES</subfield>
+    <subfield code="9">331</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

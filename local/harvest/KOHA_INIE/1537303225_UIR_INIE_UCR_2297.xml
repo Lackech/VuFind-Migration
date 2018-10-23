@@ -1,0 +1,59 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01414nam a2200205Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2297</subfield>
+    <subfield code="d">2297</subfield>
+  </datafield>
+  <controlfield tag="008">180628b1988    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">18.09.01</subfield>
+    <subfield code="b"> 19</subfield>
+  </datafield>
+  <datafield ind1=" " tag="100" ind2=" ">
+    <subfield code="a">Fajardo Salas, Damaris</subfield>
+    <subfield code="9">3209</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Resultados de las pruebas de expresión escrita realizadas por una muestra de estudiantes que finalizan el segundo y tercer ciclos de la educación general básica y educación diversificada /</subfield>
+    <subfield code="c">Damaris Fajardo Salas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1988</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">123 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Informe final</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">Esta investigación hace una compilación de los resultados de las pruebas nacionales de redacción efectuadas en 1987 en todos los niveles "tope" del sistema educativo costarricense. Los resultados a este estudio revelan que más de la mitad de los estudiantes aprobaron las pruebas y obtuvieron buenos resultados. Sin embargo, se notó que el vocabulario empleado por los estudiantes es escaso, repetitivo y con frecuencia, empleado inapropiadamente. También, se registran muchos errores en el uso de los signos de puntuación. Por otra parte, la parte de ortografía resultó más baja que la de redacción, sobretodo en lo que tiene que ver con el empleo de las tildes</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">EDUCACIÓN SECUNDARIA</subfield>
+    <subfield code="9">456</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">ORTOGRAFÍA</subfield>
+    <subfield code="9">3807</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">PRUEBAS</subfield>
+    <subfield code="9">629</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">ESPAÑOL</subfield>
+    <subfield code="9">36</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">EDUCACION BASICA</subfield>
+    <subfield code="9">2224</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,59 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03338nam a2200193Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2220</subfield>
+    <subfield code="d">2220</subfield>
+  </datafield>
+  <controlfield tag="008">180711b2006    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">18.01.01 </subfield>
+    <subfield code="b">1273</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Quesada Sancho, Rolando</subfield>
+    <subfield code="9">195</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Educación Superior costarricense análisis prospectivo y desafíos de la Universidad de Costa Rica / </subfield>
+    <subfield code="c">Rolando Quesada Sancho</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José: </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2006</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">244 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Informe Final del Proyecto de Investigación N° 724-A1-012\La Unidad posee informe parcial de 2001</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">El propósito de la investigación fue realizar un análisis crítico de la realidad de la Universidad de Costa Rica, articulando a los procesos históricos y sociales del país, que permita interpretar las construcciones simbólicas prospectivas que los académicos y las académicas, estudiantes y personal con poder decisorio, elaboran en la institución. El fin de esta investigación fue lograr una interpretación lo más cercana posible en cuanto a claridad y precisión del problema de investigación, que en este caso, se trató de conocer las construcciones simbólicas que las personas elaboran acerca del futuro de la Universidad de Costa Rica, esto lo hizo altamente complejo, pues la única forma de aprehensión de tales construcciones es mediante la recopilación de información cualitativa. Como consideraciones finales el autor plantea lo siguiente: 
+ Las personas que contribuyeron compartiendo sus ideas no tienen un modelo claro de la universidad que pretenden, más sí tienen claridad de la universidad que no quieren. Esto permitió leer entre líneas y desde allí construir los "tips" necesarios para una reforma que asegure una institución pertinente. 
+ La metodología considerada inicialmente permitiría a la persona interlocutora hablar libremente sobre los aspectos a investigar, a pesar de esto algunas lo hicieron en forma tímida, sin embargo se ubicaron en lo que para ellas era significativo y tenía sentido. La metodología no presentó limitaciones, pero los alcances no respondieron con las expectativas iniciales, por lo que algunos tópicos quedaron superficialmente abordados, entre otros la regionalización, la acreditación, la relación con el Estado. 
+ Muchas intervenciones hacían referencia a cambios y reformas y centraban la atención en lo administrativo, como problema, aún cuando alto tan importante con la interdisciplinariedad, que está incidiendo en lo curricular, en los imaginarios quedó como un problema administrativo. Este tema habría que abordarlo con mayor precisión. 
+ Las personas entrevistadas tenían poder decisorio y capacidad de influencia, a pesar de esto mostraban cierta distancia con aquello que se discutía, encapsulándose para no comprometerse con un resultado poco apreciado o con un cambio solicitado por la situación. 
+ Con el estudiantado se pretendía una mayor participación crítica, al menos con quienes estaban en niveles avanzados de su carrera, sin embargo las opiniones mantuvieron una lectura de la Universidad muy positiva y algunas veces "romántica", en el sentido de no indicar el sustento de sus opiniones.</subfield>
+  </datafield>
+  <datafield tag="610" ind2="4" ind1=" ">
+    <subfield code="9">714</subfield>
+    <subfield code="a">UNIVERSIDAD DE COSTA RICA</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">INFORMES SOBRE PROYECTOS</subfield>
+    <subfield code="9">3986</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+    <subfield code="9">8</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+  </datafield>
+</record>

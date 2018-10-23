@@ -1,0 +1,44 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00565nam a2200157Ia 4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">1208</subfield>
+    <subfield code="d">1208</subfield>
+  </datafield>
+  <controlfield tag="008">170509b2001    us ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">DOC #77</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Morelli, Gilda</subfield>
+    <subfield code="9">2710</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Cultural variation in young children`s access to work or involvement in specialized child-focused activities / </subfield>
+    <subfield code="c">Gilda Morelli; Barbara Rogoff; Cathy Angelillo</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">Estados Unidos : </subfield>
+    <subfield code="b">Department of Psychology, </subfield>
+    <subfield code="c">2001</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">36 páginas</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">59</subfield>
+    <subfield code="a">NIÑOS</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">2711</subfield>
+    <subfield code="a">Rogoff, Barbara</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">2712</subfield>
+    <subfield code="a">Angelillo, Cathy</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">05</subfield>
+  </datafield>
+</record>

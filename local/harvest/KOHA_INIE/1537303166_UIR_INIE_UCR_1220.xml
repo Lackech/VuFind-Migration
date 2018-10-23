@@ -1,0 +1,59 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00742nam a2200193Ia 4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">1220</subfield>
+    <subfield code="d">1220</subfield>
+  </datafield>
+  <controlfield tag="008">170516b1998    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">01.01.06 </subfield>
+    <subfield code="b">543</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="110">
+    <subfield code="a">Costa Rica. Ministerio de Planificación Nacional y Política Económica</subfield>
+    <subfield code="9">2740</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Promoviendo un cambio de actitud hacia el desarrollo sostenible / </subfield>
+    <subfield code="c">Rodríguez Adrián G., Vega Erica, editores</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">El Ministerio, </subfield>
+    <subfield code="c">1998</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">189 páginas</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">2739</subfield>
+    <subfield code="a">PROYECTOS DE DESARROLLO</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">443</subfield>
+    <subfield code="a">DESARROLLO  SOSTENIBLE</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">67</subfield>
+    <subfield code="a">CALIDAD DE VIDA</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1874</subfield>
+    <subfield code="a">RELACIONES HUMANAS</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Rodríguez, Adrián G.</subfield>
+    <subfield code="9">2741</subfield>
+    <subfield code="e">Editor/a</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="a">Vega, Érica</subfield>
+    <subfield code="9">2742</subfield>
+    <subfield code="e">Editor/a</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

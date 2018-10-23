@@ -1,0 +1,63 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00699nam a2200217Ia 4500</leader>
+  <controlfield tag="008">161102b2001    mx ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="020" ind1=" ">
+    <subfield code="a">9701869400</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">06.01.01 </subfield>
+    <subfield code="b">822</subfield>
+  </datafield>
+  <datafield ind2=" " tag="110" ind1="2">
+    <subfield code="a">Red de Investigación Educativa en Sonora</subfield>
+    <subfield code="9">2125</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Investigaciones educativas en Sonora, volumen 3 / </subfield>
+    <subfield code="c">Editor; Juan Enrique Ramos Salas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">Sonora, MX : </subfield>
+    <subfield code="b">REDIES, </subfield>
+    <subfield code="c">2001</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">259 páginas</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">INVESTIGACIÓN EDUCATIVA</subfield>
+    <subfield code="9">326</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">LECTOESCRITURA </subfield>
+    <subfield code="9">2133</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">EDUCACION SUPERIOR</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">DELINCUENCIA JUVENIL</subfield>
+    <subfield code="9">2134</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">MERCADO DE TRABAJO</subfield>
+    <subfield code="9">571</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">INTEGRACIÓN ESCOLAR</subfield>
+    <subfield code="9">2135</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">450</subfield>
+    <subfield code="d">450</subfield>
+  </datafield>
+</record>

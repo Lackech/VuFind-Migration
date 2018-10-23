@@ -1,0 +1,56 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00587nam a22001937a 4500</leader>
+  <controlfield tag="008">150806b2006    sp ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="020" ind2=" ">
+    <subfield code="a">8471124270</subfield>
+  </datafield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">02.04.02 </subfield>
+    <subfield code="b">2163 </subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">720</subfield>
+    <subfield code="a">Olweus, Dan</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Conductas de acoso y amenaza entre escolares /</subfield>
+    <subfield code="c">Dan Olweus</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">Madri :</subfield>
+    <subfield code="b">Ediciones Morata,</subfield>
+    <subfield code="c">2006</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">166 páginas; </subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield tag="490" ind1=" " ind2=" ">
+    <subfield code="a">Colección La pedagogía hoy</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">553</subfield>
+    <subfield code="a">VIOLENCIA ESCOLAR</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">721</subfield>
+    <subfield code="a">AGRESIÓN</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">298</subfield>
+    <subfield code="a">COMPORTAMIENTO</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">692</subfield>
+    <subfield code="a">SOLUCIÓN DE CONFLICTOS</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2769</subfield>
+    <subfield code="d">2769</subfield>
+  </datafield>
+</record>

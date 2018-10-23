@@ -1,0 +1,54 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03086nam a2200193Ia 4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2270</subfield>
+    <subfield code="d">2270</subfield>
+  </datafield>
+  <controlfield tag="008">180706b2002    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">18.08.01 </subfield>
+    <subfield code="b">363</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="a">Contreras Montes de Oca, Ileana</subfield>
+    <subfield code="9">959</subfield>
+  </datafield>
+  <datafield tag="245" ind2="3" ind1="1">
+    <subfield code="a">La educación matemática en la escuela secundaria : mecanismos de resistencia a un modelo agotado / </subfield>
+    <subfield code="c">Ileana Contreras Montes de Oca</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">2002</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">194 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Proyecto de investigación N° 724-97-347 Titulo informe final: El trabajo docente de los profesores de matemáticas : diseño, desarrollo y análisis de estrategias para su transformación</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">La investigación a la que corresponde este informe tiene como antecedente inmediato un estudio anterior titulado “El rol del profesor de matemáticas en la Educación secundaria: Algunos determinantes y consecuencias”. Como resultado de dicho esfuerzo inicial, surgió la inquietud por indagar estrategias de trabajo con los profesores en servicio y con los estudiantes de carrera de enseñanza de las matemáticas, que previesen una trasformación del quehacer docente en este campo, de forma tal que se diese un acercamiento entre la teoría y la practica de la educación de la matemática, Juntas estas dos investigaciones constituyen una línea de investigación alrededor del quehacer docente de los profesores de matemáticas en la educación secundaria. Los objetivos más importantes de esta investigación fueron: • ¿De qué manera la participación de los departamentos de matemáticas en la construcción de nuevas experiencias de trabajo, coherentes con lo que se espera del quehacer docente de los profesores que lo integran, puede incidir en la trasformación del quehacer cotidiano de los profesores y el fortalecimiento de la imagen que éstos tienen en su labor? • ¿Que incidencia puede tener el intercambio y difusión de experiencias innovadoras en la trasformación profesional de los profesores de matemáticas que actualmente ejercen esa profesión? • ¿Qué criterios nos permiten operacionalizar el rol de la literatura reciente y los enfoque vigentes en la política educativa y en los programas de estudio, perfilan como el esperado en le desempeño profesional de los profesores de matemáticas? Los resultados más relevantes fueron los siguientes: • Se derivó un conjunto de propuestas concretas-lineamientos, metodología, materiales- para mejorar el proceso de formación inicial de los profesores de matemáticas en la educación secundaria. • Se impulsó una serie de actividades nacionales, que continúan hasta la fecha, dedicadas análisis e intercambio de experiencias en este campo. • Se identificaron alternativas de difusión e intercambio de experiencias innovadoras orientadas a la trasformación del quehacer docente de los profesores de matemáticas en la dirección establecida en los criterios consensuados.</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">MATEMÁTICAS  </subfield>
+    <subfield code="9">482</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">EDUCACIÓN SECUNDARIA</subfield>
+    <subfield code="9">456</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">CURRÍCULO (EDUCACIÓN)</subfield>
+    <subfield code="9">342</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+  </datafield>
+</record>

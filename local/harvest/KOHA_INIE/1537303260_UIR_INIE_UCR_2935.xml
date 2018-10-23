@@ -1,0 +1,46 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01657nab a2200169   4500</leader>
+  <controlfield tag="005">20160331133605.0</controlfield>
+  <controlfield tag="008">151105b2005    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">1178</subfield>
+    <subfield code="a">Fornells Gallart, Miquel</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Solución de un problema cotidiano mediante un análisis termodinámico /</subfield>
+    <subfield code="c">Miquel Fornells Gallart</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2005</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a"> páginas 103-110</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">Cuando un globo de feria se escapa libremente a la atmósfera queda sometido a una serie de factores físicos y químicos que al final van a limitar la altura máxima que alcanzará. En un primer paso y utilizando el principio de Arquímedes se calcula la densidad del aire en el punto de máxima altura. A continuación, suponiendo un modelo adiabático de la atmósfera, se encuentra una expresión que relaciona las densidades del aire en la superficie terrestre y en el punto de altura máxima con las presiones en dichos puntos. Finalmente la ecuación fundamental de la hidrostática nos permite obtener el valor numérico de dicha altura máxima, cosa que es el objetivo del trabajo. Por otra parte se hace un estudio de la influencia que puede tener durante el trayecto de elevación del globo factores como el cambio de temperatura y el cambio de presión, demostrándose que no son factores que puedan tener una incidencia significativa en el resultado obtenido</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind2=" " ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0300</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.29, no.1 (2005) </subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2935</subfield>
+    <subfield code="d">2935</subfield>
+  </datafield>
+</record>

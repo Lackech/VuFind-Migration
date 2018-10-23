@@ -1,0 +1,40 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00484nam a2200157Ia 4500</leader>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">CD #188</subfield>
+  </datafield>
+  <datafield ind1=" " tag="111" ind2=" ">
+    <subfield code="a">Congreso Iberoamericano de Ciencia, Tecnología y Género (7 : 2008 feb.18-21 : La Habana, Cuba)</subfield>
+  </datafield>
+  <datafield ind1=" " tag="245" ind2=" ">
+    <subfield code="a">VII Congreso Iberoamnericano de Ciencia, Tecnología y Género</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">La Habana, Cuba, </subfield>
+    <subfield code="b">sin editorial, </subfield>
+    <subfield code="c">2008</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">disco compacto</subfield>
+  </datafield>
+  <datafield tag="650" ind2=" " ind1=" ">
+    <subfield code="a">CONFERENCIAS</subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2=" ">
+    <subfield code="a">CIENCIA</subfield>
+  </datafield>
+  <datafield ind2=" " tag="650" ind1=" ">
+    <subfield code="a">TECNOLOGIA</subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2=" ">
+    <subfield code="a">GENERO</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="p">002164 </subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2464</subfield>
+    <subfield code="d">2464</subfield>
+  </datafield>
+</record>

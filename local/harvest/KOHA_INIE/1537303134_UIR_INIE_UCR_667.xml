@@ -1,0 +1,51 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00709nam a2200181Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">667</subfield>
+    <subfield code="d">667</subfield>
+  </datafield>
+  <controlfield tag="008">170323b2009    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="020">
+    <subfield code="a">9789968818735</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">06.03.06 </subfield>
+    <subfield code="b">423</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Rivera, Amada Guillermina</subfield>
+    <subfield code="9">2613</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="3" tag="245">
+    <subfield code="a">La enseñanza del idioma: un enfoque comunicativo integral en la formación docente /</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Coordinación Educativa y Cultural Centroamericana CEEC/SICA, </subfield>
+    <subfield code="c">2009</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">150 páginas</subfield>
+  </datafield>
+  <datafield tag="490" ind2=" " ind1=" ">
+    <subfield code="a">Colección Pedagógica Formación Inicial de Docentes Centroamericanos de Educación Primaria o Básica;</subfield>
+    <subfield code="v">26</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">ENSEÑANZA DEL ESPAÑOL</subfield>
+    <subfield code="9">782</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">ENSEÑANZA</subfield>
+    <subfield code="9">14</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">LENGUAJE </subfield>
+    <subfield code="9">889</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,46 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00502nam a2200169Ia 4500</leader>
+  <controlfield tag="008">161005b1999    mx ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="020">
+    <subfield code="a">9687713879</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">12.06.01 </subfield>
+    <subfield code="b">650</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="2" tag="111">
+    <subfield code="a">Foro Nacional de Educación y Nuevas Tecnologías (Sonora, México : 1999)</subfield>
+    <subfield code="9">2052</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Memorias del foro</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">Sonora, México : </subfield>
+    <subfield code="b">La Universidad, </subfield>
+    <subfield code="c">1999</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">313 páginas</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">NUEVA TECNOLOGÍA</subfield>
+    <subfield code="9">2053</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">EDUCACION</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">CONFERENCIA</subfield>
+    <subfield code="9">506</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">410</subfield>
+    <subfield code="d">410</subfield>
+  </datafield>
+</record>

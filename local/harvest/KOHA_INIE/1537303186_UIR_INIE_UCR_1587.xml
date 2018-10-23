@@ -1,0 +1,53 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00518nam a2200169Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">1587</subfield>
+    <subfield code="d">1587</subfield>
+  </datafield>
+  <controlfield tag="008">180302b2005    cl ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">06.02.03 </subfield>
+    <subfield code="b">1232</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Kaufman, Robert R.</subfield>
+    <subfield code="9">3437</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Políticas de Reforma Educativa comparación entre países / </subfield>
+    <subfield code="c">Robert R. Kaufman y Joan M. Nelson</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Chile : </subfield>
+    <subfield code="b">PREAL, </subfield>
+    <subfield code="c">2005</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">26 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="490">
+    <subfield code="a">Documentos,</subfield>
+    <subfield code="v">33</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">REFORMA DE LA EDUCACIÓN</subfield>
+    <subfield code="9">7</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">POLÍTICA EDUCATIVA</subfield>
+    <subfield code="9">451</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">DATOS ESTADÍSTICOS</subfield>
+    <subfield code="9">452</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Nelson, Joan M.</subfield>
+    <subfield code="9">3438</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

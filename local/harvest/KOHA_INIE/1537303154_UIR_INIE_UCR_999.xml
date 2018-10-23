@@ -1,0 +1,52 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00461nam a2200169Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">999</subfield>
+    <subfield code="d">999</subfield>
+  </datafield>
+  <controlfield tag="008">171208b1983    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="020">
+    <subfield code="a">9977640300</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">05.06.02 </subfield>
+    <subfield code="b">799</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="a">Quijano López, Luis Fernando</subfield>
+    <subfield code="9">3307</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Español:  el cotidiano quehacer del idioma /</subfield>
+    <subfield code="c">Luis Fernando Quijano López</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">EUNED, </subfield>
+    <subfield code="c">1983</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">440 páginas</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">LENGUA ESPAÑOLA</subfield>
+    <subfield code="9">652</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">ENSEÑANZA DE IDIOMAS</subfield>
+    <subfield code="9">1317</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">LECTURA</subfield>
+    <subfield code="9">365</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">ESCRITURA</subfield>
+    <subfield code="9">1189</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

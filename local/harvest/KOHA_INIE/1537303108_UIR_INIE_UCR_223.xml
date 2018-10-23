@@ -1,0 +1,58 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00620nam a2200205Ia 4500</leader>
+  <controlfield tag="008">150818b1998    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">8471124211</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">06.01.01 </subfield>
+    <subfield code="b">485</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Bernstein, Basil</subfield>
+    <subfield code="9">888</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Pedagogía, control simbólico e identidad : Teoría, investigación y crítica</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">Madrid :</subfield>
+    <subfield code="b">Ediciones Morata, </subfield>
+    <subfield code="c">1998</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">239 páginas</subfield>
+  </datafield>
+  <datafield tag="490" ind2=" " ind1=" ">
+    <subfield code="a">Educación crítica</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">CIENCIAS DE LA EDUCACIÓN</subfield>
+    <subfield code="9">330</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">ENSEÑANZA</subfield>
+    <subfield code="9">14</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">INVESTIGACIÓN</subfield>
+    <subfield code="9">163</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">LENGUAJE </subfield>
+    <subfield code="9">889</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">POLÍTICA EDUCATIVA</subfield>
+    <subfield code="9">451</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">223</subfield>
+    <subfield code="d">223</subfield>
+  </datafield>
+</record>

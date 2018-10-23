@@ -1,0 +1,58 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00831nam a2200205Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2205</subfield>
+    <subfield code="d">2205</subfield>
+  </datafield>
+  <controlfield tag="008">180712b2       cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">17.04.01 </subfield>
+    <subfield code="b">67 CD #30</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Roldán Santamaría, Leda María</subfield>
+    <subfield code="9">1179</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Organización y desarrollo de la IX Conferencia Iberoamericana de educación en Física / </subfield>
+    <subfield code="c">Leda María Roldán Santamaría</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="c">2006</subfield>
+    <subfield code="b">[editor no identificado], </subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">41 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Proyecto de Acción Social ED-1847\La Unidad posee la memoria de la conferencia en disco compacto</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="611">
+    <subfield code="9">3995</subfield>
+    <subfield code="a">CONFERENCIA IBEROAMERICANA DE EDUCACIÓN PARA LA FÍSICA [9° : 2006 : SAN JOSÉ, COSTA RICA]</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">FÍSICA</subfield>
+    <subfield code="9">673</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">ENSEÑANZA</subfield>
+    <subfield code="9">14</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">FORMACIÓN DE DOCENTES</subfield>
+    <subfield code="9">9</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+  </datafield>
+</record>

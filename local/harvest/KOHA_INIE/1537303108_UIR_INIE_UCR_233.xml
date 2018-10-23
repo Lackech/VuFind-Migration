@@ -1,0 +1,74 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00715nam a2200253Ia 4500</leader>
+  <controlfield tag="008">150820b1999    s  ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="020" ind2=" " ind1=" ">
+    <subfield code="a">8474232090</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">151 </subfield>
+    <subfield code="b">P579p2 </subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">639</subfield>
+    <subfield code="a">Piaget, Jean</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Psicología de la inteligencia / </subfield>
+    <subfield code="c">Jean Piaget</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">2 edición</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Barcelona, España : </subfield>
+    <subfield code="b">Critica, </subfield>
+    <subfield code="c">1999</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">200 páginas</subfield>
+  </datafield>
+  <datafield tag="650" ind2="1" ind1="1">
+    <subfield code="a">INTELIGENCIA  </subfield>
+    <subfield code="9">908</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="0">
+    <subfield code="a">PSICOLOGÍA</subfield>
+    <subfield code="9">657</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">PSICOLOGIA GENETICA </subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">PENSAMIENTO</subfield>
+    <subfield code="9">368</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">DESARROLLO DE HABILIDADES</subfield>
+    <subfield code="9">644</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">PERCEPCIÓN</subfield>
+    <subfield code="9">909</subfield>
+  </datafield>
+  <datafield ind2="0" ind1=" " tag="650">
+    <subfield code="a">DESARROLLO MENTAL</subfield>
+    <subfield code="9">875</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">DESARROLLO MOTOR </subfield>
+    <subfield code="9">869</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">NIÑOS</subfield>
+    <subfield code="9">59</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">233</subfield>
+    <subfield code="d">233</subfield>
+  </datafield>
+</record>

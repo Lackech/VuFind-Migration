@@ -1,0 +1,46 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01416nab a2200169   4500</leader>
+  <controlfield tag="005">20160422140450.0</controlfield>
+  <controlfield tag="008">160422b2011    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">1252</subfield>
+    <subfield code="a">Esquivel Corella, Freddy</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Reseña histórica del estudiantado de Trabajo Social en la Universidad de Costa Rica (1942-1980) /</subfield>
+    <subfield code="c">Freddy Esquivel Corella</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2011</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">páginas 95-110</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">El presente ensayo recupera algunas de las complejidades que constituyen el desarrollo histórico del estudiantado de Trabajo Social en la Universidad de Costa Rica desde 1942 hasta 1980. A partir de una serie de soportes bibliográficos se identifica la relación del contexto internacional, latinoamericano y nacional con algunas de las improntas más determinantes que perfilaron a esta población y la constituyen hasta el presente. El objetivo primordial es impulsar otros esfuerzos de esta naturaleza en el campo educativo del Trabajo Social latinoamericano, en tanto que fortalezca el análisis socio-histórico de dicha profesión en la totalidad que la constituye para enrumbar su futuro</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="0" tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0398</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.35, no.1 (ene.-jun., 2011)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">3145</subfield>
+    <subfield code="d">3145</subfield>
+  </datafield>
+</record>

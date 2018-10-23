@@ -1,0 +1,44 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00473nam a2200157Ia 4500</leader>
+  <controlfield tag="008">151104b2005    S  ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="020" ind1=" ">
+    <subfield code="a">8493432504</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">370.154 </subfield>
+    <subfield code="b">A629C</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="a">Antibi, Andre</subfield>
+    <subfield code="9">1141</subfield>
+  </datafield>
+  <datafield ind2="3" tag="245" ind1="1">
+    <subfield code="a">La constante macabra o como se ha desmotivado a muchos estudiantes / </subfield>
+    <subfield code="c">Andre Antibi</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">España : </subfield>
+    <subfield code="b">El rompecabezas, </subfield>
+    <subfield code="c">2005</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">155 páginas</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">DESMOTIVACIÓN</subfield>
+    <subfield code="9">1142</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">ESTUDIANTES </subfield>
+    <subfield code="9">332</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">286</subfield>
+    <subfield code="d">286</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,43 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00489nam a2200157Ia 4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">1266</subfield>
+    <subfield code="d">1266</subfield>
+  </datafield>
+  <controlfield tag="008">170526b1997    CR ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">04.01.01 </subfield>
+    <subfield code="b">739</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Estatutos : Confederación Universitaria Centroamericana</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica :  </subfield>
+    <subfield code="b">CSUCA, </subfield>
+    <subfield code="c">1997</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">35 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Datos tomados de la cubierta</subfield>
+  </datafield>
+  <datafield ind2="4" tag="610" ind1="2">
+    <subfield code="a">CONSEJO SUPERIOR CENTROAMERICANO</subfield>
+    <subfield code="9">2866</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">8</subfield>
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">LEGISLACIÓN</subfield>
+    <subfield code="9">45</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

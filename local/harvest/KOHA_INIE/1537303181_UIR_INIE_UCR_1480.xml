@@ -1,0 +1,51 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00873nam a2200181Ia 4500</leader>
+  <controlfield tag="008">150811b2008    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">06.02.01 </subfield>
+    <subfield code="b">1977</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Ospina Garcés, Helena</subfield>
+    <subfield code="9">781</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Talleres de capacitación para profesores de español de III ciclo de la educación general básica y de la educación diversificada: Estudio, análisis y crítica de obras de escritoras y escritores latinoamericanos / </subfield>
+    <subfield code="c">Helena Ospina Garcés de Fonseca</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2008</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">10 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="500">
+    <subfield code="a">Proyecto de Acción social ED-2145 \La Unidad posee informe de 2009, 2010, 2011, 2012, 2013,2014</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">A partir del informe del 2010, colaboradora Lastenia María Bonilla Sandoval</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">CAPACITACIÓN</subfield>
+    <subfield code="9">729</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">ENSEÑANZA DEL ESPAÑOL</subfield>
+    <subfield code="9">782</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">TALLERES</subfield>
+    <subfield code="9">783</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">1480</subfield>
+    <subfield code="d">1480</subfield>
+  </datafield>
+</record>

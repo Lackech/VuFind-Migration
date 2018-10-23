@@ -1,0 +1,55 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00969nam a2200217Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">CD #135</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="100">
+    <subfield code="a">Castro Gutiérrez, Enia Romilia</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="245">
+    <subfield code="a">Producción de módulos de capacitación multimediales: la inclusión del niñ@s con necesidades educativas especiales, dentro del marco de la educación a distancia y de la unidad didáctica audiovisual / Enia Romilia Castro Gutiérrez, Grethel Rivera Turcios</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">E. Castro G., </subfield>
+    <subfield code="c">2002</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">1 disco compacto</subfield>
+  </datafield>
+  <datafield ind1=" " tag="500" ind2=" ">
+    <subfield code="a">Tesis (Maestría en Tecnología Educativa con énfasis en Producción de Medios Instruccionales)  -- Universidad Estatal a Distancia</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="650">
+    <subfield code="a">CURSOS DE CAPACITACION</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">MEDIOS AUDIOVISUALES</subfield>
+  </datafield>
+  <datafield ind2=" " tag="650" ind1=" ">
+    <subfield code="a">DOCENTES</subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2=" ">
+    <subfield code="a">EDUCACION INCLUSIVA</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2=" ">
+    <subfield code="a">Rivera Turcios, Grethel</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="700">
+    <subfield code="a">Silesky Jiménez, Raúl</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2=" ">
+    <subfield code="a">Zeledón Morales, Xinia</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="700">
+    <subfield code="a">Zúñiga Sánchez, José</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="p">003445 </subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2446</subfield>
+    <subfield code="d">2446</subfield>
+  </datafield>
+</record>

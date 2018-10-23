@@ -1,0 +1,40 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00456nam a2200145Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">1158</subfield>
+    <subfield code="d">1158</subfield>
+  </datafield>
+  <controlfield tag="008">170320b1977    ck ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">301.15 </subfield>
+    <subfield code="b">V432p</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="a">Vela, Jesús Andrés</subfield>
+    <subfield code="9">2587</subfield>
+  </datafield>
+  <datafield tag="245" ind2=" " ind1="1">
+    <subfield code="a">Propedeútica : Experiencia grupal de fenomenología y concientización</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">Bogotá, Colombia : </subfield>
+    <subfield code="b">INDO-AMERICAN PRESS SERVICE, </subfield>
+    <subfield code="c">1977</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">79 páginas</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">PEDAGOGÍA</subfield>
+    <subfield code="9">1770</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">LENGUAJE </subfield>
+    <subfield code="9">889</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

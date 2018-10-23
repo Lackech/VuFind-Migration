@@ -1,0 +1,68 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00836nam a22002297a 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">3354</subfield>
+    <subfield code="d">3354</subfield>
+  </datafield>
+  <controlfield tag="008">161122b2015    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">06.03.04</subfield>
+    <subfield code="b">2239</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">110</subfield>
+    <subfield code="a">González Zúñiga, Marianela</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Directrices didácticas para la alfabetización en Costa Rica /</subfield>
+    <subfield code="c">Marianela González Zúñiga; Silvia Guevara Torres; Jaime Cerdas Solano</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">[San José, Costa Rica] :</subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2015</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">107 páginas, 24 hojas</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Informe final proyecto de investigación No. 724-B2-338</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">80</subfield>
+    <subfield code="a">ALFABETIZACIÓN</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">365</subfield>
+    <subfield code="a">LECTURA</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1189</subfield>
+    <subfield code="a">ESCRITURA</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">387</subfield>
+    <subfield code="a">APRENDIZAJE </subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">451</subfield>
+    <subfield code="a">POLÍTICA EDUCATIVA</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">809</subfield>
+    <subfield code="a">EDUCACIÓN DE ADULTOS</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">2161</subfield>
+    <subfield code="a">Guevara Torres, Silvia </subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">2162</subfield>
+    <subfield code="a"> Cerdas Solano, Jaime</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

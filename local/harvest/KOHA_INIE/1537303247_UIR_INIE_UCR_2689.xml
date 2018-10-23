@@ -1,0 +1,46 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01314nab a2200169   4500</leader>
+  <controlfield tag="005">20160317160401.0</controlfield>
+  <controlfield tag="008">150618b2000    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">95</subfield>
+    <subfield code="a">Salazar Salas, Carmen Grace</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Juegos: tipos y características /</subfield>
+    <subfield code="c">Carmen Grace Salazar Salas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2000</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">páginas 165-174</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">Generalmente, las personas asocian la palabra jugar con los niños. Sin embargo, no sólo los pequeños pueden disfrutar de esta actividad, también lo pueden hacer los jóvenes y adultos de cualquier edad, durante su tiempo libre. La finalidad de este artículo es ofrecer su información acerca de los juegos espontáneos, los juegos organizados y los juegos predeportivos y algunas de sus características. De esta manera, tanto educadores físicos como líderes en diversas actividades recreativas podrán tener más criterio y variedad para seleccionar el tipo de juego que más conviene para la población de niños, jóvenes o adultos que participará en él</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " tag="773" ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0026</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.24, no.2 (2000)</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2689</subfield>
+    <subfield code="d">2689</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,46 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02252nab a2200169   4500</leader>
+  <controlfield tag="005">20160331140057.0</controlfield>
+  <controlfield tag="008">151216b2       cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">1229</subfield>
+    <subfield code="a">Garbanzo Vargas, Guiselle María</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Factores Asociados al Rendiminento Académico en Estudiantes Universitarios, una Reflexión desde la Calidad de la Educación Superior Pública /</subfield>
+    <subfield code="c">Guiselle María Garbanzo Vargas</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2007</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">páginas 43-63</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">Este artículo presenta una revisión  de los hallazgos de investigación consignados en la literatura que se señalan como posibles factores asociados al rendimiento académico en estudiantes universitarios, y su vinculación con la calidad de la educación superior pública en general , para lo que se apoya en estudios realizados en España, Colombia, Cuba México y Costa Rica. Se agrupan en tres categorías: determinantes personales, determinantes sociales y determinantes  institucionales que, a su vez, poseen sus propios indicadores. Se hace énfasis en que la búsqueda  de la calidad educativa en el sector universitario es un bien deseado por distintos sectores de la sociedad y por el que luchan las universidades desde diferentes  ámbitos, con mayores cuestionamientos en el sector público por la inversión estatal que conlleva. La búsqueda de la calidad implica una revisión  integral de la universidad que incluye estudios sobre el rendimiento académico del alumnado, por lo que sus resultados son un insumo importante, pues permiten conocer elementos  obstaculizadores  y facilitadores del desempeño estudiantil y, en consecuencia, permiten favorecer el control de los recursos estatales y la medición del impacto  social. El análisis de la calidad educativa debe incluir resultados de investigación sobre el rendimiento académico de los estudiantes, pues es de gran utilidad los procesos de toma de decisiones en aras de un sistema educativo más justo</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind1="0" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0307</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.31, no.1 (2007)</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2986</subfield>
+    <subfield code="d">2986</subfield>
+  </datafield>
+</record>

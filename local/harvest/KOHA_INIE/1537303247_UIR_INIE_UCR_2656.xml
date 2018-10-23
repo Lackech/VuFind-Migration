@@ -1,0 +1,45 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01842nab a2200157   4500</leader>
+  <controlfield tag="008">150611b1999    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">183</subfield>
+    <subfield code="a">Moncada Jiménez, José</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Gasto energético aproximado en niños de tercer grado de la educación general básica de diferentes estratos socioeconómicos durante una carrera de 1.609 metros /</subfield>
+    <subfield code="c">José Moncada Jiménez</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">1999</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">páginas 189-196</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">En este estudio se analizó el gasto energético aproximado en una carrera de 1 609m en niños de tercer grado de la educación general básica provenientes de diferentes estratos socioeconómicos. Se observó que los tiempos de carrera fueron similares a pesar de la proveniencia de los niños. Sin embargo, se encontraron diferencias entre los niños y niñas de 8 y 10 años, y entre los niños y niñas de 9 y 10 años, no así para los niños y niñas de 8 y 9 años. Se  encontró que el consumo máximo de oxígeno y el gasto energético estimado en METs fue mayor en niños y niñas de 10 años cuando se les comparó con los niños y niñas de 8 y 9 años respectivamente. Finalmente, no se encontró una interacción estadísticamente significativa en el gasto de Kcals por sexo y estrato socioeconómico. Se recomienda estimar el gasto calórico por medio de cálculos sencillos derivados de una carrera de 1 609 m, ya que aunque de manera indirecta, son una opción viable para los educadores, quienes no poseen el costoso equipo de laboratorio necesario para una determinación directa</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind2=" " ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0023</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.23, no.2 (1999)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2656</subfield>
+    <subfield code="d">2656</subfield>
+  </datafield>
+</record>

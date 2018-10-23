@@ -1,0 +1,47 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00545nam a2200169Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">1112</subfield>
+    <subfield code="d">1112</subfield>
+  </datafield>
+  <controlfield tag="008">180605b1995    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="020" ind1=" ">
+    <subfield code="a">9977-962-74-X</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">04.02.01 </subfield>
+    <subfield code="b">408</subfield>
+  </datafield>
+  <datafield tag="110" ind1=" " ind2=" ">
+    <subfield code="a">Instituto Interamericano de Derechos Humanos</subfield>
+    <subfield code="9">598</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Carpeta latinoamericana de materiales didácticos para educación en derechos humanos</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, C.R. : </subfield>
+    <subfield code="b">IIDH, </subfield>
+    <subfield code="c">1995</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">232 páginas</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">DERECHOS HUMANOS</subfield>
+    <subfield code="9">588</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">ENSEÑANZA</subfield>
+    <subfield code="9">14</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">MATERIAL DIDÁCTICO</subfield>
+    <subfield code="9">785</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

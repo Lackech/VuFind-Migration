@@ -1,0 +1,44 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00796nam a2200157Ia 4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">1633</subfield>
+    <subfield code="d">1633</subfield>
+  </datafield>
+  <controlfield tag="008">180312b1993    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">06.02.03 </subfield>
+    <subfield code="b">789</subfield>
+  </datafield>
+  <datafield tag="111" ind1=" " ind2=" ">
+    <subfield code="a">Reunión Subregional de Proyectos para el Mejoramiento de la Calidad de la Educación (1 : 1993 : Costa Rica)</subfield>
+    <subfield code="9">3470</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Mejoramiento de la calidad de la educación en Centroamérica : informe técnico de la I Reunión Subregional de Proyectos para el Mejoramiento de la Calidad de la Educación</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica :  </subfield>
+    <subfield code="b">Ministerio de Educación Pública, </subfield>
+    <subfield code="c">1993</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">146 páginas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">CALIDAD DE LA EDUCACIÓN</subfield>
+    <subfield code="9">11</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">DESARROLLO DE LA EDUCACIÓN</subfield>
+    <subfield code="9">24</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">PROYECTOS DE EDUCACION </subfield>
+    <subfield code="9">152</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

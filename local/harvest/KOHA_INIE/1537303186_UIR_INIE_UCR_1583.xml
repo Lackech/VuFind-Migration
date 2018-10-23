@@ -1,0 +1,75 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01004nam a2200205Ia 4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">1583</subfield>
+    <subfield code="d">1583</subfield>
+  </datafield>
+  <controlfield tag="008">180302b1992    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">06.02.03 </subfield>
+    <subfield code="b">104</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Guevara Cárdenas, Lilliana</subfield>
+    <subfield code="9">3433</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Calidad e impacto académico de la innovación educativa en la Universidad de Costa Rica / </subfield>
+    <subfield code="c">Lilliana Guevara Cárdenas, Ana Isabel Mora Vargas, Tito Quirós Rodríguez</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1992</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">58 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Informe final. Proyecto de investigación N°724-89-021</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">El objetivo primordial de la investigación es que, mediante encuestas, entrevistas y jornadas de intercambio, se corrobore si las innovaciones educativas institucionales han producido algún tipo de mejoramiento cualitativo en las actividades académicas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="0" tag="610">
+    <subfield code="a">UNIVERSIDAD DE COSTA RICA</subfield>
+    <subfield code="9">714</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">INNOVACIONES PEDAGÓGICAS</subfield>
+    <subfield code="9">666</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">FORMACIÓN DE DOCENTES</subfield>
+    <subfield code="9">9</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+    <subfield code="9">8</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">PRÁCTICA PEDAGÓGICA</subfield>
+    <subfield code="9">499</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">CALIDAD DE LA EDUCACIÓN</subfield>
+    <subfield code="9">11</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">ACCIÓN SOCIAL</subfield>
+    <subfield code="9">1220</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">129</subfield>
+    <subfield code="a">Mora Vargas, Ana Isabel</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">3434</subfield>
+    <subfield code="a">Quirós Rodríguez, Tito</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

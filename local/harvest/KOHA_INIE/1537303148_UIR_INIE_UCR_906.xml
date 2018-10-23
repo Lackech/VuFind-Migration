@@ -1,0 +1,60 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00540nam a2200193Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">906</subfield>
+    <subfield code="d">906</subfield>
+  </datafield>
+  <controlfield tag="008">170829b2006    cr ||||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " tag="020" ind2=" ">
+    <subfield code="a">9968921823</subfield>
+  </datafield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">18.04.01 </subfield>
+    <subfield code="b">1680</subfield>
+  </datafield>
+  <datafield ind1="1" tag="110" ind2=" ">
+    <subfield code="a">Costa Rica. Instituto Nacional de Estadística y Censos</subfield>
+    <subfield code="9">546</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Encuesta Nacional de Ingresos y Gastos 2004: principales resultados /</subfield>
+    <subfield code="c">Instituto Nacional de Estadística y Censos</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">Costa Rica : </subfield>
+    <subfield code="b">INEC, </subfield>
+    <subfield code="c">2006</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">302 páginas</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">PRESUPUESTO FAMILIAR</subfield>
+    <subfield code="9">3106</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">ECONOMÍA</subfield>
+    <subfield code="9">344</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">INGRESOS DE HOGARES</subfield>
+    <subfield code="9">3107</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">CONSUMO DOMÉSTICO</subfield>
+    <subfield code="9">3109</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">ENCUESTAS</subfield>
+    <subfield code="9">550</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">HOGAR</subfield>
+    <subfield code="9">3110</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

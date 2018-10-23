@@ -1,0 +1,47 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02527nab a2200169   4500</leader>
+  <controlfield tag="005">20160422141658.0</controlfield>
+  <controlfield tag="008">160422b2011    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">1604</subfield>
+    <subfield code="a">Víquez Córdoba, Luis Adolfo</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Buscando un por qué a los procesos de enseñanza y aprendizaje del clarinete en su etapa inicial /</subfield>
+    <subfield code="c">Luis Adolfo Víquez Córdoba</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2011</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">páginas 111-121</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">La formación instrumental ha tomado importancia dentro de la Educación Musical costarricense en los últimos tiempos, sobre todo con el auge de escuelas de música y academias en diversas comunidades a lo largo del país. El clarinete ha sido un instrumento de importancia en la vida musical de Costa Rica, desde la música militar hasta los ámbitos folclóricos y académicos. Tomando en cuenta los inicios de las actividades docentes instrumentales, en Costa Rica puede apreciarse que en el período de tiempo anterior a finales del siglo XIX muchas prácticas docentes se realizaban de forma empírica, situación que cambia posteriormente con la fundación de los primeros centros de enseñanza musical del país.
+Sin embargo, el enfoque dado a la educación del instrumento fue mayoritariamente orientado a la formación de músicos capaces de suplir las necesidades de los diferentes escenarios artísticos del país, dejando de lado toda una serie de beneficios que la práctica instrumental puede dotar a las personas que se inician en ella. De este modo, por medio de los procesos de enseñanza y aprendizaje se pueden inculcar en las personas no solo destrezas musicales, sino habilidades para la vida, valores y actitudes que el o la estudiante, de no continuar con una carrera formal de música, podría aplicar en el futuro. Es así como las prácticas instrumentales del clarinete favorecen aspectos corporales como la postura, coordinación y respiración; afectivamente, por medio de la disciplina de la práctica individual o la ejecución de ensambles, la música permite a la población estudiantil desarrollar actitudes como el trabajo en equipo, la tolerancia y el respeto, entre otros valores que sin duda colaborarán para la formación de los seres humanos del mañana</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" tag="773" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0398</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.35, no.1 (ene.-jun., 2011)</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">3147</subfield>
+    <subfield code="d">3147</subfield>
+  </datafield>
+</record>

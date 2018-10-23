@@ -1,0 +1,69 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03191nam a2200241Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2133</subfield>
+    <subfield code="d">2133</subfield>
+  </datafield>
+  <controlfield tag="008">180821b1997    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">14.02.02 </subfield>
+    <subfield code="b">84</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">Mainieri Hidalgo, Aida María</subfield>
+    <subfield code="9">3534</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Estudio psicogenético de un grupo de jóvenes integrantes del colegio científico / </subfield>
+    <subfield code="c">Aida Mainieri Hidalgo, Leda Roldán Santamaría, Eduardo Minero Torres</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1997</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">255 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="500">
+    <subfield code="a">Incluye documento de los instrumentos y un informe técnico de los resultados. Proyecto de investigación N° 724-95-552. Fondo restringido 198-08. Código 94-508 BID-CONICIT</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">En este informe se presentan los resultados de una serie de pruebas realizadas a una muestra de la población estudiantil de los Colegios Científicos Costarricenses (C.C.C.) de San Pedro y de Cartago, con el propósito de conocer el perfil que estos estudiantes presentan al ingresar en estas instituciones y cuál presentan al salir de ellas. La muestra escogida corresponde a la población total que ingresó en las instituciones ya mencionadas en 1995 y se egresó en 1996. En primera instancia, se hizo un análisis comparativo sobre el conocimiento académico que dominaban los estudiantes, al momento de su ingreso en los C.C.C., en las áreas de Ciencias y Humanidades, en relación con el que dominaba un grupo de alumnos de un colegio oficial y otro grupo de estudiantes universitarios. También se aplicaron tres pruebas psicogenéticas (Prueba de Lawson, Prueba de Proporcionalidad o Concentración y Prueba de Cuantificación de Probabilidades) para determinar el nivel de desarrollo cognoscitivo de los sujetos tanto en el momento de su ingreso en los C.C.C., como al finalizar sus estudios. El estudio se completó con la aplicación de la "Escala sobre el concepto de ti mismo", de Piers &amp; Harris, para conocer el grado de autoestima que los sujetos manejaban de sí mismos, así como entrevistas abiertas dirigidas a los estudiantes, a sus familiares y a los educadores. Y, por último, se utilizó la prueba CLES (Examen del Medio Ambiente de Aprendizaje Constructivista) para caracterizar el ambiente de aprendizaje (autonomía, conocimiento previo, negociación y estudiante centrado) en estas Instituciones. Algunas de las conclusiones a las que llegó el estudio son: en el momento de su ingreso en los C.C.C., los estudiantes presentaron mayor rendimiento académico en el área de Humanidades, pero éste varió al terminar los estudios secundarios. En general, en el nivel de razonamiento predomina el pensamiento formal, lo que demuestra madurez intelectual. En el área socioafectiva se evidencian altos niveles de autoestima. En su mayoría, los estudiantes esperan triunfar en su vida profesional para lo cual, según afirman los profesores, la labor de los C.C.C. y de la familia son aspectos determinantes.</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">ADOLESCENTES</subfield>
+    <subfield code="9">5</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">ASPECTOS PSICOLÓGICOS</subfield>
+    <subfield code="9">1414</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">ESTUDIANTES </subfield>
+    <subfield code="9">332</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="a">Roldán Santamaría, Leda María</subfield>
+    <subfield code="9">1179</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Minero Torres, Eduardo</subfield>
+    <subfield code="9">4096</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+  </datafield>
+</record>

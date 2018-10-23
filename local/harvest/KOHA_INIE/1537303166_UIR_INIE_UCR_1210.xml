@@ -1,0 +1,44 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00803nam a2200157Ia 4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">1210</subfield>
+    <subfield code="d">1210</subfield>
+  </datafield>
+  <controlfield tag="008">170509b1994    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">01.01.01 </subfield>
+    <subfield code="b">2102</subfield>
+  </datafield>
+  <datafield ind1="2" tag="110" ind2=" ">
+    <subfield code="a">Instituto Centroamericano de Administración Pública. Programa de las Naciones Unidas para el Desarrollo</subfield>
+    <subfield code="9">2713</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Guía de gerencia de la cooperación internacional / </subfield>
+    <subfield code="c">ICAP</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">ICAP, </subfield>
+    <subfield code="c">1994</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">volúmenes</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">La guía contiene 11 fascículos:1- Las disyuntivas del gerente de cooperación internacional\2- Fuentes de información para la toma de decisiones o las acciones en la gestión de cooperación internacional\3- Perfil del cooperante y del recipiente responsa</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">COOPERACIÓN INTERNACIONAL</subfield>
+    <subfield code="9">507</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">CAPACITACIÓN</subfield>
+    <subfield code="9">729</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

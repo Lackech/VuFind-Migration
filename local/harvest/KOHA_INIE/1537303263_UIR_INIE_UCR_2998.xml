@@ -1,0 +1,46 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01708nab a2200169   4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2998</subfield>
+    <subfield code="d">2998</subfield>
+  </datafield>
+  <controlfield tag="005">20170201160537.0</controlfield>
+  <controlfield tag="008">160107b2       cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">254</subfield>
+    <subfield code="a">Villarreal Montoya, Cecilia</subfield>
+  </datafield>
+  <datafield ind2="3" ind1="1" tag="245">
+    <subfield code="a">La orientación familiar: una experiencia de intervención /</subfield>
+    <subfield code="c">Cecilia Villareal Montoya</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">páginas 79-94</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">El artículo resume la experiencia de intervención con una familia de la escuela de Villa Esperanza de Pavas.  Se trata de un matrimonio con dificultades para disciplinar a sus tres hijos varones de ocho, seis, y cuatro años.
+En primer lugar, se exponen los principios teóricos y metodológicos, para luego mostrar la aplicación de ellos en el proceso vivido por la familia.  Se aplica el modelo de intervención estructural, que busca que la misma familia logre realizar, paso a paso, los cambios requeridos en la dinámica y estructura familiar.  En la situación específica de esta familia, se observa el fortalecimiento de la pareja como tal y como madre y padre en la medida que van logrando asumir la autoridad en forma compartida para disciplinar a sus hijos.  Al compartir esta experiencia, la autora pretende estimular a profesionales en Orientación a asumir el reto de considerar a las familias de la comunidad estudiantil, de las instiotuciones educativas donde laboran, como parte importante en el quehacer del orientador</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " tag="773" ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0309</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.31, no.2 (2007)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+</record>

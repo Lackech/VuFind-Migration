@@ -1,0 +1,43 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00424nam a2200169Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">DOC # 41</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="100">
+    <subfield code="a">Kalman L., Judith</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="245">
+    <subfield code="a">La imaginación pedagógica : el alfabetizador y el nuevo enfoque</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">[s.l.] :  </subfield>
+    <subfield code="b">Nueva Epoca, </subfield>
+    <subfield code="c">1996</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">15 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="650">
+    <subfield code="a">EDUCACION </subfield>
+  </datafield>
+  <datafield tag="650" ind2=" " ind1=" ">
+    <subfield code="a">PEDAGOGIA</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="650">
+    <subfield code="a">DOCENTES </subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="650">
+    <subfield code="a">LECTURA </subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="650">
+    <subfield code="a">ESCRITURA</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="p">001194 </subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2545</subfield>
+    <subfield code="d">2545</subfield>
+  </datafield>
+</record>

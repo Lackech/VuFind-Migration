@@ -1,0 +1,47 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00572nam a2200181Ia 4500</leader>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">CD #98</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="110">
+    <subfield code="a">Universidad de Costa Rica. Vicerrectoría de Acción Social</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="245">
+    <subfield code="a">Memoria del Congreso lúdico creativo / </subfield>
+    <subfield code="c">Universidad de Costa Rica</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica:  </subfield>
+    <subfield code="b">Universidad de Costa Rica, </subfield>
+    <subfield code="c">2006</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">265 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Documento en formato PDF</subfield>
+  </datafield>
+  <datafield tag="610" ind1=" " ind2=" ">
+    <subfield code="a">UNIVERSIDAD DE COSTA RICA</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="650">
+    <subfield code="a">MEMORIA </subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="650">
+    <subfield code="a">CONGRESO LUDICO  </subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="650">
+    <subfield code="a">CREATIVIDAD </subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="650">
+    <subfield code="a">EDUCACION PREESCOLAR</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="p">002094</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">2526</subfield>
+    <subfield code="d">2526</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,65 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>     nam a22        4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">3461</subfield>
+    <subfield code="d">3461</subfield>
+  </datafield>
+  <controlfield tag="008">171204b2017    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">13.02.01</subfield>
+    <subfield code="b">2438</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">2089</subfield>
+    <subfield code="a">Chinchilla Jiménez, Roxana </subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Prácticas de evaluación habituales del grupo de la práctica profesional del Bachillerato en Ciencias de la Educación con énfasis en Orientación de la Universidad de Costa Rica /</subfield>
+    <subfield code="c">Roxana Chinchilla Jiménez, Flor Jiménez Segura</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">[San José, Costa Rica] :</subfield>
+    <subfield code="b">INIE,</subfield>
+    <subfield code="c">2017</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">48 hojas</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Informe Proyecto de Investigación Nº 724-B4-366</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">Este proyecto  consistió en analizar las prácticas de evaluación habituales del grupo docente de la práctica profesional del bachillerato en Ciencias de la Educación con énfasis en Orientación de la Universidad de Costa Rica.  La estrategia metodológica adoptada en esta investigación es la de estudio de casos. De acuerdo con los objetivos, el problema de investigación se ha  caracterizado, precisamente, en términos de  identificación,  análisis y  comprensión de determinadas representaciones e interpretaciones que los actores hacen de su realidad o práctica de evaluación. Para desarrollar el presente estudio se realizaron entrevistas a 9 docentes. Cuatro que habían impartido el curso de práctica profesional y 5 que cumplen la labor de supervisar al estudiantado en el centro educativo en el que realizan su práctica profesional. También se entrevistaron 13 estudiantes que habían concluido su  práctica profesional y que sabían su nota final del curso o asignatura.  Se elaboró una guía de preguntas para realizar las entrevistas; además, se realizó un grupo focal con las personas docentes y el estudiantado  con el propósito de hacer la devolución y validación de la información recopilada.  Al finalizar el estudio, algunas de las conclusiones fueron las siguientes:
+
+Las personas involucradas en el proceso de enseñanza, aprendizaje y evaluación de la práctica profesional en Orientación ven la evaluación como un  proceso sumativo y formativo.
+La realización de las tareas de evaluación se ven afectadas por la cantidad y por el 	tiempo que se le dedica a cada una. El estudiantado debe realizar (en aproximadamente 4 meses) una identificación de necesidades; analizar e identificar la necesidad de orientación que va a trabajar; planificar, diseñar, ejecutar y evaluar un proceso de Orientación dirigido al estudiantado, padres, madres o encargados. Asimismo, debe llevar a cabootro proceso de orientación con docentes de la institución. Lo anterior, aunado a la atención de personas en orientación individual. 
+La mayoría de las personas del estudio confunden las guías empleadas para realizar el cotejo 	de la evaluación con los criterios de evaluación, estos últimos no resultan claros para los participantes.
+El estudiantado ve el feedback como una herramienta que favorece la evaluación del proceso y permite realizar mejoras en el ámbito personal y profesional de cada una.
+El feedback que están ofreciendo las personas docentes universitarias a los estudiantes de la Práctica profesional es utilizado como una ayuda educativa del docente universitariodurante el proceso. . Dicha retroalimentación permite realizar los ajustes necesarios al estudiantado para que logre la construcción y reconstrucción de conocimientos que le permitan autorregularse y realizar la situación o actividad de evaluación, especialmente en el momento de la planificación de la programación.</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">2186</subfield>
+    <subfield code="a">ORIENTACIÓN PROFESIONAL</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">331</subfield>
+    <subfield code="a">DOCENTES</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">287</subfield>
+    <subfield code="a">EVALUACIÓN </subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">8</subfield>
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">160</subfield>
+    <subfield code="a">Jiménez Segura, Flor </subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

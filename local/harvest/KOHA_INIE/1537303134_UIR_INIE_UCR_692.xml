@@ -1,0 +1,64 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00915nam a2200217Ia 4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">692</subfield>
+    <subfield code="d">692</subfield>
+  </datafield>
+  <controlfield tag="008">170420b2010    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9789968961431</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">06.03.06 </subfield>
+    <subfield code="b">1990</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="a">Salas Barquero, Ronald</subfield>
+    <subfield code="9">2667</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Retos y desafíos de la Sede Brunca-UNA: desarrollo de la educación superior de la zona sur de Costa Rica / </subfield>
+    <subfield code="c">Ronald Salas Barquero; Miguel Calderón Fernández; Lourdes Rodríguez Morales; Roberto Mora Sánchez</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Heredia, Costa Rica : </subfield>
+    <subfield code="b">UNA. Escuela de Planificación y Promoción Social, </subfield>
+    <subfield code="c">2010</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">51 páginas</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="2" tag="610">
+    <subfield code="9">2669</subfield>
+    <subfield code="a">UNIVERSIDAD NACIONAL DE COSTA RICA (REGIÓN BRUNCA)</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">8</subfield>
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">INVESTIGACIÓN</subfield>
+    <subfield code="9">163</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="4">
+    <subfield code="9">47</subfield>
+    <subfield code="a">COSTA RICA</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="a">Calderón Fernández, Miguel</subfield>
+    <subfield code="9">2671</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Rodríguez Morales, Lourdes</subfield>
+    <subfield code="9">2672</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="a">Mora Sánchez, Roberto</subfield>
+    <subfield code="9">2673</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

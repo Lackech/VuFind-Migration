@@ -1,0 +1,47 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02453nab a22001577a 4500</leader>
+  <controlfield tag="008">150520b1997    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">93</subfield>
+    <subfield code="a">Ramírez Escobar, José Alonso</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Textos didácticos : un acercamiento semiótico /</subfield>
+    <subfield code="c">José Alonso Ramírez Escobar</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">1997</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">páginas 33-44</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">Los textos didácticos en general, se editan y usan desde perspectivas didácticas y pedagógicas restringidas. Pocas veces se les considera como productos del pensamiento y de la cultura, como recursos educativos generadores de múltiples sentidos. Este estudio, propone un acercamiento semiótico a los textos didácticos. Estos algunos de sus ejes temáticos:
+1. Lectura y escritura en prespectiva semiótica. Leer como proceso de construcción de sentido, implica ver  los textos en su naturaleza lingüistica, no sólo como instrumentos didácticos en sentido estrecho. La lectura es una integración que el lector opera sobre el texto desde su contexto . Es producción de significados. Comprender un texto es reformulario, porque comprensión es transformación personal de lo asimilado. Leer significa desmontar ese artefacto llamado texto. A su vez, la escritura sufre grandes transformaciones culturales.  Es instrumento del pensamiento, y contemporánea con medios electrónicos que la hacen más versátil y la potencializan. Es forma de pensar que exige borradores aunque sean mentales.
+2. Texto didáctico y contexto de aprendizaje. Estos se producen y leen dentro de procesos educativos en los que participan estudiantes y docentes como constructores y deconstructores de textos y discursos de diverso tipo. Discursos sociales y culturales que dan sentido a sus vidas. Tanto texto escolar como módulo universitario encarnan estrategias pedagógicas específicas, por supuesto mediadas por la acción  docente. Por la importancia del texto didáctico, las normales, universidades y ministerios de educación, necesitan incorporar cursos teóricos cursos teóricos y prácticos sobre  producción, análisis y uso pedagógico de textos, desde acercamientos pedagógicos, ligüisticos y semióticos.</subfield>
+  </datafield>
+  <datafield ind2="0" ind1=" " tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" tag="773" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0019</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.21, no.2 (1997)</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">2579</subfield>
+    <subfield code="d">2579</subfield>
+  </datafield>
+</record>

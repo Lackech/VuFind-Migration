@@ -1,0 +1,86 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02312nam a2200265Ia 4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">609</subfield>
+    <subfield code="d">609</subfield>
+  </datafield>
+  <controlfield tag="008">170313b2011    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="020" ind2=" " ind1=" ">
+    <subfield code="a">9789968527217</subfield>
+  </datafield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">06.02.01 </subfield>
+    <subfield code="b">1951</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="a">Watson Soto, Hannia </subfield>
+    <subfield code="9">1104</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Mirando nuestra educación: propuesta de lineamientos metodológicos con pertinencia cultural para las escuelas cabécares de Chirripó / </subfield>
+    <subfield code="c">Hannia Watson Soto; Lolita Camacho Brown</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San Jose, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2011</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">11 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="490" ind2=" ">
+    <subfield code="a">Colección Yigüirro</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Producto del proyecto de investigación "Una mirada a la educación cabécar desde la perspectiva de diferentes actores sociales"</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">Esta propuesta busca enriquecer espacios de capacitación docente, desde los hallazgos y las conclusiones del proyecto de investigación "Una mirada a la educación cabécar desde la perspectiva de diferentes actores sociales", desarrollado en el Instituto de Investigación en Educación (INIE).
+La propuesta pretende generar, desde la escuela, un diálogo de saberes donde los temas comunales y culturales son asumidos para enriquecer los procesos educativos de la población cabécar, caracterizados por el respeto y la tolerancia a la diferencia, la equidad en la atención, la diversidad cultural, el trabajo colaborativo y el reconocimiento de las capacidades familiares y locales para incidir en la calidad del trabajo escolar.
+La propuesta está estructurada en cinco preguntas generadoras:
+¿Qué se espera de la educación?
+¿Qué aprender?
+¿Cómo aprender?
+¿Con qué y con quiénes aprender?
+¿Quiénes participan?
+Las respuestas a estas cinco preguntas plantean lineamientos metodológicos que incorporan los hallazgos de la investigación, para promover procesos de enseñanza y de aprendizaje con pertinencia cultural en las escuelas cabécares de Chirripó.  Son incluidos, además, un apartado de retos y otro de oprtunidades para estas instituciones.
+</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">EDUCACIÓN INDÍGENA</subfield>
+    <subfield code="9">1100</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">EDUCACIÓN PRIMARIA</subfield>
+    <subfield code="9">367</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">IDENTIDAD CULTURAL</subfield>
+    <subfield code="9">480</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">COMUNIDAD CABÉCAR</subfield>
+    <subfield code="9">1101</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">ASPECTOS SOCIALES </subfield>
+    <subfield code="9">576</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Camacho Brown, Lolita </subfield>
+    <subfield code="9">1099</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Watson Soto, Hannia </subfield>
+    <subfield code="9">1104</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

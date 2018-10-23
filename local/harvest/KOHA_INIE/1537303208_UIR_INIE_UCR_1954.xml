@@ -1,0 +1,65 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02018nam a2200217Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">1954</subfield>
+    <subfield code="d">1954</subfield>
+  </datafield>
+  <controlfield tag="008">180629b2010    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">06.05.02 </subfield>
+    <subfield code="b">1638</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Arguedas Quesada, Consuelo</subfield>
+    <subfield code="9">736</subfield>
+  </datafield>
+  <datafield ind2="3" ind1="1" tag="245">
+    <subfield code="a">La práctica pedagógica de la expresión artística en los niveles de VI y VII nivel de la educación general básica /</subfield>
+    <subfield code="c"> Consuelo Arguedas Quesada; Julieta Castro Bonilla; Jacqueline García Fallas, Rocío López Fallas</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2010</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">83 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">La Unidad posee segundo informe parcial 2008, informe final 2010 \ Proyecto de Investigación N° 724 A6-301</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">En esta investigación se incursiona en el período de transición escolar, el cual conlleva cambios que tienen implicaciones personales y sociales en la formación del estudiantado, entre el VI y VII año de la educación general básica. Por este motivo, las investigadoras asumen el reto de propiciarle al docente que atiende esta población, herramientas metodológicas para incorporar la expresión artística en los procesos de enseñanza y aprendizaje. 
+Sacristán (1997) señala que las transiciones son momentos de alumbramiento de nuevas realidades, etapas de crisis o de indefinición, en las que se sabe desde dónde se sale, pero no se tiene claro adónde se va llegar y en qué estado se quedará en la nueva situación. 
+La experiencia en los procesos de aprendizaje en espacios escolarizados tiende a ser cada vez más academicista, lo que dificulta la expresión individual y colectiva auténtica de las vivencias de la población estudiantil. Por esta razón, la expresión artística es considerada un "puente metodológico" que favorece logros en los procesos de aprendizaje. </subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">PRÁCTICA PEDAGÓGICA</subfield>
+    <subfield code="9">499</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">EDUCACION BASICA</subfield>
+    <subfield code="9">2224</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">ARTE   </subfield>
+    <subfield code="9">421</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="a">Castro Bonilla, Julieta</subfield>
+    <subfield code="9">1082</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="700">
+    <subfield code="a">García Fallas, Jacqueline</subfield>
+    <subfield code="9">759</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="700">
+    <subfield code="a">López Fallas, Rocío</subfield>
+    <subfield code="9">3833</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

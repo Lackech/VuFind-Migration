@@ -1,0 +1,56 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>     nam a22        4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">3491</subfield>
+    <subfield code="d">3491</subfield>
+  </datafield>
+  <controlfield tag="008">180509b2018    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">06.03.06</subfield>
+    <subfield code="b">2455</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">1513</subfield>
+    <subfield code="a">Regueyra Edelman, María Gabriela</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Seguimiento a la permanencia de la población estudiantil en la Universidad de Costa Rica / </subfield>
+    <subfield code="c">María Gabriela Regueyra Edelman</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">[San José, Costa Rica] :</subfield>
+    <subfield code="b">INIE,</subfield>
+    <subfield code="c">2018</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">131 páginas, 36 páginas sin numerar</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Informe final Proyecto de Investigación Nº 724-B2-006</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="4">
+    <subfield code="9">714</subfield>
+    <subfield code="a">UNIVERSIDAD DE COSTA RICA</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">8</subfield>
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">481</subfield>
+    <subfield code="a">ESTUDIANTES UNIVERSITARIOS </subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1377</subfield>
+    <subfield code="a">FACTORES DE PERMANENCIA</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">779</subfield>
+    <subfield code="a">GRADUADOS</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

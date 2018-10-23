@@ -1,0 +1,57 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00636nam a2200193Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">700</subfield>
+    <subfield code="d">700</subfield>
+  </datafield>
+  <controlfield tag="008">170420b2011    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="020">
+    <subfield code="a">9789968995283</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">05.01.01 </subfield>
+    <subfield code="b">761</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="a">Marín Hernández, Juan José </subfield>
+    <subfield code="9">2684</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="5">
+    <subfield code="a">(Re) Lecturas de Guanacaste: 1821-2010 / </subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Sociedad Editora Alquimia;</subfield>
+    <subfield code="c">2000</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">293 páginas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">HISTORIA</subfield>
+    <subfield code="9">22</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">VIDA COTIDIANA</subfield>
+    <subfield code="9">597</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="4" tag="651">
+    <subfield code="a">GUANACASTE (COSTA RICA)</subfield>
+    <subfield code="9">2720</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">2721</subfield>
+    <subfield code="e">Compilador/a</subfield>
+    <subfield code="a">Núñez Arias, Rodolfo</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="a">Marín Henández, Juan José</subfield>
+    <subfield code="9">2722</subfield>
+    <subfield code="e">Compilador/a</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,54 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00809nab a22001937a 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">3428</subfield>
+    <subfield code="d">3428</subfield>
+  </datafield>
+  <controlfield tag="003">cru INIE</controlfield>
+  <controlfield tag="005">20170823161324.0</controlfield>
+  <controlfield tag="008">170823b2012    cr ||||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="040" ind2=" " ind1=" ">
+    <subfield code="a">cru INIE</subfield>
+    <subfield code="c">cru INIE</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">REVIS </subfield>
+    <subfield code="b">06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">3085</subfield>
+    <subfield code="a">Salazar Impatá, Yenny Maritza</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Participación de las y los jóvenes en contextos de exclusión de la Ciudad de Medellín: una reflexión desde la ecología de la acción /</subfield>
+    <subfield code="c">Yenny Maritza Salazar Impatá</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Universidad La Salle, </subfield>
+    <subfield code="c">2012</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">pp. 17- 33</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="0" tag="650">
+    <subfield code="9">476</subfield>
+    <subfield code="a">JUVENTUD</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="0" tag="650">
+    <subfield code="9">1756</subfield>
+    <subfield code="a">EXCLUSIÓN SOCIAL</subfield>
+  </datafield>
+  <datafield tag="773" ind2=" " ind1="0">
+    <subfield code="d">Costa Rica : Departamento de Investigaciones, Universidad De La Salle, 2012</subfield>
+    <subfield code="o">R0641</subfield>
+    <subfield code="t">Revista Redpensar</subfield>
+    <subfield code="x">2215-2938</subfield>
+    <subfield code="g">Vol.1, no.1 (abril 2012)</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">03</subfield>
+  </datafield>
+</record>

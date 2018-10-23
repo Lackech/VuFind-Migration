@@ -1,0 +1,63 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00901nam a2200205Ia 4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">2374</subfield>
+    <subfield code="d">2374</subfield>
+  </datafield>
+  <controlfield tag="008">171012b2004    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">16.04.01</subfield>
+    <subfield code="b"> 506 CD #41</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="a">Portilla Gómez, Lucecita</subfield>
+    <subfield code="9">3237</subfield>
+  </datafield>
+  <datafield ind2="9" ind1="1" tag="245">
+    <subfield code="a">Hacia la construcción de un mapa de riesgos desde la comunidad /</subfield>
+    <subfield code="c">Lucecita Portilla Gómez</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">[San José, Costa Rica] : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">2004</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">40 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="500">
+    <subfield code="a">Informe Final del Proyecto de Investigación N° 724-A1-122. </subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a"> Este informe hace referencia a las acciones desarrolladas por la investigadora, con miras a la formulación de una propuesta de investigación enfocada al desarrollo de un proyecto de investigación-acción en algún territorio sensible del país y que a la vez presentara la problemática relacionada con el deterioro ambiental y el manejo de riesgos. Se propuso el cantón de Desamparados por poseer características geofísicas y socioculturales que propician aspectos tales como: un índice alto de pobreza en los diferentes distritos, riesgos generados por nuevos patrones de consumo en la población que deterioran su entorno, entre otros. 
+Como objetivo principal se propuso: Desarrollar el mapa de vulnerabilidad comunal como una metodología que le permita al guía o representante de salud de la comunidad elaborar su propio modelo, basado en la identificación de los principales factores condicionantes del proceso salud-enfermedad de la población local. 
+Los aportes y logros pueden considerarse gratos desde los resultados del proceso de investigación, ya que permitió un acercamiento a la intención y a la búsqueda de plantear soluciones a las dificultades que tienen las comunidades para resolver sus problemas creando el manual ¿Cómo construir un mapa de riesgos desde la comunidad? 
+La investigación se fundamentó en el marco teórico y el trabajo de campo, realizando visitas a la comunidad de Barrio Fátima de Desamparados. Hubo reuniones con diferentes líderes y agrupaciones comunales de la localidad. 
+La investigación se desarrolló bajo la modalidad de "exposición de caso" para lo cual se analizó el manejo ambiental y las carencias de la comunidad de Fátima de Desamparados. Esta comunidad está asentada en la parte media de la micro-cuenca del Río Damas, el que ha estado generando situaciones de riesgo e inundaciones en la época lluviosa. 
+Los beneficios de la investigación son los siguientes: 
+- Los resultados teóricos, metodológicos, prácticos podrán ser generalizados e introducidos en proyectos similares, dirigidos a fortalecer la gestión salud-ambiente de carácter local en otros territorios de Costa Rica. 
+- Esta investigación creó un espacio de discusión nacional sobre los problemas y manejo de riesgos comunales y de desarrollo local. 
+- El conocimiento que se espera aportar tendrá una aplicación práctica en el espacio local y en específico propiciarán el funcionamiento armónico de la salud-comunal y el aumento de la calidad de vida de la población en el área de estudio. </subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">GESTIÓN AMBIENTAL </subfield>
+    <subfield code="9">2058</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">DESASTRES </subfield>
+    <subfield code="9">1892</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">COMUNIDADES</subfield>
+    <subfield code="9">519</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">EDUCACIÓN AMBIENTAL </subfield>
+    <subfield code="9">439</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

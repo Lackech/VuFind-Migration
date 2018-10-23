@@ -1,0 +1,74 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02102nam a2200253Ia 4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2388</subfield>
+    <subfield code="d">2388</subfield>
+  </datafield>
+  <controlfield tag="008">180912b        cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">19.02.09 </subfield>
+    <subfield code="b">95</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">Rojas Porras, Marta</subfield>
+    <subfield code="9">108</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Estudio sobre la situación y perspectivas de la elaboración de libros de texto para la educación básica de Costa Rica / </subfield>
+    <subfield code="c">Marta Rojas Porras, Isabel Ducca Durán, Amalia Vargas R.</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1993</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">239 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="500" ind2=" ">
+    <subfield code="a">Informe final. proyecto de investigación N° 724-93-559</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">En esta investigación, se analizan y exponen las conclusiones obtenidas tras analizar 24 diferentes libros de texto que corresponden a objetivos públicos o privados. Se sabe que la elaboración de un texto para niños debe basarse en conocimientos sólidos y científicos, y especialmente, en la realidad cotidiana de los infantes. En su mayoría, los libros analizados se identifican con la ideología dominante, pues contienen estereotipos y prejuicios sociales. Además, casi todos estos textos presentan al educador como una figura decorativa, directiva y pasiva; en tanto que se fomenta un educando desinteresado, dependiente y acrítico. En cuanto a los contenidos, se ve cómo giran en torno a lo programático, por lo que se aprecian desarticulaciones y falta de integración. Generalmente, los textos se restringen a la memoria repetitiva y a actividades mecánicas. Finalmente, se vio que hace falta capacitar a los docentes en cuanto al uso adecuado y productivo de los apoyos didáctico, entre ellos, los libros de texto; sobretodo, porque el tiempo y manera de emplearlos, no corresponden con un currículo de calidad ni con los intereses o realidades de los estudiantes.</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">LIBROS DE TEXTO</subfield>
+    <subfield code="9">1746</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">EDUCACION BASICA</subfield>
+    <subfield code="9">2224</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">APRENDIZAJE </subfield>
+    <subfield code="9">387</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">CURRÍCULO (EDUCACIÓN)</subfield>
+    <subfield code="9">342</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">EDUCACIÓN PRIMARIA</subfield>
+    <subfield code="9">367</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">EDUCACIÓN SECUNDARIA</subfield>
+    <subfield code="9">456</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">3524</subfield>
+    <subfield code="a">Ducca Durán, Isabel</subfield>
+  </datafield>
+  <datafield ind1=" " tag="700" ind2=" ">
+    <subfield code="9">4235</subfield>
+    <subfield code="a">Vargas R., Amalia </subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+  </datafield>
+</record>

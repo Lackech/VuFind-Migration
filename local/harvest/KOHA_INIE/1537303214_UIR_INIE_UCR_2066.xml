@@ -1,0 +1,82 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02001nam a2200277Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2066</subfield>
+    <subfield code="d">2066</subfield>
+  </datafield>
+  <controlfield tag="008">180829b1988    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">13.02.01 </subfield>
+    <subfield code="b">51</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1=" ">
+    <subfield code="a">Abarca Molina, Angelina</subfield>
+    <subfield code="9">2645</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Estandarización del inventario de madurez vocacional de John O. Crites para estudiantes de primer ingreso de la Universidad de Costa Rica, Universidad Nacional y Sedes Regionales / </subfield>
+    <subfield code="c">Angelina Abarca Molina, María Luisa Naranjo Pereira, Carmen Frías Quesada</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1988</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">93 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Informe Final Proyecto de Investigación N° 724-86-078</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">Esta investigación, compara y obtiene diferentes datos referidos a los resultados en la madurez vocacional y la aplicación del inventario. Se llegó a la conclusión, por ejemplo, de que, aunque las mujeres maduran vocacionalmente más rápido que los hombres, no hay diferencias significativas entre sexos a la hora de verificar los resultados de estas pruebas, lo que hace suponer que esa divergencia se nivela al finalizar la secundaria. Tampoco hubo diferencias significativas entre grupos de distintas edades. En cuanto a diferencias entre las sedes regionales y la Rodrigo Facio, se ven claramente espacios significativos en lo que toca a selección vocacional, especialmente con el Centro Regional de Guanacaste; aquí, los resultados son favorables para la sede central. Por otra parte, se anexa un "manual" completo con el inventario para medir la madurez vocacional y una serie de instrucciones para su aplicación.</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="4" tag="610">
+    <subfield code="a">UNIVERSIDAD DE COSTA RICA</subfield>
+    <subfield code="9">714</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="4" tag="610">
+    <subfield code="a">UNIVERSIDAD NACIONAL </subfield>
+    <subfield code="9">584</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">ORIENTACIÓN PROFESIONAL</subfield>
+    <subfield code="9">2186</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">OCUPACIONES</subfield>
+    <subfield code="9">780</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">FORMACIÓN PROFESIONAL</subfield>
+    <subfield code="9">498</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">DESARROLLO DE LA PERSONALIDAD</subfield>
+    <subfield code="9">907</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">INVENTARIOS</subfield>
+    <subfield code="9">4156</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">PSICOLOGÍA</subfield>
+    <subfield code="9">657</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">DATOS ESTADÍSTICOS</subfield>
+    <subfield code="9">452</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,59 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00671nam a2200205Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">491</subfield>
+    <subfield code="d">491</subfield>
+  </datafield>
+  <controlfield tag="008">161212b        sp ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="020" ind1=" ">
+    <subfield code="a">9788492175369</subfield>
+  </datafield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">06.01.01 </subfield>
+    <subfield code="b">2063</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="a">Pablo del Río </subfield>
+    <subfield code="9">2182</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Escritos sobre arte y educación creativa de Lev S. Vygotsky/</subfield>
+    <subfield code="c"> Río, Pablo del, Álvarez, Amelia</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">Madrid : </subfield>
+    <subfield code="b">Fundación Infancia y aprendizaje, </subfield>
+    <subfield code="c">2007</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">172 páginas</subfield>
+  </datafield>
+  <datafield ind2="4" tag="600" ind1="1">
+    <subfield code="9">906</subfield>
+    <subfield code="a">VYGOTSKY, LEV SEMIONOVICH </subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">PSICOLOGÍA DE LA EDUCACIÓN</subfield>
+    <subfield code="9">625</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">CREATIVIDAD</subfield>
+    <subfield code="9">861</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="700">
+    <subfield code="a">Río, Pablo del</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1=" ">
+    <subfield code="a"> Álvarez, Amelia</subfield>
+    <subfield code="9">2183</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,68 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00683nam a2200229Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2030</subfield>
+    <subfield code="d">2030</subfield>
+  </datafield>
+  <controlfield tag="008">180706b2055    c  ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">07.10.02 </subfield>
+    <subfield code="b">1342</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="100">
+    <subfield code="a">López C., María Margarita</subfield>
+    <subfield code="9">3956</subfield>
+  </datafield>
+  <datafield tag="245" ind2="4" ind1="1">
+    <subfield code="a">Una revisión a la participación escolar en América Latina / María Margarita López C.</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">Chile: </subfield>
+    <subfield code="b">PREAL, </subfield>
+    <subfield code="c">2006</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">31 páginas</subfield>
+  </datafield>
+  <datafield tag="490" ind2=" " ind1=" ">
+    <subfield code="a">Documentos,</subfield>
+    <subfield code="v">35</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">PARTICIPACIÓN DE LOS PADRES</subfield>
+    <subfield code="9">1553</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">ESCUELAS </subfield>
+    <subfield code="9">300</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="4">
+    <subfield code="a">BOLIVIA</subfield>
+    <subfield code="9">3958</subfield>
+  </datafield>
+  <datafield tag="651" ind2="4" ind1=" ">
+    <subfield code="a">BRASIL</subfield>
+    <subfield code="9">1242</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="4" tag="651">
+    <subfield code="a">COLOMBIA</subfield>
+    <subfield code="9">1349</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="4">
+    <subfield code="a">EL SALVADOR</subfield>
+    <subfield code="9">2475</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="4">
+    <subfield code="a">GUATEMALA</subfield>
+    <subfield code="9">989</subfield>
+  </datafield>
+  <datafield ind2="4" ind1=" " tag="651">
+    <subfield code="a">HONDURAS</subfield>
+    <subfield code="9">3959</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

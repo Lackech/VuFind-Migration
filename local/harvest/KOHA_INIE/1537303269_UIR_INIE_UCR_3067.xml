@@ -1,0 +1,55 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00812nam a2200193   4500</leader>
+  <controlfield tag="008">160201bsf      cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">04.01.01</subfield>
+    <subfield code="b">46</subfield>
+  </datafield>
+  <datafield tag="110" ind2=" " ind1="1">
+    <subfield code="9">1370</subfield>
+    <subfield code="a">Costa Rica. Leyes, Decretos, etc.</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Ley Nº 7739 Código de la Niñez y de la Adolescencia</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">[San José, Costa Rica] :</subfield>
+    <subfield code="b">Defensa de niñas y niños Internacional, Sección Costa Rica,</subfield>
+    <subfield code="c">sin fecha</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">102 páginas;</subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Esta publicación se realizó en el marco del proyecto: "El abordaje del VIH/SIDA en niñas, niños y adolescentes en condición de vulnerabilidad o que viven con el VIH/SIDA".</subfield>
+  </datafield>
+  <datafield ind1=" " tag="500" ind2=" ">
+    <subfield code="a">Ley Nº 7739 del 6 de febrero de 1998</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="0" tag="650">
+    <subfield code="9">45</subfield>
+    <subfield code="a">LEGISLACIÓN</subfield>
+  </datafield>
+  <datafield tag="650" ind2="0" ind1=" ">
+    <subfield code="9">59</subfield>
+    <subfield code="a">NIÑOS</subfield>
+  </datafield>
+  <datafield ind2="0" tag="650" ind1=" ">
+    <subfield code="9">60</subfield>
+    <subfield code="a">NIÑAS</subfield>
+  </datafield>
+  <datafield tag="650" ind2="0" ind1=" ">
+    <subfield code="9">5</subfield>
+    <subfield code="a">ADOLESCENTES</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">3067</subfield>
+    <subfield code="d">3067</subfield>
+  </datafield>
+</record>

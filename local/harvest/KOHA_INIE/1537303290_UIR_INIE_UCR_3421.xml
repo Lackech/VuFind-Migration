@@ -1,0 +1,60 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03172nam a22002057a 4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3421</subfield>
+    <subfield code="d">3421</subfield>
+  </datafield>
+  <controlfield tag="008">170426b2017    cr a|||| |||| 00| | spa d</controlfield>
+  <datafield tag="020" ind2=" " ind1=" ">
+    <subfield code="a">9789968527415</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">06.01.01</subfield>
+    <subfield code="b">2314</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">715</subfield>
+    <subfield code="a">Cordero Cordero, Teresita </subfield>
+    <subfield code="e">Compilador/a</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Miradas múltiples: psicología escolar en las escuelas de atención prioritaria en el sistema educativo público costarricense / </subfield>
+    <subfield code="c">Compiladoras: Teresita Cordero Cordero, Vilma Leandro Zúñiga</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">[San José, Costa Rica] :</subfield>
+    <subfield code="b">INIE,</subfield>
+    <subfield code="c">2017</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">222 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Producto del Proyecto de investigación Nº 714-B3-310</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">El presente libro es el resultado del proyecto de investigación "Miradas múltiples: psicología escolar en las escuelas de atención prioritaria en el sistema educativo costarricense" (2013-2015), inscrito en el Instituto de Investigación en Educación de la Universidad de Costa Rica.La persona que da lectura a este material se encuentra con un texto diverso, con un énfasis en los primeros apartados sobre aspectos más de orden conceptual, pasando por la reseña de casos, que es un aporte significativo, pues parten del trabajo sistematizado de las compañeras y surgen del impacto que les promociona la experiencia de cada uno de ellos. Por un lado, en el capítulo segundo se menciona lo que es el Programa de Atención Prioritaria, haciendo un recorrido particular por los documentos oficiales, también se señalan y argumentan contextualizados. Por otro lado, el marco general de la investigación se incluye en el tercer capítulo, tratando de colocar la reflexión acerca de aspectos generales de la educación y la psicología escolar, los cuales se consideran puntos de partida esenciales para un encuadre de lo psicosocial. De igual manera, en el capítulo cuarto se presentan algunas de las conclusiones, reflexiones y hallazgos que parten del trabajo empírico, entrelazando ideas y comentarios que nos dan cuenta de cuestionamientos y situaciones que se dan en lo cotidiano. Asimismo, el capítulo cinco es muy apreciado y relevante para la investigación y la disciplina, ya que surge de la casuística, en la cual se trata de mostrar un estilo de intervención que las propfesionales en Psicología han venido construyendo a lo largo de su experiencia y que son el producto del ir y venir en sus años de experiencia laboral. Se incluyen estrategias y valoraciones contruidas en la práctica y que habían permanecido de alguna manera "engavetadas" en la práctica cotidiana. En el sexto capítulo se incluyen experiencias concretas de estrategias colectivas e interdisciplinarias con ejemplos concretos sobre proyectos específicos, los cuales se podrían considerar extra curriculares. Y, finalmente, un último capítulo donde se ofrecen algunas reflexiones finales que surgieron a raíz de los encuentros con una psicología escolar situada y contextualizada, producto de nuestro paso por la "aventura" investigativa.</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">625</subfield>
+    <subfield code="a">PSICOLOGÍA DE LA EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">367</subfield>
+    <subfield code="a">EDUCACIÓN PRIMARIA</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1628</subfield>
+    <subfield code="a">ENSEÑANZA PÚBLICA</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">1629</subfield>
+    <subfield code="a">Leandro Zúñiga, Vilma</subfield>
+    <subfield code="e">Compilador/a</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

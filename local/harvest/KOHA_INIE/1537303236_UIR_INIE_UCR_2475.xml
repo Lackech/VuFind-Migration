@@ -1,0 +1,54 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00844nam a2200217Ia 4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2475</subfield>
+    <subfield code="d">2475</subfield>
+  </datafield>
+  <controlfield tag="003">cru INIE</controlfield>
+  <controlfield tag="005">20161107105815.0</controlfield>
+  <controlfield tag="008">161107b2011    cr ||||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " tag="040" ind1=" ">
+    <subfield code="a">cru INIE</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">CD #213</subfield>
+  </datafield>
+  <datafield ind2=" " tag="111" ind1="2">
+    <subfield code="a">Simposio Internacional en Ciencias del Deporte, el Ejercicio y la Salud (18: 2011 Octubre 25-28 : San José, Costa Rica)</subfield>
+    <subfield code="9">2151</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Memoria</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Escuela de Educación Física y Deportes. Universidad de Costa Rica, </subfield>
+    <subfield code="c">2011</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">disco compacto</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">El CD contiene resúmenes de las conferencias y talleres</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="0" tag="650">
+    <subfield code="a">DEPORTES</subfield>
+    <subfield code="9">2152</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="0" tag="650">
+    <subfield code="a">SALUD</subfield>
+    <subfield code="9">268</subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2="0">
+    <subfield code="a">CONFERENCIA</subfield>
+    <subfield code="9">506</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="711">
+    <subfield code="a">Simposio Internacional en Ciencias del Deporte, el Ejercicio y la Salud (18: 2011 Octubre 25-28 : San José, Costa Rica)</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">08</subfield>
+  </datafield>
+</record>

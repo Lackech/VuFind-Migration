@@ -1,0 +1,41 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00458nam a2200157Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">CD # 162</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">Tajonar, Hector</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Sor Juana Inés de la Cruz o las Trampas de la Fe / </subfield>
+    <subfield code="c">Hector Tajonar</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">Chapultepec, México : </subfield>
+    <subfield code="b">Televisa S.A, </subfield>
+    <subfield code="c"> sin fecha</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">Disco compacto, 12 cm de diámetro</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="650">
+    <subfield code="a">BIOGRAFIA</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">TEOLOGIA</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="650">
+    <subfield code="a">PERIODO COLONIAL</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="700">
+    <subfield code="a">Paz, Octavio (col.)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="p">003462 </subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">2428</subfield>
+    <subfield code="d">2428</subfield>
+  </datafield>
+</record>

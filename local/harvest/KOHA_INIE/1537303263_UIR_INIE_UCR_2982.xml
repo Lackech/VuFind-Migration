@@ -1,0 +1,51 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01702nab a22001817a 4500</leader>
+  <controlfield tag="005">20160331135923.0</controlfield>
+  <controlfield tag="008">151216b2006    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">1127</subfield>
+    <subfield code="a">González de Galindo, Susana</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Estrategia didáctica en clases multitudinarias de matemática: opiniones de los alumnos /</subfield>
+    <subfield code="c">Susana González de Galindo</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2006</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">páginas 111-131</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">En las clases teóricas multitudinarias de Matemática 1, asignatura de primer año de una Facultad de Ciencias, para superar el tipo de clases magistrales tradicionales, se recurrió  al uso de una guía elaborada según lineamientos constructivistas sobre el contenido del Cálculo Diferencial. El modelo de aprendizaje seleccionado fue el basado en teorías cognitivas estructuralistas. La guía se elaboró de modo que permitiera una estrategia más interactiva, pues debía ser completada con las reflexiones de los estudiantes. Las actividades seleccionadas pretendieron estimular los cuestionamientos, la formulación de hipótesis y la conexión entre contenidos, para lograr aprendizajes significativos. Para evaluar la experiencia, se analizó, entre otros instrumentos, una encuesta realizada a los alumnos, concluyéndose que la mayoría estaría a favor de la nueva metodología, sugiriendo aplicarla a toda la asignatura</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">1128</subfield>
+    <subfield code="a">Colombo de Cudmani, Leonor</subfield>
+    <subfield code="c">coautora</subfield>
+  </datafield>
+  <datafield ind1="0" tag="773" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0307</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.30, no.2 (2006)</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2982</subfield>
+    <subfield code="d">2982</subfield>
+  </datafield>
+</record>

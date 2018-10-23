@@ -1,0 +1,44 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00656ngm a2200181   4500</leader>
+  <controlfield tag="003">cru INIE</controlfield>
+  <controlfield tag="005">20160916112326.0</controlfield>
+  <controlfield tag="008">160916b2016    MX ||||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " tag="040" ind2=" ">
+    <subfield code="a">cru INIE</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">CD #274</subfield>
+  </datafield>
+  <datafield ind1=" " tag="110" ind2=" ">
+    <subfield code="9">1985</subfield>
+    <subfield code="a">Universidad Nacional Autónoma de México. Centro de Investigaciones Interdisciplinarias en Ciencias y Humanidades. Departamento de Producción Audiovisual y Multimedia</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Gloria Fariñas León</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">México :</subfield>
+    <subfield code="b">CEIICH-UNAM,</subfield>
+    <subfield code="c">2015</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">1 Videodisco (cerca de 32 min.);</subfield>
+    <subfield code="b">sonoro</subfield>
+  </datafield>
+  <datafield ind2=" " tag="490" ind1=" ">
+    <subfield code="a">Trayectorias de Académicas Cubanas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="600" ind2="0">
+    <subfield code="9">2000</subfield>
+    <subfield code="a">FARIÑAS LEÓN, GLORIA</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">08</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">3319</subfield>
+    <subfield code="d">3319</subfield>
+  </datafield>
+</record>

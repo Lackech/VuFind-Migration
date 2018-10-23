@@ -1,0 +1,53 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00546nam a2200181Ia 4500</leader>
+  <controlfield tag="008">160107b2000    ag ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="020" ind2=" ">
+    <subfield code="a">9501255050</subfield>
+  </datafield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">06.05.03 </subfield>
+    <subfield code="b">430</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Aprendiendo con tecnología / </subfield>
+    <subfield code="c">Chris Dede, compilador</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">Buenos Aires, Argentina : </subfield>
+    <subfield code="b">Paidós, </subfield>
+    <subfield code="c">2000</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">285 páginas</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">TECNOLOGÍA EDUCATIVA </subfield>
+    <subfield code="9">483</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">REFORMA DE LA EDUCACIÓN</subfield>
+    <subfield code="9">7</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">CAPACITACIÓN</subfield>
+    <subfield code="9">729</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">COMUNIDADES</subfield>
+    <subfield code="9">519</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="a">Dede, Chris</subfield>
+    <subfield code="e">compilador</subfield>
+    <subfield code="9">1277</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">323</subfield>
+    <subfield code="d">323</subfield>
+  </datafield>
+</record>

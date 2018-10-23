@@ -1,0 +1,54 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03331nam a2200193Ia 4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">2217</subfield>
+    <subfield code="d">2217</subfield>
+  </datafield>
+  <controlfield tag="008">180711b2005    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">18.01.01 </subfield>
+    <subfield code="b">1264 CD #90</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Villarreal Montoya, Cecilia</subfield>
+    <subfield code="9">254</subfield>
+  </datafield>
+  <datafield tag="245" ind2="3" ind1="1">
+    <subfield code="a">La vivencia menopáusica y su impacto educativo en mujeres solteras de mediana edad / </subfield>
+    <subfield code="c">Cecilia Villareal Montoya</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">Costa Rica: </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2005</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">41 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Informe Final del Proyecto de Investigación N° 724-98-285</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">Esta investigación de corte cualitativo rescata la voz de un grupo de mujeres solteras de mediana edad, amas de casa y asalariadas sobre la percepción que tienen sobre el ser mujer soltera de mediana edad atravesando el proceso menopáusico. Son ellas quienes tienen la palabra para caracterizar la condición de soltería, a quienes se les reclama y discrimina en la cultura patriarcal, por el hecho de no tener una relación estable y reconocida con un varón que les acuerpe y les ofrezca el prestigio social como señoras y madres. Además al llegar a la mediana edad se les denomina solteronas o mujeres solas, quienes, además de ser solteras son menopáusicas y viejas. El mito de la maternidad, constituye para estas mujeres la esencia femenina y aunque no son madres biológicas, lo viven como adoptivas de la descendencia de sus sobrinos o sobrinas. Destacan la capacidad de las mujeres para tomar sus decisiones en paridad con los varones y sobre todo la necesidad de que las mujeres desarrollen las propias potencialidades. Estas mujeres, en general, viven la soltería en su mediana edad dentro de un mundo de contradicciones. Explican su condición de soltería apelando al destino, al designio divino, al no haber encontrado el hombre ideal, pero también plantean, aunque no lo afirman como causal, el haber dedicado tanto tiempo a su familia, dentro de un sistema de control y de rigidez al cual fueron sometidas desde jóvenes. Encontramos en este estudio que la soltería no ha sido una decisión tomada en forma deliberada por estas mujeres en su juventud, más bien ha sido una designación familiar al sacrificar a una de las mujeres para brindar la atención y el cuido a las figuras progenitoras hasta el momento de la muerte. La condición de menopáusicas las enfrenta con el envejecimiento y la preocupación para vivir esa etapa en condición de mujeres solas, aunque tengan a sus familiares que las aprecian tanto. Encuentran tanto ventajas como desventajas con la finalización de la etapa reproductiva y la ausencia de la menstruación. Tanto las amas de casa como las asalariadas dan una connotación de enfermedad al proceso menopáusico: las primeras se quejan de experimentar una serie de malestares físicos y emocionales, mientras que las segundas insisten en que la menstruación despareció sin gran novedad y que no han experimentado complicaciones. Mientras que las amas de casa se encuentran cumpliendo las labores domésticas, con una vida social muy reducida, y casi sin actividades fuera del hogar, las mujeres asalariadas cumplen con una doble jornada laboral, y además tienen actividades comunales y religiosas en las iglesias a las que pertenecen.</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">INFORMES SOBRE PROYECTOS</subfield>
+    <subfield code="9">3986</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">MUJERES</subfield>
+    <subfield code="9">55</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+  </datafield>
+</record>

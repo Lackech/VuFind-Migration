@@ -1,0 +1,67 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00790nam a2200229Ia 4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">1284</subfield>
+    <subfield code="d">1284</subfield>
+  </datafield>
+  <controlfield tag="008">170531b2003    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">04.02.01 </subfield>
+    <subfield code="b">503</subfield>
+  </datafield>
+  <datafield ind1="2" tag="110" ind2=" ">
+    <subfield code="a">Centro de Investigación de Estudios de las Mujeres</subfield>
+    <subfield code="9">2880</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Guía breve para el uso no sexista del lenguaje</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">CIEM, </subfield>
+    <subfield code="c">2003</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">54 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">También se cuenta con un documento con la presentación en power point.</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">DERECHOS DE LA MUJER</subfield>
+    <subfield code="9">84</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">DISCRIMINACIÓN </subfield>
+    <subfield code="9">667</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">EDUCACIÓN DE LA MUJER </subfield>
+    <subfield code="9">390</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">FEMINISMO</subfield>
+    <subfield code="9">324</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">956</subfield>
+    <subfield code="a">IGUALDAD DE GÉNERO </subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a"> IGUALDAD DE OPORTUNIDADES</subfield>
+    <subfield code="9">952</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">MUJERES</subfield>
+    <subfield code="9">55</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">PARTICIPACIÓN DE LA MUJER</subfield>
+    <subfield code="9">716</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

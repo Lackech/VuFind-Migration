@@ -1,0 +1,61 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00704nam a2200205Ia 4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">1609</subfield>
+    <subfield code="d">1609</subfield>
+  </datafield>
+  <controlfield tag="008">180306b1985    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">06.02.03 </subfield>
+    <subfield code="b">334</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="a">Sánchez Moya, Zaida</subfield>
+    <subfield code="9">3279</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Impacto de la crisis socioeconómica en la educación de zonas rurales de Costa Rica : un estudio de la comunidad y escuela San Pedro de Coronado / </subfield>
+    <subfield code="c">Zaida Sánchez, Jesús Ulate</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">CEMIE, </subfield>
+    <subfield code="c">1985</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">15 páginas</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">CRISIS DE LA EDUCACIÓN</subfield>
+    <subfield code="9">1410</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">SOCIEDAD </subfield>
+    <subfield code="9">396</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">CONDICIONES ECONÓMICAS</subfield>
+    <subfield code="9">269</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">CONDICIONES SOCIALES</subfield>
+    <subfield code="9">1681</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">ESCUELAS RURALES</subfield>
+    <subfield code="9">1915</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="a">Ulate, Jesús</subfield>
+    <subfield code="9">3450</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

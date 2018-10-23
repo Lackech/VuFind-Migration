@@ -1,0 +1,54 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01033nam a2200181Ia 4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">1622</subfield>
+    <subfield code="d">1622</subfield>
+  </datafield>
+  <controlfield tag="008">180307b1997    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">06.02.03 </subfield>
+    <subfield code="b">64</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="a">Venegas Renauld, María Eugenia</subfield>
+    <subfield code="9">560</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Sistematización de la experiencia demostrativa de innovación pedagógica en 29 escuelas unidocentes rurales del cantón de Puriscal</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1997</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">108 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Trabajo elaborado para la Oficina de UNICEF-COSTA RICA bajo el respaldo técnico del Instituto de Investigaciones para el Mejoramiento de la Educación Costarricense (IIMEC) Primer informe de avance. Informe final</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">La educación primaria en escuelas unidocentes en Costa Rica, desde su inicio en 1963, ha estado diferenciada de la educación en zonas urbanas, en términos de cobertura, promoción, repitencia, deserción y calidad. Esta situación desventajosa afecta al 40,17% de las escuelas primarias de Costa Rica, al 8,2% de los niños y al 7,10% de los docentes. Este informe da cuenta de los resultados de la valoración del proyecto solicitada por la UNICEF. Como parte del proceso de sistematización y evaluación, se tomaron en cuenta tres ejes de reflexión: la innovación pedagógica, el impacto social local y la auditoría de derechos en el cantón. El proyecto en cuestión es una propuesta de carácter demostrativo y se formuló para introducir cambios de naturaleza cualitativa en la educación rural unidocente que se tradujeran en un mejoramiento global de la calidad educativa y la eliminación de la brecha educativa entre zonas urbanas y rurales. Las 29 escuelas unidocentes contempladas en el proyecto son atendidas por un solo maestro que organiza la educación de pequeños grupos de niños que cursan los seis primeros años de la Educación General Básica. La población escolar está constituida por 706 niños de diversa condición socioeconómica y diferentes edades (7-15 años). Las técnicas de recolección de datos incluyen entrevistas semiestructuradas individuales y colectivas, consulta a grupos focales, revisión de documentos, talleres y análisis de relatos escritos y orales, pues la investigación es de naturaleza cualitativa. El proyecto se empezó a ejecutar en 1995, partiendo de los lineamientos y alcances de la Escuela Nueva (transformación de la escuela unidocente, a través de una estrategia que involucra diversos componentes: el docente, el estudiante, la familia, la comunidad, la administración, y se centra en el aprendizaje del niño, promoviendo el desarrollo de su autonomía, de valores sociales, el intelecto y la socialización) y con las experiencias de Chile, Colombia y Perú, y su aporte se materializaría en la introducción de un modelo de innovación metodológica para la escuela rural. Las poblaciones escolares del proyecto sobresalen por su nivel deficitario de socialización. El grado de vinculación de las escuelas con la comunidad varía mucho, pero, en general, cuanto más dispersa es la comunidad y menos tiempo tiene el docente en la escuela, menor tiende a ser el apoyo comunal. Asimismo, cuanto más se asciende en la escolaridad, disminuye la matrícula. Los niños de comunidades dispersas deben desplazarse y recorrer largas distancias para llegar a la escuela, su nivel de dominio de la lecto-escritura es bajo y el tiempo dedicado al estudio es poco. En cuanto a los logros del proyecto, se cuentan el nacimiento de actitudes positivas en los docentes y el aumento de liderazgo, el protagonismo alcanzado por los gobiernos estudiantiles, la puesta en práctica de los rincones para el aprendizaje y la biblioteca escolar. Entre las limitaciones se encuentran la débil vinculación de las acciones con la comunidad y los desacuerdos en cuanto al horario de los maestros.</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">INNOVACIONES PEDAGÓGICAS</subfield>
+    <subfield code="9">666</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">PROYECTOS DE EDUCACION </subfield>
+    <subfield code="9">152</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">ESCUELAS RURALES</subfield>
+    <subfield code="9">1915</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">INFORMES</subfield>
+    <subfield code="9">267</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,51 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02069nab a2200181   4500</leader>
+  <controlfield tag="005">20160331134321.0</controlfield>
+  <controlfield tag="008">151118b2005    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">1182</subfield>
+    <subfield code="a">Guillén Sánchez, Edgar</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Detección de estudiantes en riesgo académico en el Instituto Tecnológico de Costa Rica /</subfield>
+    <subfield code="c">Edgar Guillén Sánchez, Sonia Chinchilla Brenes</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2005</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">páginas 123-155</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">En la presente investigación se practican análisis estadísticos para derivar una ecuación que permita detectar a los estudiantes en riesgo de fracaso académico en el ITCR. Se trabajó con los estudiantes que ingreassaron en le primer semestre de 1995 a programas de bachillerato bajo la modalidad semestral. Como variable dependiente se manejó la trayectoria seguida por el estudiante a lo larpo de siete años (hasta marzo del 2002): Deserción formal,Deserción primer semestre; Deserción el segundo semestre; deserción en un semestre posterior; Aún matriculado; Graduado. Como variables independientes se incluyeron el puntaje de admisión y sus componentes (cuarto ciclo, puntajes en la parte verbal y matemáitca de la Prueba de Aptitud Académica), colegio de procedencia (tipo de jornada, tipo de financiamiento y modalidad, zona geográfica de procedencia; indicadores de rendimiento académico durante el primer semestre; sexo del estudiante, carrera en la que se matriculó el estudiante. Una ecuación de regresión logística permite clarificar corectamente al 79.9 % de los estudiantes en las categorías de Graduado- No graduado. En ella se incluyen indicadores de rendimiento académico durante el primer semestre y la carrera en que se matriculó el estudiante</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="9">1183</subfield>
+    <subfield code="a">Chinchilla Brenes, Sonia</subfield>
+    <subfield code="c">coautora</subfield>
+  </datafield>
+  <datafield ind2=" " tag="773" ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0304</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.29, no.2 (2005)</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2942</subfield>
+    <subfield code="d">2942</subfield>
+  </datafield>
+</record>

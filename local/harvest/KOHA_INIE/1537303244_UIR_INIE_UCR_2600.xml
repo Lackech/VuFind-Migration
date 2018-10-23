@@ -1,0 +1,45 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01107nab a22001577a 4500</leader>
+  <controlfield tag="008">150528b1998    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">117</subfield>
+    <subfield code="a">Hernández Cruz, Omar</subfield>
+  </datafield>
+  <datafield tag="245" ind2=" " ind1="1">
+    <subfield code="a">Micropolítica escolar hacia afuera : lecturas de una escuela caribeña costarricense en la interacción con la comunidad y la familia /</subfield>
+    <subfield code="c">Omar Hernández Cruz</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">1998</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">páginas 7 - 24</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">En este artículo se presentan los resultados de una investigación etnográfica desarrollada en una escuela de un poblado liniero del litoral Caribe de Costa Rica. Se interpreta la cultura escolar en su interacción con las familias y la comunidad. Se ahonda en la comprensión de la micropolítica escolar caracterizando sus matices a partir de referentes socioeconómicos, de género y étnicos</subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2="0">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind2=" " ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0021</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.22, no.2 (1998)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2600</subfield>
+    <subfield code="d">2600</subfield>
+  </datafield>
+</record>

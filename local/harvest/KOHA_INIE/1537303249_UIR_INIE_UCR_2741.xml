@@ -1,0 +1,47 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00670nab a22001577a 4500</leader>
+  <controlfield tag="008">150728b2013    cr ||||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="022" ind2=" " ind1=" ">
+    <subfield code="a">1409-150X</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">18.01.01 </subfield>
+    <subfield code="b">2140 </subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">552</subfield>
+    <subfield code="a">Velásquez, Anna Georgina </subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Abordaje de la violencia escolar requiere un enfoque integral / </subfield>
+    <subfield code="c">Anna Georgina Velásquez</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">pp. 50-52</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">553</subfield>
+    <subfield code="a">VIOLENCIA ESCOLAR</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">554</subfield>
+    <subfield code="a">PREVENCIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind2=" " ind1="0">
+    <subfield code="a">Universidad de costa Rica. Oficina de divulgación e información</subfield>
+    <subfield code="d">San José, C.R. :  Universidad de Costa Rica. ODI,  2013</subfield>
+    <subfield code="o">003129 </subfield>
+    <subfield code="t"> Crisol: Revista de ciencia y tecnología de la UCR /</subfield>
+    <subfield code="x">1409-150X</subfield>
+    <subfield code="g">No. 27 (2013)</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">03</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2741</subfield>
+    <subfield code="d">2741</subfield>
+  </datafield>
+</record>

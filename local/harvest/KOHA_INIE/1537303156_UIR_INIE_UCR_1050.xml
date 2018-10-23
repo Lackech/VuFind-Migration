@@ -1,0 +1,62 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00630nam a2200181Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">1050</subfield>
+    <subfield code="d">1050</subfield>
+  </datafield>
+  <controlfield tag="008">180521b1996    cr ||||| |||| 00| ||spa d</controlfield>
+  <datafield tag="020" ind2=" " ind1=" ">
+    <subfield code="a">9977-67-416-7</subfield>
+  </datafield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">06.03.06 </subfield>
+    <subfield code="b">400</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Sánchez Corrales, Víctor Manuel</subfield>
+    <subfield code="9">3522</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Español 8 : texto / </subfield>
+    <subfield code="c">Víctor Manuel Sánchez Corrales, Marta Rojas Porras, Alí Víquez Jiménez</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, C.R. : </subfield>
+    <subfield code="b">Editorial de la Universidad de Costa Rica, </subfield>
+    <subfield code="c">1996</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">240 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="490" ind2=" ">
+    <subfield code="a">Serie Hacia el Siglo XXI</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Además guía didáctica Español 8</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">EDUCACIÓN SECUNDARIA</subfield>
+    <subfield code="9">456</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">ENSEÑANZA DEL ESPAÑOL</subfield>
+    <subfield code="9">782</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">LIBROS DE TEXTO</subfield>
+    <subfield code="9">1746</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="a">Rojas Porras, Marta</subfield>
+    <subfield code="9">108</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="a">Víquez Jiménez, Alí</subfield>
+    <subfield code="9">3521</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

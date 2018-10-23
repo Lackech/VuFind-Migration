@@ -1,0 +1,57 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00687nam a2200193Ia 4500</leader>
+  <controlfield tag="008">150921b1999    sp ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="020" ind2=" " ind1=" ">
+    <subfield code="a">8477382263</subfield>
+  </datafield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">18.03.00 </subfield>
+    <subfield code="b">1031</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Delgado, Juan Manuel</subfield>
+    <subfield code="9">1050</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Métodos y técnicas cualitativas de investigación en Ciencias Sociales / </subfield>
+    <subfield code="c">Juan Manuel Delgado; Juan Gutiérrez, editores</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">España : </subfield>
+    <subfield code="b">Editorial Sintesis, </subfield>
+    <subfield code="c">1999</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">666 páginas</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">MÉTODOS DE INVESTIGACIÓN </subfield>
+    <subfield code="9">288</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">INVESTIGACIÓN DE CAMPO </subfield>
+    <subfield code="9">1051</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">INVESTIGACIÓN CUALITATIVA</subfield>
+    <subfield code="9">317</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">INVESTIGACIÓN SOCIAL</subfield>
+    <subfield code="9">290</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="a">Guitiérrez, Juan</subfield>
+    <subfield code="9">1052</subfield>
+    <subfield code="e">editor</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">266</subfield>
+    <subfield code="d">266</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,50 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00631nam a2200181Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">1082</subfield>
+    <subfield code="d">1082</subfield>
+  </datafield>
+  <controlfield tag="008">180601b2003    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="020">
+    <subfield code="a">9977-77-026-3</subfield>
+  </datafield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">19.04.01 </subfield>
+    <subfield code="b">421</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="110">
+    <subfield code="a">Consejo Nacional de Rectores. Oficina de Planificación de la Educación Superior</subfield>
+    <subfield code="9">44</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Propuestas:  Primer Congreso Nacional de Educación; por una educación renovada</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, C.R. : </subfield>
+    <subfield code="b">CONARE, </subfield>
+    <subfield code="c">2003</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">42 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">En la portada "Uladislado Gámez Solano"</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">CONFERENCIA</subfield>
+    <subfield code="9">506</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">REFORMA DE LA EDUCACIÓN</subfield>
+    <subfield code="9">7</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

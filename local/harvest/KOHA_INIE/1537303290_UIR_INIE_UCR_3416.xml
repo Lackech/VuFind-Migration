@@ -1,0 +1,49 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00685nam a2200169   4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3416</subfield>
+    <subfield code="d">3416</subfield>
+  </datafield>
+  <controlfield tag="008">170403b2016    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">15.03.02</subfield>
+    <subfield code="b">2298</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">1472</subfield>
+    <subfield code="a">Cerdas Núñez, Milena María</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Modelo de capacitación en higiene y manipulación de los alimentos para personas con discapacidad intelectual / </subfield>
+    <subfield code="c">Milena María Cerdas Núñez</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">[San José, Costa Rica] :</subfield>
+    <subfield code="b">INIE,</subfield>
+    <subfield code="c">2016-</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">18 páginas;</subfield>
+    <subfield code="e">1 disco de computadora; archivo PDF</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Informe Proyecto de Acción Social ED-3104</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1469</subfield>
+    <subfield code="a">HIGIENE ALIMENTARIA</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">1369</subfield>
+    <subfield code="a">PERSONAS CON DISCAPACIDAD</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">1470</subfield>
+    <subfield code="a">CURSOS DE CAPACITACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

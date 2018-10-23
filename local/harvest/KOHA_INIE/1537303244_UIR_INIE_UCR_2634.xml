@@ -1,0 +1,49 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02889nab a2200157   4500</leader>
+  <controlfield tag="008">150604b1999    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">156</subfield>
+    <subfield code="a">Hidalgo Barahona, Ana Isabel</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Opinión de algunos docentes universitarios sobre los criterios de valoración académica para la acreditación de carreras o programas de las instituciones de educación superior /</subfield>
+    <subfield code="c">Ana Isabel Hidalgo Barahona</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">1999</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">páginas 113-130</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">La educación viene siendo cuestionada desde hace algún tiempo, producto de las nuevas demandas a nivel político, cultural y social. Desde esta perspectiva las instituciones educativas deben buscar nuevas y viables alternativas para sastifacer esas demandas. Es así, como surge la necesidad de analizar el quehacer de las instituciones  de educación superior  y la calidad de los servicios que genera. Es necesario la revisión exhaustiva de sus actividades primordiales y un replanteamiento en este sentido, ya que debe responder a las demandas de la sociedad con una educación relevante, pertinente, eficiente y con calidad.
+Ante esta necesidad de contar con formas objetivas y rigurosas de evaluar las instituciones de educación superior, se establece un sistema de acreditación que promueva el mejoramiento de las carreras y programas de las universidades estatales y privadas de Costa Rica, como una institución autónoma, denominada SINAES.
+A partir de su creación  se inicia la tarea de establecer los criterios, aspectos  básicos e indicadores para valorar la calidad de los programas y carreras de las universidades. De tal forma, el artículo es producto de una investigación sobre la opinón de algunos docentes universitarios de las Universidades de Costa Rica y Nacional respecto a si los criterios de valoración académica son adecuados o no para evaluar sus carreras o programas.
+La investigación plantea hipótesis en términos de las diferencias o semejanzas entre los docentes de diferentes carreras y escuelas de las dos universidades citadas y algunos atributos característicos de la población estudiada.
+Los resultados obtenidos evidencian que los profesores universitarios encuestados están de acuerdo en que se utilicen los criterios establecidos para evaluar la calidad de sus carreras o programas para ingresar en un proceso de acreditación. La investigación  indica que no existen diferencias de opinión en términos de la Universidad o Unidad Académica donde laboran. Además, se muestran pocas diferencias con respecto a atributos o características de los profesores</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind2=" " ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0023</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.23, no.2 (1999)</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2634</subfield>
+    <subfield code="d">2634</subfield>
+  </datafield>
+</record>

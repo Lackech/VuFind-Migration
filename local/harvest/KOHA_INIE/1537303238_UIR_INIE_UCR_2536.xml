@@ -1,0 +1,40 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00431nam a2200157Ia 4500</leader>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">DOC # 2</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1=" ">
+    <subfield code="a">Carrasco Altamirano, Alma</subfield>
+  </datafield>
+  <datafield tag="245" ind2=" " ind1=" ">
+    <subfield code="a">La reforma curricular en México y el desarrollo de las competencias básicas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">México :  </subfield>
+    <subfield code="b">[s.n.], </subfield>
+    <subfield code="c">1997</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">7 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="650">
+    <subfield code="a">EDUCACION PRIMARIA  </subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">REFORMA CURRICULAR</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">COMPETENCIAS</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2=" ">
+    <subfield code="a">MEXICO</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="p">001161</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2536</subfield>
+    <subfield code="d">2536</subfield>
+  </datafield>
+</record>

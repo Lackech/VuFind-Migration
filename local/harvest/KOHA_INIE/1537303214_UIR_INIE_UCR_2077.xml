@@ -1,0 +1,45 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00638nam a2200157Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2077</subfield>
+    <subfield code="d">2077</subfield>
+  </datafield>
+  <controlfield tag="008">180828b1998    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">13.07.01 </subfield>
+    <subfield code="b">178</subfield>
+  </datafield>
+  <datafield ind2=" " tag="110" ind1=" ">
+    <subfield code="a">Consejo Nacional de Rectores. Oficina de Planificación de la Educación Superior</subfield>
+    <subfield code="9">44</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Definición y análisis de la masa salarial de las instituciones de educación superior universitaria estatal. 1990-1997 / </subfield>
+    <subfield code="c">Consejo Nacional de Rectores</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">CONARE, </subfield>
+    <subfield code="c">1998</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">154 páginas</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">SALARIOS</subfield>
+    <subfield code="9">2846</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">INSTITUCIONES DE ENSEÑANZA SUPERIOR</subfield>
+    <subfield code="9">788</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">ANÁLISIS</subfield>
+    <subfield code="9">3926</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

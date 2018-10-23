@@ -1,0 +1,67 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00987nam a2200229Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2305</subfield>
+    <subfield code="d">2305</subfield>
+  </datafield>
+  <controlfield tag="008">180905b1996    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">18.09.01 </subfield>
+    <subfield code="b">28</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">157</subfield>
+    <subfield code="a">Esquivel Alfaro, Juan Manuel</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Informe político del desarrollo, validación y aplicación de las pruebas de diagnóstico / </subfield>
+    <subfield code="c">Juan Manuel Esquivel Alfaro; Mary Leitón Quirós; Maurilio Loría Meneses; Marcela Monge Porras</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1996</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">40 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Programa de Medición y Evaluación Educativa. Proyecto pruebas diagnósticas de conocimiento (BIRF- MEP- UCR). La Unidad posee además el informe técnico</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">PRUEBAS</subfield>
+    <subfield code="9">629</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">INFORMES</subfield>
+    <subfield code="9">267</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">MATERIAS DE ENSEÑANZA</subfield>
+    <subfield code="9">3942</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">RESULTADOS DE INVESTIGACIÓN</subfield>
+    <subfield code="9">4187</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="a">Leitón Quirós, Mary </subfield>
+    <subfield code="9">4188</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="a">Loría Meneses, José Maurilio</subfield>
+    <subfield code="9">122</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Porras, Marcela Monge </subfield>
+    <subfield code="9">4189</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+  </datafield>
+</record>

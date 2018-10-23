@@ -1,0 +1,45 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00422nam a2200133Ia 4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">1436</subfield>
+    <subfield code="d">1436</subfield>
+  </datafield>
+  <controlfield tag="008">171003b2006    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">06.02.01 </subfield>
+    <subfield code="b">1366</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="a">Miranda Izquierdo, Jesús</subfield>
+    <subfield code="9">3222</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Panorama de la educación Cubana: Resumen de la Reforma Educativa / </subfield>
+    <subfield code="c">Universidad Nacional de Costa Rica</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">Heredia, Costa Rica. : </subfield>
+    <subfield code="b">CIDE-UNA, </subfield>
+    <subfield code="c">2006</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">12 páginas</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">REFORMA DE LA EDUCACIÓN</subfield>
+    <subfield code="9">7</subfield>
+  </datafield>
+  <datafield ind1=" " tag="651" ind2="4">
+    <subfield code="a">CUBA</subfield>
+    <subfield code="9">1261</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

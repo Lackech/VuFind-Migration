@@ -1,0 +1,58 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02922nam a2200205Ia 4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2377</subfield>
+    <subfield code="d">2377</subfield>
+  </datafield>
+  <controlfield tag="008">180912b2004    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">19.02.08 </subfield>
+    <subfield code="b">663 CD #92</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Montiel Montiel, Margot</subfield>
+    <subfield code="9">4230</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Organización y rescate del acervo documental del Instituto de Investigación para el Mejoramiento de la Educación Costarricense, </subfield>
+    <subfield code="b">IIMEC: Inventario Documental, Primera Etapa / </subfield>
+    <subfield code="c">Margot Montiel Montiel</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">2004</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">c.a. 70 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="500">
+    <subfield code="a">Primera etapa, Informe final proyecto No.724-A4-721 El Instituto cuenta con el Informe Final de la II etapa del proyectoIncluye CD #92</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">Esta primera etapa del proyecto pretende determinar mediante el inventario, los tipos documentales que produce el IIMEC, para elaborar en una segunda etapa la tabla de plazos de conservación de los documentos. Esta labor se inició con un diagnóstico archivístico, en el cual se determinaron las necesidades prioritarias en el campo de la Archivística ausentes en el IIMEC. Posteriormente a este diagnóstico se realizaron las siguientes tareas: • Fumigación y reunión de la documentación producida por el IIMEC y la recibida durante diferentes años. • Traslado, limpieza de la documentación, eliminación de agentes oxidantes (grapas, prensas, ect.) y expurgo. • Colocación de la documentación en carpetas nuevas. • Identificación de las carpetas con el contenido documental y fechas extremas, además de su numeración. • Ubicación de las carpetas en cajas identificadas. • Digitación del inventario. En esta primera etapa investigativa se pudo obtener como resultado la ubicación de los diferentes tipos documentales en carpetas nuevas con su debida numeración y procedencia, así como la identificación de las cajas. Se pudo conocer con qué y con cuánta documentación cuenta el IIMEC. En lo referente a las fechas extremas la más antigua corresponde a 1982. Se obtuvo un total de 1299 expedientes ubicadas en 158 cajas y 35 metros lineales. Cabe resaltar que se mantuvo desde un principio, lo que se indicaba en cada archivo de palanca y carpeta, esto con el fin de respetar su procedencia. Este inventario se enviará al Archivo Universitario Prof. Rafael Obregón Loría, para que sea valorado por la Comisión de Selección y Eliminación Documental de la Universidad de Costa Rica, la que a su vez propondrá la Tabla de Plazos de Conservación y Eliminación Documental. Como logro del proyecto se impartirá una charla al personal del IIMEC, con el propósito de aportar sugerencias sobre el manejo de la documentación y darles a conocer principios básicos de la Archivística,que les ayudará en la gestión documental.l </subfield>
+  </datafield>
+  <datafield ind2="4" tag="610" ind1="1">
+    <subfield code="9">153</subfield>
+    <subfield code="a">INSTITUTO DE INVESTIGACIÓN EN EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">INVENTARIOS</subfield>
+    <subfield code="9">4156</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">DOCUMENTOS</subfield>
+    <subfield code="9">4231</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+  </datafield>
+</record>

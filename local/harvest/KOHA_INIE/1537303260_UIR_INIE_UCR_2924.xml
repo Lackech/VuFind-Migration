@@ -1,0 +1,47 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02129nab a2200169   4500</leader>
+  <controlfield tag="005">20160331133113.0</controlfield>
+  <controlfield tag="008">151028b2004    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">1133</subfield>
+    <subfield code="a">Hernández Elizondo, Jessenia</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Recomendaciones en la prescripción del entrenamiento con pesas (contra resistencia) para diabéticos e hipertensos /</subfield>
+    <subfield code="c">Jessenia Hernández Elizondo</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2004</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">páginas 269-278</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">El organismo humano es capaz de mantener un control bastante preciso de los niveles de glucosa sanguínea durante el reposo y en condiciones de ejercicio, sin embargo las concentraciones de insulina en personas con diabetes no responden al ejercicio de manera normal, y el equilibrio entre la utilización de glucosa periférica y hepática se puede alterar. A pesar de lo anterior, se ha considerado que el ejercicio físico es un elemento clave que provee grandes beneficios a la persona diabética.
+Por otra parte, una de las patologías que está muy asociada con la diabetes es la hipertensión o presión arterial alta (Hipertensión). Cuando queremos prescribir ejercicio en personas hipertensas debemos recordar que el entrenamiento con pesas no mejora la condición cardiovascular, pero sí hace que los músculos y huesos sean más fuertes y se incremente el metabolismo. El presente trabajo se realizó con el propósito de dar a conocer a los profesionales en Educación Física y en Ciencias del Movimiento Humano, los ejercicios de pesas (contra resistencia) que no se recomiendan en la prescripción de programas para personas que padecen de diabetes e hipertensión. Además de proveer una herramienta descriptiva y útil para la educación de todas las personas interesadas en la actividad física y especialmente para aquellos que realizan entrenamiento contra resistencia</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind2=" " ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0253</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.28, no.2 (2004)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2924</subfield>
+    <subfield code="d">2924</subfield>
+  </datafield>
+</record>

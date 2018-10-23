@@ -1,0 +1,59 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00771nam a2200205Ia 4500</leader>
+  <controlfield tag="008">161005b1998    mx ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="020">
+    <subfield code="a">96877 98467</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">06.03.06 </subfield>
+    <subfield code="b">1550</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="a">Allende, Carlos María, de</subfield>
+    <subfield code="9">2048</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="3">
+    <subfield code="a">La educación superior en México y en los países en vías de desarrollo desde la óptica de los Organismos Internacionales / </subfield>
+    <subfield code="c">Carlos María de Allende, Graciela Díaz Hernández, Clara Gallardo Vallejo</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">México: </subfield>
+    <subfield code="b">ANUIES, </subfield>
+    <subfield code="c">1998</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">68 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="490" ind1=" ">
+    <subfield code="a">Colección Documentos</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">8</subfield>
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">PAÍSES EN DESARROLLO</subfield>
+    <subfield code="9">2049</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="4">
+    <subfield code="a">MÉXICO</subfield>
+    <subfield code="9">19</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Díaz Hernández, Graciela </subfield>
+    <subfield code="9">2050</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Gallardo Vallejo, Clara</subfield>
+    <subfield code="9">2051</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">409</subfield>
+    <subfield code="d">409</subfield>
+  </datafield>
+</record>

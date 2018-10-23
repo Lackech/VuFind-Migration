@@ -1,0 +1,46 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01533nab a2200169   4500</leader>
+  <controlfield tag="005">20160331133440.0</controlfield>
+  <controlfield tag="008">151105b2005    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">1174</subfield>
+    <subfield code="a">Montes de Oca Rodríguez, Raúl</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Autoestima e idioma inglés: una primera discusión /</subfield>
+    <subfield code="c">Raúl Montes de Oca Rodríguez</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2005</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">páginas 59-71</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">El artículo "Autoestima e idioma inglés: una primera discusión", trata sobre la importancia que reviste la parte afectiva en el aprendizaje, en este caso, de una lengua extranjera como el inglés, en el medio costarricense. En este sentido, se da una visión de lo que la ciencia cognoscitiva y las corrientes humanísticas proponen en cuanto a aprendizaje, rendimiento académico y aprendizaje de una lengua extranjera se refiere. Seguidamente, se hace un recorrido histórico del tema autoestima y se definen términos como autoestima, autoestima baja y alta. Además se analiza el aspecto adquisición/ aprendizaje de un idioma y se ubica el tema en el sistema educativo costarricense. También se discute la situación de la enseñanza-aprendizaje de idiomas en nuestro medio y los aspectos que relacionan lo afectivo con el aprendizaje del inglés</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0300</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.29, no.1 (2005)  </subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2931</subfield>
+    <subfield code="d">2931</subfield>
+  </datafield>
+</record>

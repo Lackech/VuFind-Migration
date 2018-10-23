@@ -1,0 +1,47 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01810nab a2200169   4500</leader>
+  <controlfield tag="005">20160328163033.0</controlfield>
+  <controlfield tag="008">150827b2003    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">172</subfield>
+    <subfield code="a">Pérez Yglesias, María</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Universidad de Costa Rica: premisas, polémicas y propuestas actuales en educación / </subfield>
+    <subfield code="c">María Pérez Yglesias</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2003</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">páginas 95-113</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">El artículo busca sintetizar algunas reflexiones sobre las viejas y nuevas premisas y polémicas  educativas que se plantean y discuten en este principio de milenio, con el propósito de pensar cómo la Universidad de Costa Rica responde a las exigencias y expectativas internas y externas de los últimos años,haciendo énfasis en la investigación y el posgrado en relación con la docencia y la acción social.  Sin pretender ser exhaustivos se trata de responder, con ejemplos, si el modelo de la Universidad de Costa Rica se transforma con acciones concretas y con una perspectiva educativa coherente y académica. Como se dice en el planteamiento "hemos decidido reunir algunos topicos en torno a cuatro grandes temas que incluyen distintos aspectos de los planteados anteriormente: por una parte el modelo de organización académica; en segunda instancia la apertura a un trabajo dialógico, en equipo, interdisciplinario e interinstitucional; en tercer lugar la incursión en nuevas tecnologías y en educación permanente y por último la tendencia hacia una Universidad cualitativa con impacto social"
+</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="0" tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0190</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.27, no.1  (2003)</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2837</subfield>
+    <subfield code="d">2837</subfield>
+  </datafield>
+</record>

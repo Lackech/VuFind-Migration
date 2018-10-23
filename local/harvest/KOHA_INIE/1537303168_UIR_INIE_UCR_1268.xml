@@ -1,0 +1,45 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00554nam a2200157Ia 4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">1268</subfield>
+    <subfield code="d">1268</subfield>
+  </datafield>
+  <controlfield tag="008">170526b2007    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">04.01.02 </subfield>
+    <subfield code="b">1469</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="a">Baudrit Carrillo, Luís</subfield>
+    <subfield code="9">2867</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Inconstitucionalidades en el TLC a pesar del Dictamen de la Sala IV / </subfield>
+    <subfield code="c">Luís Baudrit Carrillo</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Sección de Impresión del SIEDIN, </subfield>
+    <subfield code="c">2007</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">63 páginas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">DERECHO CONSTITUCIONAL</subfield>
+    <subfield code="9">2868</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">TRATADO DE LIBRE COMERCIO </subfield>
+    <subfield code="9">2810</subfield>
+  </datafield>
+  <datafield ind1=" " tag="651" ind2="4">
+    <subfield code="9">47</subfield>
+    <subfield code="a">COSTA RICA</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

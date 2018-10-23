@@ -1,0 +1,68 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00869nam a2200229Ia 4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2255</subfield>
+    <subfield code="d">2255</subfield>
+  </datafield>
+  <controlfield tag="008">180706b1995    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">18.08.00 </subfield>
+    <subfield code="b">168</subfield>
+  </datafield>
+  <datafield ind1=" " tag="110" ind2=" ">
+    <subfield code="a">Fundación Omar Dengo</subfield>
+    <subfield code="9">3397</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Memoria / </subfield>
+    <subfield code="c">Fundación Omar Dengo. Congreso Internacional Logo y Encuentro Internacional sobre Telemática Educativa.  (5° : 1991 : San José)</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Fundación Omar Dengo, </subfield>
+    <subfield code="c">1991</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">362 páginas</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">PROGRAMAS DE COMPUTADORA</subfield>
+    <subfield code="9">1302</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">DOCENTES</subfield>
+    <subfield code="9">331</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">INTELIGENCIA ARTIFICAL</subfield>
+    <subfield code="9">3057</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">APRENDIZAJE </subfield>
+    <subfield code="9">387</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">TELEMÁTICA</subfield>
+    <subfield code="9">3961</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">INFORMÁTICA </subfield>
+    <subfield code="9">3406</subfield>
+  </datafield>
+  <datafield ind1=" " tag="711" ind2=" ">
+    <subfield code="a">Congreso Internacional Logo y Encuentro Internacional sobre Telemática Educativa.  (5° : 1991 : San José)</subfield>
+    <subfield code="9">3962</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+  </datafield>
+</record>

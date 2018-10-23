@@ -1,0 +1,63 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00796nam a2200217   4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3377</subfield>
+    <subfield code="d">3377</subfield>
+  </datafield>
+  <controlfield tag="008">170130b2008    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">14.02.02 </subfield>
+    <subfield code="b">1336</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">255</subfield>
+    <subfield code="a">Chaves Salas, Ana Lupita</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Red interinstitucional para la niñez de Costa Rica :informe de labores 2008 /</subfield>
+    <subfield code="c">Lupita Chaves, Jeanneth Cerdas, Iván Rodríguez</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">[San José, Costa Rica] : </subfield>
+    <subfield code="b">INIE,</subfield>
+    <subfield code="c">2008</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">33 hojas</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Informe Proyecto de Acción Social ED-1445</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Anexos en CD #196</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">757</subfield>
+    <subfield code="a">PRIMERA INFANCIA</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">59</subfield>
+    <subfield code="a">NIÑOS</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">60</subfield>
+    <subfield code="a">NIÑAS</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">784</subfield>
+    <subfield code="a">RED INTERINSTITUCIONAL PARA LA NIÑEZ Y LA ADOLESCENCIA DE COSTA RICA</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">756</subfield>
+    <subfield code="a">Cerdas Núñez, Jeannette </subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">2343</subfield>
+    <subfield code="a">Rodríguez, Iván</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

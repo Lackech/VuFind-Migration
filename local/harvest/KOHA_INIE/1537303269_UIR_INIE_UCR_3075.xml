@@ -1,0 +1,47 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00546nam a2200169   4500</leader>
+  <controlfield tag="008">160205b2014    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">Archivo # 20</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">1437</subfield>
+    <subfield code="a">Peña Bonilla, María</subfield>
+  </datafield>
+  <datafield ind2="3" tag="245" ind1="1">
+    <subfield code="a">Las primeras mujeres en la UCR /</subfield>
+    <subfield code="c">María Peña Bonilla</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">[San José, Costa Rica] :</subfield>
+    <subfield code="b">Universidad de Costa Rica,</subfield>
+    <subfield code="c">2014</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">página 4</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">En: Universidad, Suplemento Crisol</subfield>
+  </datafield>
+  <datafield ind1="2" ind2="2" tag="610">
+    <subfield code="9">714</subfield>
+    <subfield code="a">UNIVERSIDAD DE COSTA RICA</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">55</subfield>
+    <subfield code="a">MUJERES</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">326</subfield>
+    <subfield code="a">INVESTIGACIÓN EDUCATIVA</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">07</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">3075</subfield>
+    <subfield code="d">3075</subfield>
+  </datafield>
+</record>

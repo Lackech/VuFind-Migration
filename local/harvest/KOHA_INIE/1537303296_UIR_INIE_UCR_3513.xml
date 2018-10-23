@@ -1,0 +1,53 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00651nam a2200181   4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">3513</subfield>
+    <subfield code="d">3513</subfield>
+  </datafield>
+  <controlfield tag="008">180620b2017    sp a|||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="020" ind2=" ">
+    <subfield code="a">9788490234303</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">06.01.01</subfield>
+    <subfield code="b">2474</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1=" ">
+    <subfield code="9">3794</subfield>
+    <subfield code="a">Cerro Guerrero, Sebastián</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Educar en valores y actitudes: Recursos para la escuela y el tiempo libre /</subfield>
+    <subfield code="c">Sebastián Cerro Guerrero, José Manuel Mañú Noain</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">Madrid :</subfield>
+    <subfield code="b">Editorial CCS,</subfield>
+    <subfield code="c">2017</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">121 páginas; </subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield ind2="0" tag="650" ind1="1">
+    <subfield code="a">EDUCACIÓN EN VALORES</subfield>
+    <subfield code="9">719</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">367</subfield>
+    <subfield code="a">EDUCACIÓN PRIMARIA</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">785</subfield>
+    <subfield code="a">MATERIAL DIDÁCTICO</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2=" ">
+    <subfield code="9">3795</subfield>
+    <subfield code="a">Mañú Noain, José Manuel</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

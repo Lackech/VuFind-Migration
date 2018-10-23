@@ -1,0 +1,65 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00740nam a2200217   4500</leader>
+  <controlfield tag="008">160721b2010    s.la|||| |||| 00| | spa d</controlfield>
+  <datafield tag="020" ind2=" " ind1=" ">
+    <subfield code="a">9788469345504</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">06.06.01</subfield>
+    <subfield code="b">2344</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">1895</subfield>
+    <subfield code="a">Mora, José Ginés</subfield>
+    <subfield code="e">Editor/a</subfield>
+  </datafield>
+  <datafield ind2="3" ind1="1" tag="245">
+    <subfield code="a">Informe resumen de los resultados del proyecto PROFLEX en Latinoamérica : comparativa con el Proyecto REFLEX en Europa</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">s.l. :</subfield>
+    <subfield code="b">Universidad Politécnica de Valencia,</subfield>
+    <subfield code="c">2010?</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">69 páginas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">779</subfield>
+    <subfield code="a">GRADUADOS</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">16</subfield>
+    <subfield code="a">UNIVERSIDADES </subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">571</subfield>
+    <subfield code="a">MERCADO DE TRABAJO</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">550</subfield>
+    <subfield code="a">ENCUESTAS</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">8</subfield>
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="9">1896</subfield>
+    <subfield code="a">Carot, José Miguel</subfield>
+    <subfield code="e">Editor/a</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">1897</subfield>
+    <subfield code="a">Conchado, Andrea</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3278</subfield>
+    <subfield code="d">3278</subfield>
+  </datafield>
+</record>

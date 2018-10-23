@@ -1,0 +1,44 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00454nam a22001577a 4500</leader>
+  <controlfield tag="008">150803b208     cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9789968316217</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">05.05.03 </subfield>
+    <subfield code="b">2151 </subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">172</subfield>
+    <subfield code="a">Pérez Yglesias, María</subfield>
+  </datafield>
+  <datafield ind2=" " tag="245" ind1=" ">
+    <subfield code="a">Boleros nos volvemos tango... /</subfield>
+    <subfield code="c">María Pérez Yglesias</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Sa José, Costa Rica :</subfield>
+    <subfield code="b">EUNED,</subfield>
+    <subfield code="c">2008</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">128 páginas</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">655</subfield>
+    <subfield code="a">LITERATURA </subfield>
+  </datafield>
+  <datafield ind1="1" tag="651" ind2="4">
+    <subfield code="9">47</subfield>
+    <subfield code="a">COSTA RICA</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2754</subfield>
+    <subfield code="d">2754</subfield>
+  </datafield>
+</record>

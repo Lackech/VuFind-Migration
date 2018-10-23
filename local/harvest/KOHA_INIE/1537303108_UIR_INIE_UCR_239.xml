@@ -1,0 +1,56 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00621nam a2200193Ia 4500</leader>
+  <controlfield tag="008">150821b2001    s  ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="020">
+    <subfield code="a">8474777917</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">05.03.02 </subfield>
+    <subfield code="b">872</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Romo Santos, Manuela</subfield>
+    <subfield code="9">916</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Creatividad y currículum universitario / </subfield>
+    <subfield code="c">Manuela Romo Santos; Estefanía Sanz Lobo</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">España : </subfield>
+    <subfield code="b">Universidad Autónoma de Madrid, </subfield>
+    <subfield code="c">2001</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">227 páginas</subfield>
+  </datafield>
+  <datafield tag="650" ind2="0" ind1=" ">
+    <subfield code="a">CREATIVIDAD</subfield>
+    <subfield code="9">861</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="0" tag="650">
+    <subfield code="a">CURRÍCULO (EDUCACIÓN)</subfield>
+    <subfield code="9">342</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="9">8</subfield>
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="0" tag="650">
+    <subfield code="a">UNIVERSIDADES </subfield>
+    <subfield code="9">16</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">917</subfield>
+    <subfield code="a">Sanz Lobo, Estefanía </subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">239</subfield>
+    <subfield code="d">239</subfield>
+  </datafield>
+</record>

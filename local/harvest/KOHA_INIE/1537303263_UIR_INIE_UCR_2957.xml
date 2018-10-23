@@ -1,0 +1,46 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01935nab a2200169   4500</leader>
+  <controlfield tag="005">20160331134916.0</controlfield>
+  <controlfield tag="008">151210b2006    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">1202</subfield>
+    <subfield code="a">Oseguera Rodríguez, Jorge Francisco</subfield>
+  </datafield>
+  <datafield ind2="3" tag="245" ind1="1">
+    <subfield code="a">El humanismo en la educación médica /</subfield>
+    <subfield code="c">Jorge Francisco Oseguera Rodríguez</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2006</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">páginas 51-63</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">En los últimos 30 años se ha considerado, de forma creciente, el enfatizar el retorno al humanismo en medicina como una medida para  contrarrestar el "corporativismo", que rodea a los  sistemas de salud, ya que parece ser el responsable  de la deshumanización en la atención médica que hoy se proporciona. Cómo médicos educadores  nos encontramos preocupados por el impacto que las conductas profesionales de los médicos  ejercen  sobre el desarrollo de las actitudes y conductas humanistas  de los estudiantes y  residentes médicos, sin embargo,  aún parece existir cierta confusión de lo que implica el término "humanista" en este ámbito. De esto se deriva la necesidad de aclarar lo que entendemos por "humanismo médico" para lograr un acuerdo general que sustente la evaluación del humanismo en los médicos y estar en la posibilidad de plantear estrategias pedagógicas explícitas que permitan impulsarlo y fortalecerlo en el ámbito de la educación y la práctica médica. En este documento se revisa  el concepto clásico de humanismo y su evolución dentro de la medicina hasta considerarse  como una forma de vida en la que se estima y se hace énfasis  en el bienestar del ser humano y posibilita la  construcción de valores y normas</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind1="0" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0306</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.30, no.1 (2006)  </subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2957</subfield>
+    <subfield code="d">2957</subfield>
+  </datafield>
+</record>

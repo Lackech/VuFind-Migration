@@ -1,0 +1,54 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01774nab a2200181   4500</leader>
+  <controlfield tag="005">20160331135858.0</controlfield>
+  <controlfield tag="008">151216b2006    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">1117</subfield>
+    <subfield code="a">Cabezas Pizarro, Hannia </subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Relación empírica entre la terapia racional emotivo-conductual (TREC) de Ellis y la terapia cognitiva (TC) de Beck en una muestra Costarricense /</subfield>
+    <subfield code="c">Hannia Cabezas Pizarro</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2006</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">páginas 101-109</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">En este estudio se explora una posible relación empírica entre la terapia racional emotiva-conductual (TREC) de Ellis y la terapia cognitiva (TC) de Beck, dos de los modelos más conspicuos en el campo de la psicoterapia cognitiva actual.
+Si bien este modelo utiliza el término "cognitivo" en forma tal que se encuentra asociado  con el afect, la fisiología y la conducta (Dobson, 1986), sostiene que las perturbaciones emocionales en esencia, son causadas por el proceso cognitivo del individuo.
+En esta investigación, se trabajó con una muestra de 200 estudiantes de la Universidad de Costa Rica de diferentes áreas a quienes se les aplicaron las escalas de: Attitudes and Beliefs Inventory (ABI) [Escala de Actitudes y Creencias), y el Beck Depression Inventory, 2a edición (BDI-II) [Inventario de Depresión de Beck], escalas que fueron adaptadas al español.
+El análisis estadístico de los datos confirma empíricamente la relación entre ambos modelos</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">1224</subfield>
+    <subfield code="a">Lega, Leonor I</subfield>
+    <subfield code="c">coautora</subfield>
+  </datafield>
+  <datafield ind2=" " tag="773" ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0307</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.30, no.2 (2006)</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">2981</subfield>
+    <subfield code="d">2981</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,48 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00540nam a2200181Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="020">
+    <subfield code="a">9968-882-05-4</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">06.06.01 </subfield>
+    <subfield code="b">1633</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="100">
+    <subfield code="a">Rodríguez Allen, Ana</subfield>
+  </datafield>
+  <datafield ind1=" " tag="245" ind2=" ">
+    <subfield code="a">Después de la línea del tren / </subfield>
+    <subfield code="c">Ana Rodríguez Allen, Teresita Villalobos Hernández, Jessica Mac Donald</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">Heredia, C. R. : </subfield>
+    <subfield code="b">UNA, </subfield>
+    <subfield code="c">2006</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">68 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2=" ">
+    <subfield code="a">ESTUDIANTES</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">DOCENTES</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">EDUCACION</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="650">
+    <subfield code="a">SOCIOLOGIA</subfield>
+  </datafield>
+  <datafield ind1=" " tag="700" ind2=" ">
+    <subfield code="a">Villalobos Hernández, Teresita</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2=" ">
+    <subfield code="a">Mac Donald, Jessica</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">893</subfield>
+    <subfield code="d">893</subfield>
+  </datafield>
+</record>

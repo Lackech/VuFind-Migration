@@ -1,0 +1,72 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00830nam a2200241Ia 4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">883</subfield>
+    <subfield code="d">883</subfield>
+  </datafield>
+  <controlfield tag="008">170824b2003    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="020" ind2=" ">
+    <subfield code="a">9968818131</subfield>
+  </datafield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">06.03.06 </subfield>
+    <subfield code="b">423</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="a">Ortega Vincenzi, Dina</subfield>
+    <subfield code="9">2595</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Educación para la salud de los niños y de las niñas de Centroamérica / </subfield>
+    <subfield code="c">Dina Ortega Vicenzi</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">CECC, </subfield>
+    <subfield code="c">2003</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">120 páginas, </subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="490">
+    <subfield code="a">Colección Pedagógica Formación Inicial de Docentes Centroamericanos de Educación Primaria o Básica,</subfield>
+    <subfield code="v">18</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">EDUCACIÓN PRIMARIA</subfield>
+    <subfield code="9">367</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">EDUCACION SANITARIA</subfield>
+    <subfield code="9">2596</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">NIÑOS</subfield>
+    <subfield code="9">59</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">SALUD</subfield>
+    <subfield code="9">268</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">CONTAMINACIÓN</subfield>
+    <subfield code="9">793</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">ENFERMEDADES </subfield>
+    <subfield code="9">408</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">NUTRICIÓN</subfield>
+    <subfield code="9">534</subfield>
+  </datafield>
+  <datafield ind1=" " tag="651" ind2="4">
+    <subfield code="a">AMÉRICA CENTRAL</subfield>
+    <subfield code="9">457</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

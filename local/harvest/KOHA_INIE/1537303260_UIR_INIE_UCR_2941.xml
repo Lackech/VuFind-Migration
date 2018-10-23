@@ -1,0 +1,47 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01307nab a2200169   4500</leader>
+  <controlfield tag="005">20160331134254.0</controlfield>
+  <controlfield tag="008">151118b2005    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">129</subfield>
+    <subfield code="a">Mora Vargas, Ana Isabel</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Hacia la  investigación en docencia: Orientaciones básicas /</subfield>
+    <subfield code="c">Ana Isabel Mora Vargas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2005</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">páginas 99-121</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">En este trabajo se ofrecen orientaciones básicas para que el estudiante del área de educación incorpore la actitud hacia la investigación en su formación académica y la pueda tranferir posteriormente a sus desempeño profesional. Se proponen cuatro temas: la relación docencia - investigación, el diagnòstico educativo, esquema del informe de investigación  y una guía para citar las referencias bibliográficas. Cada tema recoge la experiencia acomulada de la aurora en la labor docente y de investigación en el nivel de educación superior, se ofrece un fundamento teórico básico y se sugieren actividades de aplicación
+</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" tag="773" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0304</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.29, no.2 (2005)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2941</subfield>
+    <subfield code="d">2941</subfield>
+  </datafield>
+</record>

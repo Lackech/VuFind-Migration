@@ -1,0 +1,46 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02320nab a2200169   4500</leader>
+  <controlfield tag="005">20160831161120.0</controlfield>
+  <controlfield tag="008">160415b2009    xxuf|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">1525</subfield>
+    <subfield code="a">Naranjo Pereira, María Luisa</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Motivación: prespectivas teóricas y algunas consideraciones de su importancia en el ámbito educativo /</subfield>
+    <subfield code="c">María Luisa Naranjo Pereira</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2009</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">páginas 153 - 170</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">Este artículo tiene como porpósito revisar el concepto de nmotivación, su evolución histórica, los tres principales enfoques relacionados con esta, asaber, conductual, humanista y cognitivo; y , además, presentar algunos aspectos de importancia sobre la motivación en el ámbito educativo. El enfoque conductual enfatiza que las personas actúan motivadaspor beneficios o recompensas que puedan recibir. El humanista  subraya las cualidades del ser humano, su capacidad para desarrollarse y su libertad de elección. De este enfoque se estudian las teorías motivacionales: Jerarquía de las necesidades de Maslow, Existencia, relación y crecimiento de Alderfer y la Teoría de las necesidades de McClelland. El enfoque cognitivo señala que lo que se piensa que puede ocurrir determina lo que sucede; así, las percepciones de los eventos influyen sobre  las emociones y los comportamientos. Si la persona cree que fracasará es probable que fracase y si piensa que tendrá éxito posiblemente lo logre. En esta perspectiva, los pensamientos guían la motivación. De este enfoque se revisa la teoría de las espectativas de Vroom, la Teoría de la equidad de Adams y el Modelo de fijación de metas y objetivos al que se refiere Trechera. Sobre el ámbito educativo se analiza especialmente la relación entre la Teoría de las atribuciones y el desempeño académico. Se presentan algunos motivos que pueden orientar el comportamiento estudiantil y, finalmente, se estudian las motivaciones intrínseca y extrínseca, y su influencia en el rendimiento académico del estudiantado.</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="3">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="0" tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0312</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.33, no.2 (2009)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">3101</subfield>
+    <subfield code="d">3101</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,66 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00767nam a2200217   4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3504</subfield>
+    <subfield code="d">3504</subfield>
+  </datafield>
+  <controlfield tag="008">180615b2013    s  ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="020" ind1=" ">
+    <subfield code="a">9788474328509</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">06.01.01</subfield>
+    <subfield code="b">2466</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="100">
+    <subfield code="9">3771</subfield>
+    <subfield code="a">Stephenson, Joan</subfield>
+    <subfield code="e">Compilador/a</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="4">
+    <subfield code="a">Los valores en la educación /</subfield>
+    <subfield code="c">Joan Stephenson, Lorraine Ling, Eva Burman, Maxine Cooper, compiladores</subfield>
+  </datafield>
+  <datafield ind1=" " tag="250" ind2=" ">
+    <subfield code="a">1 edición, julio del 2001</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">Barcelona :</subfield>
+    <subfield code="b">Editorial Gedisa,</subfield>
+    <subfield code="c">Reimpresión, 2013</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">318 páginas</subfield>
+  </datafield>
+  <datafield tag="490" ind1=" " ind2=" ">
+    <subfield code="a">Pedagogía de los valores</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="0">
+    <subfield code="a">EDUCACIÓN EN VALORES</subfield>
+    <subfield code="9">719</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">14</subfield>
+    <subfield code="a">ENSEÑANZA</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="700">
+    <subfield code="9">3772</subfield>
+    <subfield code="a">Ling, Lorraine</subfield>
+    <subfield code="e">Compilador/a</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="700">
+    <subfield code="9">3773</subfield>
+    <subfield code="a">Burman, Eva</subfield>
+    <subfield code="e">Compilador/a</subfield>
+  </datafield>
+  <datafield ind1=" " tag="700" ind2=" ">
+    <subfield code="9">3774</subfield>
+    <subfield code="a">Cooper, Maxine</subfield>
+    <subfield code="e">Compilador/a</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

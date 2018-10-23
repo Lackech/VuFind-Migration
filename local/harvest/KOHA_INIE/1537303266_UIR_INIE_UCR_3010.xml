@@ -1,0 +1,49 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01518nab a2200169   4500</leader>
+  <controlfield tag="005">20160331140920.0</controlfield>
+  <controlfield tag="008">160112b           f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">1252</subfield>
+    <subfield code="a">Esquivel Corella, Freddy</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Acercamientos a la valoración de la formación académica de la Universidad de Costa Rica y su vínculo con la realidad nacional /</subfield>
+    <subfield code="c">Freddy Esquivel Corella</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2008</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">páginas 13-28</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">El presente artículo, ilustra los cambios que expresa la valoración de la formación académica en la Universidad de Costa Rica, por parte de algunos estudiantes y docentes, al cuestionárseles su vínculo con la realidad nacional.
+La formación se valora de manera general como "muy buena", sin embargo, al interrogar sobre el particular de su relación con el contexto costarricense, la principal casilla que se elige es la de "buena".
+Sumado a ello, los cursos que institucionalmente son vinculados a esa tarea de articulación formación-contexto, reciben una valoración predominante de "regular".
+A su vez, se denota que al interior de la propia Universidad, existen diferencias particulares a partir de la Facultad y carrera de procedencia de la persona consultada</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind2=" " ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0310</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.32, no.2 (2008) </subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">3010</subfield>
+    <subfield code="d">3010</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,45 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00580nam a2200157Ia 4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">1660</subfield>
+    <subfield code="d">1660</subfield>
+  </datafield>
+  <controlfield tag="008">180321b1986    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">06.02.05 </subfield>
+    <subfield code="b">516</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="a">Coto S., Olga Marta</subfield>
+    <subfield code="9">3493</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Costos de estudio y de manutención del estudiante de la Universidad de Costa Rica : resultados de una encuesta / </subfield>
+    <subfield code="b">Olga Marta Coto S., Luis Fernando Herrera S.</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IICE, </subfield>
+    <subfield code="c">1986</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">56 páginas</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">COSTO DE LA ENSEÑANZA</subfield>
+    <subfield code="9">3428</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">ESTUDIANTES UNIVERSITARIOS </subfield>
+    <subfield code="9">481</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="a">Herrera F., Luis Fernando</subfield>
+    <subfield code="9">3494</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

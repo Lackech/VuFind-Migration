@@ -1,0 +1,57 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00780nam a2200205Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">527</subfield>
+    <subfield code="d">527</subfield>
+  </datafield>
+  <controlfield tag="008">170201b2012    ag ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="020" ind2=" " ind1=" ">
+    <subfield code="a">9789871599752</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">18.01.01 </subfield>
+    <subfield code="b">861 CD # 238</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Marzorati, Zulema del Valle</subfield>
+    <subfield code="9">2357</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Plantear utopías: la conformación del campo científico-tecnológico nuclear en Argentina (1950-1955) / </subfield>
+    <subfield code="c">Zulema del Valle Marzorati</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Buenos Aires : </subfield>
+    <subfield code="b">Ediciones CICCUS; Clacso, </subfield>
+    <subfield code="c">2012</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">269 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="490">
+    <subfield code="a">Colección ciencia en sociedad / Cecilia Hidalgo y Adriana Stagnaro</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">También en formato electrónico</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">CIENCIA Y TECNOLOGÍA </subfield>
+    <subfield code="9">37</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">POLITICA CIENTIFICA  </subfield>
+    <subfield code="9">2358</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">POLITICA TECNOLOGICA </subfield>
+  </datafield>
+  <datafield tag="651" ind2="4" ind1=" ">
+    <subfield code="a">ARGENTINA</subfield>
+    <subfield code="9">63</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">06</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,87 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00952nam a2200289Ia 4500</leader>
+  <controlfield tag="008">150724b201     S  ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="022" ind1=" ">
+    <subfield code="a">0212-4068</subfield>
+  </datafield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">06.01.01 </subfield>
+    <subfield code="b">2136</subfield>
+  </datafield>
+  <datafield ind1="2" tag="110" ind2=" ">
+    <subfield code="a">Asociación Interuniversitaria de Investigación Pedagógica</subfield>
+    <subfield code="9">474</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Revista de investigación educativa / </subfield>
+    <subfield code="c">AIDIPE</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">España : </subfield>
+    <subfield code="b">Universidad de Murcia, </subfield>
+    <subfield code="c">2013</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">570 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Vol.31, no.2 (julio, 2013)</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">INVESTIGACIÓN EDUCATIVA</subfield>
+    <subfield code="9">326</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">ESTUDIANTES UNIVERSITARIOS </subfield>
+    <subfield code="9">481</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">EDUCACIÓN PRIMARIA</subfield>
+    <subfield code="9">367</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">EDUCACIÓN SECUNDARIA</subfield>
+    <subfield code="9">456</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">MATEMÁTICAS  </subfield>
+    <subfield code="9">482</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">GÉNERO</subfield>
+    <subfield code="9">69</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">APRENDIZAJE </subfield>
+    <subfield code="9">387</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">FAMILIA</subfield>
+    <subfield code="9">404</subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2="0">
+    <subfield code="a">TECNOLOGÍA EDUCATIVA </subfield>
+    <subfield code="9">483</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">TECNOLOGÍA DE LA INFORMACIÓN </subfield>
+    <subfield code="9">484</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">EDUCACIÓN INTERCULTURAL </subfield>
+    <subfield code="9">485</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">PUBLICACIONES PERIÓDICAS</subfield>
+    <subfield code="9">3</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">90</subfield>
+    <subfield code="d">90</subfield>
+  </datafield>
+</record>

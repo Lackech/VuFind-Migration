@@ -1,0 +1,72 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00948nam a2200241Ia 4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">2041</subfield>
+    <subfield code="d">2041</subfield>
+  </datafield>
+  <controlfield tag="008">170327b2012    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">08.16.03 </subfield>
+    <subfield code="b">1270</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Vargas Sandoval, Yensi</subfield>
+    <subfield code="9">2629</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Proyecto INIE: edición digital / </subfield>
+    <subfield code="c">Yensi Vargas Sandoval; Rebeca Vargas Bolaños; Wendy Páez Cerdas; Gabriela Regueyra Edelman; Franklin Rodríguez Vargas; Alejandro Víchez Barboza</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2012</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">93 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Informe final proyecto de investigación N° 724-B1-059</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">EDICION ELECTRONICA </subfield>
+    <subfield code="9">2630</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">DIGITALIZACIÓN</subfield>
+    <subfield code="9">2633</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">GESTIÓN</subfield>
+    <subfield code="9">2631</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">EDITORIAL</subfield>
+    <subfield code="9">2632</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">250</subfield>
+    <subfield code="a">Vargas Bolaños, Rebecca</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="a"> Páez Cerdas, Wendy</subfield>
+    <subfield code="9">154</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="a">Regueyra Edelman, María Gabriela</subfield>
+    <subfield code="9">1513</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="a">Rodríguez Vargas, Franklin</subfield>
+    <subfield code="9">1562</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="a">Vílchez Barboza, Alejandro</subfield>
+    <subfield code="9">2337</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

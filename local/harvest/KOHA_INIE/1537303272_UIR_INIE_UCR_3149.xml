@@ -1,0 +1,46 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01481nab a2200169   4500</leader>
+  <controlfield tag="005">20160422143149.0</controlfield>
+  <controlfield tag="008">160422b2       cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2="0">
+    <subfield code="9">1117</subfield>
+    <subfield code="a">Cabezas Pizarro, Hannia </subfield>
+  </datafield>
+  <datafield ind2="4" tag="245" ind1="1">
+    <subfield code="a">Los niños rompen el silencio. Estudio exploratorio de conductas agresivas en la escuela costarricense /</subfield>
+    <subfield code="c">Hannia Cabezas Pizarro</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2011</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">páginas 139-151</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">En esta investigación se pretende explorar el grado de violencia que existe entre los niños y niñas que cursan estudios en la educación primaria de las escuelas costarricenses. Para efectuar este trabajo, se seleccionó una muestra intencional de 916 estudiantes que cursaban los niveles de tercero a sexto grado, los cuales provenían de diversas zonas del país. Se halló que el 29% de los alumnos(as) ha sido víctima de maltrato por parte de sus iguales de diferentes formas en una o más ocasiones. La información que aquí se analizó se obtuvo mediante una encuesta piloto adaptada para el estudio previamente administrada a grupos de adolescentes, la que contiene los criterios establecidos por Olweus (1998) para identificar el acoso escolar</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind1="0" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0398</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.35, no.1 (ene.-jun., 2011)</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3149</subfield>
+    <subfield code="d">3149</subfield>
+  </datafield>
+</record>

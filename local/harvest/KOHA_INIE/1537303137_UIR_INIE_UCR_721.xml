@@ -1,0 +1,76 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00973nam a2200241Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">721</subfield>
+    <subfield code="d">721</subfield>
+  </datafield>
+  <controlfield tag="008">170518b2010    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="020">
+    <subfield code="a">9789977681771</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">02.03.01 </subfield>
+    <subfield code="b">1933</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Calderón Umaña, Rodolfo</subfield>
+    <subfield code="9">2793</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Foro sobre desarrollo humano y seguridad ciudadana: propuestas para la acción / </subfield>
+    <subfield code="c">Rodolfo Calderón Umaña, Constantino Urcuyo Fournier, Milena Grillo Rivera, Guiselle Boza Solano, Soraya Long Saborío</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">FLACSO, </subfield>
+    <subfield code="c">2010</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">127 páginas</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">SEGURIDAD SOCIAL</subfield>
+    <subfield code="9">2791</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">DESARROLLO HUMANO</subfield>
+    <subfield code="9">77</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">DROGAS DE USO INDEBIDO</subfield>
+    <subfield code="9">1862</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">CRIMINOLOGÍA</subfield>
+    <subfield code="9">2656</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="4" tag="651">
+    <subfield code="a">COSTA RICA</subfield>
+    <subfield code="9">47</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">2567</subfield>
+    <subfield code="a">Grillo Rivera, Milena</subfield>
+    <subfield code="e">Coordinador/a</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">2792</subfield>
+    <subfield code="a">Boza Solano, Guiselle</subfield>
+    <subfield code="e">Coordinador/a</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">2790</subfield>
+    <subfield code="a">Urcuyo Fournier, Constantino</subfield>
+    <subfield code="e">Coordinador/a</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">2794</subfield>
+    <subfield code="a">Long Saborío, Soraya</subfield>
+    <subfield code="e">Coordinador/a</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

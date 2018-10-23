@@ -1,0 +1,53 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00805nam a2200181   4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3383</subfield>
+    <subfield code="d">3383</subfield>
+  </datafield>
+  <controlfield tag="008">170131b2010    CR ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">06.04.11  </subfield>
+    <subfield code="b">2258</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">2355</subfield>
+    <subfield code="a">Araya Jarquín, Magda</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Caracterización de la población a la que se asignó beca de asistencia socioeconómica I ciclo 2010</subfield>
+    <subfield code="c"> / elaborado por Magda Araya Jarquín, Gabriela Chaves Soto</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">[San José, Costa Rica] : </subfield>
+    <subfield code="b">Universidad de Costa Rica. Oficina de Becas y Atención Socioeconómica,</subfield>
+    <subfield code="c">2010</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">39 páginas; </subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">La Unidad posee informes de I y II ciclo 2010, I y II ciclo 2011, I y II ciclo 2012</subfield>
+  </datafield>
+  <datafield ind2=" " tag="610" ind1="2">
+    <subfield code="9">714</subfield>
+    <subfield code="a">UNIVERSIDAD DE COSTA RICA</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">332</subfield>
+    <subfield code="a">ESTUDIANTES </subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">2353</subfield>
+    <subfield code="a">BECAS</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="9">2356</subfield>
+    <subfield code="a">Chaves Soto, Gabriela</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

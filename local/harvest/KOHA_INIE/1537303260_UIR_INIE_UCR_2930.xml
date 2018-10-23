@@ -1,0 +1,45 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02441nab a2200157   4500</leader>
+  <controlfield tag="008">151105b2005    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">1082</subfield>
+    <subfield code="a">Castro Bonilla, Julieta</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Reflexiones respecto a la construcción de conocimientos en el área de la enseñanza de las Artes Plásticas /</subfield>
+    <subfield code="c">Julieta Castro Bonilla</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2005</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">páginas 45-58</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">Las innovaciones que se producen día con día en los campos científico, tecnológico, ambiental, social, entre otros, afectan de manera significativa la educación y en consecuencia la labor que desempeñan los docentes. En este marco se le reconoce a la educación su función de orientar e impulsar políticas que respondan a las necesidades e intereses de quienes conforman el contexto social. El presente artículo pretende que quien imparte lecciones en el área de las Artes Plásticas comprenda que, como facilitador de los procesos de enseñanza y aprendizaje, debe fundamentar su práctica docente en referentes teóricos que les permitan a sus estudiantes trascender su análisis teórico y crítico, y llegar a propuestas concretas, realizables y transferibles a otros contextos. No debe nunca considerarse dueño absoluto de la verdad y del conocimiento. Debe eso sí tomar en consideración, de acuerdo con su formación y experiencia en esta área, referentes teóricos como el constructivismo, el holismo, la teoría de las inteligencias múltiples, la aplicación de la pedagogía, la psicología, la epistemología y la didáctica, que entrelazados con los contenidos propios del área de las Artes Plásticas, le permitan organizar un trabajo de aula reflexivo, que ofrezca la posibilidad de generar aprendizajes importantes. Por consiguiente, le corresponde al profesor de Artes Plásticas estudiar e investigar en forma rigurosa los fundamentos mencionados, así como practicar de manera constante técnicas artísticas variadas, pues le facilitan al estudiante el desarrollo de sus habilidades para aprender, para asimilar información eficiente y oportuna, para tomar decisiones solucionar problemas e incrementar su creatividad</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" tag="773" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0300</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.29, no.1 (2005)</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2930</subfield>
+    <subfield code="d">2930</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,42 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00645nam a2200157Ia 4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2404</subfield>
+    <subfield code="d">2404</subfield>
+  </datafield>
+  <controlfield tag="008">180918b2008    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">Archivo #04</subfield>
+  </datafield>
+  <datafield ind2=" " tag="245" ind1=" ">
+    <subfield code="a">UCR pionera en textos para enseñanza del inglés</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Universidad de Costa Rica, </subfield>
+    <subfield code="c">2008</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">2 páginas Artículo</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">En : Portal de la Investigación. Vicerrectoría de Investigación http://www.vinv.ucr.ac.cr/index.php?option=com_content&amp;task=view&amp;id=190&amp;Itemid=108\01 agosto 2008</subfield>
+  </datafield>
+  <datafield ind1=" " tag="610" ind2="0">
+    <subfield code="9">714</subfield>
+    <subfield code="a">UNIVERSIDAD DE COSTA RICA</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">ENSEÑANZA DE IDIOMAS</subfield>
+    <subfield code="9">1317</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">LIBROS DE TEXTO</subfield>
+    <subfield code="9">1746</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">07</subfield>
+  </datafield>
+</record>

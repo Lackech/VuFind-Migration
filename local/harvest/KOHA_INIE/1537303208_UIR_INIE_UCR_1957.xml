@@ -1,0 +1,61 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03936nam a2200181Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">1957</subfield>
+    <subfield code="d">1957</subfield>
+  </datafield>
+  <controlfield tag="008">180629b2012    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">06.05.02 </subfield>
+    <subfield code="b">425</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="a">Arguedas Quesada, Consuelo</subfield>
+    <subfield code="9">736</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Revisión del modelo pedagógico que emplea los programas especiales del Sistema Nacional de Educación Musical. Ministerio de Cultura y Juventud: con enfoque de derechos del niño, la niña y la población adolescente / </subfield>
+    <subfield code="c">Consuelo Arguedas Quesada</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2012</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">203 páginas</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">La investigación plantea la importancia de la educación musical, como un derecho de la niñez y la adolescencia, y al mismo tiempo como una herramienta significativa para el logro de otros derechos humanos. 
+El trabajo corresponde a estudios de casos con enfoque cualitativo en respuesta al problema de investigación intervención, y forma parte de la residencia práctica de la investigadora, perteneciente a la Maestría Profesional en Derechos Humanos de Niñez y Adolescencia. Dichos estudios se llevan a cabo en los proyectos Música con accesibilidad para todos de Moravia MAT, y Crecer con la música CCM de Santa Catalina de Pavas, pertenecientes al Sistema Nacional de Educación Musical SINEM. 
+Para tal efecto se realiza una búsqueda a nivel nacional e internacional sobre tópicos similares, y se fundamenta a partir de los siguientes instrumentos en Derechos Humanos: la Convención de los Derechos del Niño, el Código de la Niñez y la Adolescencia, la Convención Internacional sobre los Derechos de las Personas con Discapacidad, la Política Nacional en Discapacidad 2011-2021, de los cuales se seleccionan los aspectos que se relacionan con el tema de interés de esta investigación. Al mismo tiempo, como parte del marco institucional se hace mención al Ministerio de Salud, y el Ministerio de Cultura y Juventud. 
+La población participante la conforman las y los estudiantes de los proyectos antes mencionados, las madres, padres o personas encargadas de esos niños, niñas y adolescentes, así como también las docentes de los programas especiales del SINEM seleccionados y las docentes del CINAI donde se ubica dicho CCM. 
+Dentro de las técnicas e instrumentos que se consideran necesarios para la recolección de datos se encuentran la observación no participante, el cuestionario, la entrevista, videos, elaboración de cuadros, dibujos, sesión de trabajo con docentes y revisión bibliográfica. Estos instrumentos facilitan la integración y la interpretación de los mismos, lo que permite triangular la información recabada. 
+Entre las conclusiones de la investigación están las siguientes: 
+Como parte de las necesidades que se atienden de preferencia en el MAT de Moravia, a partir de las variables del instrumento de observación se encuentran las siguientes: afecto, respeto, tolerancia, estimulación de la sensibilidad, aprender y reproducir conductas realizadas por un modelo, estimulación de la memoria, percepción visual, auditiva y táctil, coordinación motriz fina y gruesa, y estimulación de los sentidos (oído, vista, tacto). 
+Las necesidades que se atienden de preferencia en CCM de Santa Catalina de Pavas a partir de las variables del instrumento de observación corresponden a: bienestar consigo mismo y con el grupo, autoconfianza y autoestima, afecto, aprender y reproducir conductas realizadas por un modelo, y estimulación de la memoria. 
+Los programas especiales MAT de Moravia y CCM de Santa Catalina de Pavas brindan oportunidades para que la población infantil y adolescente tenga acceso a actividades que les resulten de interés, y de esta manera colabora con la salud, el desarrollo físico, cognitivo y emocional de sus estudiantes. 
+</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">MÉTODOS PEDAGÓGICOS</subfield>
+    <subfield code="9">824</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">MÚSICA</subfield>
+    <subfield code="9">13</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">DERECHOS HUMANOS</subfield>
+    <subfield code="9">588</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

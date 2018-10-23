@@ -1,0 +1,48 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02418nam a2200169Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2325</subfield>
+    <subfield code="d">2325</subfield>
+  </datafield>
+  <controlfield tag="008">180911b1991    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">18.09.01 </subfield>
+    <subfield code="b">939</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="100">
+    <subfield code="a">Díaz Solís, Sofía María</subfield>
+    <subfield code="9">4195</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Análisis de ítemes de selección y desarrollo elaborados por docentes que imparten lecciones de biología en las 17 regiones educativas del país / </subfield>
+    <subfield code="c">Sofía María Díaz Solís </subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1991</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">37 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">Desde 1982, el IMEC realiza diagnósticos evaluativos de la enseñanza de las Ciencias Generales, que han evidenciado una serie de deficiencias en relación con el rendimiento académico de los estudiantes. Por ello, el MEP, tomó la decisión de realizar pruebas estandarizadas en la conclusión de cada ciclo de la Educación General Básica y la Educación Diversificada. Así, en 1987, se preparó una serie de Pruebas Nacionales en las diferentes regiones del país. Para la prueba de 1989, se consideró necesario, además de la distribución porcentual, consultar a los docentes sobre la confección de ítemes de selección y desarrollo, para conocer y analizar el tipo de ítemes que se establecen a nivel de aula y seleccionara algunos para incluirlos en las pruebas. En este documento, se presenta el resultado del análisis efectuado a los ítemes elaborados por los profesores de Biología. Se concluyó que, en el área de Biología, los temas que se requieren de la química orgánica o la bioquímica, son poco utilizados. En cuanto al tema de “Reproducción Humana”, más del 40% de las regiones educativas no lo abordó, e tanto que el tema “Reproducción sexual”, no fue tomado en cuenta por el 71% de las regiones educativas. En cuanto a “Genética”, “Evolución” y “Reinos Biológicos”, fueron poco usados. Sobre la selección de ítemes, se nota que solo el 1% presenta en el enunciado esquemas o dibujos, y en general, el predominio de enunciados llanos. Además, un 29% de los ítemes presenta problemas de enunciado, y en los de desarrollo, estos problemas ascienden al 49% de los ítemes. Por lo anterior, se llama la atención a los encargados y al MEP en la construcción y aplicación de conocimientos en las aulas de clase y en la elaboración de ítemes para las pruebas</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">PRUEBAS</subfield>
+    <subfield code="9">629</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">BIOLOGÍA</subfield>
+    <subfield code="9">40</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">ANÁLISIS</subfield>
+    <subfield code="9">3926</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

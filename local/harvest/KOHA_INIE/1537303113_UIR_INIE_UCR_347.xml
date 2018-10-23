@@ -1,0 +1,55 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00626nam a2200193Ia 4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">347</subfield>
+    <subfield code="d">347</subfield>
+  </datafield>
+  <controlfield tag="008">160204b2001    AG ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="020">
+    <subfield code="a">95070177633</subfield>
+  </datafield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">370.12 R789p</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="a">Rosas, Ricardo</subfield>
+    <subfield code="9">1416</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Piaget, Vigotsky y Maturana : Constructivismo a tres voces / </subfield>
+    <subfield code="c">Ricardo Rosas; Christian Sebastián</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">Argentina : </subfield>
+    <subfield code="b">AIQUE, </subfield>
+    <subfield code="c">2001</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">111 págians</subfield>
+  </datafield>
+  <datafield ind2="4" tag="600" ind1="1">
+    <subfield code="9">2113</subfield>
+    <subfield code="a">PIAGET, JEAN</subfield>
+  </datafield>
+  <datafield ind1="1" tag="600" ind2="4">
+    <subfield code="9">906</subfield>
+    <subfield code="a">VYGOTSKY, LEV SEMIONOVICH </subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="600">
+    <subfield code="9">2362</subfield>
+    <subfield code="a">MATURANA, HUMBERTO</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">CONSTRUCTIVISMO (EDUCACIÓN)</subfield>
+    <subfield code="9">419</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="a">Sebastián, Christian</subfield>
+    <subfield code="9">1417</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

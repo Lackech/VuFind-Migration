@@ -1,0 +1,51 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00567nam a2200157Ia 4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">1544</subfield>
+    <subfield code="d">1544</subfield>
+  </datafield>
+  <controlfield tag="008">180226b1993    cl ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">06.02.01 </subfield>
+    <subfield code="b">2121</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="a"> Osorio, Jorge</subfield>
+    <subfield code="9">3395</subfield>
+    <subfield code="e">editor/a</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="3">
+    <subfield code="a">El corazón del arco iris: lecturas sobre nuevos paradigmas en educación y desarrollo / </subfield>
+    <subfield code="c">Jorge Osorio, Luis Weinstein (editores)</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Santiago, Chile, </subfield>
+    <subfield code="b">Consejo de Educación de Adultos de América Latina (CEAAL), </subfield>
+    <subfield code="c">1993</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">298 páginas</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">ASPECTOS SOCIALES </subfield>
+    <subfield code="9">576</subfield>
+  </datafield>
+  <datafield ind1=" " tag="651" ind2="4">
+    <subfield code="a">AMÉRICA LATINA</subfield>
+    <subfield code="9">273</subfield>
+  </datafield>
+  <datafield ind1=" " tag="700" ind2=" ">
+    <subfield code="a">Weinstein, Luis </subfield>
+    <subfield code="e">editor/a</subfield>
+    <subfield code="9">3396</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

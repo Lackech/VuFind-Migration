@@ -1,0 +1,40 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00398nam a2200145Ia 4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">1353</subfield>
+    <subfield code="d">1353</subfield>
+  </datafield>
+  <controlfield tag="008">170620b1996    ck ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">05.03.07    </subfield>
+    <subfield code="b">545</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="a">Londoño, Alejandro</subfield>
+    <subfield code="9">2586</subfield>
+  </datafield>
+  <datafield ind2="4" tag="245" ind1="1">
+    <subfield code="a">112 Dinámicas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">Bogota, </subfield>
+    <subfield code="b">Colombia: Indo-Américan Press Service, </subfield>
+    <subfield code="c">1996</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">123 páginas</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">JUEGOS</subfield>
+    <subfield code="9">275</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">PEDAGOGÍA</subfield>
+    <subfield code="9">1770</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

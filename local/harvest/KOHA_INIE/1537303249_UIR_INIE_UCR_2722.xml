@@ -1,0 +1,53 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03418nab a2200169   4500</leader>
+  <controlfield tag="005">20160317162422.0</controlfield>
+  <controlfield tag="008">150702b2001    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">251</subfield>
+    <subfield code="a">Montero Mata, Dagoberto</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Retos de la Universidad de Costa Rica. Nosotros: la Universidad /</subfield>
+    <subfield code="c">Dagoberto Montero Mata</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2001</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a"> páginas 151-135</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">¿Estará la Universidad preparada y cumpliendo el papel que la sociedad actual necesita?; pero, ¿es que  acaso no somos parte real tanto los docentes como administrativos, de la misma Universidad, o es que no somos la parte que da vida a la estructura, al equipo y en sí a la organización.
+Nuestro recordado profesor Isaac Felipe Azofeifa (1991), menciona la frase "salvar al ser del hombre y su cultura es el reto universitario  para el siglo XXI", en referencia a los variados peligros ante los cuales sucumbe el hombre, como el caso de la civilización electrónica, la ingeniería genética, la computación; el mundo tan acelerado, etc. Posiblemente este autor evocaba con su pensamiento el peligro tan mencionado, "shock del futuro", y quería asimismo despertar nuestra conciencia de verdaderos educadores, cuando afirmaba que "Educar es humanizar".
+Hoy, es posible que nos dejemos llevar por la corriente de la utilización  de los diversos medios audiovisuales, al tratar de ilustrar y adornar  nuestras sesiones de clase, pero olvidándonos de la parte esencial del contacto humano.
+Posiblemente resulte correcto el pensamiento del ilustre universitario, Don Rodrigo Facio, quien afirmaba que la Universidad no debía crecer más allá de  diez mil estudiantes, porque perderíamos el humanismo, la atención y formación profesional.
+Los llamados profesores o académicos, que más bien debiéramos ser los "facilitadores" del proceso educativo, debemos hacer conciencia de la gran tarea y responsabilidad que tenemos en nuestras manos. La profesora Alicia Sequeira R. (1995), de la Escuela de Formación Docente, menciona en su escrito "Retos de la Pedagogía Universitaria", una lista de aspectos que considero muy acertados sobre el estado actual de la Universidad. Entre ellos: el ambiente de descondianza, la incertidumbre, el poco entusiasmo, el individualismo, la falta de compromiso y la escasa producción científica. 
+Sin duda, toda una realidad que debemos corregir a tiempo y no dejarla pasar como dejamos pasar las malas administraciones de unidades académicas, y otras organizaciones universitarias, por no complicarnos, por no manifestar nuestro pensamiento y nuestras ideas, pues al final, acabamos con frustaciones, desmotivación, con la teoría del "dejar hacer, dejar pasar"; y lo cual nos lleva definitivamente al incumplimiento de nuestra labor como docente o administrativo, a no aportar eficientemente en la formación de los futuros profesionales.
+El futuro es incierto para todos y mucho más para la Universidad; lo que sembramos, cocecharemos; en el futuro veremos los frutos de nuestro trabajo al observar el desempeño de los profesionales en las distintas actividades de la vida nacional
+</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind1="0" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0054</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.25, no.1  (2001)</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2722</subfield>
+    <subfield code="d">2722</subfield>
+  </datafield>
+</record>

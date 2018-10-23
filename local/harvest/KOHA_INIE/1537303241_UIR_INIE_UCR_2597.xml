@@ -1,0 +1,46 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01616nab a22001577a 4500</leader>
+  <controlfield tag="008">150528b1998    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">90</subfield>
+    <subfield code="a">Murillo Rojas, Marielos</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Riqueza léxica en niños preescolares costarricenses /</subfield>
+    <subfield code="c">Marielos Murillo Rojas </subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">1998</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">páginas 131 - 140</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">El enrequicimiento del vocabulario es uno de los temas presentes en los programas escolares de todos los niveles y el preescolar no escapa a ello; por lo tanto, conocer la densidad léxica de los niños -número de palabras diferentes en una unidad de texto de 100 vocablos- es indispensable para establecer, por lo menos a manera de cala, parámetros costarricenses de riqueza léxica en niños preescolares.
+Para calcular la densidad léxica de niños y adultos, se cuenta con los parámetros  establecidos por  el Dr. Raúl Ávila de México, aplicados, claro está, a la población mexicana. Para Costa Rica, (Barahona Novoa, 1996) y (Leoni de León, 1997) evaluaron la densidad léxica de dos medios de comunicación de masas; el primero,la radio y el segundo, la prensa escrita, utilizando la misma escala. Dado lo anterior el objetivo es estudiar el crecimiento de la densidad léxica de 40 niños de 3 a 6 años de edad, cuyas edades están  separadas en rangos de un mes</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="0" tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0020</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.22, no.1 (1998)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2597</subfield>
+    <subfield code="d">2597</subfield>
+  </datafield>
+</record>

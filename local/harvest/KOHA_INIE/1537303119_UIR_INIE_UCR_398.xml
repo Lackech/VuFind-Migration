@@ -1,0 +1,72 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01362nam a2200265Ia 4500</leader>
+  <controlfield tag="008">160919b1997    mx ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="020" ind2=" ">
+    <subfield code="a">9683621236</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">06.02.01 </subfield>
+    <subfield code="b">1309</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Hoyos Medina, Carlos Angel</subfield>
+    <subfield code="9">2005</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Epistemología y Objeto Pedagógico ¿Es la pedagogía una ciencia? / </subfield>
+    <subfield code="c">Carlos Angel Hoyos Medina</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">México : </subfield>
+    <subfield code="b">UNAM, </subfield>
+    <subfield code="c">1997</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">148 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="490">
+    <subfield code="a">Educación. Serie Mayor</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="505">
+    <subfield code="a">Pedagogía de la modernidad. Estudio introductorio / Carlos Ángel Hoyos Medina</subfield>
+  </datafield>
+  <datafield tag="505" ind1=" " ind2=" ">
+    <subfield code="a">Epistemología y dicurso pedagógico: razón y aporia en el proyecto de modernidad /Carlos Ángel Hoyos Medina</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="505">
+    <subfield code="a">Epistemología y pedagogía / Gerardo Meneses Díaz</subfield>
+  </datafield>
+  <datafield tag="505" ind1=" " ind2=" ">
+    <subfield code="a">Conocimiento e investigación: necesidades epistémicas del proceso de enseñanza aprendizaje / Ángel Espinoza Montes</subfield>
+  </datafield>
+  <datafield tag="505" ind1=" " ind2=" ">
+    <subfield code="a">El debate epistemológico: una necesidad del proceso de investigacións social / Arturo Rivea Medero</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="505">
+    <subfield code="a">La determinación delpensamiento hipotético-deductivo en la construcción del conocimiento / Verónica Mata García</subfield>
+  </datafield>
+  <datafield tag="505" ind1=" " ind2=" ">
+    <subfield code="a">La explicación científica. Una polémica desde la teoría del conociemiento / Ángel Díaz Barriga</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">INVESTIGACIÓN SOCIAL</subfield>
+    <subfield code="9">290</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">DISCURSO </subfield>
+    <subfield code="9">2006</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">EPISTEMOLOGÍA</subfield>
+    <subfield code="9">562</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">398</subfield>
+    <subfield code="d">398</subfield>
+  </datafield>
+</record>

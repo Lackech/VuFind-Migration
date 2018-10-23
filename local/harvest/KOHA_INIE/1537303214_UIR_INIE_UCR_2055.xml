@@ -1,0 +1,58 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00797nam a2200205Ia 4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2055</subfield>
+    <subfield code="d">2055</subfield>
+  </datafield>
+  <controlfield tag="008">180829b2001    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">12.06.01 </subfield>
+    <subfield code="b">1606 CD #167</subfield>
+  </datafield>
+  <datafield ind1=" " tag="100" ind2=" ">
+    <subfield code="9">3721</subfield>
+    <subfield code="a">Sousa Silva, José de</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="3" tag="245">
+    <subfield code="a">La cuestión institucional: de la vulnerabilidad a la sostenibillidad institucional en el contexto de cambio de época / José de Sousa Silva, Juan Cheaz Peláez, Johanna Calderón Romero. </subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Proyecto ISNAR "Nuevo Paradigma", </subfield>
+    <subfield code="c">2001</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">79 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Contiene el disco compacto #167</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">INNOVACIONES</subfield>
+    <subfield code="9">649</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">CAMBIO ORGANIZACIONAL</subfield>
+    <subfield code="9">473</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">GLOBALIZACIÓN</subfield>
+    <subfield code="9">266</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="a">Cheaz Peláez, Juan</subfield>
+    <subfield code="9">3720</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Calderón Romero Johanna</subfield>
+    <subfield code="9">4168</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,44 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00495nam a2200157   4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3519</subfield>
+    <subfield code="d">3519</subfield>
+  </datafield>
+  <controlfield tag="008">180620b2014    sp ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="020">
+    <subfield code="a">9788415271505</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">06.01.01</subfield>
+    <subfield code="b">2479</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1=" ">
+    <subfield code="9">3802</subfield>
+    <subfield code="a">Moscoso, Melania</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="4">
+    <subfield code="a">Las aventuras de la legitimidad: Educación en valores y modernidad /</subfield>
+    <subfield code="c">Melania Moscoso</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">Madrid :</subfield>
+    <subfield code="b">Plaza y Valdés,</subfield>
+    <subfield code="c">2014</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">358 páginas</subfield>
+  </datafield>
+  <datafield ind2="0" tag="650" ind1=" ">
+    <subfield code="a">EDUCACIÓN EN VALORES</subfield>
+    <subfield code="9">719</subfield>
+  </datafield>
+  <datafield ind2="0" ind1=" " tag="650">
+    <subfield code="9">3803</subfield>
+    <subfield code="a">EDUCACIÓN CIUDADANA</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

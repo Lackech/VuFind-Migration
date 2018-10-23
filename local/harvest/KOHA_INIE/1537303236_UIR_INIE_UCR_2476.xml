@@ -1,0 +1,40 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00687nam a2200157Ia 4500</leader>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">CD #214</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1=" ">
+    <subfield code="a">Martínez Bonafé, Jaume</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="245">
+    <subfield code="a">Cambiar la escuela con Freinet [documental] / Jaume Martínez Bonafé, coordinador del curso</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">España : </subfield>
+    <subfield code="b">Universitat de Vàlencia, </subfield>
+    <subfield code="c">2006</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">disco compacto</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Documental con guión y dirección de Jaume Martínez Bonafé del curso "Actualidad de la pedagogía Freinet" realizado del 9 de febrero al 18 de mayo del 2006 en la Facultat de Filosfia i Ciències de l'Educació de la Universitat de Vàlencia</subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2=" ">
+    <subfield code="a">PEDAGOGIA</subfield>
+  </datafield>
+  <datafield tag="650" ind2=" " ind1=" ">
+    <subfield code="a">CURSOS</subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2=" ">
+    <subfield code="a">FREINET, CELESTIN</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="p">002470 </subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2476</subfield>
+    <subfield code="d">2476</subfield>
+  </datafield>
+</record>

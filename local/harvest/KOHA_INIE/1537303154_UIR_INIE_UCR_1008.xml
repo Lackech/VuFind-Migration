@@ -1,0 +1,54 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00856nam a2200193Ia 4500</leader>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9977-64-769-0</subfield>
+  </datafield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">18.08.01 </subfield>
+    <subfield code="b">891</subfield>
+  </datafield>
+  <datafield ind2=" " tag="111" ind1=" ">
+    <subfield code="a">Reunión Centroamericana y del Caribe sobre formación de profesores e investigadores en matemática educativa (8° : 1994 : San José, C.R.)</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Memoria / </subfield>
+    <subfield code="c">Thais Cordero Alfaro, Mario Murillo Chaves, Teresita Peralta Monge, editores</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, C.R. : </subfield>
+    <subfield code="b">EUNED, </subfield>
+    <subfield code="c">1994</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">608 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="650">
+    <subfield code="a">MATEMATICAS </subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2=" ">
+    <subfield code="a">FORMACION DE DOCENTES </subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2=" ">
+    <subfield code="a"> CONFERENCIAS</subfield>
+  </datafield>
+  <datafield ind1=" " tag="700" ind2=" ">
+    <subfield code="a">Cordero Alfaro, Thais, </subfield>
+    <subfield code="e">editor</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2=" ">
+    <subfield code="a">Murillo Chaves, Mario, </subfield>
+    <subfield code="e">editor</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="700">
+    <subfield code="a">Peralta Monge, Teresita, </subfield>
+    <subfield code="e">editor</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="711">
+    <subfield code="a">Reunión Centroamericana y del Caribe sobre formación de profesores e investigadores en matemática educativa (8 : 1994 : San José, C.R.)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">1008</subfield>
+    <subfield code="d">1008</subfield>
+  </datafield>
+</record>

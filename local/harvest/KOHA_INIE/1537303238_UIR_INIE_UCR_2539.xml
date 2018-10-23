@@ -1,0 +1,41 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00502nam a2200157Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">DOC # 23</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">Madalengoitia, Silvia</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="245">
+    <subfield code="a">Maternidad voluntaria y saludable atención de calidad en salud : derecho de las mujeres /  </subfield>
+    <subfield code="c">Silvia Madalengoita, Frescia Carrasco, Ella  Carrasco</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">[s.l]. : </subfield>
+    <subfield code="b">[s.l.], </subfield>
+    <subfield code="c">199? </subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">8 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="650">
+    <subfield code="a">DERECHOS DE LA MUJER </subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="650">
+    <subfield code="a">MATERNIDAD</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="700">
+    <subfield code="a">Carrasco, Frescia</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1=" ">
+    <subfield code="a">Carrasco, Ella</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="p">00919</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2539</subfield>
+    <subfield code="d">2539</subfield>
+  </datafield>
+</record>

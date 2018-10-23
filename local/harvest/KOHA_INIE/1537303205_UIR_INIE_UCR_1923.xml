@@ -1,0 +1,49 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00584nam a2200169Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">1923</subfield>
+    <subfield code="d">1923</subfield>
+  </datafield>
+  <controlfield tag="008">180607b1997    g  ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">06.04.05 </subfield>
+    <subfield code="b">549</subfield>
+  </datafield>
+  <datafield ind1=" " tag="100" ind2=" ">
+    <subfield code="a">Cazali Avila, Augusto</subfield>
+    <subfield code="9">3741</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Historia de la Universidad de San Carlos de Guatemala : Epoca Republicana (1821-1994) /</subfield>
+    <subfield code="c">Augusto Cazali Avila</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">Guatemala : </subfield>
+    <subfield code="b">Editorial Universitaria, </subfield>
+    <subfield code="c">1997</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">2 volúmenes</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="4" tag="610">
+    <subfield code="a">UNIVERSIDAD DE SAN CARLOS DE GUATEMALA</subfield>
+    <subfield code="9">3742</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">UNIVERSIDADES </subfield>
+    <subfield code="9">16</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+    <subfield code="9">8</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">HISTORIA</subfield>
+    <subfield code="9">22</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,75 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01172nam a22002537a 4500</leader>
+  <controlfield tag="008">160418b2007    s  a|||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="020">
+    <subfield code="a">9788436944419</subfield>
+  </datafield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">05.04.01</subfield>
+    <subfield code="b">2306</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">1526</subfield>
+    <subfield code="a">Abajo, Francisco J. de</subfield>
+  </datafield>
+  <datafield ind2="3" ind1="1" tag="245">
+    <subfield code="a">La bioética en la educación secundaria / </subfield>
+    <subfield code="c">Francisco J. de Abajo, Lydia Feito Grande, Diego Gracia, Javier Júdez, Coordinación José Antonio Martínez Martínez</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">[España] :</subfield>
+    <subfield code="b">Ministerio de Educación y Ciencia. Secretaría General Técnica,</subfield>
+    <subfield code="c">[2006?]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">272 páginas;</subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield ind1=" " tag="490" ind2=" ">
+    <subfield code="a">Ciencias. Colección Aulas de Verano</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Este volumen tiene su origen en el curso de formación del profesorado de educación secundaria: "La bioética en el educación secundaria", que se celebró en la Universidad Complutense en El Escorial, en el verano de 2006.</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">563</subfield>
+    <subfield code="a">ÉTICA</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">1527</subfield>
+    <subfield code="a">BIOÉTICA</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">456</subfield>
+    <subfield code="a">EDUCACIÓN SECUNDARIA</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">1528</subfield>
+    <subfield code="a">EDUCACIÓN MORAL</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">1529</subfield>
+    <subfield code="a">Feito Grande, Lydia</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">1530</subfield>
+    <subfield code="a">Gracia, Diego</subfield>
+  </datafield>
+  <datafield ind1=" " tag="700" ind2=" ">
+    <subfield code="9">1531</subfield>
+    <subfield code="a">Júdez, Javier</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2=" ">
+    <subfield code="9">1532</subfield>
+    <subfield code="a">Martínez Martínez, José Antonio</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">3103</subfield>
+    <subfield code="d">3103</subfield>
+  </datafield>
+</record>

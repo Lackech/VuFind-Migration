@@ -1,0 +1,51 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02451nam a2200181Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2247</subfield>
+    <subfield code="d">2247</subfield>
+  </datafield>
+  <controlfield tag="008">180710b1994    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">18.03.01 </subfield>
+    <subfield code="b">30</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Mora Vargas, Ana Isabel</subfield>
+    <subfield code="9">129</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Guía metodológica para elaborar perfiles académicos-profesionales en la Universidad de Costa Rica / </subfield>
+    <subfield code="c">Ana Isabel Mora Vargas, María Eugenia Herrera Peña, María Agustina Cedeño Suárez</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica :  </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1994</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">48 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Puede consultar el documento actualizado titulado "Lineamientos para elaborar el Perfil Académico Profesional</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">Esta guía se centra en el perfil académico-profesional, eje orientador del plan de estudios de una carrera. Según las autoras, el perfil académico-profesional es la caracterización académica, personal y laboral del profesional que pretende formar la UCR, en relación con las necesidades y expectativas del individuo y de la sociedad. La guía revisa algunos conceptos relevantes para la elaboración de un perfil de este tipo (el currículo, la planificación curricular, el diagnóstico curricular, el diseño del plan de estudios –el perfil académico profesional, la estructura de los cursos, las propuestas programáticas de los cursos-, la administración del plan de estudios y la evaluación curricular). El procedimiento metodológico propuesto para elaborar perfiles académico-profesionales es de tipo participativo, lo que implica la construcción de un conocimiento colectivo acorde con los intereses y las necesidades específicas de los actores sociales involucrados en el proceso. El proceso metodológico para elaborar perfiles incluye tres fases: la elaboración de un documento base de perfil (DBP), la discusión del DBP con los participantes en el proceso y la incorporación de sus aportes, y la elaboración del perfil académico-profesional (PAP) de la carrera. Los componentes del perfil se agrupan en tres áreas: el área académica (los conocimientos, las habilidades y las destrezas), el área profesional (valores y actitudes) y el área laboral (las funciones y las tareas). El perfil no se puede concebir como un simple listado de aspectos deseables para formar a un profesional, sino como un instrumento curricular congruente interna y externamente.</subfield>
+  </datafield>
+  <datafield ind2="4" ind1=" " tag="610">
+    <subfield code="a">UNIVERSIDAD DE COSTA RICA</subfield>
+    <subfield code="9">714</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">METODOLOGÍA</subfield>
+    <subfield code="9">285</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">PERFIL PROFESIONAL</subfield>
+    <subfield code="9">1698</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

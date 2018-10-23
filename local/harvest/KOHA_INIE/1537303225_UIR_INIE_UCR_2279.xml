@@ -1,0 +1,47 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03341nam a2200169Ia 4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2279</subfield>
+    <subfield code="d">2279</subfield>
+  </datafield>
+  <controlfield tag="008">180705b1995    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">18.09.00 </subfield>
+    <subfield code="b">25</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">157</subfield>
+    <subfield code="a">Esquivel Alfaro, Juan Manuel</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Pruebas con referencia a criterios : Taller / </subfield>
+    <subfield code="c">Juan Manuel Esquivel Alfaro ...[et al.]</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">117 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">Este informe reúne el material teórico y práctico, empleado para capacitar a los investigadores del Programa de Medición y Evaluación Educativa del IIMEC, en lo concerniente a las pruebas referidas a criterios. En él se encuentran los resúmenes, los esquemas y los ejemplos de los temas desarrollados en el taller, así como el trabajo práctico de los participantes. Se inicia con el concepto de evaluación y sus funciones, para luego referirse a los distintos tipos de prueba (criterios-dominios-objetivos) y centrarse en las pruebas referidas a criterios, al modelo de enseñanza que estas suponen y a los pasos que se deben seguir para la formulación de dichas pruebas. Otros conceptos que se desarrollan en el informe son los de validez y confiabilidad, sobre los que se exponen sus principios fundamentales, para luego abordarlos desde la perspectiva de diversos especialistas (Popham, Hambleton, Huynh, Sukoviac, entre otros). También se brindan ejemplos e información pertinente para la elaboración de ítemes de acuerdo con los objetivos que se piensen evaluar. En lo que respecta a los objetivos, no solo se establecen las condiciones necesarias para su redacción, sino que se plantea su importancia en la acción educativa, pues le permiten al maestro planificar la enseñanza y, al estudiante, conocer lo que se espera que aprenda; además de que proveen criterios para valorar el aprendizaje. En cuanto a los instrumentos de evaluación, en primera instancia, se exponen las razones básicas para evaluar, así como la importancia de que los instrumentos midan realmente lo que se desea y que presenten un margen tolerable de error, para lo cual se explican algunos métodos estadísticos. Incluye también una clasificación (según el objetivo que se va a evaluar) en instrumentos de evaluación verbales e instrumentos de evaluación de ejecución. Además, especifica las características de las pruebas escritas y de las pruebas objetivas. Otro tema que se incluye es la elaboración de los ítemes de selección y los aspectos de forma que deben considerarse para ello. Se presentan también las diferentes técnicas utilizadas para obtener juicios que permitan calcular el índice de congruencia ítem-objetivo (validación de contenidos), para lo cual e proponen tres escalas: 1. Técnica de la escala de calificación 2. Técnica del pareo ítem-objetivo 3. Técnica del índice de congruencia Además, se exponen las técnicas de análisis de los datos, según la técnica empleada. Otros temas que se incluyen en el informe son el de índices de discriminación, el de métodos empleados para el 33 establecimiento de puntajes de corte y, finalmente, el de los pasos que se deben cumplir (con sus respectivas consideraciones) para elaborar una prueba referida a criterios. </subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">PROGRAMAS DE CAPACITACION</subfield>
+    <subfield code="9">3933</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">EVALUACIÓN DE PROGRAMAS</subfield>
+    <subfield code="9">969</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">PRUEBAS</subfield>
+    <subfield code="9">629</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,51 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00602nam a2200181Ia 4500</leader>
+  <controlfield tag="008">150730b2012    ag ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="020">
+    <subfield code="a">1999-8104</subfield>
+  </datafield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">05.01.01 </subfield>
+    <subfield code="b">394</subfield>
+  </datafield>
+  <datafield ind1="2" tag="110" ind2=" ">
+    <subfield code="a">Consejo Latinoamericano de Ciencias Sociales</subfield>
+    <subfield code="9">587</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Crítica y emancipación: Revista latinoamericana de ciencias sociales / </subfield>
+    <subfield code="c">CLACSO</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">Buenos Aires : </subfield>
+    <subfield code="b">CLACSO, </subfield>
+    <subfield code="c">2012</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">volúmenes</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">La Unidad posee Vol. 3, no.6; Vol.4, no.7</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">CIENCIAS SOCIALES </subfield>
+    <subfield code="9">276</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">PUBLICACIONES PERIÓDICAS</subfield>
+    <subfield code="9">3</subfield>
+  </datafield>
+  <datafield ind2="4" tag="651" ind1=" ">
+    <subfield code="a">AMÉRICA LATINA</subfield>
+    <subfield code="9">273</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">03</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">137</subfield>
+    <subfield code="d">137</subfield>
+  </datafield>
+</record>

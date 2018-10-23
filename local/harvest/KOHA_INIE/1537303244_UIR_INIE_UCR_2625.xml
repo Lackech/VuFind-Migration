@@ -1,0 +1,44 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01734nab a2200157   4500</leader>
+  <controlfield tag="008">150604b1999    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">143</subfield>
+    <subfield code="a">Flores Montero, Corina</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Del contrato social al contrato pedagógico : Rosseau y Kant /</subfield>
+    <subfield code="c">Corina Flores Montero </subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">1999</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">páginas 9-23</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">Existen diversas maneras de enseñar a los individuos el hábito de obedecer, sin acarrear el sometimiento, de ejercer sobre éste la autoridad, sin hacerlo un eterno niño o niña, siempre dependiente del orden establecido o de las "autoridades", a saber del hombre político, del superior jerárquico o de los jefes.  Se puede ejercer la autoridad para producir la libertad más que el poder, la autonomía más que el condicionamiento, la responsabilidad más que el sujetamiento.  Todo esto implica poner en marcha, de una manera u otra, el módelo jurídico.  El presente ensayo explora las propuestas de Juan Jacobo Rouseau y Emmanuel Kant en torno a ciertos problemas básicos de la convivencia democrática y al papel de la escuela en el desarrollo de los futuros ciudadanos.  Con estos objetivos se revisan los conceptos fundamentales de estos autores, tales como los del Contrato, la soberanía, la ley fundamental y su obediencia en Rosseau para abordar el problema del sentido de la disciplina escolar.  De Kant nos referimos a su filosofía de la historia como base de sus ideas pedagógicas</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" tag="773" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.23, no.2 (1999)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2625</subfield>
+    <subfield code="d">2625</subfield>
+  </datafield>
+</record>

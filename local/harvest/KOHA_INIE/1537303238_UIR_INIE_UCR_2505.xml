@@ -1,0 +1,41 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00459nam a2200157Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">CD #55</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="110">
+    <subfield code="a">Costa Rica. Ministerio de Educación Pública</subfield>
+  </datafield>
+  <datafield tag="245" ind2=" " ind1=" ">
+    <subfield code="a">Libros en parejas / </subfield>
+    <subfield code="c">Ministerio de Educación Pública</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">MEP/OIM, </subfield>
+    <subfield code="c">2004</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">CD-ROM</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Programa de Educación MEP/OIM/CR-USA</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="650">
+    <subfield code="a">MATERIALES DIDACTICOS</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="650">
+    <subfield code="a">CUENTOS</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="p">001517    </subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="p">001518  </subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">2505</subfield>
+    <subfield code="d">2505</subfield>
+  </datafield>
+</record>

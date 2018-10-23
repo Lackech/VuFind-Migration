@@ -1,0 +1,74 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01091nam a2200205Ia 4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">1759</subfield>
+    <subfield code="d">1759</subfield>
+  </datafield>
+  <controlfield tag="008">141002s2006    cr            000 | und d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">06.03.06 </subfield>
+    <subfield code="b">1504</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="3" tag="245">
+    <subfield code="a">La Educación preescolar en la era digital, retos y desafíos / </subfield>
+    <subfield code="c">Victoria González García (coord), María Marta  Camacho Álvarez, Alexandra Segura Ramírez </subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2006</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">227 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="500" ind2=" ">
+    <subfield code="a">Informe Final  de Investigación \Proyecto de Investigación N° 724-A3-150</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">Esta investigación tuvo como objetivo general analizar los retos y desafíos de la Educación Preescolar en relación con la era digital, a la luz de las características del desarrollo desde los tres años hasta los seis años de edad, con el fin de contar con criterios para la construcción y aplicación de propuestas en las aulas de Educación Preescolar. 
+Esta investigación se enmarca dentro del enfoque cualitativo, aborda el tema de la incorporación de la tecnología digital aproximándose al mismo en profundidad. También es una investigación descriptiva. La población participante estuvo constituida por 20 docentes en ejercicio de Educación Preescolar, 20 docentes en formación de Educación Preescolar, 15 personas de distintas disciplinas, 1 persona del Museo del Niño y las tres investigadoras. 
+Ofrece una capítulo de Gestión de la Información, el cual abarca la visión holística del contexto nacional y del mundo; las tecnologías en la actualidad; características de la infancia y principios pedagógicos para la incorporación de tecnología digital en espacios preescolares. 
+Como una de las reflexiones finales exponen que afirmar que todos los esfuerzos en Costa Rica, en materia de incorporación de tecnologías digitales en las aulas han sido en vano sería un gran error. Todos éstos han sido grandiosos y han permitido el acercamiento de miles de niños, niñas y adolescentes a la tecnología digital. Ahora es el momento de replantear las estrategias metodológicas que mejoren lo andado para que se disminuya la brecha entre la teoría y la práctica. 
+</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">EDUCACIÓN PREESCOLAR</subfield>
+    <subfield code="9">455</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">TECNOLOGÍA EDUCATIVA </subfield>
+    <subfield code="9">483</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">APRENDIZAJE </subfield>
+    <subfield code="9">387</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">NIÑOS</subfield>
+    <subfield code="9">59</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">NIÑAS</subfield>
+    <subfield code="9">60</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="a">González García, Victoria</subfield>
+    <subfield code="e">Coordinador/a</subfield>
+    <subfield code="9">1890</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="a">Camacho Álvarez, María Marta</subfield>
+    <subfield code="e">Colaborador/a</subfield>
+    <subfield code="9">3255</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Segura Ramírez, Alexandra</subfield>
+    <subfield code="e">Colaborador/a</subfield>
+    <subfield code="9">2972</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

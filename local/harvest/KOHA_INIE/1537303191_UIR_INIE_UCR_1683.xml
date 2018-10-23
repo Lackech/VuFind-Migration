@@ -1,0 +1,76 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01011nam a2200241Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">1683</subfield>
+    <subfield code="d">1683</subfield>
+  </datafield>
+  <controlfield tag="008">180404b2010    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">06.03.04 </subfield>
+    <subfield code="b">1379</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="a">García Fallas, Jacqueline</subfield>
+    <subfield code="9">759</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2=" ">
+    <subfield code="a">Comunidad virtual de aprendizaje para la educación ambiental universitaria / </subfield>
+    <subfield code="c">Jacqueline García Fallas, Lidia Hernández Rojas, Claudia Zúñiga Vega, Elizabeth Arnáez Serrano, Claudia Charpentier Esquivel, María de los Ángeles Carrillo Delgado, Patricia Rojas Núñez</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2010</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">85 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Informe final proyecto No. 724-A7-504</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">EDUCACIÓN AMBIENTAL </subfield>
+    <subfield code="9">439</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">TECNOLOGÍA DE LA INFORMACIÓN </subfield>
+    <subfield code="9">484</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">TECNOLOGÍA DE LAS COMUNICACIONES</subfield>
+    <subfield code="9">925</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+    <subfield code="9">8</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="a">Hernández Rojas, Lidia</subfield>
+    <subfield code="9">233</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="a">Zúñiga Vega, Claudia</subfield>
+    <subfield code="9">2520</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="a">Arnáez Serrano, Elizabeth</subfield>
+    <subfield code="9">2521</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="a">Charpentier Esquivel, Claudia</subfield>
+    <subfield code="9">232</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Carrillo Delgado, María de los Ángeles</subfield>
+    <subfield code="9">2522</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Rojas Núñez, Patricia</subfield>
+    <subfield code="9">738</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

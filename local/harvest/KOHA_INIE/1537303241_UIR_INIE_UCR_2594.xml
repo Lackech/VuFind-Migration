@@ -1,0 +1,49 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03303nab a22001577a 4500</leader>
+  <controlfield tag="008">150528b1998    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">191</subfield>
+    <subfield code="a">Carballo Vargas, Sonia</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Intervenciones para ayudar a construir la inteligencia emocional /</subfield>
+    <subfield code="c"> Sonia Carballo V.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">1998</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">páginas 77 - 90</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">En el presente artículo se revisan los aportes visionarios de Gardner y Goleman y se enlazan ambos, partiendo de la base de que la inteligencia emocional conceptualizada por Goleman incluye las modalidades comprensión de nosotros mismos y comprensión de las demás personas, planteadas por Gardner dentro del perfil de inteligencias múltiples como habilidades para conocer el mundo. 
+En 1993, Howard Gardner, en su libro "la mente no escolarizada", concreta aportes relevantes en cuanto cómo piensan las personas y cómo se debería enseñar en las escuelas. Critica el hecho de que se trate  a los estudiantes como si todos aprendieran del mismo modo y formula su postulado de que todos los seres humanos son capaces de conocer el mundo de siete modos diferentes: a través del lenguaje, del análisis lógico matemático, de la representación espacial, del pensamiento musical, del uso del cuerpo para resolver problemas o hacer cosas, de una comprensión de los demás individuos y de una comprensión de nosotros mismos. Estos modos de adquirir y representar el saber que se llaman en conjunto teorías de las inteligencias múltiples y están presentes en cada ser humano en menor o mayor grado. Así mismo, el autor no descarta la identificación de otras inteligencias. 
+En 1995, se reciben con gran satisfacción los aportes que Daniel Goleman, al sistematizar revolucionariamente el concepto de inteligencia emocional. El interés por el poder de las emociones y los sentimientos señalado por psicólogos humanistas como, Carl Rogers, Abrahán Maslow y Rollo May, para citar algunos y el estudio científico de las emociones basado en datos neurobiológicos, forman en conjunto algunas de las variables que se conjugan en un tiempo histórico clave para que Goleman desafie proporcionando inteligencia a la emoción y colocándola como eje central del funcionamiento integral del ser humano.
+Como Gardner señala que se pueden identificar otras inteligencias, la autoría analiza aquí la inteligencia espiritual como un modo o una capacidad de la persona de construir razones para vivir mediante un sistema ético y la incluye  dentro de la inteligencia emocional. Partiendo de los planteamientos de Gardner y Goleman y con el afán  de que el educador (madre, padre, maestro o maestra), lo que hasta ahora ha hecho, se plantean una serie de intervenciones para alfabetizar emocionalmente a niños, niñas y adolescentes.
+Desafiante y placentero es construir ambientes de aprendizaje para el desarrollo pleno de la persona, en los cuales se respete equitativamente, a cada cual como ser único e irrepetible, con su forma de ser y de aprender</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" tag="773" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0020</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.22, no.1 (1998)</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2594</subfield>
+    <subfield code="d">2594</subfield>
+  </datafield>
+</record>

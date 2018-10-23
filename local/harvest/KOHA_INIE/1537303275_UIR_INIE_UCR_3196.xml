@@ -1,0 +1,57 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00817nam a2200193   4500</leader>
+  <controlfield tag="008">160503b2004    CR a|||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">04.02.01  </subfield>
+    <subfield code="b">2193</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">1699</subfield>
+    <subfield code="a">Lemineur, Marie Laure </subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Conociendo y promoviendo los derechos de la niñez y la adolescencia /</subfield>
+    <subfield code="c">Marie Laure Lemineur</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">Costa Rica : </subfield>
+    <subfield code="b">UNICEF; DINADECO,</subfield>
+    <subfield code="c"> 2004</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">48 páginas ; </subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield tag="490" ind2=" " ind1=" ">
+    <subfield code="a">Guías para la promoción comunitaria de los derechos de la niñez y la adolescencia,</subfield>
+    <subfield code="v">1</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Proyecto de Fortalecimiento de las Asociaciones de Desarrollo Comunal para la Niñez y la Adolescencia (CONADECO, DINADECO, Embajada de Canadá, UNICEF)</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">570</subfield>
+    <subfield code="a">DERECHOS DEL NIÑO</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">59</subfield>
+    <subfield code="a">NIÑOS</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">60</subfield>
+    <subfield code="a">NIÑAS</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">5</subfield>
+    <subfield code="a">ADOLESCENTES</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3196</subfield>
+    <subfield code="d">3196</subfield>
+  </datafield>
+</record>

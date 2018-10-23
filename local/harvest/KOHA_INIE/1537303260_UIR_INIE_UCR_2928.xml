@@ -1,0 +1,48 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01800nab a2200169   4500</leader>
+  <controlfield tag="005">20160331133327.0</controlfield>
+  <controlfield tag="008">151105b2005    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">1173</subfield>
+    <subfield code="a">Segura Castillo, Mario</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Diagnóstico institucional del proyecto educativo de centro en el desarrollo de la educación intercultural /</subfield>
+    <subfield code="c">Segura Castillo, Mario</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2005</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a"> páginas 15-30</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">Con la creciente inmigración en nuestro país, se debe pensar en el desarrollo de políticas estratégicas de educación intercultural para atender los inmigrantes con justicia y dar mejores condiciones de vida a personas que dejan otras regiones del mundo en busca de mejores oportunidades, aparte de fortalecer los derechos humanos desde su base, es decir, desde el sistema educativo.
+El PEC es un "intrumento que recoge y comunica la propuesta integral para dirigir y orientar coherentemente los procesos de intervención educativa que se desarrollan en una intervención escolar" (Antúnez, S. 1992, p. 47).
+Se presenta a continuación un estudio de las condiciones que presenta un centro educativo de I y II ciclos de la Educación General Básica con base en un diagnóstico institucional que se realizó para determinar cuáles condiciones de dicho centro educativo favorecen y desfavorecen la puesta en práctica del PEC, centrado en la educación intercultural y en la transversalidad, de acuerdo con la opinión de los docentes y los estudiantes de dicho centro educativo</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind2=" " ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0300</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.29, no.1 (2005)</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2928</subfield>
+    <subfield code="d">2928</subfield>
+  </datafield>
+</record>

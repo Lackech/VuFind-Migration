@@ -1,0 +1,49 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>     nam a22     7a 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">3482</subfield>
+    <subfield code="d">3482</subfield>
+  </datafield>
+  <controlfield tag="008">180223b2013    pn ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">05.03.01</subfield>
+    <subfield code="b">2129</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">3379</subfield>
+    <subfield code="a">Urriola C., Gregorio A.</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Perfil educativo de los grupos indígenas de Panamá /</subfield>
+    <subfield code="c">Gregorioa A. Urriola C.</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">Panamá :</subfield>
+    <subfield code="b">CELA,</subfield>
+    <subfield code="c">2013</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">pp.27-40 páginas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1100</subfield>
+    <subfield code="a">EDUCACIÓN INDÍGENA</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">11</subfield>
+  </datafield>
+  <datafield tag="773" ind1="0" ind2=" ">
+    <subfield code="0">93</subfield>
+    <subfield code="9">98</subfield>
+    <subfield code="a"/>
+    <subfield code="b"/>
+    <subfield code="d">Panamá :  CELA,  2013</subfield>
+    <subfield code="o">003721 </subfield>
+    <subfield code="t">Tareas / </subfield>
+    <subfield code="w"/>
+    <subfield code="x">0494-7061</subfield>
+    <subfield code="z"/>
+  </datafield>
+</record>

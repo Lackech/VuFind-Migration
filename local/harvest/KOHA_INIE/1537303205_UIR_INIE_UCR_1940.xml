@@ -1,0 +1,68 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03059nam a2200229Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">1940</subfield>
+    <subfield code="d">1940</subfield>
+  </datafield>
+  <controlfield tag="008">180627b1995    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">06.04.12</subfield>
+    <subfield code="b"> 127</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="100">
+    <subfield code="a">Brenes Gómez, William</subfield>
+    <subfield code="9">3806</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Determinantes de la deserción y repetición escolar en primero y segundo ciclo : una experiencia de investigación participativa basada en el enfoque de riesgo en escuelas y comunidades de la subregión educativa de Puriscal / </subfield>
+    <subfield code="c">William Brenes Gómez</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">UNICEF, </subfield>
+    <subfield code="c">1995</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">50 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Incluye presentación de los resultados de la investigación</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">Con la finalidad de probar un marco operativo de medición comunitaria de la deserción y la repetición escolar, se estudiaron las características asociadas a estos fenómenos en 1694 niños entre 6 y 12 años de la región de Puriscal. El estudio se enmarca dentro de la metodología de Sitios Centinela (muestro por conglomerado asociado a un enfoque de riesgo) aplicada al área educativa. Los resultados sobre repetición muestran que uno de cada 10 niños repite el año (40% el primer grado) y que los niños del área rural dispersa presentan un 60% más riesgo de repetir el grado. Un niño en cuyo hogar hay 5 o más niños de edad escolar tiene 7 veces más riesgo de perder el curso lectivo. Del mismo modo, los niños cuyos encargados o tutores son analfabetas, menores de 20 años, que carecen de material educativo adicional, cuyos maestros son aspirantes o interinos, con un rendimiento académico inferior a 70 en la calificación de matemática del primer trimestre, o matriculados en escuelas con una matrícula superior a los 500 niños, tienen más posibilidades de reprobar el año escolar. Los principales resultados sobre la deserción muestran que, de los 1694 niños investigados, el 2,2% abandonó la escuela, y de estos el 45% lo hizo en primer grado. Los niños del área rural dispersa tienen un riesgo cuatro veces más alto de abandonar sus estudios en relación con los niños de áreas urbanas. Los factores relacionados con la deserción son: analfabetismo del encargado, crianza a cargo de un tutor que no es ninguno de los progenitores, la carencia de material didáctico adicional, la ausencia de escolaridad preescolar previa, un rendimiento académico menor de 70 y la ausencia de un aula diferenciada en la escuela. La importancia del estudio radica en la posible predicción anticipada del comportamiento de la población escolar y las intervenciones que se pueden diseñar para prevenir la repetición y la deserción. El estudio también advierte sobre la necesidad de adecuación del sistema educativo a las condiciones socioeconómicas de las comunidades rurales. 
+</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">DESERCIÓN ESCOLAR </subfield>
+    <subfield code="9">1454</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">APRENDIZAJE </subfield>
+    <subfield code="9">387</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">CONDICIONES SOCIALES</subfield>
+    <subfield code="9">1681</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">CONDICIONES ECONÓMICAS</subfield>
+    <subfield code="9">269</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">ESCUELAS RURALES</subfield>
+    <subfield code="9">1915</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">ESTADISTICAS DE LA EDUCACION </subfield>
+    <subfield code="9">586</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">EDUCACIÓN PRIMARIA</subfield>
+    <subfield code="9">367</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

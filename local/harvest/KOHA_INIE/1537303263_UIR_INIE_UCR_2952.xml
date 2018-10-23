@@ -1,0 +1,93 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01368nam a22003017a 4500</leader>
+  <controlfield tag="008">151209b2006    ag a|||| |||| 00| | spa d</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9501260836</subfield>
+  </datafield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">06.03.04 </subfield>
+    <subfield code="b">2234 </subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">1187</subfield>
+    <subfield code="a">Defior Citoler, Sylvia</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">	LEE: test de lectura y escritura en español : 1° a 4° de educación primaria / </subfield>
+    <subfield code="c">Sylvia Defior Citoler, Liliana Fonseca, Bárbara Gottheil, Adriana Aldrey, Gracia Jiménez Fernández, María Pujals, Graciela Rosa, Francisca Dolores Serrano Chica</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">Buenos Aires :</subfield>
+    <subfield code="b">Paidós,</subfield>
+    <subfield code="c">2006</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">127 páginas;</subfield>
+    <subfield code="b">ilustraciones; + Cuadernillo de evaluación (127 páginas) + 1 folleto Baremos Argentina + 1 folleto Baremos y descripción de la muestra España + 16 registros de respuestas + 15 hojas de trabajo (versión en minúscula)</subfield>
+  </datafield>
+  <datafield tag="490" ind1=" " ind2=" ">
+    <subfield code="a">Evaluación Psicológica,</subfield>
+    <subfield code="v">83</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1188</subfield>
+    <subfield code="a">COMPRENSIÓN DE LECTURA</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">287</subfield>
+    <subfield code="a">EVALUACIÓN </subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">365</subfield>
+    <subfield code="a">LECTURA</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1189</subfield>
+    <subfield code="a">ESCRITURA</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">367</subfield>
+    <subfield code="a">EDUCACIÓN PRIMARIA</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1190</subfield>
+    <subfield code="a">TEST PSICOLÓGICO</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">1191</subfield>
+    <subfield code="a">Fonseca, Liliana </subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">1192</subfield>
+    <subfield code="a">Gottheil, Bárbara</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">1193</subfield>
+    <subfield code="a">Aldrey, Adriana </subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">1194</subfield>
+    <subfield code="a">Jiménez Fernández, Gracia</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">1195</subfield>
+    <subfield code="a">Pujals, María </subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">1196</subfield>
+    <subfield code="a">Rosa, Graciela</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">1197</subfield>
+    <subfield code="a">Serrano Chica, Francisca Dolores </subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">2952</subfield>
+    <subfield code="d">2952</subfield>
+  </datafield>
+</record>

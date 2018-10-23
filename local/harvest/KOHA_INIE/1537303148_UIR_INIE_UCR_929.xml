@@ -1,0 +1,45 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00558nam a2200169Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="020">
+    <subfield code="a">9972-51-147-2</subfield>
+  </datafield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">02.02.01 </subfield>
+    <subfield code="b">1355</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="100">
+    <subfield code="a">Stromquist, Nelly P.</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="245">
+    <subfield code="a">La construcción del género en las políticas públicas: perspectivas comparadas desde América Latina / </subfield>
+    <subfield code="c">Nelly P. Stromsquist</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">Perú : </subfield>
+    <subfield code="b">Instituto de Estudios Peruanos, </subfield>
+    <subfield code="c">2006</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">260 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="650">
+    <subfield code="a">POLÍTICAS PÚBLICAS </subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2=" ">
+    <subfield code="a">PARTICIPACIÓN DEL ESTADO</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="650">
+    <subfield code="a">ROL DE LA MUJER </subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2=" ">
+    <subfield code="a">GÉNERO</subfield>
+  </datafield>
+  <datafield ind2=" " tag="651" ind1=" ">
+    <subfield code="a">AMÉRICA LATINA</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">929</subfield>
+    <subfield code="d">929</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,57 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00787nam a22001937a 4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3324</subfield>
+    <subfield code="d">3324</subfield>
+  </datafield>
+  <controlfield tag="008">160929b2016    py a|||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="020" ind2=" ">
+    <subfield code="a">9789996702402</subfield>
+  </datafield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">18.01.01</subfield>
+    <subfield code="b">2384</subfield>
+  </datafield>
+  <datafield ind2=" " tag="111" ind1="2">
+    <subfield code="9">2032</subfield>
+    <subfield code="a">Congreso Iberoamericano de Ciencia, Tecnología y Género (10 : 2016 : Asunción, Paraguay)</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">X Congreso Iberoamericano de ciencia, tecnología y género /</subfield>
+    <subfield code="c">Carmen Estela Colazo, compilación y coordinación</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Paraguay :</subfield>
+    <subfield code="b">Repagcyt,</subfield>
+    <subfield code="c">Edición 2016</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">253 páginas</subfield>
+  </datafield>
+  <datafield ind2="0" tag="611" ind1="2">
+    <subfield code="9">2033</subfield>
+    <subfield code="a">CONGRESO IBEROAMERICANO DE CIENCIA, TECNOLOGÍA Y GÉNERO  (10 : 2014 : ASUNCIÓN, PARAGUAY)</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">37</subfield>
+    <subfield code="a">CIENCIA Y TECNOLOGÍA </subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">69</subfield>
+    <subfield code="a">GÉNERO</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">55</subfield>
+    <subfield code="a">MUJERES</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2=" ">
+    <subfield code="9">2031</subfield>
+    <subfield code="a">Colazo, Carmen Estela</subfield>
+    <subfield code="e">compilador/a</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

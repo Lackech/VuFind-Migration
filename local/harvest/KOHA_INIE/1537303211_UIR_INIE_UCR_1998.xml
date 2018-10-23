@@ -1,0 +1,60 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>07417nam a2200169Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">1998</subfield>
+    <subfield code="d">1998</subfield>
+  </datafield>
+  <controlfield tag="008">180704b2006    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">06.06.02 </subfield>
+    <subfield code="b">1151 CD #97</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">Venegas Renauld, María Eugenia</subfield>
+    <subfield code="9">560</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="3" tag="245">
+    <subfield code="a">La práctica docente del profesor universitario /</subfield>
+    <subfield code="c"> Ma. Eugenia Venegas Renauld</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2006</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">185 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="500">
+    <subfield code="a">Proyecto de Investigación N°724-A4-114</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">Este proyecto tuvo como objetivo principal, analizar los ámbitos conceptual y metodológico, de la práctica docente del profesor de la Universidad de Costa Rica, a partir de su reflexión en los cursos de docencia que ofrece el DEDUN para impulsar procesos de comprensión y mejoramiento de la docencia en el nivel universitario. 
+En esta investigación no se partió de una radicalización de los enfoques cualitativos o cuantitativos. El empleo de criterios de selección, responde a criterios de comprensión y no restrictivamente a criterios de representatividad estadística. Esto no excluye el número. Simplemente no es esencial. De allí algunas precisiones para aclarar la acción que permite plantear los procedimientos que finalmente se registraron (no prediseñaron). 
+En este trabajo, la recolección de la información se realizó por medio de tres maneras: la observación, la entrevista y la revisión documental que aunada a la técnica de análisis de contenido como recurso metodológico para el análisis global de la información, forman parte del recurso metodológico privilegiado en la investigación. 
+Esta investigación llegó a las siguientes conclusiones: 
+- La práctica del docente universitario se mantiene como un campo todavía virgen en cuanto a su conocimiento y desarrollo teórico. A la luz de los conocimientos que demanda la época actual, especialmente en el marco de los contextos de trabajo multimediado, parece necesario conocer cómo es que asume el profesorado su ejercicio docente, toda vez que las demandas pedagógicas se han complejizado y abierto. Esto significa que es importante para asumir procesos de mejoramiento, que el profesorado acceda a una acción reflexiva muy bien impulsada y dirigida para que aquellos aspectos que esta investigación ha señalado como tópicos importantes en la docencia, puedan realmente abonar al mejoramiento de las prácticas y su transformación. 
+- Por lo tanto, es recomendable que quienes tienen puestos de dirección de unidades académicas, impulsen de manera más organizada los procesos de reflexión docente, no solo al calor de procesos de autoevaluación para caminar hacia la acreditaicón de carreras, sino como parte de una cultura docente que aspira a la excelencia y a la transformación. Se recomienda compartir estas aportaciones mediante actividades de difusión y colaboración promovidas por el DEDUN y el CEA. 
+- No está por demás resaltar que los docentes universitarios manejan una serie de creencias y de ideas que se vierten en el clima organizacional, otorgándole a cada unidad académica particularidades o singularidades que obligarían a explotar mucho más estos trabajos, de manera que las unidades académicas se dirijan a conocer mejor sus propias tradiciones y creencias, sus propios idearios e imaginarios y en esa vía, superen y amplíen la visión profesional de la docencia universitaria. 
+- La noción de práctica docentes corre aparejada a una serie de creencias acerca de cómo enseñar, cómo manejar las situaciones de aula, cómo usar los recursos, cómo organizar la lección, cómo evaluar. Probablemente este capo tan propio de la didáctica nos esté mostrando los mil rostros de la conceptualización que han ido construyendo los distintos actores por los que las mismas personas han pasado en sus procesos formativos y ahora en calidad de formadores, reproducen. No obstante es solo una tesis susceptible de ser probada en estudios posteriores. La noción de práctica se mantiene en los estrechos márgenes de un activismos que no da visos de abordajes conceptuales más profundos. Es decir, no están sustentados en explícitas teorías o fundamentaciones conceptuales, lo que conduce a valorar la permanencia de enfoques clásicos de formación pedagógica al interior de la Universidad y un apenas emergente germen de teoría pedagógica conscientemente interioriza en los docentes. Al respecto, no parece haber evidencia aún del nivel de apropiación que los docentes pudieran estar haciendo desde el curso de Didáctica Universitaria de un referencial teórico explícito para sustentar su ejercicio docente, lo cual habría que confrontarse con otros docentes que han aprobado el curso y tienen más tiempo de laborar en docencia. 
+- No fue posible descubrir en los textos producidos por la investigación desde los informantes, el empleo de las TIC´s en el ejercicio docente. Este es un punto que llama la atención, toda vez que esperaríamos de una población nueva en la docencia, este recurso incorporado de manera más activa. Al respecto la conveniencia de que el DEDUN impulse el uso de estos recursos que además tienen algunas implicaciones en los marcos de construcción de la realidad. 
+- Más allá de la práctica, la teoría es todavía un referente no explícito del cual el docente no da cuenta formal. Los "haceres" si así se les puede llamar, propios de su docencia, se insertan en la actividad más allá de la teoría. Parece que no hay cabida para la teoría referida a la práctica y que la necesidad de los docentes está más centrada en la acción cotidiana que se estrecha en la lección diaria. Al respecto las prácticas docentes se deslizan en la cotidianidad con poco brillo teórico explícito, con una acción propia de una tradición dentro de la organización. La fuerza del a organización apenas se vislumbra, no fue objeto de análisis en este trabajo, pero si hay vestigios de que es una fuerza importante para ser develada para su comprensión y para valorar si es ahí donde radican las resistencias más importantes para mejorar y trascender las prácticas profesionales. 
+- Las tradiciones y rituales de la profesión docente operando en el contexto universitario, aún son objeto de desconocimiento pedagógico. Este pareciera ser uno del os retos importantes en el proceso de construir una teoría pedagógica en la Universidad de Costa Rica. 
+- Es indiscutible que un solo curso de Didáctica Universitaria no pude dar la condición de docente preparado para tal tarea al profesorado universitario. Es evidente que hay necesidades políticas para una transformación y habría que analizar la capacidad de gestión que tanto las unidades académicas tienen para una tarea de mejoramiento pedagógico como la voluntad política para insertar los cambios en la normativa universitaria. 
+- Finalmente, el territorio de teoría y práctica funciona totalmente amalgamado en el ejercicio docente pero oculto tras la noción de práctica ue prevalece. Sería necesario un sistemático procesos de reflexión docente para que estos aspectos propios de la conceptualización sobre la teoría y práctica como dimensiones del quehacer docente, tengan el asidero teórico necesario para hacer de la docencia una práctica más cercana a la condición científica. 
+</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">PRÁCTICA PEDAGÓGICA</subfield>
+    <subfield code="9">499</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">DOCENTES</subfield>
+    <subfield code="9">331</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

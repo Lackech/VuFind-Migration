@@ -1,0 +1,76 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03416nam a2200217Ia 4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">594</subfield>
+    <subfield code="d">594</subfield>
+  </datafield>
+  <controlfield tag="008">170221b2009    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="020" ind2=" ">
+    <subfield code="a">9789968527040</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">06.03.06 </subfield>
+    <subfield code="b">1777  CD #153</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="a">Rojas Porras, Marta</subfield>
+    <subfield code="9">108</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Palabras juguetonas 4: Dinámicas con léxico escolar gradual / </subfield>
+    <subfield code="c">Marta Rojas Porras, Ani Brenes Herrera, María Cecilia Molina Watson</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2009</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">128 páginas.</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="490">
+    <subfield code="a">Colección Yigüiro </subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">El CD contiene los libros y la presentación "Capacitación de docentes de primaria sobre metodologías para el desarrollo de la madurez léxica</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">Palabras juguetonas es una serie didáctica para la enseñanza y aprendizaje del vocabulario. Su propósito es que las unidades léxicas se incorporen a la competencia comunicativa del individuo, dado el valor del vocabulario como elemento estructurador del pensamiento y su necesidad para la intención social.
+La selección de las palabras que se presenta corresponde a un léxico meta surgido de una investigación realizada en todo el país. A partir de este estudio, se sistematiza y se dosifica el repertorio de términos por aprender, en cada año del primero y del segundo ciclos de la Educación General Básica.
+Cada unidad está diseñada de tal forma que motive el aprendizaje mediante el juego, la lectura, la inducción y la producción de textos. Por eso el nuevo vocabulario surge espontáneamente de las actividades lúdicas.
+En términos generales, este material didáctico se caracteriza de la siguiente manera:
+•    Atiende el desarrollo de la competencia comunicativa como habilidad para usar el sistema lingüístico de manera eficaz y apropiada.
+•    Se sustenta en una noción de lengua como variedad.
+•    Incorpora el ludo y la capacidad de pensar. Se basa en aprendizajes significativos que incorporan el juego, la inducción y la creatividad.
+•    El vocabulario se presenta de forma contextualizada o relacionada para facilitar su comprensión y evocación. Cada palabra aparece al menos en seis formas o contextos diferentes.
+•    Algunas veces el significado de la palabra se presenta directamente (por definición); pero en la mayoría, se provoca su comprensión mediante claves contextuales (frases, texto),  extralingüísticos (referencias, dibujos), lingüísticas (relaciones semánticas, paráfrasis, etc.).
+•    Se potencia el uso del diccionario.
+•    Tiene características de los materiales de entretenimiento.
+•    Las actividades involucran la producción de textos de una manera dinámica y creativa, tomando en cuenta el concepto de lectura  y escritura como construcción de significados.
+•    Se centra en el uso del vocabulario y no en el de normas.
+•    Se pretende que el niño y la niña se constituyan en productores de textos orales y escritos con un léxico rico, preciso y adecuado, según su nivel escolar.
+•    Apoya al grupo de docentes y a las familias al aumentar el potencial del trabajo creativo, fundamental para el cambio.
+En síntesis, este material pretende llenar una gran y urgente necesidad educativa en el campo de nuestra lengua materna.</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">EDUCACIÓN PRIMARIA</subfield>
+    <subfield code="9">367</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">ENSEÑANZA DEL ESPAÑOL</subfield>
+    <subfield code="9">782</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="a">Brenes Herrera, Ani</subfield>
+    <subfield code="9">2407</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">2160</subfield>
+    <subfield code="a">Molina Watson, María Cecilia</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

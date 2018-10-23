@@ -1,0 +1,68 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00857nam a2200229   4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3543</subfield>
+    <subfield code="d">3543</subfield>
+  </datafield>
+  <controlfield tag="008">180716b2010    ag a|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="020">
+    <subfield code="a">9789508023278</subfield>
+  </datafield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">02.02.01</subfield>
+    <subfield code="b">2487</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="9">4064</subfield>
+    <subfield code="a">Fazzio, Adriana</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a"> Niñez, familia y derechos humanos : logros y desafíos pendientes en la primera década del siglo XXI / </subfield>
+    <subfield code="c">Adriana Fazzio, compiladora [y autora] ; [Gabriel Scandizzo, Celia B. Lottini].</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a"> Buenos Aires :</subfield>
+    <subfield code="b"> Espacio Editorial, </subfield>
+    <subfield code="c">2010</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">150 páginas;</subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield ind2=" " tag="490" ind1=" ">
+    <subfield code="a">Ciencias Sociales. Novedades</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">2251</subfield>
+    <subfield code="a">POLITICA SOCIAL</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">570</subfield>
+    <subfield code="a">DERECHOS DEL NIÑO</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">958</subfield>
+    <subfield code="a">POLÍTICA GUBERNAMENTAL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">576</subfield>
+    <subfield code="a">ASPECTOS SOCIALES </subfield>
+  </datafield>
+  <datafield ind2="4" ind1=" " tag="651">
+    <subfield code="9">63</subfield>
+    <subfield code="a">ARGENTINA</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2=" ">
+    <subfield code="9">4065</subfield>
+    <subfield code="a">Scandizzo, Gabriel </subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2=" ">
+    <subfield code="9">4066</subfield>
+    <subfield code="a"> Lottini, Celia B.</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

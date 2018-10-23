@@ -1,0 +1,48 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00574nam a2200169Ia 4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">1293</subfield>
+    <subfield code="d">1293</subfield>
+  </datafield>
+  <controlfield tag="008">170601b1998    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">04.02.02 </subfield>
+    <subfield code="b">528</subfield>
+  </datafield>
+  <datafield ind1="2" tag="110" ind2=" ">
+    <subfield code="a">Programa de las Naciones Unidas para el Desarrollo</subfield>
+    <subfield code="9">262</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Central America : development in peace and democracy</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">PNUD, </subfield>
+    <subfield code="c">1998</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">146 páginas</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="2" tag="610">
+    <subfield code="a">PROGRAMA DE LAS NACIONES UNIDAS PARA EL DESARROLLO (PNUD) </subfield>
+    <subfield code="9">2885</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">DEMOCRACIA</subfield>
+    <subfield code="9">589</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">POLÍTICA</subfield>
+    <subfield code="9">1010</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">POLÍTICA GUBERNAMENTAL</subfield>
+    <subfield code="9">958</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

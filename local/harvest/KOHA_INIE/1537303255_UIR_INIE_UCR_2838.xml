@@ -1,0 +1,57 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00639nam a22001937a 4500</leader>
+  <controlfield tag="008">150828b2011    gt ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">06.03.06</subfield>
+    <subfield code="b">2265</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">945</subfield>
+    <subfield code="a">España, Olmedo</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Educación superior en Centroamérica : Límites y Posibilidades /</subfield>
+    <subfield code="c">Olmedo España</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">Guatemala :</subfield>
+    <subfield code="b">Universidad de San Carlos de Guatemala,</subfield>
+    <subfield code="c">2011</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">293 páginas</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">8</subfield>
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">16</subfield>
+    <subfield code="a">UNIVERSIDADES </subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">11</subfield>
+    <subfield code="a">CALIDAD DE LA EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">343</subfield>
+    <subfield code="a">EQUIDAD</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">338</subfield>
+    <subfield code="a">FINANCIAMIENTO DE LA EDUCACIÓN </subfield>
+  </datafield>
+  <datafield ind2="4" ind1=" " tag="651">
+    <subfield code="9">457</subfield>
+    <subfield code="a">AMÉRICA CENTRAL</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2838</subfield>
+    <subfield code="d">2838</subfield>
+  </datafield>
+</record>

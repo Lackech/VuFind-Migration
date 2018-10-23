@@ -1,0 +1,63 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03431nam a2200217Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2184</subfield>
+    <subfield code="d">2184</subfield>
+  </datafield>
+  <controlfield tag="008">180712b1997    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">15.04.01 </subfield>
+    <subfield code="b">622</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="a">Fernández Ramírez, Aileen</subfield>
+    <subfield code="9">3131</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Evaluación de la salud física de los estudiantes de la educación general básica : informe nacional</subfield>
+    <subfield code="c">Aileen Fernández Ramírez</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1997</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">78 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="500">
+    <subfield code="a">Informe Nacional realizado para el MEP, existe otro documento como informe de proyecto de investigación No. 724-95-572</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">Con el objetivo de desarrollar normas en relación con los componentes de la salud física para estudiantes de la educación general básica y diversificada, así como describir los hábitos de actividad física y alimentación, este informe da cuenta del diagnóstico que se llevó a cabo para este fin con 5153 estudiantes de 13 a 17 años. Dicho diagnóstico consistió en aplicar cuatro pruebas físicas (resistencia cardiovascular, flexibilidad, fuerza-resistencia muscular y composición corporal) a todos los estudiantes y un instrumento sobre hábitos de actividad en el tiempo libre y alimentación a los estudiantes de 16 y 17 años. Con el propósito de que estuvieran representadas las diferencias geográficas y los patrones de vida cotidiana, se dividió el país en cuatro zonas: Central (cabeceras de San José, Heredia, Alajuela y Cartago), Norte (región norte de Heredia y Alajuela), Pacífico (Guanacaste y Puntarenas) y Atlántico (Limón y parte de Cartago). Las instituciones educativas se clasificaron en urbanas, rurales y urbano-marginales. Las pruebas fueron aplicadas por cuatro sujetos en todo el país. En cuanto a los resultados, se observa una tendencia al aumento de la grasa corporal 44 en las mujeres conforme avanzan en edad, mientras en los hombres la tendencia es a la inversa. La razón parece ser los cambios fisiológicos propios de la pubertad aunados a una reducción del tiempo dedicado a la actividad física por parte de las mujeres. Para ambos sexos, los promedios de tiempo en la prueba de resistencia cardiovascular tienden a mejorar con la edad; sin embargo, en las mujeres esta mejoría no es tan acentuada. También los niveles de flexibilidad tienden a mejorar con la edad tanto en hombres como en mujeres, aunque el de las mujeres es ligeramente superior. En lo concerniente a la fuerza-resistencia muscular, los hombres muestran una mejoría ligada a una mayor edad, mientras que en las mujeres no se observa este fenómeno. En general, los hombres presentan mejores promedios en las pruebas que las mujeres, excepto en la de flexibilidad, y reportan realizar mayor actividad física, así como ver más televisión. En este sentido, de los tres hábitos incluidos en el estudio (actividad física, ver televisión y leer y estudiar), ambos sexos dedican más tiempo a ver televisión que a los otros dos. Las mujeres tienden a tener dietas más saludables (frutas y vegetales) que los hombres (carne y harinas). El estudio presenta varias tablas con las normas nacionales por sexo y edad, y recomienda una mayor promoción de una vida físicamente activa y una dieta balanceada entre los jóvenes.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">SALUD</subfield>
+    <subfield code="9">268</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">EDUCACION GENERAL</subfield>
+    <subfield code="9">3913</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">PRUEBAS</subfield>
+    <subfield code="9">629</subfield>
+  </datafield>
+  <datafield ind2="0" ind1=" " tag="650">
+    <subfield code="a">NIÑOS</subfield>
+    <subfield code="9">59</subfield>
+  </datafield>
+  <datafield tag="650" ind2="0" ind1=" ">
+    <subfield code="a">ADOLESCENTES</subfield>
+    <subfield code="9">5</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,50 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00833nam a2200181Ia 4500</leader>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9968-859-10-9</subfield>
+  </datafield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">03.03.04 </subfield>
+    <subfield code="b">1407</subfield>
+  </datafield>
+  <datafield tag="110" ind1=" " ind2=" ">
+    <subfield code="a">Instituto Nacional de Fomento Cooperativo, INFOCOOP</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="245">
+    <subfield code="a">Guía didáctica para la enseñanza de los valores y principios del cooperativismo como parte integrada a las asignaturas de los planes de estudio vigentes: III ciclo y educación diversificada. Estudios Sociales y Educación Cívica / </subfield>
+    <subfield code="c">Instituto Nacional de Fomento Cooperativo, INFOCOOP</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, C.R. : </subfield>
+    <subfield code="c">INFOCOOP, </subfield>
+    <subfield code="b">2005</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">84 páginas; 14 x 21cm</subfield>
+  </datafield>
+  <datafield ind2=" " tag="650" ind1=" ">
+    <subfield code="a">COOPERATIVAS</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="650">
+    <subfield code="a">ESTUDIOS SOCIALES Y EDUCACIÓN CÍVICA</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="650">
+    <subfield code="a">ENSEÑANZA</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">COSTA RICA</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="700">
+    <subfield code="a">Padilla Sibaja, María Cecilia </subfield>
+    <subfield code="e">editora</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1=" ">
+    <subfield code="a">Villalobos Morales, Edgar Antonio </subfield>
+    <subfield code="e">editor</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">891</subfield>
+    <subfield code="d">891</subfield>
+  </datafield>
+</record>

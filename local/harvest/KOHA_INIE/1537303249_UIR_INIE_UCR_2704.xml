@@ -1,0 +1,52 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03851nab a2200169   4500</leader>
+  <controlfield tag="005">20160317161545.0</controlfield>
+  <controlfield tag="008">150624b2000    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">225</subfield>
+    <subfield code="a">Calderón, Liliana</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Entre la espada y la pared: la calidad y las demandas de los saberes comunicacionales en la escuela primaria /</subfield>
+    <subfield code="c">Liliana Calderón</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2000</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">páginas 129-144</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">Muchos niños cuando llegan a sexto grado y se les hacen pruebas en el área de Español, se denotan en los resultados deficiencias en el área de gramática, ortografía, redacción, entre otras. Comúnmente esto se debe a los ejercicios tan mecanizados que formulan los docentes para sus alumnos y realmente la única acción del estudiante es la de memorizar.
+Se han formulado muchísimas investigaciones para conocer las dificultades en este campo. De ellas  se ha planteado que la escritura es un proceso, una actividad social inserta en un proceso.
+En la actualidad existe un distanciamiento, entre el contexto social y los procesos de enseñanza de la escritura.
+Es indispensable, experimentarlos como procesos  permanentes y continuos en los textos y no darle tanto énfasis a la corrección sino a la producción creativa de ideas.
+En el presente se debe hacer uso al medio tecnológico que nos invade, y formular estrategias de aprendizaje en donde se implemente la escritura y la lectura. El docente debe actualizarse para poder manejar diversos aspectos computacionales, con el fin de presentarles a los estudiantes la enseñanza de una forma más innovadora. El docente puede utilizar el hipertexto como un recurso tecnológico, en donde el estudiante puede interactuar con un texto, datos, imágenes y música. Con tales elementos se puede mejorar los escritos de los estudiantes, pues el programa ofrece una serie de elementos, donde los alumnos interactúan con sus escritos con el fin de perfeccionarlo.
+Luego de este recorrido proponemos volver al comienzo en un doble sentido: primero volver la mirada a este texto inicial, producción de un niño, y recrear algunas alternativas de posibles ordenamientos que siempre pueden cambiar y progresar si dependen de criterios del propio autor y para ellos las computadoras son una herramienta ideal. Corresponden a un objeto muy próximo a su experiencia, no sólo por la proximidad física o el acceso que tengan sino por la proximidad a su colectivo cultural. Y como docentes poder sacar partido de estas posibilidades  de velocidad  y de síntesis que tienen las tecnologías para el procesamiento y almacenamiento de la información. Si durante el proceso de escribir convocamos mediante una pulsación icónica, la asociación de los paradigmas verbales, las reglas de ortografía, los correctores gramaticales y usamos de la superposición de estos recursos, seguramente tendrán un sentido de integración que no lo tiene la regla por un lado y el ejercicio después. La teoría primero y luego la práctica.
+El segundo sentido de volver al comienzo es poder mirar antes que el error ortográfico los procesos que subyacen a toda construcción, primero para escribir hacen falta las ideas, luego sobre ellas se puede trabajar en la superficie textual el mejor recurso para su organización. Volver al comienzo implica también tomar estos productos como punto de partida para comenzar a experimentar en la escuela la escritura y la lectura, desprovistos de un solo criterio de correción para alternarnos en los procesos de concreción, adecuación y creación</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind2=" " ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0032</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.24, no.especial (2000)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">2704</subfield>
+    <subfield code="d">2704</subfield>
+  </datafield>
+</record>

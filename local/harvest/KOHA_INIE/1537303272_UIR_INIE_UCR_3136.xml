@@ -1,0 +1,46 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02002nab a22001697a 4500</leader>
+  <controlfield tag="005">20160422114327.0</controlfield>
+  <controlfield tag="008">160422b2010    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="100">
+    <subfield code="9">905</subfield>
+    <subfield code="a">Castro Morera, María</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Análisis del estado estructural y administrativo de los campos de juego de los distritos urbanos de Ulloa, San Francisco, Heredia Centro y Mercedes del Cantón Central de la provincia de Heredia /</subfield>
+    <subfield code="c">Morera Castro, María</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2010</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">páginas 153-182</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">El propósito de esta investigación fue analizar los factores que influirían en el estado estructural y administrativo de los campos de juegos en cuatro distritos urbanos del Cantón Central de la provincia de Heredia. En esta investigación mixta se analizó una muestra del 40% de los cien campos de juego en estudio, por medio de una hoja de evaluación del estado estructural de los aparatos, una entrevista estructurada y la técnica de recopilación pictórica. El estado general de los campos de juego se ve afectado por aspectos como desechos, la falta de basureros, la iluminación, entre otros. Asimismo, la diversidad de aparatos en los campos de juegos es escasa y el daño más frecuente es la herrumbre. El mantenimiento lo brindaba en la mayoría de los casos la propia comunidad o la Municipalidad de Heredia y los planes de mantenimiento eran escasos o nulos. Los campos de juego son actualmente espacios poco seguros que cuentan con peligros como la corrosión de las estructuras, puntas filosas y aparatos dañados. Por lo tanto, requieren una atención inmediata de las autoridades pertinentes y, en su mayoría, no están cumpliendo con el objetivo de su creación</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="0" tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0361</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.34, no.2 (jul.-dic., 2010) </subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">3136</subfield>
+    <subfield code="d">3136</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,92 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00865nam a2200301Ia 4500</leader>
+  <controlfield tag="008">161102b2000    mx ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="020" ind1=" ">
+    <subfield code="a">9701859537</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">14.02.03 </subfield>
+    <subfield code="b">276</subfield>
+  </datafield>
+  <datafield ind1=" " tag="100" ind2=" ">
+    <subfield code="9">2126</subfield>
+    <subfield code="a">Morales Garza, Sofíaleticia</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="3">
+    <subfield code="a">La mujer como educadora :  Análisis comparado de los países del grupo E-9 / </subfield>
+    <subfield code="c">Sofíaleticia Morales Garza coordinador/a</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">México : </subfield>
+    <subfield code="b">UNESCO, </subfield>
+    <subfield code="c">2000</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">103 páginas</subfield>
+  </datafield>
+  <datafield ind2="0" ind1=" " tag="650">
+    <subfield code="a">MUJERES</subfield>
+    <subfield code="9">55</subfield>
+  </datafield>
+  <datafield ind2="0" tag="650" ind1=" ">
+    <subfield code="a">FAMILIA</subfield>
+    <subfield code="9">404</subfield>
+  </datafield>
+  <datafield ind2="0" ind1=" " tag="650">
+    <subfield code="a">ESCUELAS </subfield>
+    <subfield code="9">300</subfield>
+  </datafield>
+  <datafield ind2="0" ind1=" " tag="650">
+    <subfield code="a">COMUNIDADES</subfield>
+    <subfield code="9">519</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">POLÍTICA</subfield>
+    <subfield code="9">1010</subfield>
+  </datafield>
+  <datafield ind2="0" ind1=" " tag="651">
+    <subfield code="a">BANGLADESH</subfield>
+    <subfield code="9">2127</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">BRASIL</subfield>
+    <subfield code="9">1242</subfield>
+  </datafield>
+  <datafield ind2="0" tag="651" ind1=" ">
+    <subfield code="a">CHINA</subfield>
+    <subfield code="9">415</subfield>
+  </datafield>
+  <datafield ind2="0" ind1=" " tag="651">
+    <subfield code="a">EGIPTO</subfield>
+    <subfield code="9">2128</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">INDIA</subfield>
+    <subfield code="9">1421</subfield>
+  </datafield>
+  <datafield ind2="0" tag="651" ind1=" ">
+    <subfield code="a">INDONESIA</subfield>
+    <subfield code="9">2129</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">MÉXICO</subfield>
+    <subfield code="9">19</subfield>
+  </datafield>
+  <datafield ind1=" " tag="651" ind2="0">
+    <subfield code="a">NIGERIA</subfield>
+    <subfield code="9">2130</subfield>
+  </datafield>
+  <datafield ind2="0" tag="651" ind1=" ">
+    <subfield code="a">PAKISTAN</subfield>
+    <subfield code="9">2131</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">448</subfield>
+    <subfield code="d">448</subfield>
+  </datafield>
+</record>

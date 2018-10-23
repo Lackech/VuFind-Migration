@@ -1,0 +1,47 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00514nam a2200169Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">1100</subfield>
+    <subfield code="d">1100</subfield>
+  </datafield>
+  <controlfield tag="008">180601b1989    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="020" ind1=" ">
+    <subfield code="a">9977-926-07-7</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">370.115 </subfield>
+    <subfield code="b">F721-f2</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="110">
+    <subfield code="a">Alforja</subfield>
+    <subfield code="9">3709</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Forjando un pueblo consciente : la educación en las organizaciones populares</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, C.R. : </subfield>
+    <subfield code="b">ALFORJA, </subfield>
+    <subfield code="c">1989</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">38 páginas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">METODOLOGÍA</subfield>
+    <subfield code="9">285</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">EDUCACIÓN POPULAR</subfield>
+    <subfield code="9">1904</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">PARTICIPACIÓN SOCIAL</subfield>
+    <subfield code="9">822</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

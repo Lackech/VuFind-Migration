@@ -1,0 +1,40 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00394nam a2200121Ia 4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">1668</subfield>
+    <subfield code="d">1668</subfield>
+  </datafield>
+  <controlfield tag="008">180321b1974    u  ||||| |||| 00| 0 e   d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">06.03.01 </subfield>
+    <subfield code="b">687</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="a">Ruskin, Robert S.</subfield>
+    <subfield code="9">3498</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="4">
+    <subfield code="a">The personalized system of instruction : an educational alternative</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">Washington, D.C. : </subfield>
+    <subfield code="b">Americam Association for Higher Education, </subfield>
+    <subfield code="c">1974</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">44 páginas</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">SISTEMAS DE ENSEÑANZA</subfield>
+    <subfield code="9">401</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

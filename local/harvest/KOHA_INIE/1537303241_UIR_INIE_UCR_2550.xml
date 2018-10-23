@@ -1,0 +1,40 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00634nam a2200157Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">DOC # 5</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1=" ">
+    <subfield code="a">Andraca, Ana María</subfield>
+  </datafield>
+  <datafield ind2=" " tag="245" ind1=" ">
+    <subfield code="a">Nuevas práctica en materia de política educacional y reforma educativa, algunas tendencias y desafíos</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">Panamá :  </subfield>
+    <subfield code="b">PREAL, </subfield>
+    <subfield code="c">1998</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">25 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="500">
+    <subfield code="a">A la cabeza de la portada: Conferencia Latinoamericana.  Innovaciones y reformas educativas recientes en América Latina y el Caribe. Panamá, 30 de noviembre y 1 de diciembre, 1998</subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2=" ">
+    <subfield code="a">POLITICA EDUCATIVA </subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2=" ">
+    <subfield code="a">REFORMA DE LA EDUCACION </subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2=" ">
+    <subfield code="a">AMERICA LATINA</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="p">001164</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2550</subfield>
+    <subfield code="d">2550</subfield>
+  </datafield>
+</record>

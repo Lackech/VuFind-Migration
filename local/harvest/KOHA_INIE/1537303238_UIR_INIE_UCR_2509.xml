@@ -1,0 +1,43 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00465nam a2200169Ia 4500</leader>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">CD #6  DOC #60</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="110">
+    <subfield code="a">UNLIMITED</subfield>
+  </datafield>
+  <datafield tag="245" ind2=" " ind1=" ">
+    <subfield code="a">Abrapalabra : la magia de aprender a leer [disco compacto]</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Chile : </subfield>
+    <subfield code="b">UNLIMITED, </subfield>
+    <subfield code="c">199?</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">12 cm de diámetro</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="500">
+    <subfield code="a">El centro contiene disco 1 y 2 y guía de usuario impresa</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">APRENDIZAJE </subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="650">
+    <subfield code="a"> LECTURA</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="p">001402 </subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="p">001401  </subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="p">001400 </subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2509</subfield>
+    <subfield code="d">2509</subfield>
+  </datafield>
+</record>

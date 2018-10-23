@@ -1,0 +1,49 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02037nab a2200169   4500</leader>
+  <controlfield tag="005">20150917153947.0</controlfield>
+  <controlfield tag="008">150917b2003    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">963</subfield>
+    <subfield code="a">Prado Vargas, Mariano Alberto</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Didáctica básica para la construcción de la esfera basada en la estructuración del cubo: una lección elemental en la enseñanza aprendizaje de los sólidos para todos los estudiantes de dibujo /</subfield>
+    <subfield code="c">Mariano Alberto Prado Vargas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2003</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">páginas 193-210</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">El objetivo de este artículo es explicar un proceso de dibujo que involucra el estudio de los elementos estructurales de la esfera. 
+Es un planteamiento dirigido a los estudiantes de los cursos de dibujo quienes deben aprender a percibir las cualidades volumétricas del objeto real y representarlo por medio de los elementos estructurales intrínsecos. 
+Se definen dos maneras de abordar la representación de la esfera, una para estudiantes novatos, y otra para estudiantes avanzados. Se repasa la estructura del cubo, y los conceptos básicos de la perspectiva, el método de visado, el dominio de las proporciones del cubo, la relación de los ángulos del cubo respecto de los lados, la estructura portante, los elementos básicos de la estructura del cubo. Se estudia además la construcción de las elipses en los tres planos cartesianos, y las diferencias de calidad tonal que se deben de utilizar. Todos estos procedimientos se enumeran en el presente artículo, explicados paso a paso, por medio de ilustraciones. 
+También, se muestran varios ejemplos de la esfera en posiciones sencillas y extremas que demuestran la variación de los ejes básicos de acuerdo a su posición y dirección en el espacio</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" tag="773" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0020</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.27, no.2  (2003)</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2879</subfield>
+    <subfield code="d">2879</subfield>
+  </datafield>
+</record>

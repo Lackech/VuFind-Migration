@@ -1,0 +1,39 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00416nam a2200121Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">1554</subfield>
+    <subfield code="d">1554</subfield>
+  </datafield>
+  <controlfield tag="008">180226b2000    f  ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">06.02.01 </subfield>
+    <subfield code="b">447</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">UNESCO</subfield>
+    <subfield code="9">1248</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Marco de acción de Dakar. Educación para todos: Cumplir nuestros compromisos comunes</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">París, Francia : </subfield>
+    <subfield code="b">UNESCO, </subfield>
+    <subfield code="c">2000</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">78 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="500">
+    <subfield code="a">Adoptado en el Foro Mundial sobre Educación Dakar (Senegal), 26-28 de abrildel 2000</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="0">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

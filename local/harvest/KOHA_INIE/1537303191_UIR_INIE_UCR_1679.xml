@@ -1,0 +1,68 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00892nam a2200205Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">1679</subfield>
+    <subfield code="d">1679</subfield>
+  </datafield>
+  <controlfield tag="008">180403b2003    dr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">06.03.04  </subfield>
+    <subfield code="b">1420</subfield>
+  </datafield>
+  <datafield ind1="1" tag="110" ind2=" ">
+    <subfield code="a">República Dominicana. Secretaría de Estado de Educación. Secretaría de Estado de Medio Ambiente y Recursos Naturales.</subfield>
+    <subfield code="9">3513</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Guía Metodológica de Educación Ambiental / </subfield>
+    <subfield code="c">República Dominicana.Secretaría de Estado de Educación. Secretaría de Estado de Medio Ambiente y Recursos Naturales</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">República Dominicana : </subfield>
+    <subfield code="b">Fundación Moscoso Puello, </subfield>
+    <subfield code="c">2003</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">132 páginas;</subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">EDUCACIÓN AMBIENTAL </subfield>
+    <subfield code="9">439</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">CONSERVACIÓN DE LA NATURALEZA</subfield>
+    <subfield code="9">3514</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">BIODIVERSIDAD</subfield>
+    <subfield code="9">3515</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a"> ZONAS PROTEGIDAS</subfield>
+    <subfield code="9">3516</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">CONTAMINACIÓN</subfield>
+    <subfield code="9">793</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">TURISMO</subfield>
+    <subfield code="9">2676</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Varela Mejía,  Faustina </subfield>
+    <subfield code="e">Editor/a</subfield>
+    <subfield code="9">3517</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="a">Núñez Henríquez, Francisco </subfield>
+    <subfield code="e">Editor/a</subfield>
+    <subfield code="9">3518</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

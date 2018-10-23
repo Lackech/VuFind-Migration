@@ -1,0 +1,46 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01718nab a2200169   4500</leader>
+  <controlfield tag="005">20160422111012.0</controlfield>
+  <controlfield tag="008">160422b2010    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">1593</subfield>
+    <subfield code="a">Mejía Calderón, Jorge</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Guía básica para organizar un campamento recreativo y formativo /</subfield>
+    <subfield code="c">Jorge Mejía Calderón</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2010</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">páginas 183-196</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">La información expuesta en este artículo es parte de un trabajo final de investigación de maestría. Ese trabajo final tenía dos objetivos generales. El primero fue el desarrollo de un campamento para capacitar a 40 líderes de pastorales juveniles. El segundo objetivo fue la elaboración de una guía sobre la organización de un campamento recreativo y formativo. Esta guía es la que se presenta en este artículo, la cual se fundamentó en la revisión bibliográfica y la experiencia obtenida en el campamento con los grupos de pastorales juveniles. La guía comparte la importancia de esta actividad recreativa como una herramienta para reforzar en las personas áreas tales como la educación, la espiritualidad y las habilidades físicas. Además, inckuye una reseña histórica con respecto a los campamentos y los elementos básicos de un programa de campamento: el inicio, la imágen, la filosofía, la estructura del programa, la selección de personas facilitadoras, la espiritualidad, el horario y la evaluación</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " tag="773" ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0361</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.34, no.2 (jul.-dic., 2010)</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">3138</subfield>
+    <subfield code="d">3138</subfield>
+  </datafield>
+</record>

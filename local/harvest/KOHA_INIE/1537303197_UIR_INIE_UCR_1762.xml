@@ -1,0 +1,50 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00693nam a2200169Ia 4500</leader>
+  <controlfield tag="008">141002s2011    cr a          000 | und d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">06.03.06 </subfield>
+    <subfield code="b">1561</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">736</subfield>
+    <subfield code="a">Arguedas Quesada, Consuelo</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Recopilación y difusión de las composiciones infantiles creadas por estudiantes de educación inical de la Escuela de Formación Docente. Vol.I / </subfield>
+    <subfield code="c">Consuelo Arguedas Quesada</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2011</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">55 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Proyecto de Acción Social ED-2634
+
+La unidad posee informes del Vol.I y Vol.II</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">EDUCACIÓN PREESCOLAR</subfield>
+    <subfield code="9">455</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">MÚSICA</subfield>
+    <subfield code="9">13</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">MATERIAL DIDÁCTICO</subfield>
+    <subfield code="9">785</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">1762</subfield>
+    <subfield code="d">1762</subfield>
+  </datafield>
+</record>

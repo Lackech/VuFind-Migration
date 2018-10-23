@@ -1,0 +1,60 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00814nam a2200205Ia 4500</leader>
+  <controlfield tag="008">161025b1986    mx ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="020" ind1=" ">
+    <subfield code="a">9688800481</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">06.05.04 </subfield>
+    <subfield code="b">2118</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ginsburg, Herbert</subfield>
+    <subfield code="9">2112</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Piaget y la teoría del desarrollo intelectual / </subfield>
+    <subfield code="c">Herbert Ginsburg, Sylvia Opper, traducción y adaptación de Alfonso Alvarez Villar</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">México : </subfield>
+    <subfield code="b">Prentice-Hall Hispanoamericana, </subfield>
+    <subfield code="c">1986</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">228 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="500">
+    <subfield code="a">Traducido de la primera edición en inglés de Piaget's theory on intellectual development, an introduction</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="600">
+    <subfield code="9">2113</subfield>
+    <subfield code="a">PIAGET, JEAN</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">DESARROLLO DEL NIÑO</subfield>
+    <subfield code="9">723</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">PSICOLOGÍA DEL NIÑO</subfield>
+    <subfield code="9">874</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="a">Opper, Sylvia </subfield>
+    <subfield code="9">2114</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="a"> Álvarez Villar, Alfonso</subfield>
+    <subfield code="9">2116</subfield>
+    <subfield code="e">Traductor/a</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">436</subfield>
+    <subfield code="d">436</subfield>
+  </datafield>
+</record>

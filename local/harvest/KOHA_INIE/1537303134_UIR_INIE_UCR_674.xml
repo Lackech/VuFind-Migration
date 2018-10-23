@@ -1,0 +1,59 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00790nam a2200205Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">674</subfield>
+    <subfield code="d">674</subfield>
+  </datafield>
+  <controlfield tag="008">170327b2009    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9789968818889</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">06.03.06 </subfield>
+    <subfield code="b">423</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Fromm Cea, Lidia Margarita</subfield>
+    <subfield code="9">2578</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="3">
+    <subfield code="a">El sentido de la Lectoescritura en el aula: de la realidad que tenemos al ideal que queremos / </subfield>
+    <subfield code="c">Margarita Lidia Fromm Cea</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">1 edición</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">Costa Rica : </subfield>
+    <subfield code="b">Coordinación Educativa y Cultural Centroamericana CECC/SICA, </subfield>
+    <subfield code="c">2009</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">153 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="490">
+    <subfield code="a">Colección Pedagógica Formación Inicial de Docentes Centroamericanos de Educación Primaria o Básica </subfield>
+    <subfield code="v">39</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">ENSEÑANZA</subfield>
+    <subfield code="9">14</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">LECTURA</subfield>
+    <subfield code="9">365</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">ENSEÑANZA CORRECTIVA</subfield>
+    <subfield code="9">2550</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

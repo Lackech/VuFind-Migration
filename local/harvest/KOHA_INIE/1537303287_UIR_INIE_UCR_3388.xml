@@ -1,0 +1,51 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03911nam a22001817a 4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3388</subfield>
+    <subfield code="d">3388</subfield>
+  </datafield>
+  <controlfield tag="008">170208b2016    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">13.02.01</subfield>
+    <subfield code="b">2395</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">109</subfield>
+    <subfield code="a">Mata Segreda, Alejandrina</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Jóvenes eficaces vocacionalmente /</subfield>
+    <subfield code="b">Alejandrina Mata Segreda</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">[San José, Costa Rica] :</subfield>
+    <subfield code="b">INIE,</subfield>
+    <subfield code="c">2016</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">154 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Informe final Proyecto de investigación Nº. 724-B3-329</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">	Este estudio tuvo como objetivo general fortalecer las creencias acerca de la auto eficacia vocacional de la población adolescente del país mediante el aporte de la disciplina de la Orientación. En concordancia con el marco conceptual que se utiliza en esta investigación, se definió que las personas participantes en esta etapa del estudio serían estudiantes de décimo y undécimo año de la Educación Diversificada, inicialmente 10 estudiantes (5 mujeres y 5 hombres), con edades entre 15 y 18 años y que asisten a una misma institución educativa. Se propusieron como condiciones personales para su escogencia como participantes las siguientes: Jóvenes con capacidad fluida para la expresión escrita y oral acorde con su edad. Jóvenes que hayan evidenciado tener claridad, en este momento, sobre su proyecto de vida. Jóvenes que vivan en familia, independientemente de su conformación. Jóvenes que hayan asistido a la misma institución educativa al menos en los últimos 3 años. Se recurrió al Liceo Laboratorio Emma Gamboa en Moravia, se presentó el proyecto al Subdirector y a dos orientadoras y se les solicitó que recomendaran a los y las estudiantes que podrían participar por cumplir con las condiciones definidas para su escogencia. Se llevó a cabo una reunión con el grupo de estudiantes que fue recomendado y se les explicó el proyecto, les fue entregado una guía de relato biográfico, se convinieron fechas y formas de comunicación y se recogió lista con los nombre y otros datos. Aunque se dio seguimiento permanente por medio del correo electrónico, al final fueron recibidos 5 relatos biográficos que al ser revisados por la investigadora, cumplían con las condiciones necesarias para sacar provecho de la información. Como consideraciones finales se mencionan las siguientes: Esta investigación fue planificada por fases de un año cada una. En la primera se aplicó un enfoque cualitativo de investigación, en la segunda un enfoque cuantitativo. Esto permitió a la investigadora acercarse al objeto de estudio desde diferentes perspectivas que le han permitido comprenderlo con mayor amplitud. Es muy importante no privilegiar enfoques exclusivos de investigación, la investigación educativa tiene múltiples facetas, todas igualmente válidas,por lo que es muy importante experimentar con esta diversidad para contribuir más ampliamente a la comprensión de los fenómenos educativos. Como producto de la inmersión de la investigadora en el tema de la Orientación Vocacional mediante esta investigación, se ha reconocido la importancia de atender, dentro de esta misma rama,otros temas de importancia para el desarrollo teórico de esta disciplina en la Universidad de Costa Rica. Como producto de este interés en este momento la investigadora se encuentra involucrada, junto con 5 docentes más de la Escuela de Orientación y Educación Especial, en la creación de una comunidad de investigación sobre Orientación Vocacional. Se ha considerado que la Universidad de Costa Rica tiene el potencial para convertirse en un referente conceptual para la región latinoamericana en este campo en virtud de su larga experiencia en la formación de estos profesionales, tanto inicial como continua. Es necesario por lo tanto fortalecer la investigación en este campo.</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">2186</subfield>
+    <subfield code="a">ORIENTACIÓN PROFESIONAL</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1161</subfield>
+    <subfield code="a">ELECCIÓN DE UNA OCUPACIÓN</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">476</subfield>
+    <subfield code="a">JUVENTUD</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

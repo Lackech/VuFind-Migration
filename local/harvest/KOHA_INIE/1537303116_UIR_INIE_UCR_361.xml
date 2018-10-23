@@ -1,0 +1,49 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00595nam a2200169Ia 4500</leader>
+  <controlfield tag="008">160208b1994    cl ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="020" ind2=" ">
+    <subfield code="a">9567106223</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">12.06.01 </subfield>
+    <subfield code="b">1996</subfield>
+  </datafield>
+  <datafield ind1="2" tag="110" ind2=" ">
+    <subfield code="a">Centro Interuniversitario de Desarrollo-</subfield>
+    <subfield code="b">CINDA</subfield>
+    <subfield code="9">1451</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Gestión tecnológica y desarrollo universitario: el aporte de </subfield>
+    <subfield code="b">CINDA: veinte años de cooperación académica internacional</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">Santiago, Chile : </subfield>
+    <subfield code="b">CINDA, </subfield>
+    <subfield code="c">1994</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">633 páginas</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">TECNOLOGÍA</subfield>
+    <subfield code="9">28</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">DESARROLLO DE LA EDUCACIÓN</subfield>
+    <subfield code="9">24</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">8</subfield>
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">361</subfield>
+    <subfield code="d">361</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,61 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00702nam a2200205Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">1346</subfield>
+    <subfield code="d">1346</subfield>
+  </datafield>
+  <controlfield tag="008">170613b1994    us ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">05.03.03 </subfield>
+    <subfield code="b">852</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Winkler, Donald R.</subfield>
+    <subfield code="9">2897</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Mejorando la contribución de la mujer al desarrollo económico en América Latina y el Caribe / </subfield>
+    <subfield code="c">Donald R. Winkler, Andrea Guedes</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">Washington, D.C. :  </subfield>
+    <subfield code="b">Banco Mundial, </subfield>
+    <subfield code="c">1994</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">65 páginas</subfield>
+  </datafield>
+  <datafield tag="610" ind2="4" ind1="2">
+    <subfield code="a">BANCO MUNDIAL</subfield>
+    <subfield code="9">2929</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">PARTICIPACIÓN DE LA MUJER</subfield>
+    <subfield code="9">716</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">EDUCACIÓN DE LA MUJER </subfield>
+    <subfield code="9">390</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">GÉNERO</subfield>
+    <subfield code="9">69</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">TRABAJADORAS</subfield>
+    <subfield code="9">1774</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">SALUD DE LA MUJER</subfield>
+    <subfield code="9">4</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="a">Guedes, Andrea</subfield>
+    <subfield code="9">2894</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

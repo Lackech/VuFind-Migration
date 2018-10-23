@@ -1,0 +1,40 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00444nam a2200145Ia 4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">1255</subfield>
+    <subfield code="d">1255</subfield>
+  </datafield>
+  <controlfield tag="008">170523b1991    xxu||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">03.03.04 </subfield>
+    <subfield code="b">335</subfield>
+  </datafield>
+  <datafield ind2=" " tag="110" ind1="2">
+    <subfield code="a">Alianza Cooperativa Internacional</subfield>
+    <subfield code="9">2842</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Mujer cooperativista y su realidad inmediata</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">[Lugar de publicación no identificado] : </subfield>
+    <subfield code="b">Alianza, </subfield>
+    <subfield code="c">1991</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">153 páginas</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">COOPERATIVAS</subfield>
+    <subfield code="9">2843</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">MUJERES</subfield>
+    <subfield code="9">55</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

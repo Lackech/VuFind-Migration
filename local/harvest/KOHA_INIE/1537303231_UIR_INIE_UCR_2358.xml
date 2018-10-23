@@ -1,0 +1,68 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03230nam a2200241Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2358</subfield>
+    <subfield code="d">2358</subfield>
+  </datafield>
+  <controlfield tag="008">180911b2005    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">19.02.08 </subfield>
+    <subfield code="b">1097 CD #132</subfield>
+  </datafield>
+  <datafield ind1=" " tag="100" ind2=" ">
+    <subfield code="a">Gonzaga Martínez, Wilfredo</subfield>
+    <subfield code="9">1819</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Análisis situacional en el área educativa de las zonas de presencia de la Sede del Atlántico de la Universidad de Costa Rica: Fundamento para el desarrollo de un programa en investigación educativa / </subfield>
+    <subfield code="c">Wilfredo Gonzaga Martínez, Daniel  Rojas Conejo, Lolita Camacho Brown, Hannia Watson Soto</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2008</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">75 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Informe final  Proyecto de Investigación N° 724-A1-173.  También está disponible el disco compacto # 132: Memoria Jornadas de Divulgación e incluye en formato impreso el material:  Memoria III Jornadas de Divulgación</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">La propuesta de investigación planteada desde el Instituto de Investigación en Educación (INIE) y la Sede del Atlántico, con el apoyo de la Vicerrectoría de Investigación, se enmarca dentro de la lógica de descentralización y regionalización de programas académicos, cuya finalidad es la contribución al desarrollo socioeconómico y cultural en el área de influencia de la Sede en los tres campos del quehacer de la Universidad. Esto se lograría mediante el mejoramiento cualitativo de la formación de profesionales, en donde se incorporen las nuevas alternativas planteadas por diferentes grupos, comunidades e instituciones, los cuales responden a las necesidades tanto de transformación y mejoramiento de la calidad de vida cono de una sostenibilidad en su desarrollo. A partir del análisis situacional que se realiza a través del diagnóstico sobre las necesidades y perspectivas futuras en la región, se logran definir prioridades de investigación desde la educación, así como la elaboración de una propuesta en la cual se integran tanto la perspectivas de desarrollo como la formulación de proyectos que respondan a las necesidades de las comunidades en las que tiene influencia directa la Sede del Atlántico. Tras los resultados que se obtienen de la investigación, se plantea en la propuesta citada el fortalecimiento de la investigación educativa en los planes y programas de estudio, así como en gestión interinstitucional en los tres ejes, definidos por la Sede: el primero sobre “Sistema de producción, uso sostenible de cuencas de agua, biodiversidad”, el segundo sobre “Educación para el desarrollo sostenible y pluricultural” y el tercero sobre “Patrimonio cultural, recurso arqueológico, diversidad cultural, étnica y lingüística”. Con tal propósito se programan acciones que orienten el quehacer de la Sede en la Acción social, la docencia y la Investigación. Por último, se trazan constructos de investigación educativa y sus respectivas temáticas que pueden orientar su estudio desde el área de la educación.</subfield>
+  </datafield>
+  <datafield ind1=" " tag="610" ind2="4">
+    <subfield code="9">714</subfield>
+    <subfield code="a">UNIVERSIDAD DE COSTA RICA</subfield>
+  </datafield>
+  <datafield ind2="0" tag="650" ind1="1">
+    <subfield code="a">INVESTIGACIÓN EDUCATIVA</subfield>
+    <subfield code="9">326</subfield>
+  </datafield>
+  <datafield ind1=" " tag="700" ind2=" ">
+    <subfield code="a">Rojas Conejo, Daniel </subfield>
+    <subfield code="9">4223</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="700">
+    <subfield code="a">Camacho Brown, Lolita </subfield>
+    <subfield code="9">1099</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2=" ">
+    <subfield code="a">Watson Soto, Hannia </subfield>
+    <subfield code="9">1104</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+  </datafield>
+</record>

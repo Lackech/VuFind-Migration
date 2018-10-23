@@ -1,0 +1,57 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00863nam a2200193   4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3397</subfield>
+    <subfield code="d">3397</subfield>
+  </datafield>
+  <controlfield tag="008">170301b2014    cr a|||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">06.06.02</subfield>
+    <subfield code="b">2402</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">2503</subfield>
+    <subfield code="a">Ríos Cortés, Karol</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Diagnóstico de necesidades de formación del profesorado de la Facultad de Educación de la UCR para la integración de las TIC en la docencia /</subfield>
+    <subfield code="c">Karol Ríos Cortés, Flora Salas Madriz y Enid Sofía Zúñiga Murillo</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">[San José, Costa Rica : ]</subfield>
+    <subfield code="b">INIE,</subfield>
+    <subfield code="c">2014</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">102 páginas;</subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="500">
+    <subfield code="a">Informe final de Proyecto de Investigación No. 724-B2-341</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">9</subfield>
+    <subfield code="a">FORMACIÓN DE DOCENTES</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">484</subfield>
+    <subfield code="a">TECNOLOGÍA DE LA INFORMACIÓN </subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">925</subfield>
+    <subfield code="a">TECNOLOGÍA DE LAS COMUNICACIONES</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">253</subfield>
+    <subfield code="a">Salas Madriz, Flora Eugenia</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">1563</subfield>
+    <subfield code="a">Zúñiga Murillo, Enid Sofía</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

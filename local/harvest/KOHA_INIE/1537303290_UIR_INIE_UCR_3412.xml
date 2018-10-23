@@ -1,0 +1,51 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00708nab a2200169   4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">3412</subfield>
+    <subfield code="d">3412</subfield>
+  </datafield>
+  <controlfield tag="008">170320b2012    cr a|||| |||| 00| | spa d</controlfield>
+  <datafield tag="022" ind1=" " ind2=" ">
+    <subfield code="a">2215-2938</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">REVIS</subfield>
+    <subfield code="b">06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">3097</subfield>
+    <subfield code="a">Cabrera Monge, Leonor Eugenia</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Bioaprendicia y gozo -hacia una nueva perspectiva educativa /</subfield>
+    <subfield code="c">Leonor Eugenia Cabrera Monge</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Costa Rica :</subfield>
+    <subfield code="b">Departamento de investigaciones, Universidad De La Salle,</subfield>
+    <subfield code="c">2012</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">pp. 28-36</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1523</subfield>
+    <subfield code="a">PROCESO DE APRENDIZAJE</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">597</subfield>
+    <subfield code="a">VIDA COTIDIANA</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="773">
+    <subfield code="d">Costa Rica : Departamento de Investigaciones, Universidad De La Salle, 2012-</subfield>
+    <subfield code="o">R0642</subfield>
+    <subfield code="t">Revista Redpensar</subfield>
+    <subfield code="x">2215-2938</subfield>
+    <subfield code="g">Vol.1, no.2 (diciembre, 2012)</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+</record>

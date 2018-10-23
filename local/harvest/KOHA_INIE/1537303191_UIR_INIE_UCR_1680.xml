@@ -1,0 +1,65 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00911nam a2200217Ia 4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">1680</subfield>
+    <subfield code="d">1680</subfield>
+  </datafield>
+  <controlfield tag="008">180403b2005    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">06.03.04 </subfield>
+    <subfield code="b">1114</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="a">Charpentier Esquivel, Claudia</subfield>
+    <subfield code="9">232</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">CIEA: X años de trabajo, compromiso y voluntad /</subfield>
+    <subfield code="c">Claudia Charpantier; Olga Emilia Brenes; María de los Ángeles Carrillo; Alba Delgado; Lidia Hernández; Alejandrina Mata; Claudia Zúñiga; María Eugenia Zúñiga</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">SIEDIN, </subfield>
+    <subfield code="c">2005</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">30 páginas</subfield>
+  </datafield>
+  <datafield ind2="0" tag="650" ind1=" ">
+    <subfield code="a">EDUCACIÓN AMBIENTAL </subfield>
+    <subfield code="9">439</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="a">Brenes Chacón, Olga Emilia</subfield>
+    <subfield code="9">2614</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Delgado, Alba</subfield>
+    <subfield code="9">3519</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Carrillo Delgado, María de los Ángeles</subfield>
+    <subfield code="9">2522</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Hernández Rojas, Lidia</subfield>
+    <subfield code="9">233</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Mata Segreda, Alejandrina</subfield>
+    <subfield code="9">109</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="a">Zúñiga Vega, Claudia</subfield>
+    <subfield code="9">2520</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="a">Zuñiga Chaves, María Eugenia</subfield>
+    <subfield code="9">2617</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

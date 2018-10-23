@@ -1,0 +1,66 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01036nam a22002417a 4500</leader>
+  <controlfield tag="008">160229b2013    ho |||||||||| 00| a spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">CD #263</subfield>
+  </datafield>
+  <datafield ind1=" " tag="111" ind2=" ">
+    <subfield code="9">1490</subfield>
+    <subfield code="a">Encuentro de Centros Clacso de C.A  (1 : 2013 : Tegucigalpa, Honduras)</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Primer Encuentro de Centros Clacso de C.A.</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">Tegucigalpa, Honduras :</subfield>
+    <subfield code="b">Universidad Nacional Autónoma de Honduras. Dirección de Investigación Científica,</subfield>
+    <subfield code="c">2013</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">2 discos de computadora;</subfield>
+    <subfield code="b">video; presentación power point</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Post-producción: Jesús Cruz P.</subfield>
+  </datafield>
+  <datafield ind1=" " tag="505" ind2=" ">
+    <subfield code="a">Bienvenida y discurso inaugural.</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="505">
+    <subfield code="a">¿A dónde va Centroamérica?</subfield>
+  </datafield>
+  <datafield ind1=" " tag="505" ind2=" ">
+    <subfield code="a">¿A dónde deben ir las ciencias sociales?</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="505">
+    <subfield code="a">La región y los desafíos de las ciencias sociales en investigación, formación y capacitación.</subfield>
+  </datafield>
+  <datafield ind2=" " tag="505" ind1=" ">
+    <subfield code="a">La oferta del Clacso y la oferta regional.</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">276</subfield>
+    <subfield code="a">CIENCIAS SOCIALES </subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">163</subfield>
+    <subfield code="a">INVESTIGACIÓN</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">506</subfield>
+    <subfield code="a">CONFERENCIA</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="4" tag="651">
+    <subfield code="9">457</subfield>
+    <subfield code="a">AMÉRICA CENTRAL</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">08</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">3089</subfield>
+    <subfield code="d">3089</subfield>
+  </datafield>
+</record>

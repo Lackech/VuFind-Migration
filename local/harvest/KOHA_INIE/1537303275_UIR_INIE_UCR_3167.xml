@@ -1,0 +1,50 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02193nab a2200181   4500</leader>
+  <controlfield tag="005">20160426163542.0</controlfield>
+  <controlfield tag="008">160426b2011    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">1636</subfield>
+    <subfield code="a">Bastidas Pacheco, Gilberto Antonio</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Gerencia participativa y la promoción social en escuelas urbanas, Municipio de Trujillo, Estado Trujillo, Venezuela /</subfield>
+    <subfield code="c">Gilberto Antonio Bastidas Pacheco, Jóse Gregorio Pacheco Barrios</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2011</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">páginas 119 - 139</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">La promoción social está vinculada al logro de una visión de escuela proyectada hacia su entorno, en tanto la gerencia participativa se relaciona con la gestión institucional, entendida como la búsqueda  de la productividad administrativa y académica, a partir de un nuevo concepto de la acción gerencial que rompe con la dirección vertical  y realza la toma de decisiones compartidas; estas premisas están contenidas en el proyecto educativo venezolano. El objetivo de esta investigación fue determinar dimensiones de las variables gerencia participativa y promoción social en docentes y directores de escuelas urbanas del municipio de Trujillo, estado Trujillo, Venezuela. Se hizo una investigación descriptiva de campo y correlacional basada en la encuesta y se usó el cuestionario como instrumento de recolección de información. Como resultados se dan los siguientes : los directores consideran buena y los docentes mala la gestión y la promoción social, con correlación positiva y fuerte entre ambas variables. Se concluye que para los docentes pero no para los directores la gestión es cerrada en las instituciones educativas  estudiadas, distante del concepto de gerencia participativa; además, que se deja de lado el importante promotor social que deben exhibir todos los actores involucrados en la educación formal.</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1=" ">
+    <subfield code="9">1637</subfield>
+    <subfield code="a">Pacheco Barrios, Jóse Gregorio</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0624</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.35, no.2 (jul.-dic.,2011)</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3167</subfield>
+    <subfield code="d">3167</subfield>
+  </datafield>
+</record>

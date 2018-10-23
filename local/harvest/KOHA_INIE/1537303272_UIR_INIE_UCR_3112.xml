@@ -1,0 +1,45 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00570nam a2200157   4500</leader>
+  <controlfield tag="008">160418b2004    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">06.02.04 </subfield>
+    <subfield code="b">2179 </subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="110">
+    <subfield code="9">545</subfield>
+    <subfield code="a">Costa Rica. Ministerio de Educación Pública</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Políticas de educación integral de la expresión de la sexualidad humana /</subfield>
+    <subfield code="c">Ministerio de Educación Pública</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">[San José], Costa Rica :</subfield>
+    <subfield code="b">MEP,</subfield>
+    <subfield code="c">2004</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">21 páginas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">451</subfield>
+    <subfield code="a">POLÍTICA EDUCATIVA</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1553</subfield>
+    <subfield code="a">PARTICIPACIÓN DE LOS PADRES</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1552</subfield>
+    <subfield code="a">EDUCACIÓN SEXUAL</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">3112</subfield>
+    <subfield code="d">3112</subfield>
+  </datafield>
+</record>

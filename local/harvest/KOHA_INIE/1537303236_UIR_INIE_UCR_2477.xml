@@ -1,0 +1,46 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00725nam a2200181Ia 4500</leader>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">CD #215</subfield>
+  </datafield>
+  <datafield ind1=" " tag="100" ind2=" ">
+    <subfield code="a">Fernández, Alejandra</subfield>
+  </datafield>
+  <datafield tag="245" ind2=" " ind1=" ">
+    <subfield code="a">Entrevista a Rebecca Vargas Bolaños/ Alejandra Fernández, periodista</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Universidad de Costa Rica, Canal 15, </subfield>
+    <subfield code="c">2011</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">disco compacto</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Entrevista a Rebecca Vargas Bolaños en el programa "Espectro", sobre 10º aniversario de la revista "Actualidades investigativas en educación"</subfield>
+  </datafield>
+  <datafield ind2=" " tag="650" ind1=" ">
+    <subfield code="a">ACTUALIDADES INVESTIGATIVAS EN EDUCACION</subfield>
+  </datafield>
+  <datafield ind2=" " tag="650" ind1=" ">
+    <subfield code="a">INSTITUTO DE INVESTIGACION EN EDUCACION</subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2=" ">
+    <subfield code="a">REVISTAS ELECTRONICAS</subfield>
+  </datafield>
+  <datafield ind2=" " tag="650" ind1=" ">
+    <subfield code="a">ENTREVISTAS</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="650">
+    <subfield code="a">VARGAS BOLAÑOS, REBECCA</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="p">002479  </subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2477</subfield>
+    <subfield code="d">2477</subfield>
+  </datafield>
+</record>

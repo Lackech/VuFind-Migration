@@ -1,0 +1,47 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00588nam a2200169Ia 4500</leader>
+  <controlfield tag="008">150813b2002    CR ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="020">
+    <subfield code="a">8436247507</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">06.02.01 </subfield>
+    <subfield code="b">2135</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="a">Quicios García, María del Pilar</subfield>
+    <subfield code="9">831</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Fundamentos filosóficos de la pedagogía antigua. La educación griega, romana y judeocristiana / </subfield>
+    <subfield code="c">María del Pilar Quicios García</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, costa Rica : </subfield>
+    <subfield code="b">UNED, </subfield>
+    <subfield code="c">2002</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">367 páginas</subfield>
+  </datafield>
+  <datafield tag="490" ind2=" " ind1=" ">
+    <subfield code="a">Cuadernos de la Uned</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">HISTORIA DE LA EDUCACIÓN</subfield>
+    <subfield code="9">832</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">197</subfield>
+    <subfield code="d">197</subfield>
+  </datafield>
+</record>

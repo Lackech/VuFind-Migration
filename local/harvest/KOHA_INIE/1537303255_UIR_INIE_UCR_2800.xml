@@ -1,0 +1,53 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00711nam a2200181   4500</leader>
+  <controlfield tag="008">150811b2005    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">06.06.02 1284</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">774</subfield>
+    <subfield code="a">Rodríguez Soto, Sonia</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Sin fronteras, programa de capacitación para profesores de matemáticas en la enseñanza secundaria /</subfield>
+    <subfield code="c">Sonia Rodríguez Soto</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2005</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">1 volumen (sin paginar)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">La Unidad posee Informe parcial 2005 y 2006.
+Informe anual 2008
+Poryecto de Acción Social ED-1596</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">9</subfield>
+    <subfield code="a">FORMACIÓN DE DOCENTES</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">729</subfield>
+    <subfield code="a">CAPACITACIÓN</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">482</subfield>
+    <subfield code="a">MATEMÁTICAS  </subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">456</subfield>
+    <subfield code="a">EDUCACIÓN SECUNDARIA</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2800</subfield>
+    <subfield code="d">2800</subfield>
+  </datafield>
+</record>

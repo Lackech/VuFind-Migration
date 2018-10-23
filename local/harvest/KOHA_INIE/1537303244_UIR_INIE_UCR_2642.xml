@@ -1,0 +1,45 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01334nab a22001577a 4500</leader>
+  <controlfield tag="008">150610b1999    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">170</subfield>
+    <subfield code="a">Del Vecchio Ugalde, Janina</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Pertinencia de la universidad /</subfield>
+    <subfield code="c">Janina Del Vecchio Ugalde</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">1999</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">paginas 43-54</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">La pertinencia de la Universidad es la redefinición social, la investigación generadora de cambios, la conciencia lucida.  Se debe impulsar un cambio orientado a fortalecer, profundizar y ampliar los procedimientos que aseguren a los diferentes sectores universitarios las más amplias posibilidades de desarrollo y expresión. Es necesario generar, con imaginación y decisión, mecanismos para que los profesores, directores y decanos asuman más plenamente la responsabilidad y la autoridad que les corresponde en el campo académico, de modo que los órganos superiores sean llamados a actuar solo en aquellos casos en los que las decisiones por tomar produzcan efectos sobre grandes áreas de la universidad</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind2=" " ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0024</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.23, no.especial (1999)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2642</subfield>
+    <subfield code="d">2642</subfield>
+  </datafield>
+</record>

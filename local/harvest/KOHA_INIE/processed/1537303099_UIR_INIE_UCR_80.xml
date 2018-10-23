@@ -1,0 +1,51 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00597nam a2200181Ia 4500</leader>
+  <controlfield tag="008">150723b1990    c  ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="020" ind2=" " ind1=" ">
+    <subfield code="a">0889365687</subfield>
+  </datafield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">18.01.01 </subfield>
+    <subfield code="b">502</subfield>
+  </datafield>
+  <datafield ind1="2" ind2=" " tag="110">
+    <subfield code="a">Centro Internacional de Investigaciones para el Desarrollo</subfield>
+    <subfield code="9">441</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Programa mundial de investigación : una perspectiva Sur-Norte</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">Ottawa, Canadá : </subfield>
+    <subfield code="b">CIID., </subfield>
+    <subfield code="c">1990</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">44 páginas</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">COOPERACIÓN CIENTÍFICA</subfield>
+    <subfield code="9">442</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">DESARROLLO  SOSTENIBLE</subfield>
+    <subfield code="9">443</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">SALUD PÚBLICA</subfield>
+    <subfield code="9">444</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">DESARROLLO ECONÓMICO Y SOCIAL</subfield>
+    <subfield code="9">445</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">80</subfield>
+    <subfield code="d">80</subfield>
+  </datafield>
+</record>

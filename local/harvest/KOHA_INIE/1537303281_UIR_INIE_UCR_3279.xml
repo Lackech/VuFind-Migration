@@ -1,0 +1,62 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00779nam a2200229   4500</leader>
+  <controlfield tag="008">160721b        xxua|||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">DOC # 123</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="9">1898</subfield>
+    <subfield code="a">Organización de los Estados Iberoamericanos para la Educación, la Ciencia y la Cultura</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Programa de cooperación</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">s.l. :</subfield>
+    <subfield code="b">OEI,</subfield>
+    <subfield code="c">s.f.</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">folletos sin paginar</subfield>
+  </datafield>
+  <datafield tag="505" ind2=" " ind1=" ">
+    <subfield code="t">Educación en valores</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="505">
+    <subfield code="t">Educación Superior</subfield>
+  </datafield>
+  <datafield tag="505" ind2=" " ind1=" ">
+    <subfield code="t">Organización y administración de la educación</subfield>
+  </datafield>
+  <datafield tag="505" ind1=" " ind2=" ">
+    <subfield code="t">Calidad de la educación</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="505">
+    <subfield code="t">Iberoamérica: unidad cultural en la diversidad</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">11</subfield>
+    <subfield code="a">CALIDAD DE LA EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1089</subfield>
+    <subfield code="a">GESTIÓN EDUCATIVA</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">829</subfield>
+    <subfield code="a">DIVERSIDAD CULTURAL</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">05</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">3279</subfield>
+    <subfield code="d">3279</subfield>
+  </datafield>
+</record>

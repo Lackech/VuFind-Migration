@@ -1,0 +1,49 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01352nab a22001697a 4500</leader>
+  <controlfield tag="008">150521b1997    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">96</subfield>
+    <subfield code="a">Monge Alvarado, Marielos</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Implementación del test de Martinek-Zaichkowsky de autoconcepto, a grupos de niños y niñas de 6,7,8,9 y 10 años, del Instituto Franco Costarricense /</subfield>
+    <subfield code="c">Marielos Monge Alvarado, Maureen Meneses Montero</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Universidad de Costa Rica,</subfield>
+    <subfield code="c">1997</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">páginas 65-72</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">Este artículo contempla el análisis de la aplicación del test de autoconcepto de Martinek-Zaichkowsky, a grupos de niños y niñas, cuyas edades fueron de 6,7,8,9 y 10 años. Se comparan las diferencias genéricas entre los sujetos. Se encontró que los sujetos estudiados presentan relaciones entre géneros de autoconcepto muy bien definidos y predecibles. El tamaño del efecto promedio fue significativamente mayor de 0, en los diferentes grupos de edades, lo que significa que el autoconcepto es un factor que favorece el desarrollo del niño y la niña.</subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2="0">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="700">
+    <subfield code="9">97</subfield>
+    <subfield code="a">Meneses Montero, Maureen</subfield>
+  </datafield>
+  <datafield tag="773" ind1="0" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0019</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.21 No.2 (1997)</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2582</subfield>
+    <subfield code="d">2582</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,46 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01429nab a2200169   4500</leader>
+  <controlfield tag="005">20160317163259.0</controlfield>
+  <controlfield tag="008">150702b2001    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">198</subfield>
+    <subfield code="a">González Salazar, Luis Enrique</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Empoderar:  Nuevo concepto de liderazgo para el administrador educativo /</subfield>
+    <subfield code="c">Luis Enrique González Salazar</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2001</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a"> páginas 41-47</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">En este artículo se realiza un análisis de las dos directrices  enviadas por el Dr. Claudio Gutierrez cuando fue Ministro de Educación, en las que se empoderaba a las direcciones regionales de educación y se ponía en práctica el principio de subsidiaridad, para establecer una nueva manera de relacionar las direcciones regionales con las oficinas centrales del Ministerio y éstas con las Instituciones Educativas. Se enfatiza en el potencial de este concepto de liderazgo con el objeto de analizar el estado actual del proceso de empoderamiento en la Dirección Regional de Alajuela, visto este como un continuo entre la autonomía y el control en los estilos de liderazgo practicado por los directores cinco del circuito 01</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="0" tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0189</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.25, no.2  (2001)</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2727</subfield>
+    <subfield code="d">2727</subfield>
+  </datafield>
+</record>

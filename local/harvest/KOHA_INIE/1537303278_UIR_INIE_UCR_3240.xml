@@ -1,0 +1,44 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00611nam a22001577a 4500</leader>
+  <controlfield tag="008">160609b2015    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">06.01.01</subfield>
+    <subfield code="b">2158 CD #268</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">706</subfield>
+    <subfield code="a">D'Antoni, Maurizia </subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Aplicaciones educativas de la teoría de Vygotski en el contexto latinoamericano: memoria de la investigación en este campo /</subfield>
+    <subfield code="c">Maurizia D'Antoni Fattori</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">[San José, Costa Rica] :</subfield>
+    <subfield code="b">INIE,</subfield>
+    <subfield code="c">2015</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">13 hojas</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Informe proyecto de Acción Social ED-2991</subfield>
+  </datafield>
+  <datafield tag="600" ind2="4" ind1="1">
+    <subfield code="9">906</subfield>
+    <subfield code="a">VYGOTSKY, LEV SEMIONOVICH </subfield>
+  </datafield>
+  <datafield ind2="0" ind1=" " tag="650">
+    <subfield code="9">661</subfield>
+    <subfield code="a">TEORÍA DE LA EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3240</subfield>
+    <subfield code="d">3240</subfield>
+  </datafield>
+</record>

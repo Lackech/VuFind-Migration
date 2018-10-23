@@ -1,0 +1,75 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01163nam a2200241   4500</leader>
+  <controlfield tag="008">161003b2015    ec ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="020">
+    <subfield code="a">9789978102251</subfield>
+  </datafield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">06.06.02</subfield>
+    <subfield code="b">2383</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2="0">
+    <subfield code="9">2038</subfield>
+    <subfield code="a">Ortiz E., María Elena</subfield>
+    <subfield code="e">coordinador/a</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Reflexiones sobre la formación y el trabajo docente en Ecuador y América Latina /</subfield>
+    <subfield code="c">María Elena Ortiz E., Carlos Crespo Burgos, Edgar Isch L., Eduardo Fabara Garzón, coordinadores</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">Quito, Ecuador :</subfield>
+    <subfield code="b">Editorial Universitaria Abya-Yala,</subfield>
+    <subfield code="c">2015</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">273 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Esta publicación recoge los trabajos presentados en el II Seminario Nacional de la Red ESTRADO y III Encuentro Nacional de la Red KIPUS "Políticas públicas, trabajo y formación docente en el Ecuador", realizado en Quito el 12 y 13 de junio 2014.</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">9</subfield>
+    <subfield code="a">FORMACIÓN DE DOCENTES</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">14</subfield>
+    <subfield code="a">ENSEÑANZA</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">506</subfield>
+    <subfield code="a">CONFERENCIA</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="4">
+    <subfield code="9">2039</subfield>
+    <subfield code="a">ECUADOR</subfield>
+  </datafield>
+  <datafield ind2="4" tag="651" ind1=" ">
+    <subfield code="9">273</subfield>
+    <subfield code="a">AMÉRICA LATINA</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">2040</subfield>
+    <subfield code="a">Crespo Burgos, Carlos</subfield>
+    <subfield code="e">coordinador/a</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">1956</subfield>
+    <subfield code="a">Isch L., Edgar</subfield>
+    <subfield code="e">coordinador/a</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">2041</subfield>
+    <subfield code="a">Fabara Garzón, Eduardo</subfield>
+    <subfield code="e">coordinador/a</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">3330</subfield>
+    <subfield code="d">3330</subfield>
+  </datafield>
+</record>

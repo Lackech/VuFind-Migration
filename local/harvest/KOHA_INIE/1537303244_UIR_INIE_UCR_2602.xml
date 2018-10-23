@@ -1,0 +1,45 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01367nab a22001577a 4500</leader>
+  <controlfield tag="008">150528b1998    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">119</subfield>
+    <subfield code="a">Hernández Herrero, Anabelle</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Organización del trabajo en grupo en una clase de inglés /</subfield>
+    <subfield code="c">Anabelle Hernández Herrero</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">1998</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">páginas 33 - 44</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">Este artículo describe los factores fundamentales que se requieren para el éxito y el buen desarrollo de trabajo en grupo, durante una clase de inglés. También se discute el problema que puede presentarse en el aula, cuando los estudiantes comparten la misma lengua materna y recurren a esta durante dichos trabajos. Se analizan las posibles causas y se dan lineamientos para evitar, hasta donde sea posible, esta situación. Además este trabajo incluye una lista de fórmulas y expresiones que los estudiantes deben interiorizar con el fin de trabajar en grupos de forma eficiente; ideas para organizar el aula y una serie de actividades con sugerencias prácticas para llevarlas a cabo de la mejor forma posible</subfield>
+  </datafield>
+  <datafield tag="650" ind2="0" ind1=" ">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0021</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.22, no.2 (1998)</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2602</subfield>
+    <subfield code="d">2602</subfield>
+  </datafield>
+</record>

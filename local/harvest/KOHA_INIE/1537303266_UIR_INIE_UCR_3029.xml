@@ -1,0 +1,50 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01918nab a2200181   4500</leader>
+  <controlfield tag="005">20160331155031.0</controlfield>
+  <controlfield tag="008">160126b2009       f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">1321</subfield>
+    <subfield code="a">Flores Moreno, Rubén</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="3">
+    <subfield code="a">La educación física y el deporte como medios para adquirir y desarrollar valores en el nivel de primaria /</subfield>
+    <subfield code="c">Rubén Flores Moreno, Juan Diego Zamora Salas </subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2009</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">páginas 133-143</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">La pérdida de valores es uno de los principales desencadenantes de conductas negativas en niños, niñas y jóvenes. Este fenómeno se atribuye  en parte, a que valores sociales primordiales no se enseñan ni promueven en la familia, la escuela ni en el medio donde se desenvuelven  estas personas. De  ahí el interés de analizar el potencial que tiene en la educación  básica la educación física y el deporte, como medios para apoyar y promover el desarrollo de valores sociales y positivos, además, de que su presencia en el sistema educativo nacional contribuye al desarrollo del carácter, la personalidad, y la forma de pensar y actuar de la persona. El artículo propone que los componentes del Programa de Educación  Física permiten la enseñanza y el fomento de valores como la tolerancia y la identidad, entre otros. Se concluye que la educación física, por medio de las actividades lúdicas, recreativas y deportivas proporciona espacios para fomentar hábitos y valores que fortalecen la voluntad  para alcanzar una mejor salud física, equilibrio psicosocial y por consiguiente, una adecuada calidad de vida</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">1322</subfield>
+    <subfield code="a">Zamora Salas, Juan Diego</subfield>
+  </datafield>
+  <datafield tag="773" ind2=" " ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0311</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.33, no.1 (2009)</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">3029</subfield>
+    <subfield code="d">3029</subfield>
+  </datafield>
+</record>

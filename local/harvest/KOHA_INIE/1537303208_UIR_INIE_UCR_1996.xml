@@ -1,0 +1,48 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02053nam a2200169Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">1996</subfield>
+    <subfield code="d">1996</subfield>
+  </datafield>
+  <controlfield tag="008">180704b1988    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">06.06.02 </subfield>
+    <subfield code="b">101</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1=" ">
+    <subfield code="a">Quirós Rodríguez, Tito</subfield>
+    <subfield code="9">3434</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Formación pedagógica de los docentes para la educación superior en la Universidad de Costa Rica / </subfield>
+    <subfield code="c">Tito Quirós Rodríguez, Rolando Pinto Contreras</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1988</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">267 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Informe Final del Proyecto de Investigación N° 724-86-079</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">El estudio defiende la tesis de que existen fallas teóricas en la manera de concebir la selección y la formación pedagógica de los profesores universitarios, y además, de que los procedimientos no responden a políticas institucionales claras. Por lo tanto, se cae en acciones remediales aisladas, tipo "parche", y no se llega a la implementación de programas de capacitación y formación pedagógica que abarquen a toda la población docente de la universidad. En general, existe poco estímulo institucional para el perfeccionamiento pedagógico de los docentes. Se llama la atención al hecho de que, para seleccionar a un futuro profesor, es sobre todo importante el que este sea reconocido como especialista en las materias que deben enseñar, dejando de lado otros factores importantes como la experiencia pedagógica o la formación complementaria en cuanto a técnicas educativas. Esta falta de formación académica integral y el predominio de la transmisión unilateral del saber del docente, contradicen totalmente el modelo que la UCR promueve: docencia creativa y crítica. Por otra parte, se menciona poco la relevancia de poseer investigaciones, estar actualizado en el área o poseer una eficiente metodología para la enseñanza. Descriptores: Criterios para la selección de docentes en la UCR / Poco estímulo para capacitación en áreas de pedagogía / Enfoque unilateral de la enseñanza. 
+</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">FORMACIÓN DE DOCENTES</subfield>
+    <subfield code="9">9</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+    <subfield code="9">8</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

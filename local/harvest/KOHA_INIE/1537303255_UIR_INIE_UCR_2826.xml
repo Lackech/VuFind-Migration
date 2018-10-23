@@ -1,0 +1,58 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00783nam a2200193   4500</leader>
+  <controlfield tag="008">150826b2015    cr ||||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="022" ind1=" " ind2=" ">
+    <subfield code="a">1659-0139</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">05.01.01</subfield>
+    <subfield code="b">2264</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">763</subfield>
+    <subfield code="a">Muñoz Varela, Luis</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Vinculación institucional en red con la emigración altamente calificada: percepciones de costarricenses en el extranjero /</subfield>
+    <subfield code="c">Luis Muñoz Varela</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">CIICLA,</subfield>
+    <subfield code="c">2015</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">pp. .27-51</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">936</subfield>
+    <subfield code="a">FUGA DE CEREBROS</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">937</subfield>
+    <subfield code="a">EMIGRACIÓN DE PROFESIONALES</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">764</subfield>
+    <subfield code="a">REDES ACADÉMICAS</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">938</subfield>
+    <subfield code="a">RED TICOTAL</subfield>
+  </datafield>
+  <datafield ind2=" " tag="773" ind1="0">
+    <subfield code="d">San José, Costa Rica : CIICLA, 2015</subfield>
+    <subfield code="o">004046</subfield>
+    <subfield code="t">Cuadernos inter.c.a.mbio sobre Centroamérica y el Caribe</subfield>
+    <subfield code="g">Vol.12, no.1 (enero-junio, 2015)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">2826</subfield>
+    <subfield code="d">2826</subfield>
+  </datafield>
+</record>

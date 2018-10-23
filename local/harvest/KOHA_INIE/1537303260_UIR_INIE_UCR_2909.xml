@@ -1,0 +1,46 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01458nab a2200169   4500</leader>
+  <controlfield tag="005">20160328165046.0</controlfield>
+  <controlfield tag="008">151008b2004    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">258</subfield>
+    <subfield code="a">Rodríguez García, José Miguel</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="3" tag="245">
+    <subfield code="a">La investigación evaluativa de programas educativos con tecnologías de la información y la comunicación:  Propuesta del estado de la cuestión /</subfield>
+    <subfield code="c">José Miguel Rodríguez García</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2004</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">páginas 169-190</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">En este artículo se presenta una propuesta de estado del arte sobre investigación y evaluación de programas educativos que tiene como característica  estar mediados por tecnologías de la información y la comunicación (TIC). En este artículo se revisan las principales intenciones y modelos de los enfoques evaluativos de tales programas, las tendencias generales en lo que respecta a la evaluación de impacto, las tendencias en el uso de indicadores y marcos de evaluación, y finalmente el abordaje del tema de la equidad social en la evaluación educativa. Con estos elementos se realiza un balance que permite proponer una lectura del estado actual en esta novel temática</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " tag="773" ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0215</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.28, no.1 (2004)</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2909</subfield>
+    <subfield code="d">2909</subfield>
+  </datafield>
+</record>

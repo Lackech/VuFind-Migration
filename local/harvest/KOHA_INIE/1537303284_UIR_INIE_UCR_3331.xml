@@ -1,0 +1,82 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01479nas a2200277   4500</leader>
+  <controlfield tag="008">161003b2015    ec ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="022" ind1=" ">
+    <subfield code="a">1390-325X</subfield>
+  </datafield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">06.02.01</subfield>
+    <subfield code="b">2385</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Alteridad: Revista de Educación</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Quito, Ecuador:</subfield>
+    <subfield code="b">Universidad Politécnica Salesiana,</subfield>
+    <subfield code="c">2015</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">124 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Tema central: competencias mediáticas y educación</subfield>
+  </datafield>
+  <datafield ind1=" " tag="505" ind2=" ">
+    <subfield code="t">¿Qué nos muestran las pantallas?: La mirada crítica adolescente en el marco de las industrias culturales y del pensamiento actual /</subfield>
+    <subfield code="r">José Ignacio Aguaded Gómez, Mari Carmen Caldeiro Pedreira, Jeniffer Rodríguez López</subfield>
+  </datafield>
+  <datafield tag="505" ind1=" " ind2=" ">
+    <subfield code="t">Educación personalizada a través de e-learning /</subfield>
+    <subfield code="r">Ángel Mojarro, Daniel Rodrigo, María Celia Etchegaray Centeno</subfield>
+  </datafield>
+  <datafield tag="505" ind1=" " ind2=" ">
+    <subfield code="t">Estereotipos, tópicos y lenguaje de la programación sensacionalista en la televisión: programa Corazón de TVE /</subfield>
+    <subfield code="r">Luis M. Romero Rodríguez,  Patricia De Casas Moreno, Ángel Torres Toukoumidis</subfield>
+  </datafield>
+  <datafield tag="505" ind1=" " ind2=" ">
+    <subfield code="t">Identidad, cultura y desarrollo a través del audiovisual participativo: El caso de jóvenes del Proyecto Youth Path de la Unesco en Cosat Rica /</subfield>
+    <subfield code="r">Ángel V. Rabadán, Luis Bruzón, Sonia Montaño</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">345</subfield>
+    <subfield code="a">COMPETENCIA</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">80</subfield>
+    <subfield code="a">ALFABETIZACIÓN</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">483</subfield>
+    <subfield code="a">TECNOLOGÍA EDUCATIVA </subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">16</subfield>
+    <subfield code="a">UNIVERSIDADES </subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1841</subfield>
+    <subfield code="a">DOCENCIA</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">301</subfield>
+    <subfield code="a">LIDERAZGO</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">163</subfield>
+    <subfield code="a">INVESTIGACIÓN</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">03</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">3331</subfield>
+    <subfield code="d">3331</subfield>
+  </datafield>
+</record>

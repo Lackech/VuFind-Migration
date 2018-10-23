@@ -1,0 +1,40 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00794nam a2200145Ia 4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">2221</subfield>
+    <subfield code="d">2221</subfield>
+  </datafield>
+  <controlfield tag="008">170314b        cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">18.01.01 </subfield>
+    <subfield code="b">1280</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="100">
+    <subfield code="a">Jara Holliday, Oscar</subfield>
+    <subfield code="9">1903</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Sistematización De Experiencias: Algunas Precisiones / </subfield>
+    <subfield code="c">Oscar Jara Holliday</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">[Lugar de publicación no identificado ]:  </subfield>
+    <subfield code="b">Centro De Estudios y Publicaciones Alforja, </subfield>
+    <subfield code="c">[Fecha de publicación no identifiada]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">23 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Material relacionado con el cd 74. Incluye la técnica: Ficha de recuperación de aprendizajes y la técnica: Matríz de ordenamiento y reconstrucción. Incluye información sobre Los momentos metodológicos de una sistematización, características y recomendaciones</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">2359</subfield>
+    <subfield code="a">SISTEMATIZACIÓN</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

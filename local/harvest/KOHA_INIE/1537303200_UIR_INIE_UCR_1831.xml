@@ -1,0 +1,67 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00927nam a2200193Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">1831</subfield>
+    <subfield code="d">1831</subfield>
+  </datafield>
+  <controlfield tag="008">180426b2012    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">06.03.06 </subfield>
+    <subfield code="b">765</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="a">Camacho Brown, Lolita </subfield>
+    <subfield code="9">1099</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Construyendo procesos educativos culturalmente pertinentes desde el nivel inicial de las escuelas indígenas de Chirripó / </subfield>
+    <subfield code="c">Lolita Camacho Brown; Hannia Watson Soto</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2012</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">86 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Informe final proyecto No.724-B0-320\La Unidad posee informe parcial 2010</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">El proyecto de investigación "Construyendo procesos educativos culturalmente desde el nivel inicial de las escuelas indígenas de Chirripó" se desarrolló desde el Instituto de Investigación en Educación (INIE) de la Universidad de Costa Rica. El propósito de este trabajo, es aportar insumos a la discusión iniciada en años recientes en el ámbito universitario, regional y nacional, en torno a la necesidad de construir oportunidades para un desarrollo educativo caracterizado por la pertinencia cultural en las comunidades cabécares de Chirripó. En este participaron personas nativas de las comunidades relacionadas con los procesos educativos ancestrales y formales. Se determinó que el proceso de diseño curricular debe considerar las necesidades, intereses, expectativas y aspiraciones de las comunidades indígenas pues ha privado el interés de generar procesos educativos orientados al cumplimiento de programas oficiales, dejándose de lado el rescate y afirmación de la cultura y sobre todo el diálogo de saberes. 
+En este estudio mediante un diálogo con las personas de las comunidades cabécares de Chirripó, se identificaron aspectos de la cultura que se deben enseñar en la escuela, para generar procesos de enseñanza y aprendizaje pertinentes. Algunos de estos son: 
+" Es necesario que la población infantil tenga conocimientos básicos sobre las actividades productivas que realizan sus grupos familiares y las personas de la comunidad y la forma en que se desarrollan. Es importante, que conozcan sobre la preparación personal requerida para realizar algunas de estas, así como las prácticas culturales propias para la caza, la pesca y la agricultura y las herramientas que se utiliza, que en algunos casos son producto de la herencia ancestral como por ejemplo las cerbatanas, los arcos, las flechas. 
+" En la edad inicial se puede favorecer el acercamiento de las niñas y los niños a la forma de preparar y conservar alimentos propios de su grupo cultural, así como los utensilios tradicionales que se utilizan en estas actividades y que son confeccionados por las personas de la familia tales como: cestas, guacales, coladores, molinillos entre otros. 
+" La etnia cabécar se estructura en un sistema de parentesco matrilineal de clanes, por lo tanto es importante incorporar y retomar esa forma de organización en el aula con el alumnado. </subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">EDUCACIÓN PREESCOLAR</subfield>
+    <subfield code="9">455</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">CURRÍCULO (EDUCACIÓN)</subfield>
+    <subfield code="9">342</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">CULTURA </subfield>
+    <subfield code="9">378</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">PERTINENCIA</subfield>
+    <subfield code="9">1105</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">1104</subfield>
+    <subfield code="a">Watson Soto, Hannia </subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,63 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00685nam a2200217Ia 4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">1057</subfield>
+    <subfield code="d">1057</subfield>
+  </datafield>
+  <controlfield tag="008">180528b1997    cr ||||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="020" ind2=" " ind1=" ">
+    <subfield code="a">9977-67-432-9</subfield>
+  </datafield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">06.03.06 </subfield>
+    <subfield code="b">401</subfield>
+  </datafield>
+  <datafield ind1=" " tag="100" ind2=" ">
+    <subfield code="a">Arce Mesén, Rafael</subfield>
+    <subfield code="9">3251</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Estudios Sociales 7 : texto / </subfield>
+    <subfield code="c">Rafael Arce Mesén  ...[et al.]</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, C.R. : </subfield>
+    <subfield code="b">Editorial de la Universidad de Costa Rica, </subfield>
+    <subfield code="c">1997</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">240 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Contiene Guía Didáctica</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">HISTORIA</subfield>
+    <subfield code="9">22</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">EDUCACIÓN SECUNDARIA</subfield>
+    <subfield code="9">456</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">ESTUDIOS SOCIALES</subfield>
+    <subfield code="9">675</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">GEOGRAFÍA</subfield>
+    <subfield code="9">1984</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">SOCIEDAD </subfield>
+    <subfield code="9">396</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="700">
+    <subfield code="a">Arce Mesén, Rafael</subfield>
+    <subfield code="9">3251</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

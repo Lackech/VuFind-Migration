@@ -1,0 +1,54 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03023nam a2200169Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">1949</subfield>
+    <subfield code="d">1949</subfield>
+  </datafield>
+  <controlfield tag="008">180628b2006    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">06.05.02 </subfield>
+    <subfield code="b">1349</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="100">
+    <subfield code="a">Rojas Porras, Marta</subfield>
+    <subfield code="9">108</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Desarrollo de la madurez léxica: propuesta metodológica para cuarto año de la Educación General Básica / </subfield>
+    <subfield code="c">Marta Rojas Porras; Victor Sánchez Corrales</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b"> INIE, </subfield>
+    <subfield code="c">2006</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">249 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Informe Final del Proyecto de Investigación N°724-A4-029</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">Esta investigación tuvo como finalidad determinar el léxico meta por enseñar en el primer ciclo y en cuarto año de la educación básica costarricense, así también esbozar lineamientos generales para una propuesta metodológica para la enseñanza de ese léxico. 
+La población del estudio la constituyen los niños escolares de cuarto año del país, pues el material se desarrolla a partir de inventarios léxicos obtenidos de textos orales y escritos por escolares de dicho nivel, correspondientes a una muestra nacional constituida por dos escuelas de cada subregión educativa, una urbana y una rural. 
+Para definir léxico meta se partió de dos repertorios: lo que el estudiantado sabe y lo que el estudiantado debería saber. Una vez definido este primer léxico meta filtrado por el básico, se eliminaron aquellas palabras propias de las disciplinas, otras muy generales -las que posiblemente no se utilizaron porque las temáticas sobre las que escribieron los niños no las necesitaban- u otras muy específicas. Resultaron 1816. Para cada palabra se identificó una lista de sinónimos, antónimos, hiperónimos e hipónimos. 
+Las palabras de este amplio léxico meta se repartieron, siguiendo criterios de lo indicado en investigaciones precedentes, en el léxico meta para cada año educativo. Así se obtuvo una lista de sustantivos, adjetivos, verbos y adverbios para primero, segundo, tercero y cuarto años. 
+En cuanto al cumplimiento de objetivos, se determinó el léxico meta por enseñar en cuarto año del segundo ciclo y en primero, segundo y tercer año del primer ciclo. Aunque al principio se recogió la información en cuarto año por considerar este como el nivel de salida del primer ciclo, de manera que los resultados fueran aplicados al tercer ciclo y no al cuarto año, debido a que el repertorio resultó muy amplio en comparación con el de sexto año. 
+Se esbozaron los lineamientos generales para una propuesta metodológica de la enseñanza del léxico y se consiguió la cooperación de la Fundación CRUSA para la elaboración de material didáctico para el aprendizaje del léxico meta propuesto (Investigación con un alto componente de acción social que se llevará a cabo desde el 2006 hasta el 2008). 
+Se anexan los siguientes documentos: Hoja de validación utilizada por los jueces, artículo y ponencia sobre el tema investigado. 
+</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">LEXICOGRAFÍA</subfield>
+    <subfield code="9">3536</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">EDUCACIÓN PRIMARIA</subfield>
+    <subfield code="9">367</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

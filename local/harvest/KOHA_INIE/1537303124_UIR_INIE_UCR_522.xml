@@ -1,0 +1,83 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01068nam a2200277Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">522</subfield>
+    <subfield code="d">522</subfield>
+  </datafield>
+  <controlfield tag="008">170124b2011    a  ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="020">
+    <subfield code="a">9789871543755</subfield>
+  </datafield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">05.01.01 </subfield>
+    <subfield code="b">1013</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Gruner, Eduardo</subfield>
+    <subfield code="9">2254</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Nuestra América y el pensar crítico: fragmentos de pensamiento crítico de Latinoamérica y El Caribe / </subfield>
+    <subfield code="c">Eduardo Gruner ,coordinador; Yamandú Acosta, Nicolás Casullo, Martín Cortés, Alejandro Moreano, Maria Ciavatta, Eunice Trein, Jaime Ornelas Delgado, León Rozitchner</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">Buenos Aires : </subfield>
+    <subfield code="b">Clacso, </subfield>
+    <subfield code="c">2011</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">366 páginas</subfield>
+  </datafield>
+  <datafield tag="490" ind2=" " ind1=" ">
+    <subfield code="a">Colección grupos de trabajo</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">CIENCIAS SOCIALES </subfield>
+    <subfield code="9">276</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">PENSAMIENTO CRÍTICO</subfield>
+    <subfield code="9">2263</subfield>
+  </datafield>
+  <datafield ind2="4" ind1=" " tag="651">
+    <subfield code="a">AMÉRICA LATINA</subfield>
+    <subfield code="9">273</subfield>
+  </datafield>
+  <datafield ind2="4" ind1=" " tag="651">
+    <subfield code="a">CARIBE</subfield>
+    <subfield code="9">539</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="a">Acosta, Yamandú</subfield>
+    <subfield code="9">2255</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Casullo, Nicolás</subfield>
+    <subfield code="9">2256</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Cortés, Martín</subfield>
+    <subfield code="9">2257</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Ciavatta, María</subfield>
+    <subfield code="9">2259</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="a">Trein, Eunice</subfield>
+    <subfield code="9">2260</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="a">Ornelas Delgado, Jaime</subfield>
+    <subfield code="9">2261</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="a">Rozitchner, León</subfield>
+    <subfield code="9">2262</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

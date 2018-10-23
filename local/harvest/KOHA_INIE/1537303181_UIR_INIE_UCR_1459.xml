@@ -1,0 +1,60 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00799nam a2200181Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">1459</subfield>
+    <subfield code="d">1459</subfield>
+  </datafield>
+  <controlfield tag="008">171110b2011    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">06.02.01 </subfield>
+    <subfield code="b">1613 CD #191</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Montenegro Hernández, María Luisa</subfield>
+    <subfield code="9">951</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Estrategias de capacitación para los censos nacionales 2011: X de población y VI de vivienda / </subfield>
+    <subfield code="c">María Luisa Montenegro Hernández; Julieta Castro Bonilla; Wendy Páez Cerdas; Doris Sossa Jara</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, CCP,  </subfield>
+    <subfield code="c">2011</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">disco compacto</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Proyecto de Acción Social ED-2731 "Elaboración de una estrategia de capacitación censal para el censo 2011, acompañado por 2 discos compactos</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">CAPACITACIÓN</subfield>
+    <subfield code="9">729</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">CENSOS</subfield>
+    <subfield code="9">547</subfield>
+  </datafield>
+  <datafield ind2="4" ind1=" " tag="651">
+    <subfield code="a">COSTA RICA</subfield>
+    <subfield code="9">47</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">1082</subfield>
+    <subfield code="a">Castro Bonilla, Julieta</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">154</subfield>
+    <subfield code="a"> Páez Cerdas, Wendy</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">3272</subfield>
+    <subfield code="a">Sossa Jara, Doris</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,48 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01774nab a2200169   4500</leader>
+  <controlfield tag="005">20160328160959.0</controlfield>
+  <controlfield tag="008">150813b2002    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">173</subfield>
+    <subfield code="a">Hernández Rodríguez, Ana Cecilia</subfield>
+  </datafield>
+  <datafield ind2="3" tag="245" ind1="1">
+    <subfield code="a">Los desafíos de la docencia universitaria /</subfield>
+    <subfield code="c"> Ana Cecilia Hernández Rodríguez</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2002</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">páginas 117-124</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">Esta ponencia presenta una reflexión acerca de los desafíos que enfrenta la docencia universitaria en el momento actual, con respecto a las condiciones mundiales y nacionales.
+En el ámbito mundial se analizan brevemente, los problemas relevantes de carácter económico-social, el desarrollo científico y tecnológico, así como la expansión del sistema universitario y los problemas de financiamiento.  En el ámbito nacional, se analizan los siguientes aspectos: Vinculación de la Universidad  con el sistema educativo nacional, características de la docencia que realizamos, incorporación de la tecnología educativa a la enseñanza en la educación superior, condiciones de los profesores y estudiantes, la administración al servicio de la docencia y las universidades públicas  frente a las universidades privadas.
+A partir de este análisis se expresa la necesidad de revisar, de manera crítica, el quehacer universitario, de recuperar y fortalecer el carácter de conciencia lúcida, de buscar, de manera constante la superación académica y de renovar la práctica pedagógica</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " tag="773" ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0059</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.26, no.2  (2002)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2808</subfield>
+    <subfield code="d">2808</subfield>
+  </datafield>
+</record>

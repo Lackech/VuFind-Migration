@@ -1,0 +1,58 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01461nam a2200205Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2237</subfield>
+    <subfield code="d">2237</subfield>
+  </datafield>
+  <controlfield tag="008">180710b2018    cr a|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="020">
+    <subfield code="a">9789968527453</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">13.02.01</subfield>
+    <subfield code="b">2395</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Mata Segreda, Alejandrina</subfield>
+    <subfield code="9">109</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Cómo educar jóvenes eficaces vocacionalmente: El aporte de la Orientación Vocacional /</subfield>
+    <subfield code="c">Alejandrina Mata Segreda</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE,</subfield>
+    <subfield code="c">2018</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">60 páginas;</subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield tag="490" ind2=" " ind1=" ">
+    <subfield code="a">Colección Yigüirro</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Producto de Proyecto de Investigación No. 724-B6-752</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">El presente libro de texto recoge aspectos teórico-prácticos sobre el tema de la autoeficacia vocacional.  Se destaca su importancia en el desarrollo humano y la construcción de un proyecto de vida, se enfatiza en el cómo se enseña y cómo se aprende a se eficaz vocacionalmente, y se culmina con la propuesta específica de aquellos elementos que, mediante la acción educativa de la familia y de la escuela, pueden favorecer el desarrollo de esta capacidad durante la niñez y la adolescencia.  El objetivo final es brindar un recurso que permita a los y a las profesionales en Orientación el trabajo directo alrededor de este tema desde los dos principales ámbitos educativos durante estas dos etapas vitales, la familia y la escuela.</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">ORIENTACIÓN PROFESIONAL</subfield>
+    <subfield code="9">2186</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">ELECCIÓN DE UNA OCUPACIÓN</subfield>
+    <subfield code="9">1161</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">JUVENTUD</subfield>
+    <subfield code="9">476</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

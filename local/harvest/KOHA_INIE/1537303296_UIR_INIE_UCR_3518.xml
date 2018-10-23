@@ -1,0 +1,52 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00582nam a2200181   4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">3518</subfield>
+    <subfield code="d">3518</subfield>
+  </datafield>
+  <controlfield tag="008">180620b2001    sp ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="020">
+    <subfield code="a">8433016202</subfield>
+  </datafield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">06.01.01</subfield>
+    <subfield code="b">2478</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="9">3800</subfield>
+    <subfield code="a">Vilanou, Conrad</subfield>
+    <subfield code="e">Coordinador/a</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Historia de la educación en valores: volumen II / </subfield>
+    <subfield code="c">Conrad Vilanou, Eulalia Collelldemont (Coordinadores)</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">Bilbao :</subfield>
+    <subfield code="b">Desclée,</subfield>
+    <subfield code="c">2001</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">282 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="490">
+    <subfield code="a">Aprender a ser</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="650">
+    <subfield code="a">EDUCACIÓN EN VALORES</subfield>
+    <subfield code="9">719</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">22</subfield>
+    <subfield code="a">HISTORIA</subfield>
+  </datafield>
+  <datafield ind1=" " tag="700" ind2=" ">
+    <subfield code="9">3801</subfield>
+    <subfield code="a"> Collelldemont, Eulalia</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

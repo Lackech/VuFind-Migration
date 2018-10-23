@@ -1,0 +1,58 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02250nam a2200205Ia 4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">1272</subfield>
+    <subfield code="d">1272</subfield>
+  </datafield>
+  <controlfield tag="008">170222b2000    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">04.02.01 </subfield>
+    <subfield code="b">1002</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="a">Gurdián Fernández, Alicia</subfield>
+    <subfield code="9">169</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="3">
+    <subfield code="a">La transversalidad de los derechos humanos en los currícula de las Facultades de Derecho de las Universidades Estatales de la sub-región centroamericana y su impacto en las relaciones intergenéricas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c"> 2000</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">33 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Título original del proyecto "El currículo universitario frente a los retos del Siglo XXI: Mejoramiento curricular en UCR. El caso de las facultades de derecho en Centroamérica"</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">En este estudio, la Dra. Alicia Gurdián Fernández plantea la necesidad de construir un nuevo paradigma fexible y adaptable al Nuevo Orden Mundial, que se caracterice por la celeridad y la planificación requeridas por éste, y que favorezca un adecuado planeamiento curricular para la formación de profesionales en Derecho en el área centroamericana. Para proponer este cambio se basa en la hipótesis de que tanto los Derechos Humanos como la equidad entre géneros no se han integrado como eje transversal en los curricula de las Facultades de Derecho del área,  debido a que las técnicas de enseñanza y de  evaluación responden a un esquema tradicional de entrega "frontal", vertical y autoritaria del conocimiento (patrón que se puede transformar), lo cual evidencia una perspectiva patriarcal que no favorece la equidad entre géneros y cuya  reproducción se lleva a cabo en la institución escolar, en este caso, en las universidades. Este nuevo paradigma debe satisfacer, por una parte, las demandas económicas, políticas y socioculturales de su entorno (sub-regional, regional y mundial) y, por otra,  ha de ser el resultado de un Perfil de Sistema Curricular construido a partir de tres niveles interdependientes:   i     Nivel ontológico-axiológico ii    Nivel epistemológico iii   Nivel metodológico</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">DERECHOS HUMANOS</subfield>
+    <subfield code="9">588</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">CURRÍCULO (EDUCACIÓN)</subfield>
+    <subfield code="9">342</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">UNIVERSIDADES </subfield>
+    <subfield code="9">16</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">RELACIONES DE GÉNERO</subfield>
+    <subfield code="9">797</subfield>
+  </datafield>
+  <datafield ind2="4" ind1=" " tag="651">
+    <subfield code="a">AMÉRICA CENTRAL</subfield>
+    <subfield code="9">457</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

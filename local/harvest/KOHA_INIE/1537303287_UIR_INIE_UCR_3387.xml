@@ -1,0 +1,58 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00751nam a22001937a 4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3387</subfield>
+    <subfield code="d">3387</subfield>
+  </datafield>
+  <controlfield tag="008">170207b2005    cr a|||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">06.03. 06</subfield>
+    <subfield code="b">2050</subfield>
+  </datafield>
+  <datafield ind2=" " tag="110" ind1="2">
+    <subfield code="9">2309</subfield>
+    <subfield code="a">Universidad Estatal a Distancia (Costa Rica)</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Simposio Internacional de la Evaluación y Acreditación al Mejoramiento de la Calidad de la Educación Superior: relatorías / </subfield>
+    <subfield code="c">Universidad Estatal a Distancia</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">UNED, </subfield>
+    <subfield code="c">2005 </subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">xxxii, 107 páginas;</subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">8</subfield>
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">287</subfield>
+    <subfield code="a">EVALUACIÓN </subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1135</subfield>
+    <subfield code="a">ACREDITACIÓN (EDUCACIÓN)</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">11</subfield>
+    <subfield code="a">CALIDAD DE LA EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">506</subfield>
+    <subfield code="a">CONFERENCIA</subfield>
+  </datafield>
+  <datafield ind2="4" ind1=" " tag="651">
+    <subfield code="9">457</subfield>
+    <subfield code="a">AMÉRICA CENTRAL</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

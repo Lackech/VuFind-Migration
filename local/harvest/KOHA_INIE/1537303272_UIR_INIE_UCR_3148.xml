@@ -1,0 +1,46 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02660nab a2200169   4500</leader>
+  <controlfield tag="005">20160422142313.0</controlfield>
+  <controlfield tag="008">160422b2011    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">1605</subfield>
+    <subfield code="a">Vargas Méndez, Sigrid</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Capacidad cognitiva y percepción de la calidad de vida de personas entre 54 y 78 años de edad que participaron en actividades recreativas /</subfield>
+    <subfield code="c">Sigrid Vargas Méndez</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2011</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">páginas 123-138</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">El objetivo de este estudio fue evaluar la capacidad cognitiva y la percepción de calidad de vida de las personas adultas mayores que participaron en un grupo de baile folclórico de representación, uno de baile popular y en otro de actividades fisico-recreativas, para determinar si el tipo de actividad recreativa en la que se participa influyó en estas dos variables. Se utilizó el cuestionario SF-36 de percepción de calidad de vida y el test de Raven. El estudio se realizó con una muestra de 39 mujeres, con edades comprendidas entre los 54 y 78 años. El ANOVA de 1 vía y el análisis post hoc de Tukey, aplicados a los datos obtenidos con el SF-36 y el test de Raven, mostraron que la única diferencia significativa entre grupos se encontró en el componente de Salud General, entre el grupo de actividades físico-recreativas y el grupo de baile folclórico. El grupo de actividades recreativas mostró una percepción de su estado de Salud General más positiva que el grupo de bailes folclóricos. No hubo ninguna diferencia significativa con respecto a la capacidad cognitiva en los diferentes grupos de la investigación. Teniendo en cuenta el valor máximo que se podía obtener en esta prueba, los promedios estuvieron dentro del rango normal (entre 0 y + 1 DS). Se concluyó que los tres grupos en estudio tienen una percepción de calidad de vida positiva y una capacidad cognitiva dentro del rango normal independientemente del tipo de actividad recreativa en que participaron. Los promedios obtenidos del Cuestionario de calidad de vida SF-36 en los tres grupos evaluados quedaron arriba del promedio de los valores de referencia españoles. Se concluye que se deben ofrecer programas recreativos que ofrezcan excelencia y eficacia hacia este grupo etario, tomando en cuenta las recomendaciones específicas sobre el tipo de actividades recreativas expuestas en este estudio</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="0" tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0398</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.35, no.1 (ene.-jun., 2011)</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">3148</subfield>
+    <subfield code="d">3148</subfield>
+  </datafield>
+</record>

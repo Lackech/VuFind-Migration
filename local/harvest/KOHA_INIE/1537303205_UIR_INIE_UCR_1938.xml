@@ -1,0 +1,77 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>04913nam a2200253Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">1938</subfield>
+    <subfield code="d">1938</subfield>
+  </datafield>
+  <controlfield tag="008">160705b2009    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">06.04.09 </subfield>
+    <subfield code="b">1564 CD #226</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="a">Alvarado Villalón, Margarita</subfield>
+    <subfield code="9">1876</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Opinión que tienen estudiantes, madres, padres, personas encargadas, personal docente y administrativo, acerca de los servicios de orientación que ofrece el Ministerio de Educación Pública en primero, segundo, tercer ciclo y educación diversificada dentro del sistema educativo costarricense /</subfield>
+    <subfield code="c">Margarita Alvarado Villalón; Ruth Melania Arce Hernández; Juan Antonio Carvajal Rivera; María de los Angeles Estrada Espinoza; Ericka Jiménez Espinoza; Irma María Sánchez Cerdas; Viria Ureña Salazar; Sonia Mayela Vargas Ulloa</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2009</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">312 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Informe final Proyecto N° 724-A6-090\ La Unidad posee informe parcial de 2008\El título varía ligeramente</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">La investigación tiene como objetivo general contribuir al fortalecimiento de los servicios de orientación que ofrece el Ministerio de Educación Pública, mediante información pertinente relacionada con la opinión que tienen quienes reciben esos servicios. El estudio es descriptivo con un enfoque cualitativo. La población objeto de estudio esta conformada por estudiantes, madres, padres, personas encargadas y personal docente de las instituciones educativas de los ciclos y modalidades, en los cuales el Ministerio de Educación Pública ofrece los servicios de orientación. Se cuenta con los datos aportados por el departamento de estadística del Ministerio de Educación Pública acerca de los centros educativos públicos existentes por cada región educativa y la matrícula total de estudiantes, durante el curso lectivo del 2006. La muestra quedó definida en cuarenta centros educativos de III Ciclo y Educación Diversificada de diecisiete regiones educativas, en cuanto a las madres, los padres, personas encargadas, se hizo la selección de diez personas por cada centro educativo, así como diez funcionarios o funcionarias de la institución, escogidos al azar. En el caso de las instituciones de primaria es importante indicar que se toman en cuenta las instituciones denominadas Escuelas de Atención Prioritaria, Escuelas de Excelencia y de Horario ampliado, donde se brinda el servicio de orientación, pues no todas las escuelas del país lo poseen. La muestra queda conformada por 32 Escuelas de Atención Prioritaria, con 12 estudiantes por institución y 32 Escuelas de Excelencia y de Horario ampliado, con 12 estudiantes por institución. Por su parte en el caso de las madres, padres, personas encargadas y personal docente y administrativo, se hizo la selección de doce personas por cada centro educativo, así como doce funcionarios o funcionarias de la institución, escogidos al azar. Algunas de las conclusiones a las que llegó la investigación son las siguientes: 
+" En relación con el objetivo "identificar los servicios de orientación que ofrece el Ministerio de Educación Pública en los centros educativos se concluye sobre la base del estudio y análisis exhaustivo del equipo investigador que estos son la orientación individual, la orientación grupal y el asesoramiento. Además de que las poblaciones consultadas afirman en su mayoría conocerlos. Sin embargo se evidencia una diferencia, entre el conocimiento que dicen tener las madres, padres o personan encargadas de instituciones de primaria respecto a los de secundaria, lo que pareciera responder a la diferencia de vinculación de esta población en relación con la etapa de desarrollo de sus hijos e hijas. 
+" La opinión del servicio tanto en primaria como en secundaria en todas las poblaciones encuestadas, denota una calificación favorable, al estimar los servicios entre buenos y excelentes. La población estudiantil de secundaria afirma la necesidad del servicio por cuanto se les ayuda en las diferentes situaciones con profesionalismo, respeto y seriedad. El personal institucional expresa que la ayuda que ofrecen siempre es oportuna, realizan muy buen trabajo a pesar del exceso de funciones, son eficientes, puntuales y de gran apoyo. Por su parte las madres, padres y personas encargadas, consideran que estas y estos profesionales como responsables ante la institución, se convierten en el recurso que les permite canalizar las diferentes situaciones que enfrenta el grupo de estudiantes</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">ORIENTACIÓN PEDAGÓGICA</subfield>
+    <subfield code="9">1483</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="700">
+    <subfield code="a">Arce Hernández, Ruth Melania</subfield>
+    <subfield code="9">1877</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1=" ">
+    <subfield code="a">Carvajal Rivera, Juan Antonio</subfield>
+    <subfield code="9">1878</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="700">
+    <subfield code="a">Estrada Espinoza, María de los Angeles</subfield>
+    <subfield code="9">1879</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1=" ">
+    <subfield code="a">Jiménez Espinoza, Ericka</subfield>
+    <subfield code="9">1880</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="700">
+    <subfield code="a">Sánchez Cerdas, Irma María</subfield>
+    <subfield code="9">1881</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1=" ">
+    <subfield code="a">Ureña Salazar, Viria </subfield>
+    <subfield code="9">732</subfield>
+  </datafield>
+  <datafield ind1=" " tag="700" ind2=" ">
+    <subfield code="a">Vargas Ulloa, Sonia Mayela</subfield>
+    <subfield code="9">1882</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

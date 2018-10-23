@@ -1,0 +1,45 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00583nam a2200157Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2179</subfield>
+    <subfield code="d">2179</subfield>
+  </datafield>
+  <controlfield tag="008">180712b1891    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">15.03.02 </subfield>
+    <subfield code="b">710</subfield>
+  </datafield>
+  <datafield tag="111" ind2=" " ind1=" ">
+    <subfield code="a">Seminario-Taller [1991 : San José, C.R.]</subfield>
+    <subfield code="9">4030</subfield>
+  </datafield>
+  <datafield tag="245" ind2="3" ind1="1">
+    <subfield code="a">La Educacion nutricional frente a la crisis: una disyuntiva actual : Memoria / </subfield>
+    <subfield code="c">Seminario-Taller [1991 : San José, C.R.]</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="c">1991</subfield>
+    <subfield code="b">[editor no identifiado], </subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">69 páginas</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">POLITICA NUTRICIONAL </subfield>
+    <subfield code="9">4031</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">AJUSTE ESTRUCTURAL </subfield>
+    <subfield code="9">4032</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">SEMINARIOS</subfield>
+    <subfield code="9">4002</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

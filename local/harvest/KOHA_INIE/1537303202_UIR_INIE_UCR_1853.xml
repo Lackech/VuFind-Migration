@@ -1,0 +1,50 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00798nam a2200181Ia 4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">1853</subfield>
+    <subfield code="d">1853</subfield>
+  </datafield>
+  <controlfield tag="008">180507b2001    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">06.03.06 </subfield>
+    <subfield code="b">985</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="a">Vindas Lara, Andrea</subfield>
+    <subfield code="9">2830</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Tendencias de matrícula de la educación preescolar, primaria y secundaria en centroamérica. 1990-1996</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">2001</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">44 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Informe Final del Proyecto 724-98-432</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">	Análisis estadístico (presentado en 31cuadros y sus respectivos gráficos) sobre las tendencias de matrícula de la educación Preescolar, Primaria y Secundaria de los países centroamericanos en el lapso comprendido entre 1990-1996 (aunque también se incluyen datos de 1997). El objetivo principal fue establecer cómo se manifiestan los indicadores educativos: matrícula inicial, matrícula final, instituciones (públicas y privadas), docentes, aulas, aprobados, reprobados, desertores, repitientes y sus respectivas variables en cada uno de los países de la región, con el fin de conocer cuál es la situación educativa en cada uno de ellos para proponer estrategias que resuelvan los problemas comunes de la región centroamericana. El otro objetivo del estudio fue obtener 13 datos que permitieran analizar la tendencia histórica de los indicadores. Esta investigación ofrece información (cuyo análisis se presenta en forma general) importante y útil para el programa Educación y Género, que se realiza en el I.I.M.E.C. En las conclusiones, la investigadora expone que el análisis de los datos refleja que las tendencias en cada país difieren de un año a otro; además, que no se observa un comportamiento similar ni entre países ni dentro de cada uno de ellos. Plantea, sin embargo, que si los datos se desagregan, podrían vislumbrarse características más particulares.</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">EDUCACIÓN PRIMARIA</subfield>
+    <subfield code="9">367</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">EDUCACIÓN SECUNDARIA</subfield>
+    <subfield code="9">456</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">EDUCACIÓN PREESCOLAR</subfield>
+    <subfield code="9">455</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

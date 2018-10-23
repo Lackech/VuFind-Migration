@@ -1,0 +1,37 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00405nam a2200145Ia 4500</leader>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">CD # 14</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="110">
+    <subfield code="a">Universidad Nacional Autónoma de México (UNAM)</subfield>
+  </datafield>
+  <datafield ind1=" " tag="245" ind2=" ">
+    <subfield code="a">La revolución mexicana : a través de sus imágenes [disco compacto]</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">México : </subfield>
+    <subfield code="b">UNAM, </subfield>
+    <subfield code="c">1998</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">12 cm de diámetro</subfield>
+  </datafield>
+  <datafield ind2=" " tag="650" ind1=" ">
+    <subfield code="a">HISTORIA </subfield>
+  </datafield>
+  <datafield ind2=" " tag="650" ind1=" ">
+    <subfield code="a">REVOLUCION</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="651">
+    <subfield code="a">MEXICO </subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="p">001404 </subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2421</subfield>
+    <subfield code="d">2421</subfield>
+  </datafield>
+</record>

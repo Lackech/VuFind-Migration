@@ -1,0 +1,50 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01528nab a22001817a 4500</leader>
+  <controlfield tag="005">20160428143618.0</controlfield>
+  <controlfield tag="008">160428b2012    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">1638</subfield>
+    <subfield code="a">Narbona Gutiérrez, Aida Luisa</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Estrategia de integración de los agentes educativos que intervienen en la formación integral de los estudiantes becarios de la Universidad de Holguín Oscar Lucero Moya /</subfield>
+    <subfield code="c">Aida Luisa Narbona Gutiérrez, Amable Faedo Borges</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2012</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">páginas 9-10</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">Se ofrece una estrategia para la integración de los agentes educativos que influyen en la formación y desarrollo de los estudiantes. Se demuetra la importancia de perfeccionar el trabajo educativo en la residencia estudiantil a partir del enfoque estratégico integrador. Este aporte posibilita aunar a los agentes aducativos, al proponer acciones que facilitan su aplicación y puesta en práctica, con la finalidad de perfeccionar el trabajo educativo e influir en el estudio teórico y metodológico de este enfoque en la Residencia Estudiantil de la universidad de Holguín Oscar Lucero moya y las transformaciones que hoy enfrenta la enseñanza superior.</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">1639</subfield>
+    <subfield code="a">Faedo Borges, Amable</subfield>
+  </datafield>
+  <datafield tag="773" ind2=" " ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0625</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.36, no.1 (ene.-jun., 2012)</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">3168</subfield>
+    <subfield code="d">3168</subfield>
+  </datafield>
+</record>

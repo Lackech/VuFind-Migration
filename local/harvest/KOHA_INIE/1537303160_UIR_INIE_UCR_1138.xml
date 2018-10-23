@@ -1,0 +1,61 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00722nam a2200205Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">1138</subfield>
+    <subfield code="d">1138</subfield>
+  </datafield>
+  <controlfield tag="008">170307b2004    cl ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">06.02.01</subfield>
+    <subfield code="b"> 703</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="100">
+    <subfield code="a">Carnoy, Martin</subfield>
+    <subfield code="9">2514</subfield>
+  </datafield>
+  <datafield ind2="1" tag="245" ind1="1">
+    <subfield code="a">¿Tiene efectos la responsabilidad externa en los indicadores educacionales de los alumnos?. Un análisis entre los estados de los  EE.UU / </subfield>
+    <subfield code="c">Martin Carnoy; Susana Loeb</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Santiago de Chile : </subfield>
+    <subfield code="b">PREAL, </subfield>
+    <subfield code="c">2004</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">39 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="490" ind2=" ">
+    <subfield code="a">Documentos,</subfield>
+    <subfield code="v">29</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">REFORMA DE LA EDUCACIÓN</subfield>
+    <subfield code="9">7</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">EVALUACIÓN </subfield>
+    <subfield code="9">287</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1418</subfield>
+    <subfield code="a">NORMALIZACIÓN</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">EDUCACIÓN SECUNDARIA</subfield>
+    <subfield code="9">456</subfield>
+  </datafield>
+  <datafield ind2="4" ind1=" " tag="651">
+    <subfield code="a">ESTADOS UNIDOS</subfield>
+    <subfield code="9">372</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">2515</subfield>
+    <subfield code="a">Loeb, Susana</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

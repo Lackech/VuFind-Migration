@@ -1,0 +1,52 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>     nam a22        4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">3487</subfield>
+    <subfield code="d">3487</subfield>
+  </datafield>
+  <controlfield tag="008">180424b1986    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">06.03.06</subfield>
+    <subfield code="b">572</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">2957</subfield>
+    <subfield code="a">Méndez Barrantes, Zayra</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Estudio psicogenético en el área de la lecto-escritura y de la matemática en una muestra de alumnos de primer año escolar de la región de Turrialba /</subfield>
+    <subfield code="c">Zayra Méndez B., Aida Mainieri </subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1986</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">55 páginas</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">Con esta investigación, se confirmó, en la población en estudio, que hay una evolución psicogenética en niveles jerarquizados, tanto en el área de lectoescritura como en el área matemática. Se observó un progreso sucesivo por niveles en cada una de las pruebas entre el pretest y el postest. Así, se constata la realidad psicológica de los procesos de los procesos de asimilación y acomodación. Según lo encontrado, se puede señalar la necesidad de ampliar la concepción de la acción educativa, incluyendo un nuevo objetivo primordial: ayudar al niño a transformar sus esquemas asimiladores sin impedir el proceso de construcción de pensamiento que persigue en forma natural. Además, se comprobó el hecho de que el proceso de evolución intelectual es cíclico, y que después de haber asimilado un concepto en determinado contexto, el niño retrocede a niveles inferiores cuando debe generalizarlo. Por otra parte, se constata mejor desarrollo en el área de lengua que en la de matemáticas, situación que probablemente obedece a que se le da más importancia a la lectoescritura en los niveles educativos inferiores. En general, son mejores los resultados de niños que asisten a escuelas grandes. </subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">367</subfield>
+    <subfield code="a">EDUCACIÓN PRIMARIA</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">482</subfield>
+    <subfield code="a">MATEMÁTICAS  </subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">2133</subfield>
+    <subfield code="a">LECTOESCRITURA </subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="9">3534</subfield>
+    <subfield code="a">Mainieri Hidalgo, Aida María</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

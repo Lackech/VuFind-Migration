@@ -1,0 +1,47 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00708nam a2200169Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">1925</subfield>
+    <subfield code="d">1925</subfield>
+  </datafield>
+  <controlfield tag="008">180607b1999    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">06.04.05 </subfield>
+    <subfield code="b">736</subfield>
+  </datafield>
+  <datafield ind1=" " tag="111" ind2=" ">
+    <subfield code="a">Taller-Encuentro de Administrativos [ 1° : 1999 : San José, Costa Rica]</subfield>
+    <subfield code="9">3745</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="3">
+    <subfield code="a">La universidad de Costa Rica y la Administración en el Contexto Universitario</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">La Universidad, </subfield>
+    <subfield code="c">1999</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">67 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Organizado por: Gilbert Muñoz Salazar, Representante del Sector Administrativo del Consejo Universitario</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="4" tag="610">
+    <subfield code="a">UNIVERSIDAD DE COSTA RICA</subfield>
+    <subfield code="9">714</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">INSTITUCIONES DE ENSEÑANZA SUPERIOR</subfield>
+    <subfield code="9">788</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">ADMINISTRACIÓN</subfield>
+    <subfield code="9">2299</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

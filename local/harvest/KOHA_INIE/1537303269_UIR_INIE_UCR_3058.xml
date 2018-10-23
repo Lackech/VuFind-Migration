@@ -1,0 +1,83 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01398nam a22002777a 4500</leader>
+  <controlfield tag="008">160129b2015    cr a|||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="020">
+    <subfield code="a">9789968527361</subfield>
+  </datafield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">13.02.01</subfield>
+    <subfield code="b">2294</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">1383</subfield>
+    <subfield code="a">Monge Rodríguez, Melania</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Taller movilidades académicas y científicas en Costa Rica: análisis de situación y perspectivas : memoria / </subfield>
+    <subfield code="c">Melania Monge Rodríguez, Marianela González Zúñiga, Silvia Camacho Calvo, Yensi Vargas Sandoval, Alexis Rojas León, Edward Parra Salazar, Luis Muñoz Varela</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">[San José, Costa Rica] : </subfield>
+    <subfield code="b">Universidad de Costa Rica, Instituto de Investigación en Educación, </subfield>
+    <subfield code="c">2015</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">99 páginas;</subfield>
+    <subfield code="b">ilustraciones (algunas a color)</subfield>
+  </datafield>
+  <datafield tag="490" ind2=" " ind1=" ">
+    <subfield code="a">Colección Yigüirro</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">"Este trabajo forma parte del Proyecto 724-A6-328 de la Vicerrectoría de Investigación de la Universidad de Costa Rica, con el apoyo del Instituto de Investigación en Educación (INIE)"</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">1384</subfield>
+    <subfield code="a">MOVILIDAD PROFESIONAL</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">442</subfield>
+    <subfield code="a">COOPERACIÓN CIENTÍFICA</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1386</subfield>
+    <subfield code="a">COOPERACIÓN EDUCACIONAL</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1385</subfield>
+    <subfield code="a">ÉXODO INTELECTUAL</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">110</subfield>
+    <subfield code="a">González Zúñiga, Marianela</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">1387</subfield>
+    <subfield code="a">Camacho Calvo, Silvia</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="9">746</subfield>
+    <subfield code="a">Vargas Sandoval, Yensi</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">1344</subfield>
+    <subfield code="a">Rojas León, Alexis</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">1388</subfield>
+    <subfield code="a">Parra Salazar, Edward</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">763</subfield>
+    <subfield code="a">Muñoz Varela, Luis</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">3058</subfield>
+    <subfield code="d">3058</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,35 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00447nam a2200133Ia 4500</leader>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">CD #178</subfield>
+  </datafield>
+  <datafield tag="110" ind2=" " ind1=" ">
+    <subfield code="a">Fundación Costa Rica - Estados Unidos de América para la cooperación (CRUSA)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="245">
+    <subfield code="a">10 años de impulso al desarrollo = 10 years of promoting development / </subfield>
+    <subfield code="c">Fundación CRUSA</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">sin autor : </subfield>
+    <subfield code="b">Fundación CRUSA, </subfield>
+    <subfield code="c">2006</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">disco compacto</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="650">
+    <subfield code="a">FUNDACION CRUSA</subfield>
+  </datafield>
+  <datafield ind2=" " tag="650" ind1=" ">
+    <subfield code="a">HISTORIA</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="p">003060 </subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2457</subfield>
+    <subfield code="d">2457</subfield>
+  </datafield>
+</record>

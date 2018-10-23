@@ -1,0 +1,46 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01244nab a2200181   4500</leader>
+  <controlfield tag="003">cru INIE</controlfield>
+  <controlfield tag="005">20160302122321.0</controlfield>
+  <controlfield tag="008">150521b1997    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">REVIS 06.02 .01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">95</subfield>
+    <subfield code="a">Salazar Salas, Carmen Grace</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Educación para el uso del tiempo libre /</subfield>
+    <subfield code="c">Carmen Grace Salazar Salas</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Universidad de Costa Rica,</subfield>
+    <subfield code="c">1997</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">páginas 51-63</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">Actualmente, la mayoría de las personas no saben qué hacer durante su tiempo libre. Algunas se recargan de tareas para tener el mínimo de tiempo libre y no estar tensas por pensar qué hacer durante él; otras, lo que hacen es mal emplearlo. Todas esas personas necesitan aprender a precisar su tiempo libre, los beneficios que la recreación les puede brindar, y las actividades recreativas que pueden realizar durante ese tiempo. La finalidad de este artículo es brindarle a las personas interesadas información que les ayude a aprender a utilizar positivamente su tiempo libre.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " tag="773" ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.21, no.2 (1997)</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2581</subfield>
+    <subfield code="d">2581</subfield>
+  </datafield>
+</record>

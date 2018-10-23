@@ -1,0 +1,42 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00569nam a2200157Ia 4500</leader>
+  <datafield ind2=" " tag="020" ind1=" ">
+    <subfield code="a">9968-732</subfield>
+  </datafield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">04.01.01 </subfield>
+    <subfield code="b">1253</subfield>
+  </datafield>
+  <datafield ind1=" " tag="110" ind2=" ">
+    <subfield code="a">Ministerio de Ciencia y Tecnología</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="245">
+    <subfield code="a">Leyes, decretos, directrices y otros instrumentos jurídicos: políticas de ciencia y tecnología 2002-2006 / </subfield>
+    <subfield code="c">Ministerio de Ciencia y Tecnología</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">Costa Rica : </subfield>
+    <subfield code="b">Ministerio de  Ciencia y Tecnología, </subfield>
+    <subfield code="c">2006</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">156 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="500">
+    <subfield code="a">Vol.I</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="650">
+    <subfield code="a">CIENCIA Y TECNOLOGIA </subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2=" ">
+    <subfield code="a">LEGISLACION </subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">POLITICA CIENTIFICA Y TECNOLOGICA </subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">833</subfield>
+    <subfield code="d">833</subfield>
+  </datafield>
+</record>

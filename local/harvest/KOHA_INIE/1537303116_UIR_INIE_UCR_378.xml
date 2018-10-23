@@ -1,0 +1,59 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00671nam a2200205Ia 4500</leader>
+  <controlfield tag="008">160210b2007    MX ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="020" ind1=" ">
+    <subfield code="a">020968 9182 51 X</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">02.04.02 </subfield>
+    <subfield code="b">1582</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="0">
+    <subfield code="a">Miradas en la noche: estudios sobre la prostitución en Puebla / </subfield>
+    <subfield code="c">Gloria A. Tirado Villegas (coord.)</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">Puebla, Mx. : </subfield>
+    <subfield code="b">Benemérita Universidad  Autónoma  de Puebla, </subfield>
+    <subfield code="c">2007</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">216 páginas</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">PROSTITUCIÓN</subfield>
+    <subfield code="9">54</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">956</subfield>
+    <subfield code="a">IGUALDAD DE GÉNERO </subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">RELIGIÓN</subfield>
+    <subfield code="9">814</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">SEXUALIDAD</subfield>
+    <subfield code="9">48</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">SOCIEDAD </subfield>
+    <subfield code="9">396</subfield>
+  </datafield>
+  <datafield ind2="4" tag="651" ind1=" ">
+    <subfield code="a">MÉXICO</subfield>
+    <subfield code="9">19</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2=" ">
+    <subfield code="a">Tirado Villegas, Gloria A.(coord.)</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">378</subfield>
+    <subfield code="d">378</subfield>
+  </datafield>
+</record>

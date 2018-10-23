@@ -1,0 +1,61 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00831nam a2200205   4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3542</subfield>
+    <subfield code="d">3542</subfield>
+  </datafield>
+  <controlfield tag="008">180716b2017    cr a|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="020">
+    <subfield code="a">9789968852487</subfield>
+  </datafield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">06.02.03</subfield>
+    <subfield code="b">2486</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">239</subfield>
+    <subfield code="a">Solano Alpízar, José </subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Sistematización del proyecto: Insumos para la construcción de un observatorio para la educación y la cultura de los pueblos indígenas de Costa Rica /</subfield>
+    <subfield code="c"> José Solano alpízar, Federico Guevara Víquez</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">[Heredia, Costa Rica] :</subfield>
+    <subfield code="b">Universidad Nacional,</subfield>
+    <subfield code="c">[2017]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">44 páginas;</subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">152</subfield>
+    <subfield code="a">PROYECTOS DE EDUCACION </subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">485</subfield>
+    <subfield code="a">EDUCACIÓN INTERCULTURAL </subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">2</subfield>
+    <subfield code="a">EDUCACIÓN INCLUSIVA</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">1665</subfield>
+    <subfield code="a">EDUCACIÓN RURAL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1100</subfield>
+    <subfield code="a">EDUCACIÓN INDÍGENA</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1=" ">
+    <subfield code="a">Guevara Víquez, Federico</subfield>
+    <subfield code="9">4063</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

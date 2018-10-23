@@ -1,0 +1,29 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00474nam a2200121Ia 4500</leader>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">CD #217</subfield>
+  </datafield>
+  <datafield tag="110" ind2=" " ind1=" ">
+    <subfield code="a">Universidad Estatal a Distancia. Programa de producción de material audiovisual</subfield>
+  </datafield>
+  <datafield tag="245" ind2=" " ind1=" ">
+    <subfield code="a">Recursos audiovisuales para el aprendizaje, una forma diferente de enseñar / Universidad Estatal a Distancia. Programa de producción de material audiovisual</subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2=" ">
+    <subfield code="a">MATERIALES DIDACTICOS</subfield>
+  </datafield>
+  <datafield tag="650" ind2=" " ind1=" ">
+    <subfield code="a">METODOS PEDAGOGICOS</subfield>
+  </datafield>
+  <datafield tag="650" ind2=" " ind1=" ">
+    <subfield code="a">ENSEÑANZA</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="p">002499 </subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2478</subfield>
+    <subfield code="d">2478</subfield>
+  </datafield>
+</record>

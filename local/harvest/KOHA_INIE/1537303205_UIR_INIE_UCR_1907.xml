@@ -1,0 +1,59 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00992nam a2200193Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">1907</subfield>
+    <subfield code="d">1907</subfield>
+  </datafield>
+  <controlfield tag="008">180518b2000    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">06.03.07 </subfield>
+    <subfield code="b">916</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Montero Rojas, Eiliana</subfield>
+    <subfield code="9">2509</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Diseño, aplicación piloto y valoración de una intervención pedagógica para el desarrollo de destrezas cognoscitivas en estudiantes de noveno año /</subfield>
+    <subfield code="c"> Eiliana Montero Rojas, Olga González Dobles, Silvia Calderón Laguna</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">2000</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">18 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Informe Final del proyecto 724-97-336</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">Partiendo de los resultados de un estudio diagnóstico sobre las destrezas cognoscitivas empleadas por estudiantes de noveno año en la resolución de problemas, este proyecto se plantea como objetivo crear un programa de intervención pedagógica para el desarrollo de un conjunto de destrezas cognoscitivas, que pueda ser llevado al aula por los mismos docentes. En esta propuesta se conceptualizan desde la teoría del procesamiento de la información, tomado de las ciencias cognoscitivas, diez destrezas que se consideran de gran relevancia en la resolución de problemas en contextos académicos y científicos: categorización, isomorfismo, flexibilidad, representación icónica, deducción, inducción, causa-efecto, recursividad, búsqueda y metacognición; sin embargo, el número de destrezas estudiadas se reduce a seis. El diseño de la intervención pedagógica se basa en la evaluación dinámica, cuyo énfasis reside en la determinación de las funciones mentales que subyacen al desempeño en el proceso de aprendizaje: estrategias y estilos cognoscitivos y los factores metacognoscitivos. Los procedimientos de este tipo de evaluación exigen el cumplimiento de tres etapas: evaluación inicial del desempeño del estudiante, la fase de aprendizaje y de trabajo para identificar las debilidades de este y ayudarle a encontrar la forma correcta de resolver el problema, y una nueva evaluación del estudiante. El producto parcial de esta investigación es el manual para el docente, que refleja la experiencia y los resultados del proceso de evaluación dinámica con los estudiantes y las revisiones por parte del equipo investigador.</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">DESARROLLO DE HABILIDADES</subfield>
+    <subfield code="9">644</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">EDUCACIÓN SECUNDARIA</subfield>
+    <subfield code="9">456</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">CONOCIMIENTO</subfield>
+    <subfield code="9">42</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="a">González de León-Páez, Olga</subfield>
+    <subfield code="9">3660</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Calderón Laguna, Silvia</subfield>
+    <subfield code="9">3659</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

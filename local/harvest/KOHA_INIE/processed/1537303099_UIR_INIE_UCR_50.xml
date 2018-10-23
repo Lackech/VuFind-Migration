@@ -1,0 +1,50 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00658nam a2200181Ia 4500</leader>
+  <controlfield tag="008">150716b1993    U  ||||| |||| 00| | E   d</controlfield>
+  <datafield ind1=" " tag="020" ind2=" ">
+    <subfield code="a">0873674596</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">06.02.03 </subfield>
+    <subfield code="b">1213</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1=" ">
+    <subfield code="a">Schmoker, Michael J.</subfield>
+  </datafield>
+  <datafield ind1=" " tag="245" ind2=" ">
+    <subfield code="a">Total Quality Education: profiles of schools that demonstrate the power of deming`s management principles / </subfield>
+    <subfield code="c">Michael J. Schmoker, Richard B. Wilson</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">Indiana : </subfield>
+    <subfield code="b">Phi Delta Kappa Educational Foundation, </subfield>
+    <subfield code="c">1993</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">171 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Material en idioma inglés</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">CALIDAD DE LA EDUCACIÓN</subfield>
+    <subfield code="9">11</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="9">369</subfield>
+    <subfield code="a">Schmoker, Michael J</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="9">370</subfield>
+    <subfield code="a">Wilson, Richard B.</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">50</subfield>
+    <subfield code="d">50</subfield>
+  </datafield>
+</record>

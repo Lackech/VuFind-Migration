@@ -1,0 +1,69 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00798nam a2200229   4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3505</subfield>
+    <subfield code="d">3505</subfield>
+  </datafield>
+  <controlfield tag="008">180615b2009    sp ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">06.01.01</subfield>
+    <subfield code="b">2467</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1=" ">
+    <subfield code="9">3775</subfield>
+    <subfield code="a">Cortina, Adela</subfield>
+    <subfield code="e">Coordinador/a</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="3">
+    <subfield code="a">La educación y los valores /</subfield>
+    <subfield code="c">A. Cortina (Coord.), J. Gray, J. Marías, J.M. Martín Patino, E. Trías y M. Vargas Llosa</subfield>
+  </datafield>
+  <datafield ind1=" " tag="250" ind2=" ">
+    <subfield code="a">Segunda edición</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid :</subfield>
+    <subfield code="b">Biblioteca Nueva,</subfield>
+    <subfield code="c">2009</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">140 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="490">
+    <subfield code="a">Biblioteca de la nueva educación,</subfield>
+    <subfield code="v">3</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="0">
+    <subfield code="a">EDUCACIÓN EN VALORES</subfield>
+    <subfield code="9">719</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">693</subfield>
+    <subfield code="a">VALORES MORALES</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2=" ">
+    <subfield code="9">3776</subfield>
+    <subfield code="a">Gray, John</subfield>
+  </datafield>
+  <datafield ind1=" " tag="700" ind2=" ">
+    <subfield code="9">3777</subfield>
+    <subfield code="a">Marías, Julián</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="700">
+    <subfield code="9">3778</subfield>
+    <subfield code="a">Martín Patino, José María</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1=" ">
+    <subfield code="9">3779</subfield>
+    <subfield code="a">Trías, Eugenio</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="700">
+    <subfield code="9">3780</subfield>
+    <subfield code="a">Vargas Llosa, Mario</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

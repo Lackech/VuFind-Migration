@@ -1,0 +1,34 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00453nam a2200133Ia 4500</leader>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">CD # 1</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="110">
+    <subfield code="a">Universidad de Costa Rica. Observatorio del desarrollo</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Tendencias del desarrollo costarricense : Series cronólogicas 1985-1999 [disco compacto]</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">Costa Rica : </subfield>
+    <subfield code="b">El Observatorio, </subfield>
+    <subfield code="c">sin fecha</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">12 cm de diámetro</subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2=" ">
+    <subfield code="a">INDICADORES DE DESARROLLO </subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2=" ">
+    <subfield code="a">DESARROLLO SOSTENIBLE</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="p">001629 </subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2419</subfield>
+    <subfield code="d">2419</subfield>
+  </datafield>
+</record>

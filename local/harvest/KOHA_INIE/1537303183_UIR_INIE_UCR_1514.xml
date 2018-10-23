@@ -1,0 +1,57 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00711nam a2200169Ia 4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">1514</subfield>
+    <subfield code="d">1514</subfield>
+  </datafield>
+  <controlfield tag="008">180219b2009    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">06.02.01 </subfield>
+    <subfield code="b">2001</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="a">García Fallas, Jacqueline</subfield>
+    <subfield code="9">759</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Plan de los 200 días lectivos del Ministerio de Educación Pública de Costa Rica: sistematización en ambientes educativos / </subfield>
+    <subfield code="c">Jacqueline García; Lupita Chaves; María Díaz; Teresita Cordero; Wendy Páez</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica. : </subfield>
+    <subfield code="b">INIE. MEP. Instituto de Desarrollo Profesional Uladislao Gámez Solano, </subfield>
+    <subfield code="c">2009</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a"> 60 páginas</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">CAPACITACIÓN</subfield>
+    <subfield code="9">729</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">DOCENTES</subfield>
+    <subfield code="9">331</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="a">Chaves Salas, Ana Lupita</subfield>
+    <subfield code="9">255</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="a">Díaz Madrigal, María</subfield>
+    <subfield code="9">1438</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Cordero Cordero, Teresita </subfield>
+    <subfield code="9">715</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="a"> Páez Cerdas, Wendy</subfield>
+    <subfield code="9">154</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

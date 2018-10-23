@@ -1,0 +1,68 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01202nam a2200229Ia 4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">1749</subfield>
+    <subfield code="d">1749</subfield>
+  </datafield>
+  <controlfield tag="008">141002s1993    cr            000 | und d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">06.03.06 </subfield>
+    <subfield code="b">12</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="a">García Lizano, Nidia</subfield>
+    <subfield code="9">107</subfield>
+  </datafield>
+  <datafield tag="245" ind2=" " ind1="1">
+    <subfield code="a">Etnografía del cambio educativo en el ámbito de la institución escolar / </subfield>
+    <subfield code="c">Nidia García Lizano, Marta Rojas Porras, Natalia Campos Saborío</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1993</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">5 volumenes </subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">	Este informe presenta los resultados de una investigación etnográfica sobre la institución educativa y toma en cuenta, por ello, los testimonios de educadores, directores, padres de familia, estudiantes y miembros de las juntas administrativas.* En primer lugar, se presentan los resultados de la evaluación de los talleres de capacitación de docentes y de la formación del comité de enriquecimiento profesional. También se incluyen los resultados de la ejecución de varios talleres de trabajo con los directores participantes, el perfil programático del curso de capacitación para directores de I y II ciclos y su proceso de diseño, los detalles de la ejecución del curso de capacitación para directores de escuela "La administración para el cambio y el mejoramiento educativo", y una síntesis general de los resultados del segundo año de desarrollo del estudio y las principales proyecciones del proyecto para 1996-1997. En cuanto a la evaluación de los talleres, se tomó a 17 informantes (14 maestros y 3 investigadoras) de la Escuela Hatillo Nº 2. En esta evaluación quedó al descubierto que los sujetos participantes reconocen elementos como el esfuerzo realizado y el tiempo invertido, así como la calidad del trabajo, a pesar de la necesidad de desarrollar destrezas para el trabajo colectivo. Los logros adquiridos en la capacitación apuntan al enriquecimiento personal, el desarrollo de habilidades de comunicación, creatividad y actitud hacia el cambio y la innovación, además de un mejoramiento de las relaciones interpersonales y de trabajo en el aula. Los talleres con los directores permiten concluir que en torno al aprendizaje existen diversos problemas en la escuela, muchos de ellos relacionados con la forma como el docente orienta y guía el proceso, la falta de conocimiento sobre cómo aprende el niño y la ausencia de un autoanálisis de su labor. Llama la atención, no obstante, que en ninguna de las opiniones de los directores está presente la innovación como meta o como medio para mejorar el aprendizaje. Las distorsiones que se dan en las relaciones entre los organismos de apoyo y la escuela provienen, a veces, de situaciones que se originan en la calidad humana de las personas nombradas, en su compromiso y en sus expectativas para el puesto, además de una reglamentación obsoleta o de su desconocimiento.</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">EDUCACIÓN PRIMARIA</subfield>
+    <subfield code="9">367</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">ETNOGRAFÍA</subfield>
+    <subfield code="9">286</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">APRENDIZAJE </subfield>
+    <subfield code="9">387</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">ESCUELAS </subfield>
+    <subfield code="9">300</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">INVESTIGACIÓN</subfield>
+    <subfield code="9">163</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="a">Rojas Porras, Marta</subfield>
+    <subfield code="9">108</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="a">Campos Saborío, Natalia</subfield>
+    <subfield code="9">116</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,48 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00581nam a2200169Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2162</subfield>
+    <subfield code="d">2162</subfield>
+  </datafield>
+  <controlfield tag="008">180713b2005    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">14.02.05 </subfield>
+    <subfield code="b">1177</subfield>
+  </datafield>
+  <datafield tag="110" ind2=" " ind1=" ">
+    <subfield code="a">Caja Costarricense del Seguro Social. Sección Salud del Niño y la Niña</subfield>
+    <subfield code="9">4058</subfield>
+  </datafield>
+  <datafield tag="245" ind2="4" ind1="1">
+    <subfield code="a">Los cuidados del recién nacido / </subfield>
+    <subfield code="c">Caja Costarricense del Seguro Social. Sección Salud del Niño y la Niña</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">CCSS, </subfield>
+    <subfield code="c">2005</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">8 páginas</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">PADRES</subfield>
+    <subfield code="9">405</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">MATERNIDAD</subfield>
+    <subfield code="9">2496</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">PRIMERA INFANCIA</subfield>
+    <subfield code="9">757</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+  </datafield>
+</record>

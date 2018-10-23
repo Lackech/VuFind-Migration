@@ -1,0 +1,50 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00873nam a22001817a 4500</leader>
+  <controlfield tag="008">160809b2009    CR a|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9789977602097</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">18.01.01.</subfield>
+    <subfield code="b">2367</subfield>
+  </datafield>
+  <datafield ind2=" " tag="110" ind1="1">
+    <subfield code="9">1935</subfield>
+    <subfield code="a">Costa Rica. Ministerio de Educación Pública. Programa Educación Científica basada en la Indagación </subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="3">
+    <subfield code="a"> La planificación y la mediación pedagógica desde el enfoque de la educación científica basada en la indagación: módulo 2</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">[San José, Costa Rica] : </subfield>
+    <subfield code="b">MEP, </subfield>
+    <subfield code="c">2009</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">22 páginas; ilustraciones a color</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">A la cabeza de la portada: República de Costa Rica. Ministerio de Educación Pública. Programa Educación Científica basada en la Indagación</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">996</subfield>
+    <subfield code="a">ENSEÑANZA DE LAS CIENCIAS </subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">124</subfield>
+    <subfield code="a">PLANIFICACIÓN DE LA EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">367</subfield>
+    <subfield code="a">EDUCACIÓN PRIMARIA</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3302</subfield>
+    <subfield code="d">3302</subfield>
+  </datafield>
+</record>

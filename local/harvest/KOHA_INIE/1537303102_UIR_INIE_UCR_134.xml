@@ -1,0 +1,55 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00619nam a2200193Ia 4500</leader>
+  <controlfield tag="008">150730b2013    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="022" ind2=" ">
+    <subfield code="a">1659-469X</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">04.02.01 </subfield>
+    <subfield code="b">529 CD# 234</subfield>
+  </datafield>
+  <datafield ind1="2" tag="110" ind2=" ">
+    <subfield code="a">Instituto Interamericano de Derechos Humanos</subfield>
+    <subfield code="9">598</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">El derecho a la educación en derechos humanos en las Américas [Informe] / </subfield>
+    <subfield code="c">IIDH</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIDH, </subfield>
+    <subfield code="c">2013</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">74 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="500" ind2=" ">
+    <subfield code="a">También en pdf</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">DERECHOS HUMANOS</subfield>
+    <subfield code="9">588</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">DERECHO A LA EDUCACIÓN</subfield>
+    <subfield code="9">599</subfield>
+  </datafield>
+  <datafield ind1="1" tag="651" ind2="4">
+    <subfield code="a">AMÉRICA LATINA</subfield>
+    <subfield code="9">273</subfield>
+  </datafield>
+  <datafield ind1=" " tag="651" ind2="4">
+    <subfield code="a">CARIBE</subfield>
+    <subfield code="9">539</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">134</subfield>
+    <subfield code="d">134</subfield>
+  </datafield>
+</record>

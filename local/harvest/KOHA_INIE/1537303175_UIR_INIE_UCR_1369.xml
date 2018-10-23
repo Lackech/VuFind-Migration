@@ -1,0 +1,76 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01281nam a2200253Ia 4500</leader>
+  <controlfield tag="008">160126b2012    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">06.04.07</subfield>
+    <subfield code="b">221 CD#236</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="a">Quesada Pacheco, Allen</subfield>
+    <subfield code="9">1314</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Laboratorio de idioma digital como apoyo a los procesos de enseñanza y aprendizaje del inglés en la educación preescolar y I y II ciclos de la educación general básica, educación diversificada académica y educación técnica / </subfield>
+    <subfield code="c">Allen Quesada P.; Patricia Barquero; Roxana Chevez</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2012</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">50 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Informe final proyecto de investigación N°724-A7-120 \CD-ROM con los contenidos del portal correspondientes a cada uno de los niveles de enseñanza del inglés en I y II Ciclos de la Educación General Básica</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">LABORATORIOS DE IDIOMAS</subfield>
+    <subfield code="9">1316</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">PLATAFORMAS VIRTUALES</subfield>
+    <subfield code="9">1318</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">TECNOLOGÍA DE LA INFORMACIÓN </subfield>
+    <subfield code="9">484</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">TECNOLOGÍA DE LAS COMUNICACIONES</subfield>
+    <subfield code="9">925</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">ENSEÑANZA DE IDIOMAS</subfield>
+    <subfield code="9">1317</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">ENSEÑANZA CON AYUDA DE COMPUTADORAS </subfield>
+    <subfield code="9">1115</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">APRENDIZAJE </subfield>
+    <subfield code="9">387</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">MÉTODOS PEDAGÓGICOS</subfield>
+    <subfield code="9">824</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Barquero, Patricia</subfield>
+    <subfield code="9">1319</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="a">Chevez, Roxana</subfield>
+    <subfield code="9">1320</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">1369</subfield>
+    <subfield code="d">1369</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,41 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00778nam a2200157Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">CD #58</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">Calderón Ortega, Alonso</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="245">
+    <subfield code="a">Elementos que influyen en la permanencia de jóvenes madres en el sistema educativo, asociados al proyecto de vida / </subfield>
+    <subfield code="c">Alonso Calderón Ortega; Karla Jiménez Céspedes; González Moreira, Mariana; Sánchez Jiménez, Susan; Parrales Rodríguez, Sonia.</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">A. Calderón O., </subfield>
+    <subfield code="c">2012</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 disco compacto</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Seminario (Licenciatura en ciencias de la educación con énfasis en orientación) Universidad de Costa Rica. Facultad de Educación. Escuela de orientación y Educación Especial</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="650">
+    <subfield code="a">EDUCACION </subfield>
+  </datafield>
+  <datafield tag="650" ind2=" " ind1=" ">
+    <subfield code="a">JOVENES </subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="650">
+    <subfield code="a">MADRES</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="p">001681</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2507</subfield>
+    <subfield code="d">2507</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,48 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00619nam a2200181Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="020">
+    <subfield code="a">9977-64-834-4</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">19.04.01 </subfield>
+    <subfield code="b">1551</subfield>
+  </datafield>
+  <datafield ind2=" " tag="111" ind1=" ">
+    <subfield code="a">Congreso internacional: tecnología y edcucación a distancia (6° : 1995 : San José, C.R.)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="245" ind1=" ">
+    <subfield code="a">VI Congreso Internacional: tecnología y educación a distancia/ </subfield>
+    <subfield code="c">Universidad Estatal a Distancia</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, C. R. : </subfield>
+    <subfield code="b">UNED, </subfield>
+    <subfield code="c">1995</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">363 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="650" ind1=" ">
+    <subfield code="a">CONFERENCIAS</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">TECNOLOGIA</subfield>
+  </datafield>
+  <datafield ind2=" " tag="650" ind1=" ">
+    <subfield code="a">COSTA RICA</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">ESTADOS UNIDOS</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="650">
+    <subfield code="a">ENSEÑANZA A DISTANCIA</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="711">
+    <subfield code="a">Universidad Estatal a Distancia</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">1009</subfield>
+    <subfield code="d">1009</subfield>
+  </datafield>
+</record>

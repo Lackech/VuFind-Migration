@@ -1,0 +1,58 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00831nam a22002057a 4500</leader>
+  <controlfield tag="008">160126b2015    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="022" ind1=" " ind2=" ">
+    <subfield code="a">02571439</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">06.02.02</subfield>
+    <subfield code="b">1574</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">1341</subfield>
+    <subfield code="a">Dabdub Moreira, Mayela</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="3">
+    <subfield code="a">La atención de las necesidades educativas especiales y la labor docente en la escuela primaria / Mayela Dabdub Moreira y Alejandra Pineda Cordero</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Colegio Profesional de Psicólogos de Costa Rica,</subfield>
+    <subfield code="c">2015</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">pp. 41-55</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">En Revista Costarricense de Psicología, Vol.34, no.1, ene.-jun., 2015.</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">834</subfield>
+    <subfield code="a">NECESIDADES DE EDUCACIÓN </subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">1340</subfield>
+    <subfield code="a">DIFICULTAD EN EL APRENDIZAJE</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">367</subfield>
+    <subfield code="a">EDUCACIÓN PRIMARIA</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">2</subfield>
+    <subfield code="a">EDUCACIÓN INCLUSIVA</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="700">
+    <subfield code="9">1342</subfield>
+    <subfield code="a">Pineda Cordero, Alejandra</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">11</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">3039</subfield>
+    <subfield code="d">3039</subfield>
+  </datafield>
+</record>

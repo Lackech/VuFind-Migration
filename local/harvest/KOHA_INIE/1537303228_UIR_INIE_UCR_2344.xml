@@ -1,0 +1,49 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00637nam a2200169Ia 4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">2344</subfield>
+    <subfield code="d">2344</subfield>
+  </datafield>
+  <controlfield tag="008">170821b2012    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">19.01.06</subfield>
+    <subfield code="b">1181</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="100">
+    <subfield code="a">Sandín Esteban, M. Paz </subfield>
+    <subfield code="9">561</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Curso introductorio de la herramienta Atlas Ti para manejo de información cualitativa / </subfield>
+    <subfield code="c">María Paz Sandín</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2012</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">29 hojas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Informe final proyecto de Acción Social ED-2241</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">ANÁLISIS DE DATOS </subfield>
+    <subfield code="9">903</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">CURSOS DE CAPACITACIÓN</subfield>
+    <subfield code="9">1470</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1=" ">
+    <subfield code="a">Cordero Cordero, Teresita </subfield>
+    <subfield code="9">715</subfield>
+    <subfield code="e">Responsable del proyecto</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

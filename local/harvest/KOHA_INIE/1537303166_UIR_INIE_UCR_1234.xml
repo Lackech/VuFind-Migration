@@ -1,0 +1,81 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01282nam a2200277Ia 4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">1234</subfield>
+    <subfield code="d">1234</subfield>
+  </datafield>
+  <controlfield tag="008">170522b2004    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">02.01.01 </subfield>
+    <subfield code="b">589</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="a">Souza Silva, José de</subfield>
+    <subfield code="9">2811</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">La farsa del "Desarrollo" : Del colonialismo imperial al imperialismo sin colonias / </subfield>
+    <subfield code="c">José De Souza Silva</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica :  </subfield>
+    <subfield code="b">s.n.</subfield>
+    <subfield code="c">2004?</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a"> 1 volumen (en varias paginaciones)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Este documento es una compilación de artículos del autor. </subfield>
+  </datafield>
+  <datafield ind1=" " tag="505" ind2=" ">
+    <subfield code="t">La educación latinoamericana en el siglo XXI: Escenarios hacia las pedagogías de la alienación, domesticación y transformación</subfield>
+  </datafield>
+  <datafield tag="505" ind2=" " ind1=" ">
+    <subfield code="t">Investigación, sociedad y desarrollo: Los nuevos paradigmas del desarrollo científico-tecnológico en el contexto del cambio de época</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="505">
+    <subfield code="t">¿Quo vadis, planificación?: caminos hacia la alienación, la domesticación y la liberación en la época histórica emergente</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">DESARROLLO ECONÓMICO Y SOCIAL</subfield>
+    <subfield code="9">445</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">GLOBALIZACIÓN</subfield>
+    <subfield code="9">266</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">MODERNIZACIÓN</subfield>
+    <subfield code="9">2078</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">MODELOS </subfield>
+    <subfield code="9">676</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">INVESTIGACIÓN</subfield>
+    <subfield code="9">163</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">SOCIEDAD </subfield>
+    <subfield code="9">396</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">PLANIFICACION</subfield>
+    <subfield code="9">2302</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield tag="651" ind2="4" ind1=" ">
+    <subfield code="a">AMÉRICA LATINA</subfield>
+    <subfield code="9">273</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

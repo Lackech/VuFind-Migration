@@ -1,0 +1,44 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00620nam a2200157Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">1300</subfield>
+    <subfield code="d">1300</subfield>
+  </datafield>
+  <controlfield tag="008">170602b2000    pr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">04.03.02 </subfield>
+    <subfield code="b">1007</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="a">Rodríguez Matos, José Miguel</subfield>
+    <subfield code="9">469</subfield>
+  </datafield>
+  <datafield tag="245" ind2="3" ind1="1">
+    <subfield code="a">La estructura de la administración crítica: una interpretación dialéctica / </subfield>
+    <subfield code="c">José Miguel Rodríguez Matos</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">Puerto Rico : </subfield>
+    <subfield code="b">J.M. Rodríguez, </subfield>
+    <subfield code="c">2000? </subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">205 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Auspiciado por: Asociación Puertorriqueña de Profesores Universitarios</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1210</subfield>
+    <subfield code="a">ADMINISTRACIÓN DE LA ENSEÑANZA</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">FILOSOFÍA DE LA EDUCACIÓN </subfield>
+    <subfield code="9">21</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

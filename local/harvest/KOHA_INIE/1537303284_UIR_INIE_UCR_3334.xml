@@ -1,0 +1,60 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00667nam a22002057a 4500</leader>
+  <controlfield tag="008">161011b2005    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="022" ind1=" " ind2=" ">
+    <subfield code="a">1409-3677</subfield>
+  </datafield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">05.01.01</subfield>
+    <subfield code="b">1555</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">2081</subfield>
+    <subfield code="a">Guendel, Ludwig</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Derechos humanos, niñez y adolescencia / </subfield>
+    <subfield code="c">Ludwig Guendel, Manuel Barahona, Eduardo Bustelo</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Flacso,</subfield>
+    <subfield code="c">2005</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">127 páginas</subfield>
+  </datafield>
+  <datafield tag="490" ind1=" " ind2=" ">
+    <subfield code="a">Cuadernos de Ciencias Sociales,</subfield>
+    <subfield code="v">138</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">276</subfield>
+    <subfield code="a">CIENCIAS SOCIALES </subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">588</subfield>
+    <subfield code="a">DERECHOS HUMANOS</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">5</subfield>
+    <subfield code="a">ADOLESCENTES</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">2061</subfield>
+    <subfield code="a">Barahona, Manuel</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="9">2062</subfield>
+    <subfield code="a">Bustelo Graffigna, Eduardo</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">03</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">3334</subfield>
+    <subfield code="d">3334</subfield>
+  </datafield>
+</record>

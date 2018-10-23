@@ -1,0 +1,63 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00945nam a2200217Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">1329</subfield>
+    <subfield code="d">1329</subfield>
+  </datafield>
+  <controlfield tag="008">170613b2005    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">05.01.02 1931 CD #35</subfield>
+  </datafield>
+  <datafield ind1="2" tag="110" ind2=" ">
+    <subfield code="a">University for Peace</subfield>
+    <subfield code="9">2785</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Enfoque de género en los procesos de paz: guía de estudio / </subfield>
+    <subfield code="c">University for Peace</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">University for Peace, </subfield>
+    <subfield code="c">2005</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">219 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Contiene material complementarioGuía del profesor CD-ROM 1 Lecturas recomendadas; glosario de términos sobre enfoque de género en los procesos de paz. CD-ROM 2 Instrumentos internacionales de protección de los derechos humanos DVD 1 Principales conceptos</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1028</subfield>
+    <subfield code="a">ANÁLISIS DE GÉNERO </subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">EQUIDAD DE GÉNERO</subfield>
+    <subfield code="9">420</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">DERECHOS DE LA MUJER</subfield>
+    <subfield code="9">84</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">SOLUCIÓN DE CONFLICTOS</subfield>
+    <subfield code="9">692</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">DESARROLLO HUMANO</subfield>
+    <subfield code="9">77</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">PAZ</subfield>
+    <subfield code="9">725</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">MUJERES</subfield>
+    <subfield code="9">55</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

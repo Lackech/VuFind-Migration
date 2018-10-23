@@ -1,0 +1,66 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01005nam a2200205Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">1479</subfield>
+    <subfield code="d">1479</subfield>
+  </datafield>
+  <controlfield tag="008">171207b2011    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">06.02.01 </subfield>
+    <subfield code="b">1951</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Camacho Brown, Lolita </subfield>
+    <subfield code="9">1099</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="245">
+    <subfield code="a">Una mirada a la educación  de la comunidad cabécar de Chirripó, desde la perspectiva de diferentes actores sociales / Lolita Camacho Brown, Hannia Watson Soto</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica. : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c"> 2011</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">170 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Informe  del Proyecto de Investigación 724-A9-316. La unidad posee informe parcial 2010</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">La investigación se desarrolló desde una posición teórica interpretativa y se enmarcó en el paradigma cualitativo.  El trabajo es de tipo diagnóstico - descriptivo y su propósito es realizar un análisis del concepto de educación que tienen los actores </subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">EDUCACIÓN INDÍGENA</subfield>
+    <subfield code="9">1100</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">EDUCACIÓN PRIMARIA</subfield>
+    <subfield code="9">367</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">IDENTIDAD CULTURAL</subfield>
+    <subfield code="9">480</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">COMUNIDAD CABÉCAR</subfield>
+    <subfield code="9">1101</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">ASPECTOS SOCIALES </subfield>
+    <subfield code="9">576</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Watson Soto, Hannia </subfield>
+    <subfield code="9">1104</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

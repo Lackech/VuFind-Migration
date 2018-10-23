@@ -1,0 +1,55 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01033nam a2200217Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">CD #229</subfield>
+  </datafield>
+  <datafield tag="111" ind2=" " ind1=" ">
+    <subfield code="a">III Simposio Internacional sobre los Derechos de la Niñez y la Adolescencia. (3 : 2011 : San José, Costa Rica); VII Simposio Nacional sobre los Derechos de la Niñez y la Adolescencia. (7 : 2011 : San José, Costa Rica)</subfield>
+  </datafield>
+  <datafield ind1=" " tag="245" ind2=" ">
+    <subfield code="a">Entornos y prácticas de vida saludables en la niñez y la adolescencia / PRIDENA</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Universidad de Costa Rica. Vicerrectoría de Acción Social. PRIDENA, </subfield>
+    <subfield code="c">2011</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a"/>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2=" ">
+    <subfield code="a">DERECHOS DEL NIÑO</subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2=" ">
+    <subfield code="a">ADOLESCENTES</subfield>
+  </datafield>
+  <datafield ind2=" " tag="650" ind1=" ">
+    <subfield code="a">ESTILOS DE VIDA</subfield>
+  </datafield>
+  <datafield tag="650" ind2=" " ind1=" ">
+    <subfield code="a">ALIMENTACION</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="650">
+    <subfield code="a">SALUD MENTAL</subfield>
+  </datafield>
+  <datafield tag="650" ind2=" " ind1=" ">
+    <subfield code="a">EDUCACION</subfield>
+  </datafield>
+  <datafield ind1=" " tag="711" ind2=" ">
+    <subfield code="a">Simposio Internacional sobre los Derechos de la Niñez y de la Adolescencia (3 : 2011 : San José, Costa Rica); Simposio Nacional sobre los Derechos de la Niñez y la Adolescencia (7  : 2011 : San José, Costa Rica)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="p">003608 </subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="p">003609 </subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="p">003610 </subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2484</subfield>
+    <subfield code="d">2484</subfield>
+  </datafield>
+</record>

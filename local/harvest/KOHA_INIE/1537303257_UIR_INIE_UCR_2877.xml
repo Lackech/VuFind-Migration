@@ -1,0 +1,46 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01763nab a2200169   4500</leader>
+  <controlfield tag="005">20150917154153.0</controlfield>
+  <controlfield tag="008">150917b        xxu||||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">183</subfield>
+    <subfield code="a">Moncada Jiménez, José</subfield>
+  </datafield>
+  <datafield tag="245" ind2="3" ind1="1">
+    <subfield code="a">La radiación ultravioleta y la piel del deportista /</subfield>
+    <subfield code="c">José Moncada Jiménez</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2003</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">páginas 165-172</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">En este artículo se presenta una revisión de literatura acerca de la relación entre la radiación solar y las lesiones de la piel. Se sabe que una parte de la población se expone diariamente, y a veces durante muchas horas, a la radiación ultravioleta de los rayos solares. Sin embargo, por desconocimiento o por negligencia, muchas personas sufren de lesiones por la exposición aguda o crónica a los rayos solares. En Costa Rica, las lesiones relacionadas con la exposición al sol son comunes; solamente durante el trienio de 1994 a 1996, el cáncer de piel fue el de mayor incidencia entre las mujeres y el segundo entre los hombres. Se ha llegado a determinar que el riesgo para adquirir cáncer de piel aumenta si se poseen ciertas características fenotípicas, como por ejemplo, piel blanca, cabello color rubio o rojo, y ojos color verde o azul. Aún queda por determinar la posible asociación entre la exposición a los rayos ultravioleta en personas que se exponen diariamente largos períodos de tiempo a los rayos solares, como por ejemplo los educadores físicos y los deportistas</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0202</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.27, no.2  (2003)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2877</subfield>
+    <subfield code="d">2877</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,57 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00835nam a2200193   4500</leader>
+  <controlfield tag="008">150806b2013    c  ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">14.02.02 </subfield>
+    <subfield code="b">1336 </subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">756</subfield>
+    <subfield code="a">Cerdas Núñez, Jeannette </subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="8">
+    <subfield code="a">ED-1445 Red Interinstitucional para la niñez y la adolescencia de Costa Rica. ED-2822 Fortaleciendo la formación continua de profesionales que atienden el desarrollo de la niñez en sus primeros años de vida / </subfield>
+    <subfield code="c">Responsable Jeannette Cerdas, colaboradora Lupita Chaves</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">INIE,</subfield>
+    <subfield code="c">2013</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">45 hojas</subfield>
+  </datafield>
+  <datafield tag="610" ind1=" " ind2="0">
+    <subfield code="9">758</subfield>
+    <subfield code="a">RED INTERINSTITUCIONAL PARA LA NIÑEZ Y LA ADOLESCENCIA DE COSTA RICA</subfield>
+  </datafield>
+  <datafield ind2="0" ind1=" " tag="650">
+    <subfield code="9">757</subfield>
+    <subfield code="a">PRIMERA INFANCIA</subfield>
+  </datafield>
+  <datafield ind2="0" tag="650" ind1=" ">
+    <subfield code="9">59</subfield>
+    <subfield code="a">NIÑOS</subfield>
+  </datafield>
+  <datafield ind2="0" tag="650" ind1=" ">
+    <subfield code="9">60</subfield>
+    <subfield code="a">NIÑAS</subfield>
+  </datafield>
+  <datafield ind2="0" tag="651" ind1=" ">
+    <subfield code="9">47</subfield>
+    <subfield code="a">COSTA RICA</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">255</subfield>
+    <subfield code="a">Chaves Salas, Ana Lupita</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2791</subfield>
+    <subfield code="d">2791</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,55 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00631nam a2200193Ia 4500</leader>
+  <controlfield tag="008">150721b19      us ||||| |||| 00| | en  d</controlfield>
+  <datafield ind2=" " tag="020" ind1=" ">
+    <subfield code="a">0873674952</subfield>
+  </datafield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">06.02.01 </subfield>
+    <subfield code="b">1228</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="a">Walling, Donovan R.</subfield>
+    <subfield code="9">393</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Hot buttons unraveling 10 controversial issues in education /  </subfield>
+    <subfield code="c">Donovan R. Walling</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">USA : </subfield>
+    <subfield code="b">Phi Delta Kappa Educational Foundation, </subfield>
+    <subfield code="c">1997</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">268 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Material en idioma inglés</subfield>
+  </datafield>
+  <datafield tag="650" ind2="0" ind1=" ">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2="0">
+    <subfield code="a">COMPORTAMIENTO SEXUAL </subfield>
+    <subfield code="9">417</subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2="0">
+    <subfield code="a">CONSTRUCTIVISMO (EDUCACIÓN)</subfield>
+    <subfield code="9">419</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="0" tag="650">
+    <subfield code="a">EQUIDAD DE GÉNERO</subfield>
+    <subfield code="9">420</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">68</subfield>
+    <subfield code="d">68</subfield>
+  </datafield>
+</record>

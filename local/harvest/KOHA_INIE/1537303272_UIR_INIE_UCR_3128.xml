@@ -1,0 +1,46 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01456nab a2200169   4500</leader>
+  <controlfield tag="005">20160420143435.0</controlfield>
+  <controlfield tag="008">160420b2010    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">1579</subfield>
+    <subfield code="a">Mora Umaña, Andrea Melissa</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="3">
+    <subfield code="a">La teoría de la mente en el contexto de la teoría dinámica de tropa y sus aportes a la educación /</subfield>
+    <subfield code="c">Andrea Melissa Mora Umaña</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2010</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">páginas 95-108</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">La teoría de la mente es un término que surge en primatología con los estudios de Premark y Woodfrutt, en la actualidad es un tema de interés para muchas disciplinas. En este ensayo se aborda el tema de la teoría de la mente atendiendo a su función social y sus relaciones con la modelación de la mente y el papel mediador del lenguaje, así como el aporte de su estudio a la educación. Se parte de la Teoría de Dinámica de Tropas como una alternativa para la construcción de una propuesta más amplia de teoría de la mente de la especie humana, la cual se llama Modelación de la Mente. El ensayo concluye que sin la Teoría de la Mente y la modelación de la mente es imposible el aprendizaje en término humanos</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="0" tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0361</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.34, no.2 (jul.-dic., 2010)</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3128</subfield>
+    <subfield code="d">3128</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,55 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00905nam a2200193Ia 4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">1390</subfield>
+    <subfield code="d">1390</subfield>
+  </datafield>
+  <controlfield tag="008">170130b2010    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">06.01.01 </subfield>
+    <subfield code="b">1548 CD #173</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Cordero Cordero, Teresita </subfield>
+    <subfield code="9">715</subfield>
+  </datafield>
+  <datafield tag="245" ind2="3" ind1="1">
+    <subfield code="a">El pensamiento de Lev S. Vigotsky a partir del enfoque histórico cultural y su  aplicación en la investigación: segundo curso / </subfield>
+    <subfield code="c">Teresita Cordero Cordero, coordinadora; Wanda Rodríguez Arocho, colaboradora</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">[San José,Costa Rica] : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2010</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">32 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Los discos contienen: 1- Material entregado en el curso y 2- Material de la profesoraProyecto de Acción social ED-2242</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Proyecto de Acción social ED-2242</subfield>
+  </datafield>
+  <datafield ind2="4" tag="600" ind1="1">
+    <subfield code="9">906</subfield>
+    <subfield code="a">VYGOTSKY, LEV SEMIONOVICH </subfield>
+  </datafield>
+  <datafield tag="650" ind2="0" ind1=" ">
+    <subfield code="a">PSICOLOGÍA DE LA EDUCACIÓN</subfield>
+    <subfield code="9">625</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">CURSOS DE CAPACITACIÓN</subfield>
+    <subfield code="9">1470</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="9">1889</subfield>
+    <subfield code="a">Rodríguez Arocho, Wanda</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

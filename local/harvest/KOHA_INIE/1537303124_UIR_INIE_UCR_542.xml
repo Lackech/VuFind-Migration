@@ -1,0 +1,67 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00950nam a2200229Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">542</subfield>
+    <subfield code="d">542</subfield>
+  </datafield>
+  <controlfield tag="008">170202b2012    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9789968252492</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">14.02.03 </subfield>
+    <subfield code="b">2092</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Instituto Nacional de las Mujeres</subfield>
+    <subfield code="9">1766</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Uso del tiempo en la Gran Area Metropolitana 2011: una mirada cuantitativa del trabajo invisible de las mujeres / </subfield>
+    <subfield code="c">Instituto Nacional de las Mujeres, Instituto Nacional de Estadística y Censos, Universidad Nacional de Costa Rica</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INAMU, INEC, UNA, </subfield>
+    <subfield code="c">2012</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">190 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="490">
+    <subfield code="a">Colección estadísticas de la desigualdad por género</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="2" tag="610">
+    <subfield code="9">2380</subfield>
+    <subfield code="a">INSTITUTO NACIONAL DE ESTADÍSTICA  Y CENSOS</subfield>
+  </datafield>
+  <datafield tag="610" ind2="4" ind1="2">
+    <subfield code="a">UNIVERSIDAD NACIONAL DE COSTA RICA</subfield>
+    <subfield code="9">2381</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">55</subfield>
+    <subfield code="a">MUJERES</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1774</subfield>
+    <subfield code="a">TRABAJADORAS</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">2382</subfield>
+    <subfield code="a">TRABAJO DOMESTICO</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">2311</subfield>
+    <subfield code="a">INDICADORES</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">550</subfield>
+    <subfield code="a">ENCUESTAS</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

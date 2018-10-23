@@ -1,0 +1,69 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03251nam a2200205Ia 4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">1965</subfield>
+    <subfield code="d">1965</subfield>
+  </datafield>
+  <controlfield tag="008">180702b2004    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">06.05.03 </subfield>
+    <subfield code="b">677</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="100">
+    <subfield code="a">Rodríguez Soto, Sonia</subfield>
+    <subfield code="9">774</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Red ProEducación (II etapa)</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">2004</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">23 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="500">
+    <subfield code="a">Informe Final del Proyecto de Invetigación N° 724-98-365.    </subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">La segunda etapa de este proyecto, se planteó como objetivo general la modernización de la enseñanza del Cálculo, enfocando prioritariamente en el curso MA-1002 Cálculo II, impartido como curso de servicio de la Escuela de Matemática de la Universidad de Costa Rica; y cuyos estudiantes provienen de las distintas escuelas de la Facultad de Ingeniería, de Física y de Química. 
+La motivación para la presentación de este proyecto surge del deseo de resolver el problema de baja promoción que afrontaba históricamente dicho curso, mediante una reforma integral del mismo. El bajo rendimiento en este, y otros cursos, incluso motivó al Consejo Universitario a nombrar una Comisión Investigadora que propusiera soluciones a la crisis. 
+La reforma integral propuesta abarcó aspectos, utilizados como objetivos específicos: 
+- Aspectos Curriculares: Revisión de los contenidos del programa, revisión del énfasis y duración dedicados a ciertos temas. 
+- Aspectos Didácticos: Revisión de diversas teorías de la enseñanza-aprendizaje, elaboración de un texto adecuado, motivación de docentes y estudiantes, revisión de la dinámica de clase, revisión de los métodos de evaluación. 
+- Incorporación de nuevas tecnologías: Presentación de la teoría utilizando recursos multimedia, uso de la computadora en el aula, promoción del uso de software para graficación y solución de problemas, utilización de correo electrónico y creación de una página Internet. 
+- Detección y atención de problemas psicológicos: Colaboración con la unidad de CASE para la atención más eficaz de los estudiantes con problemas de déficit atencional, problemas de rendimiento, baja autoestima, necesidades especiales. 
+- Vigilancia estadística: Análisis de las tendencias de matrícula, tasas de aprobación y composición de la población estudiantil. 
+Se hizo una categorización entre los estudiantes asistentes al curso, para el mejor análisis de éstos. Los resultados en las tasas de promoción del curso analizado, son halagadores, pero no son idénticos para todas las categorías de estudiantes. 
+Como una extensión del proyecto, se inscribió otro proyecto de Acción Social "Elaboración y distribución de materiales didácticos para Cálculo". Este proyecto es importante pues facilita la elaboración de materiales tanto escritos como multimedia si fuera necesario. También se contempla la creación de diversos cursos, tanto de extensión como cursos libres. 
+Como resultado este proyecto creó una página web para los estudiantes y un disco compacto con prácticas. 
+</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">TECNOLOGÍA EDUCATIVA </subfield>
+    <subfield code="9">483</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">MEDIOS DE ENSEÑANZA</subfield>
+    <subfield code="9">29</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">MATEMÁTICAS  </subfield>
+    <subfield code="9">482</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">MÉTODOS PEDAGÓGICOS</subfield>
+    <subfield code="9">824</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1=" ">
+    <subfield code="a">Soto Aguilar, Alberto</subfield>
+    <subfield code="9">3894</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

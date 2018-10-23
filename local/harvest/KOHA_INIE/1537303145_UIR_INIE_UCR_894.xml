@@ -1,0 +1,47 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00590nam a2200181Ia 4500</leader>
+  <datafield ind2=" " tag="020" ind1=" ">
+    <subfield code="a">9968-886-05-X</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">02.04.02 </subfield>
+    <subfield code="b">14</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="110">
+    <subfield code="a">Casa Alianza Internacional</subfield>
+  </datafield>
+  <datafield ind1=" " tag="245" ind2=" ">
+    <subfield code="a">Investigación regional sobre tráfico, prostitución, pornografía infantil y turismo sexual infantil en México y Centroamérica : Síntesis regional</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, C.R. : </subfield>
+    <subfield code="b">Casa Alianza Internacional, </subfield>
+    <subfield code="c">2002</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">147 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2=" ">
+    <subfield code="a">PROSTITUCION</subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2=" ">
+    <subfield code="a">NIÑOS</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">ABUSO DE MENORES</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">PORNOGRAFIA</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="651">
+    <subfield code="a">AMERICA CENTRAL</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="651">
+    <subfield code="a">MEXICO</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">894</subfield>
+    <subfield code="d">894</subfield>
+  </datafield>
+</record>

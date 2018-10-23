@@ -1,0 +1,63 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00693nam a2200217Ia 4500</leader>
+  <controlfield tag="008">150924b1994    sp ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="020" ind2=" ">
+    <subfield code="a">8478980946</subfield>
+  </datafield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">06.01.01 </subfield>
+    <subfield code="b">1019</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="a">Colás Bravo, María Pilar</subfield>
+    <subfield code="9">1080</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Investigación educativa / </subfield>
+    <subfield code="c"> María Pilar Colás Bravo, Leonor Buendía Eisman</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="250">
+    <subfield code="a">2 edición</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">España : </subfield>
+    <subfield code="b">Ediciones ALfar, </subfield>
+    <subfield code="c">1994</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">362 páginas</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">INVESTIGACIÓN EDUCATIVA</subfield>
+    <subfield code="9">326</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">MÉTODOS DE INVESTIGACIÓN </subfield>
+    <subfield code="9">288</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">INVESTIGACIÓN</subfield>
+    <subfield code="9">163</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">INVESTIGACIÓN CUALITATIVA</subfield>
+    <subfield code="9">317</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">INFORMES</subfield>
+    <subfield code="9">267</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1=" ">
+    <subfield code="a">Buendía Eisman, Leonor</subfield>
+    <subfield code="9">1081</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">280</subfield>
+    <subfield code="d">280</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,48 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01624nab a2200169   4500</leader>
+  <controlfield tag="005">20160331140504.0</controlfield>
+  <controlfield tag="008">160107b2007    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">1252</subfield>
+    <subfield code="a">Esquivel Corella, Freddy</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Notas sobre la formación en la escuela de trabajo social, Universidad de Costa Rica (UCR) durante las décadas de 1950 a 1980 /</subfield>
+    <subfield code="c">Freddy Esquivel Corella</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2007</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">páginas 59-78</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">El presente artículo, describe algunos de los cambios en los planes de estudios de la Escuela de Trabajo Social de la Universidad de Costa Rica (UCR), durante el período 1950 - 1980, décadas que forjaron una importante base de la trayectoria de madurez formativa en dicha profesión.
+Los resultados del análisis, permiten identificar las principales presiones qure influyeron en la formación de esas décadas tanto por las coyunturas históricas naionales, como por las contradicciones con la propuesta curricular de la Organización de las Naciones Unidas (ONU), condiciones que llevaron posteriormente a la articulación con los debates propiamente del Tra bajo Social latinoamericano.
+A partir de ello, se destaca la importancia de reconocer esos esfuerzos como el mayor impulso crítico del siglo XX, en lo que a materia formativa en el Trabajo Social costarricense se refiere</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " tag="773" ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0309</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.31, no.2 (2007)</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2997</subfield>
+    <subfield code="d">2997</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,51 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00866nam a2200169Ia 4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">1737</subfield>
+    <subfield code="d">1737</subfield>
+  </datafield>
+  <controlfield tag="008">180418b1989    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">06.03.06 </subfield>
+    <subfield code="b">10</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Lizano Di Mare, María</subfield>
+    <subfield code="9">3573</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Diagnosticar los procedimientos que los alumnos de tercero y cuarto año de educación básica utilizan a la hora de resolver el logaritmo de sustracción en columnas</subfield>
+    <subfield code="c">María Lizano</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1989</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">132 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Informe Final del Proyecto de Investigación N° 724-87-140</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">	La investigación plantea la necesidad de establecer una tipología de errores referentes a la sustracción y clasificar diferentes estrategias utilizadas por los alumnos a la ora de resolver las sustracciones en columnas, así como proponer material didáctico que ayude a los alumnos a comprender mejor la noción de sustracción. Se observó que la mayoría de los maestros creen tener un control del grupo de su clase, por lo que implícitamente cierran las puertas a sugerencias de sus colegas. Al mismo tiempo, se señala que no hay consenso en la metodología de cómo enseñar la sustracción ni tampoco se sabe la razón para enseñarla de una forma determinada. Es importante que el maestro sepa cómo aprenden los niños y que el énfasis en el aprendizaje esté centrado en el alumno y en cómo este desarrolla el pensamiento lógico-matemático. Es indispensable que se utilicen materiales e ideas que ayuden al niño a reforzar, modificar y crear conocimientos. Se notó que en general no se le da importancia al proceso usado por el niño para resolver la operación, lo cual representa una gran falla, pues es a partir de un enfoque positivo del error como se puede llegar a un análisis del mismo, y por consiguiente, a un dominio de la materia. Muchos de los niños emplean las técnicas de sustracción que les fueron enseñadas en su casa y no las que el maestro explicó en la clase.</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">EDUCACIÓN SECUNDARIA</subfield>
+    <subfield code="9">456</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">MATEMÁTICAS  </subfield>
+    <subfield code="9">482</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">MÉTODOS PEDAGÓGICOS</subfield>
+    <subfield code="9">824</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

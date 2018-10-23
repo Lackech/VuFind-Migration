@@ -1,0 +1,45 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>     nam a22        4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">3437</subfield>
+    <subfield code="d">3437</subfield>
+  </datafield>
+  <controlfield tag="008">171011bs.f.    pe a|||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">06.03.06</subfield>
+    <subfield code="b">2427</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="9">3234</subfield>
+    <subfield code="a">Universidad Peruana Cayetano Heredia. Facultad de Educación</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Atención diferenciada 1: marco teórico y metodológico </subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">[Lima, Perú] :</subfield>
+    <subfield code="b">USAID,</subfield>
+    <subfield code="c">[Sin fecha de publicación]</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">90 páginas;</subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">367</subfield>
+    <subfield code="a">EDUCACIÓN PRIMARIA</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">2</subfield>
+    <subfield code="a">EDUCACIÓN INCLUSIVA</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">387</subfield>
+    <subfield code="a">APRENDIZAJE </subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

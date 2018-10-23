@@ -1,0 +1,48 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02152nam a2200169Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2026</subfield>
+    <subfield code="d">2026</subfield>
+  </datafield>
+  <controlfield tag="008">180706b1994    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">06.06.02 </subfield>
+    <subfield code="b">91</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="a">Sequeira Rodríguez, Alicia</subfield>
+    <subfield code="9">215</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Formación de educadores en educación primaria ante la demanda del Ministerio de Educación Pública de Costa Rica /</subfield>
+    <subfield code="c">Alicia Sequeira</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica :  </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1994</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">30 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="500">
+    <subfield code="a">Informe Final proyecto de Investigación N° 724-91-233</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">En este informe se da cuenta de la problemática causada por el faltante de docentes de primaria en los años de 1986 y 1987. El estudio cumple con los objetivos de clarificar cuál fue dicha demanda por parte de MEP y la respuesta de las tres universidades estatales (UCR, UNA y UNED), así como la revisión de los principios curriculares de estas tres instituciones. La investigación partió de una revisión bibliográfica y una entrevista a 35 funcionarios y una consulta a 28 personas en los diferentes campos que abarca el proceso. El estudio determinó que el aumento de la demanda se produjo como del crecimiento del aparato educativo, las desfavorables condiciones salariales y la tendencia significativa a la jubilación de los educadores. También queda en evidencia que los planes de estudios de la carrera de educación primaria en las tres universidades no tienen un enfoque curricular claro ni se elaboraron a partir de una investigación de diagnóstico que tomara en cuenta la realidad económica, social, histórica y cultural del país, de manera que se formularan un pronóstico, un perfil y una plataforma de intenciones educativas que orientara la programación de los cursos. El informe recomienda impulsar procesos de planificación permanentes, flexibles y pertinentes en relación con la demanda de educadores y la oferta de las universidades. Asimismo, se llama la atención sobre la importancia de un proceso de evaluación de los objetivos, los contenidos, los métodos y técnicas de la planificación. 
+</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">FORMACIÓN DE DOCENTES</subfield>
+    <subfield code="9">9</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">EDUCACIÓN PRIMARIA</subfield>
+    <subfield code="9">367</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

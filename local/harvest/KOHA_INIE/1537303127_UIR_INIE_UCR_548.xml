@@ -1,0 +1,84 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00962nam a2200277Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">548</subfield>
+    <subfield code="d">548</subfield>
+  </datafield>
+  <controlfield tag="008">170207b2003    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9789968317016</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">06.03.06 </subfield>
+    <subfield code="b">2087</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="a">Salazar Mora, Jorge Mario</subfield>
+    <subfield code="9">2395</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Historia de la educación costarricense / </subfield>
+    <subfield code="c">Jorge Mario Salazar Mora, editor/a</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">EUNED, </subfield>
+    <subfield code="c">2003</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">552 página</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">HISTORIA DE LA EDUCACIÓN</subfield>
+    <subfield code="9">832</subfield>
+  </datafield>
+  <datafield ind2="4" tag="651" ind1=" ">
+    <subfield code="a">COSTA RICA</subfield>
+    <subfield code="9">47</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="a">De la Cruz de Lemos, Vladimir</subfield>
+    <subfield code="9">2396</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Fischel Volio, Astrid </subfield>
+    <subfield code="9">1834</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Quesada Camacho, Juan Rafael</subfield>
+    <subfield code="9">2397</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Dengo Obregón, María Eugenia </subfield>
+    <subfield code="9">2398</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">González García, Yamileth</subfield>
+    <subfield code="9">2399</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Araya  Pochet, Carlos</subfield>
+    <subfield code="9">2400</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="a">Fournier García, Eduardo </subfield>
+    <subfield code="9">2401</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="a">Retana Padilla, Carlos </subfield>
+    <subfield code="9">2402</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Rojas Rodríguez, Yolanda</subfield>
+    <subfield code="9">2403</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

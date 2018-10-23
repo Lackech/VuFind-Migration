@@ -1,0 +1,46 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01696nab a2200169   4500</leader>
+  <controlfield tag="005">20160331140034.0</controlfield>
+  <controlfield tag="008">151216b2007    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">205</subfield>
+    <subfield code="a">Soto Calderón, Ronald</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Actitud docentes de la Universidad de Costa Rica hacia los (as) estudiantes con discapacidad de la Universidad /</subfield>
+    <subfield code="c">Ronald Soto Calderón</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2007</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">páginas 11-42</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">La incorporación de estudiantes con discapacidad a la Universidad de Costa Rica es una de las temáticas  que ha adquirido relevancia  en el sistema de educación superior, lo anterior por cuanto esto ha requerido que muchos docentes se replanteen la entrega de la docencia que se ha hecho durante experiencia formativa en la Universidad, esto conlleva que a raíz de la legislación tanto nacional como institucional, se han implementado instrumentos que responden al acceso en igualdad y equiparación  de oportunidades para estudiantes universitarios. Ante esta situación emerge la inquietud acerca de la actitud que tienen los docentes  universitarios con respecto  a la participación de estudiantes en sus cursos, por esta razón se ha considerado pertinente realizar un estudio al respecto, mediante la construcción de un instrumento. En este escrito se resumen parte de los resultados obtenidos en la aplicación del instrumento a una muestra de docentes universitarios</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="0" tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0308</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.31, no.1 (2007)</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">2985</subfield>
+    <subfield code="d">2985</subfield>
+  </datafield>
+</record>

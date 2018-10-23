@@ -1,0 +1,64 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00717nam a2200217Ia 4500</leader>
+  <controlfield tag="008">150924b1999    sp ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="020" ind1=" ">
+    <subfield code="a">8478842004</subfield>
+  </datafield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">06.02.03 </subfield>
+    <subfield code="b">851</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="3" tag="245">
+    <subfield code="a">La reforma educacional chilena / </subfield>
+    <subfield code="c">Juan Eduardo García-Huidobro ... [et al.]</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">España : </subfield>
+    <subfield code="b">Editorial Popular, </subfield>
+    <subfield code="c">1999</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">335 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="0" tag="650">
+    <subfield code="a">REFORMA DE LA EDUCACIÓN</subfield>
+    <subfield code="9">7</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="0" tag="650">
+    <subfield code="a">EDUCACIÓN PREESCOLAR</subfield>
+    <subfield code="9">455</subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2="0">
+    <subfield code="a">CALIDAD DE LA EDUCACIÓN</subfield>
+    <subfield code="9">11</subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2="0">
+    <subfield code="a">PROYECTOS DE EDUCACION </subfield>
+    <subfield code="9">152</subfield>
+  </datafield>
+  <datafield ind2="0" tag="650" ind1=" ">
+    <subfield code="a">EDUCACIÓN SECUNDARIA</subfield>
+    <subfield code="9">456</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="0" tag="650">
+    <subfield code="a">FINANCIAMIENTO DE LA EDUCACIÓN </subfield>
+    <subfield code="9">338</subfield>
+  </datafield>
+  <datafield ind1=" " tag="651" ind2="0">
+    <subfield code="a">CHILE</subfield>
+    <subfield code="9">1078</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="9">1079</subfield>
+    <subfield code="a">García-Huidobro, Juan Eduardo </subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">279</subfield>
+    <subfield code="d">279</subfield>
+  </datafield>
+</record>

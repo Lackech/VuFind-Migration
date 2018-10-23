@@ -1,0 +1,57 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00834nam a2200193   4500</leader>
+  <controlfield tag="008">161003b2014    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">97899309405</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">02.05.03</subfield>
+    <subfield code="b">2386</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">2042</subfield>
+    <subfield code="a">Hernández Herrera, Gabriela</subfield>
+    <subfield code="e">Editor/a</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Modelo de atención pedagógica y gestión de los CECUDI: Centros de cuido y desarrollo infantil /</subfield>
+    <subfield code="c">Gabriela Hernández Herrera, Editor/a</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, [Costa Rica] :</subfield>
+    <subfield code="b">Red Nacional de Cuido,</subfield>
+    <subfield code="c">2014</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">173 páginas;</subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Despacho del Ministro de Bienestar Social y Familia. Gobierno de la República de Costa Rica. (Administración 2010 - 2014)</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">2043</subfield>
+    <subfield code="a">SERVICIOS DE CUIDADO DE NIÑOS</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">723</subfield>
+    <subfield code="a">DESARROLLO DEL NIÑO</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1938</subfield>
+    <subfield code="a">GUARDERIAS</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1009</subfield>
+    <subfield code="a">BIENESTAR DE LA INFANCIA</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">3332</subfield>
+    <subfield code="d">3332</subfield>
+  </datafield>
+</record>

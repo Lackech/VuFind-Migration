@@ -1,0 +1,72 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01206nam a2200241Ia 4500</leader>
+  <controlfield tag="008">160414b2006    cr a|||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">05.05.02 </subfield>
+    <subfield code="b">1279</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">736</subfield>
+    <subfield code="a">Arguedas Quesada, Consuelo</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="3">
+    <subfield code="a">La expresión artística un medio para construir procesos pedagógicos en el aula / </subfield>
+    <subfield code="c">Consuelo Arguedas Quesada; Julieta Castro Bonilla; Jacqueline García Fallas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE,</subfield>
+    <subfield code="c">2006</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">300 páginas;</subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Informe Final del Proyecto de Investigación N° 724-A6-507.</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">Esta investigación tuvo como objetivo propiciar procesos de innovación pedagógica para la integración de la expresión artística al currículo escolar, mediante el desarrollo de una experiencia de capacitación docente que se lleva a cabo bajo una modalid</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">EXPRESIÓN ARTÍSTICA INFANTIL</subfield>
+    <subfield code="9">1522</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">TECNOLOGÍA DE LA INFORMACIÓN </subfield>
+    <subfield code="9">484</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">CAPACITACIÓN</subfield>
+    <subfield code="9">729</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">ENSEÑANZA</subfield>
+    <subfield code="9">14</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">CURRÍCULO (EDUCACIÓN)</subfield>
+    <subfield code="9">342</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">TECNOLOGÍA DE LAS COMUNICACIONES</subfield>
+    <subfield code="9">925</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="a">Castro Bonilla, Julieta</subfield>
+    <subfield code="9">1082</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="9">759</subfield>
+    <subfield code="a">García Fallas, Jacqueline</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">1363</subfield>
+    <subfield code="d">1363</subfield>
+  </datafield>
+</record>

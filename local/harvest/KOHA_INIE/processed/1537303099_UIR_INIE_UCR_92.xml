@@ -1,0 +1,59 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00707nam a2200205Ia 4500</leader>
+  <controlfield tag="008">150724b2006    dr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="022">
+    <subfield code="a">0378 956X</subfield>
+  </datafield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">13.09.09 </subfield>
+    <subfield code="b">1611</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">López Ferreiras, Altagracia</subfield>
+    <subfield code="9">488</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Aproximación a la calidad docente eje de la excelencia académica / </subfield>
+    <subfield code="c">Altagracia López Ferreiras</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">Santo Domingo, R.D.: </subfield>
+    <subfield code="b">Instituto Tecnológico de Santo Domingo, </subfield>
+    <subfield code="c">2006</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">148 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="490">
+    <subfield code="a">Documentos INTEC; 16</subfield>
+  </datafield>
+  <datafield ind1=" " tag="610" ind2="4">
+    <subfield code="9">489</subfield>
+    <subfield code="a">INSTITUTO TECNOLOGICO DE SANTO DOMINGO</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">DOCENTES</subfield>
+    <subfield code="9">331</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">8</subfield>
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+  </datafield>
+  <datafield tag="650" ind2="0" ind1=" ">
+    <subfield code="a">UNIVERSIDADES </subfield>
+    <subfield code="9">16</subfield>
+  </datafield>
+  <datafield ind1=" " tag="651" ind2="4">
+    <subfield code="9">458</subfield>
+    <subfield code="a">REPÚBLICA DOMINICANA</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">03</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">92</subfield>
+    <subfield code="d">92</subfield>
+  </datafield>
+</record>

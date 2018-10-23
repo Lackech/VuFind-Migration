@@ -1,0 +1,51 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02284nam a2200181Ia 4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">1248</subfield>
+    <subfield code="d">1248</subfield>
+  </datafield>
+  <controlfield tag="008">170523b2009    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">02.05.02 </subfield>
+    <subfield code="b">1738</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Vindas Lara, Andrea</subfield>
+    <subfield code="9">2830</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="245">
+    <subfield code="a">Una estrategia educativa para el manejo de indicadores básicos en el área de salud: resumen, gratificación y tendencia / </subfield>
+    <subfield code="c">Andrea Vindas Lara, Julio Rodríguez Vindas</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2009</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">14 páginas, 32 páginas sin numerar</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Informe final proyecto N° 724-A6-220</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">El objetivo de esta investigación ha sido elaborar una lista de variable e indicadores básicos en el área de la salud para generar un registro personal de esa información a modo de sistematización.  El término básico es empleado como sinónimo de los "más comunes", los "fundamentales", o los más comúnmente empleados.Un aspecto relevante es generar un folleto para graficar esta información y visualizar su tendencia.  El marco referencial definido en el proceso fue  el "síndrome metabólico" y el "Estilos de Vida Saludables" para así tomar las variables que los definen e incluir estas en el folleto "Mi Salud" que es el principal producto de esta investigación. Se obtuvo información de diferentes centros de salud como Clínica Católica, Clínica Bíblica, Hospital CIMA y laboratorios privados.  Para la primera etapa se optó por la Oficina de Salud y bienestar de la UCR, ya que presenta mayores oportunidades de aprovechamiento de la propuesta y beneficio para la institución que financia este proyecto.  Los resultados de este proyecto de investigación vislumbran al menos dos proyectos más a futuro: "La implementación de esta información en forma digital: esto conlleva etapas de: evaluación, adecuación y utilización como apoyo al expediente clínico y utilización del folleto "Mi Salud" por parte de la comunidad universitario, estudiantes, docentes y administrativos. "Seguimiento de las tendencias de las variables e indicadores, cambios en ellos y modificaciones de hábitos en el marco de "Estilos de vida saludables" y "Síndrome metabólico" </subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">INDICADORES DE SALUD</subfield>
+    <subfield code="9">2831</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">EDUCACION BASICA</subfield>
+    <subfield code="9">2224</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="a">Rodríguez Vindas, Julio</subfield>
+    <subfield code="9">2832</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

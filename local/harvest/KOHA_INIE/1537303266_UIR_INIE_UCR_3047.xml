@@ -1,0 +1,56 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00919nam a22001937a 4500</leader>
+  <controlfield tag="008">160128b2015    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">06.03.06</subfield>
+    <subfield code="b">2160</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">711</subfield>
+    <subfield code="a">Artavia Granados Jenny </subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Comportamientos violentos en los juegos e interacciones sociales que se suscitan entre las y los estudiantes del I Ciclo de la Enseñanza General Básica, durante el desarrollo de los recreos en una escuela del circuito 01 de la Dirección Regional de Occidente /</subfield>
+    <subfield code="c"> Jenny María Artavia Granados</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">INIE,</subfield>
+    <subfield code="c">2015</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">388 páginas;</subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="500">
+    <subfield code="a">Informe final proyecto de investigación Nª 724-B2-332</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Contiene informe con formato de la Vicerrectoría de Investigación</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">367</subfield>
+    <subfield code="a">EDUCACIÓN PRIMARIA</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">553</subfield>
+    <subfield code="a">VIOLENCIA ESCOLAR</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">984</subfield>
+    <subfield code="a">INTERACCIÓN SOCIAL</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">275</subfield>
+    <subfield code="a">JUEGOS</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">3047</subfield>
+    <subfield code="d">3047</subfield>
+  </datafield>
+</record>

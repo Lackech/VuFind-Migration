@@ -1,0 +1,48 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00544nam a2200169   4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">3500</subfield>
+    <subfield code="d">3500</subfield>
+  </datafield>
+  <controlfield tag="008">180614b2018    mx ||||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="020">
+    <subfield code="a">9786077475002</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">06.01.01</subfield>
+    <subfield code="b">2462</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1=" ">
+    <subfield code="9">3765</subfield>
+    <subfield code="a">Pérez Rocha, Manuel</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Motivaciones y valores de la educación: Un desafío para México /</subfield>
+    <subfield code="c">Manuel Pérez Rocha</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">Cuidad de México :</subfield>
+    <subfield code="b">Ariel,</subfield>
+    <subfield code="c">2018</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">237 páginas</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="650">
+    <subfield code="a">EDUCACIÓN EN VALORES</subfield>
+    <subfield code="9">719</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">7</subfield>
+    <subfield code="a">REFORMA DE LA EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">451</subfield>
+    <subfield code="a">POLÍTICA EDUCATIVA</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

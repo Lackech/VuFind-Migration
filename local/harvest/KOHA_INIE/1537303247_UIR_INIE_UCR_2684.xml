@@ -1,0 +1,65 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01964nab a2200205   4500</leader>
+  <controlfield tag="008">150617b2000    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">200</subfield>
+    <subfield code="a">Chavarría González, María Celina</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="3" tag="245">
+    <subfield code="a">La formación del preescolar como cosmovisión: en busca de valores hacia la paz y el desarrollo sostenible /</subfield>
+    <subfield code="c">María Celina Chavarría González, Cynthia Orozco, Yamileth Chacón, Mabel Ovares, Milagro Obando, coautoras</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2000</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">páginas 115-134</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">El siguiente artículo plantea un análisis crítico de la coyuntura sociopolítica actual y de sus repercusiones en la educación inicial. Se destaca la pertinencia de una educación integradora, basada en principios de paz y desarrollo sostenible; retomando los legados de Vygotsky, Montessori y Freire. La metodología de ecoanálisis, como herramienta para la decodificación de lo cotidiano, se utilizó como andamiaje para poner en práctica un modelo alternativo basado en los principios esbozados, en concordancia con los objetivos de la Pedagogía Crítica. La propuesta se inició en el Centro Infantil Laboratorio, centro universitario pionero en la investigación-acción en el campo de la educación inicial. Se analiza el proceso de transformación de diversos ambientes-situaciones, así como los aciertos y vicisitudes en la búsqueda de cambios de cosmovisión en un centro infantil estatal en un área marginal, en el CINAI de Cristo Rey, siguiendo un enfoque etnográfico</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="9">201</subfield>
+    <subfield code="a">Orozco, Cynthia</subfield>
+    <subfield code="c">coautora</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">202</subfield>
+    <subfield code="a">Chacón, Yamileth</subfield>
+    <subfield code="c">coautora</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">203</subfield>
+    <subfield code="a">Ovares, Mabel</subfield>
+    <subfield code="c">coatura</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="9">204</subfield>
+    <subfield code="a">Obando, Milagro</subfield>
+    <subfield code="c">coautora</subfield>
+  </datafield>
+  <datafield tag="773" ind2=" " ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0026</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.24, no.2 (2000)</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2684</subfield>
+    <subfield code="d">2684</subfield>
+  </datafield>
+</record>

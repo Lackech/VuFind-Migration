@@ -1,0 +1,56 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00677nam a2200193Ia 4500</leader>
+  <controlfield tag="008">160919b1990    mx ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="020">
+    <subfield code="a">9683614027</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">06.04.05 </subfield>
+    <subfield code="b">1312</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="a">Pacheco Méndez, Teresa</subfield>
+    <subfield code="9">2003</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Universidad, investigación y desarrollo científico: tres líneas de análisis / </subfield>
+    <subfield code="c">Teresa Pacheco Méndez</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">México : </subfield>
+    <subfield code="b">Universidad Nacional Autonoma de Mexico, </subfield>
+    <subfield code="c">1990</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">70 páginas</subfield>
+  </datafield>
+  <datafield ind1="2" tag="610" ind2="0">
+    <subfield code="9">1496</subfield>
+    <subfield code="a">UNIVERSIDAD NACIONAL AUTONÓMA DE MÉXCIO</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">8</subfield>
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">UNIVERSIDADES </subfield>
+    <subfield code="9">16</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">DESARROLLO CIENTÍFICO</subfield>
+    <subfield code="9">1491</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">INVESTIGACIÓN</subfield>
+    <subfield code="9">163</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">397</subfield>
+    <subfield code="d">397</subfield>
+  </datafield>
+</record>

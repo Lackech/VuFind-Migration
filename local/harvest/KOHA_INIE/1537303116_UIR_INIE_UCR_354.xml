@@ -1,0 +1,46 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00562nam a2200157Ia 4500</leader>
+  <controlfield tag="008">160205b2003    ag ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9508083956</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">05.03.05 </subfield>
+    <subfield code="b">1432</subfield>
+  </datafield>
+  <datafield ind1="0" tag="245" ind2="0">
+    <subfield code="a">Intelectuales y política en América Latina: el desencadenamiento  del espíritu crítico / </subfield>
+    <subfield code="c">editado por Wilhelm Hofmeister y HCF Mansilla.</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">Santa Fe, Argentina : </subfield>
+    <subfield code="b">Homo Sapiens, </subfield>
+    <subfield code="c">2003</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">269 páginas</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">POLÍTICA</subfield>
+    <subfield code="9">1010</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Hofmeister, Wilhelm </subfield>
+    <subfield code="9">1441</subfield>
+    <subfield code="e">Editor</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="a"> Mansilla, HCF.</subfield>
+    <subfield code="9">1442</subfield>
+    <subfield code="e">Editor</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">354</subfield>
+    <subfield code="d">354</subfield>
+  </datafield>
+</record>

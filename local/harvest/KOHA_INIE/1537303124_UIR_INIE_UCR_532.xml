@@ -1,0 +1,56 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00737nam a2200193Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">532</subfield>
+    <subfield code="d">532</subfield>
+  </datafield>
+  <controlfield tag="008">170201b2009    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="020">
+    <subfield code="a">9789968581</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">19.02.08 </subfield>
+    <subfield code="b">1681</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Romero Pérez, Jorge Enrique</subfield>
+    <subfield code="9">2366</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Informe de labores del director del Instituto de Investigaciones Jurídicas: IIJ (2008) /</subfield>
+    <subfield code="c">Jorge Enrique Romero Pérez</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">Costa Rica : </subfield>
+    <subfield code="b">Universidad de Costa Rica, Instituto de Investigaciones Jurídicas, </subfield>
+    <subfield code="c">2009</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">71 páginas</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="4">
+    <subfield code="9">2364</subfield>
+    <subfield code="a">INSTITUTO DE INVESTIGACIONES JURIDICAS</subfield>
+  </datafield>
+  <datafield ind1="2" ind2="4" tag="610">
+    <subfield code="9">714</subfield>
+    <subfield code="a">UNIVERSIDAD DE COSTA RICA</subfield>
+  </datafield>
+  <datafield ind1="2" ind2="4" tag="610">
+    <subfield code="9">2365</subfield>
+    <subfield code="a">FACULTAD DE DERECHO</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">INFORMES DE ACTIVIDADES</subfield>
+    <subfield code="9">1465</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">INVESTIGACIÓN</subfield>
+    <subfield code="9">163</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

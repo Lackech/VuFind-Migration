@@ -1,0 +1,41 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00485nam a2200145Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">515</subfield>
+    <subfield code="d">515</subfield>
+  </datafield>
+  <controlfield tag="008">170110b2007    ag ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="020">
+    <subfield code="a">9789871074501</subfield>
+  </datafield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">06.04.02 </subfield>
+    <subfield code="b">1768</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a"> Garcés, Luis </subfield>
+    <subfield code="e">compilador</subfield>
+    <subfield code="9">2229</subfield>
+  </datafield>
+  <datafield ind2="6" ind1="1" tag="245">
+    <subfield code="a">De la escuela al trabajo: la educación en el futuro laboral de los jóvenes en tiempos de globalización / </subfield>
+    <subfield code="c">Luis Garcés</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">Argentina : </subfield>
+    <subfield code="b">Del Signo, </subfield>
+    <subfield code="c">2007</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">274 páginas</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">ESCUELAS </subfield>
+    <subfield code="9">300</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

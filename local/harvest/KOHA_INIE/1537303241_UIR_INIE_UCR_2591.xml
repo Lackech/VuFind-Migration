@@ -1,0 +1,51 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01385nab a2200157   4500</leader>
+  <controlfield tag="008">150527b1998    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">109</subfield>
+    <subfield code="a">Mata Segreda, Alejandrina</subfield>
+  </datafield>
+  <datafield ind2="3" ind1="1" tag="245">
+    <subfield code="a">El prestigio social de la profesión docente y la eleción vocacional /</subfield>
+    <subfield code="c">Alejandrina Mata Segreda </subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">1998</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">páginas 45 - 52</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">En este ensayo se busca plantear algunas explicaciones a la falta de interés de los jóvenes costarricenses por escoger las carreras de Educación como  primera  opción en su proceso de elección vocacional.
+Las explicaciones se centran en la discusión de los siguientes temas:
+A. Falta de participación del educador en la propuesta de políticas y acciones educativas.
+B. Falta de consistencia de los proyectos educativos dentro de las políticas nacionales.
+C. Visión reduccionista de los problemas de la educación.
+D. Cuestionamiento epistemológico sobre las Ciencias de la Educación y la Pedagogía.
+Se elaboraron conclusiones y recomendaciones para los encargados de las políticas en el campo de la Educación</subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2="0">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="0" tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0020</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.22, no.1 (1998)</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2591</subfield>
+    <subfield code="d">2591</subfield>
+  </datafield>
+</record>

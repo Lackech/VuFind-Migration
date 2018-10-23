@@ -1,0 +1,36 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00521nam a2200145Ia 4500</leader>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">CD #121</subfield>
+  </datafield>
+  <datafield ind1=" " tag="111" ind2=" ">
+    <subfield code="a">Encuentro Internacional de Investigación Educativa (1 : 2007 : San José, Costa Rica)</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="245">
+    <subfield code="a">Memoria "el aporte de Lev Vygotsky y Paulo Freire"</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="c"> sin fecha</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">12 cm</subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2=" ">
+    <subfield code="a">VYGOTSKY, LEV SEMIONOVICH</subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2=" ">
+    <subfield code="a">FREIRE, PAULO</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="711">
+    <subfield code="a">Encuentro Internacional de Investigación Educativa (1 : 2007 : San José, Costa Rica)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="p">002564 </subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2440</subfield>
+    <subfield code="d">2440</subfield>
+  </datafield>
+</record>

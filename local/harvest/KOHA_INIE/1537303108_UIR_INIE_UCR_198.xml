@@ -1,0 +1,48 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00708nam a2200169Ia 4500</leader>
+  <controlfield tag="008">150813b1995    sp ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="020">
+    <subfield code="a">8436926897</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">06.02.02 </subfield>
+    <subfield code="b">879</subfield>
+  </datafield>
+  <datafield tag="110" ind2=" " ind1="2">
+    <subfield code="a">Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura</subfield>
+    <subfield code="9">833</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Informe final "Conferencia mundial sobre necesidades educativas especiales : acceso y calidad" /</subfield>
+    <subfield code="c"> Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">Salamanca, España : </subfield>
+    <subfield code="b">UNESCO / MEC, </subfield>
+    <subfield code="c">1995</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">121 páginas</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">NECESIDADES DE EDUCACIÓN </subfield>
+    <subfield code="9">834</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">320</subfield>
+    <subfield code="a">ACCESO A LA EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">CALIDAD DE LA EDUCACIÓN</subfield>
+    <subfield code="9">11</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">198</subfield>
+    <subfield code="d">198</subfield>
+  </datafield>
+</record>

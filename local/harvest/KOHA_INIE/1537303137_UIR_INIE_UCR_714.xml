@@ -1,0 +1,73 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01375ngm a2200277 a 4500</leader>
+  <controlfield tag="003">cru INIE</controlfield>
+  <controlfield tag="005">20160919140415.0</controlfield>
+  <controlfield tag="008">160919b2012    cu ||||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9789597217503</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="040">
+    <subfield code="a">cru INIE</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">CD #269</subfield>
+  </datafield>
+  <datafield ind1="2" ind2=" " tag="110">
+    <subfield code="9">2002</subfield>
+    <subfield code="a">Centro de Estudios de la Mujer (CEM)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Centro de Estudios de la mujer: Aniversario 15 / CEM</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">La Habana, Cuba :</subfield>
+    <subfield code="b">CEM,</subfield>
+    <subfield code="c">2012</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">1 videodisco;</subfield>
+    <subfield code="b">sonoro</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Esta multimedia muestra la labor científico investigativa del Centro de Estudios de la Mujer durante quince años: publicaciones, resúmenes de resultados de investigación, fotos, testimonios, videos, permiten apreciar los logros más relevantes y evidenciar el compromiso con la historia y el futuro de nuestra sociedad.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Contiene información sobre el CEM, fichas de investigaiones, publicaciones (libros, folletos, CD-Rom), archivo histórico, directorio Nacional de Cátedras de la Mujer, fotos, videos</subfield>
+  </datafield>
+  <datafield tag="508" ind2=" " ind1=" ">
+    <subfield code="a">La realización de esta multimedia ha sido dirigida y supervisada por: Dra. Mayda Álvarez Suárez, Directora del Centro de Estudios de la Mujer.</subfield>
+  </datafield>
+  <datafield ind2="0" ind1=" " tag="650">
+    <subfield code="9">69</subfield>
+    <subfield code="a">GÉNERO</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="9">85</subfield>
+    <subfield code="a">VIOLENCIA CONTRA LAS MUJERES</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="9">821</subfield>
+    <subfield code="a">ADULTOS </subfield>
+  </datafield>
+  <datafield ind1=" " ind2="0" tag="650">
+    <subfield code="9">716</subfield>
+    <subfield code="a">PARTICIPACIÓN DE LA MUJER</subfield>
+  </datafield>
+  <datafield tag="651" ind2="0" ind1=" ">
+    <subfield code="9">1261</subfield>
+    <subfield code="a">CUBA</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">08</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="995">
+    <subfield code="b"> </subfield>
+    <subfield code="a">    </subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">714</subfield>
+    <subfield code="d">714</subfield>
+  </datafield>
+</record>

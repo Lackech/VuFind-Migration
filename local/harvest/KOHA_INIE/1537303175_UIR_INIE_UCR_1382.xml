@@ -1,0 +1,55 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01124nam a2200193Ia 4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">1382</subfield>
+    <subfield code="d">1382</subfield>
+  </datafield>
+  <controlfield tag="008">170621b2005    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">06.01.01 </subfield>
+    <subfield code="b">1110</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="a">Castro Bonilla, Julieta</subfield>
+    <subfield code="9">1082</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="3" tag="245">
+    <subfield code="a">La práctica pedagógica construida a partir de las creencias, concepciones y estilos de pensamiento del personal docente. Un espacio para su reflexión desde la expresión artística / </subfield>
+    <subfield code="c">Consuelo Arguedas Quesada; Julieta Castro Bonilla; Jacqueline García Fa</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">[San José, Costa Rica] : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2005</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">112 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Informe parcial y final del proyecto de investigación No. 724-A3-005</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">Las investigadoras se proponen reconstruir la práctica pedagógica de la población docente para transformarla a partir de las relaciones entre creencias, concepciones, acción pedagógica y estilos de pensamiento, mediante la expresión artística: gráfico-</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">EXPRESIÓN ARTÍSTICA INFANTIL</subfield>
+    <subfield code="9">1522</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">499</subfield>
+    <subfield code="a">PRÁCTICA PEDAGÓGICA</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1=" ">
+    <subfield code="9">759</subfield>
+    <subfield code="a">García Fallas, Jacqueline</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">736</subfield>
+    <subfield code="a">Arguedas Quesada, Consuelo</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

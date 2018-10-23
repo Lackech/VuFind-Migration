@@ -1,0 +1,49 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00638nam a2200169   4500</leader>
+  <controlfield tag="008">150911b2009    g  ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">06.02.01</subfield>
+    <subfield code="b">2276</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">127</subfield>
+    <subfield code="a">Villarreal Montoya, Beatriz</subfield>
+  </datafield>
+  <datafield ind2=" " tag="245" ind1=" ">
+    <subfield code="a">Acerca de la educación /</subfield>
+    <subfield code="c">compiladora Beatriz VillarreaL</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">Guatemala :</subfield>
+    <subfield code="b">Universidad de San Carlos de Gautemala. Escuela de Formación de Profesores de Enseñanza Media; Ministerio de Educacón Pública de Guatemala,</subfield>
+    <subfield code="c">2009</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">137 páginas</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">9</subfield>
+    <subfield code="a">FORMACIÓN DE DOCENTES</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">11</subfield>
+    <subfield code="a">CALIDAD DE LA EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="1" tag="651" ind2="4">
+    <subfield code="9">989</subfield>
+    <subfield code="a">GUATEMALA</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="c">01</subfield>
+    <subfield code="2">z</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2867</subfield>
+    <subfield code="d">2867</subfield>
+  </datafield>
+</record>

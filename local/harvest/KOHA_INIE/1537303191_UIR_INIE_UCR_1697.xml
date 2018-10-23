@@ -1,0 +1,74 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00937nam a2200169Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">1697</subfield>
+    <subfield code="d">1697</subfield>
+  </datafield>
+  <controlfield tag="008">180413b2010    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">06.03.04 </subfield>
+    <subfield code="b">1835</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Arroyo Zuñiga, Jessie</subfield>
+    <subfield code="9">3549</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Análisis de los planes de las escuelas de Formación Docente y Orientación y Educación Especial para una posible vinculación del curso "Respeto a toda forma de vida" impartido por WSPA" / </subfield>
+    <subfield code="c">Jessie Arroyo Zuñiga, Osvaldo Murillo Aguilar</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2010</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">75 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Informe final Proyecto No.724-A9-827</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">La Sociedad Mundial de Protección Animal (WSPA), preocupada por la formación de docentes cada vez más
+respetuosos de toda forma de vida, ha considerado necesario promover este interés desde su proceso de formación
+académica, por lo que se plantea la necesidad de estudiar los planes de estudio de las carreras pertenecientes
+a la Escuela de Formación Docente y la Escuela de Orientación y Educación Especial, de la Facultad
+de Educación de la Universidad de Costa Rica; con el fin de identificar aquellos contenidos más compatibles
+con la temática del respeto a toda forma de vida.
+Para esto, se elaboró el proyecto denominado “Análisis los planes de estudio de las Escuelas de Formación
+Docente y Orientación y Educación Especial de la Universidad de Costa Rica, para una posible vinculación
+del curso “Respeto toda forma de vida” impartido por WSPA, del cual se pueden destacar algunos resultados
+como los siguientes:
+La mayoría de los cursos con mayores puntos de vinculación con el programa de Respeto a toda forma de
+vida, se caracterizan por ser cursos optativos para los y las estudiantes de educación, por ende es factible que
+no todos los y las estudiantes lleguen a cursarlos.
+Una posible vinculación de esta iniciativa de WSPA, con los planes de estudio de las carreras de educación y de
+otras facultades, es precisamente, involucrarse y estudiar los programas de estudio de los cursos conocidos como
+Repertorios o Seminarios de Realidad Nacional, los cuales pertenecen a la Facultad de Estudios Generales.
+Los cursos con temáticas y características ambientales y ecológicas, parecen abarcar el contenido del medio
+ambiente de una manera amplia sin enfatizar necesariamente, en el bienestar animal o el cuido de las mascotas.
+Por ello se puede concluir que estos cursos se enfocan más desde la perspectiva conservacionista, que
+desde el bienestar animal.</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">EDUCACIÓN AMBIENTAL </subfield>
+    <subfield code="9">439</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">BIENESTAR SOCIAL</subfield>
+    <subfield code="9">2383</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">PROGRAMA DE ESTUDIOS</subfield>
+    <subfield code="9">1364</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">155</subfield>
+    <subfield code="a">Murillo Aguilar, Osvaldo </subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

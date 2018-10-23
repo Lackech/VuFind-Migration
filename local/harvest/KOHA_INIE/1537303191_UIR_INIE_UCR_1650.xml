@@ -1,0 +1,53 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00549nam a2200157Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">1650</subfield>
+    <subfield code="d">1650</subfield>
+  </datafield>
+  <controlfield tag="008">180313b1998    us ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">06.02.04 </subfield>
+    <subfield code="b">580</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="a">Rojas C., Carlos A.</subfield>
+    <subfield code="9">3485</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="245">
+    <subfield code="a">Los sistemas de medición del logro académico en Latinoamérica / </subfield>
+    <subfield code="c">Carlos Rojas C., Juan Manuel Esquivel </subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">Washington, D.C. : </subfield>
+    <subfield code="b">LCSHD (Department of Human Development), </subfield>
+    <subfield code="c">1998</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">89 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="490" ind2=" ">
+    <subfield code="a">LCSHS Papers Series,</subfield>
+    <subfield code="v">25</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">POLÍTICA EDUCATIVA</subfield>
+    <subfield code="9">451</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">CALIDAD DE LA EDUCACIÓN</subfield>
+    <subfield code="9">11</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">SISTEMAS DE ENSEÑANZA</subfield>
+    <subfield code="9">401</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="a">Esquivel Alfaro, Juan Manuel</subfield>
+    <subfield code="9">157</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

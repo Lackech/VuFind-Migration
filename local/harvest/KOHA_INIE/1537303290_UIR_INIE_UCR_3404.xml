@@ -1,0 +1,40 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00461nam a2200145   4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">3404</subfield>
+    <subfield code="d">3404</subfield>
+  </datafield>
+  <controlfield tag="008">170313b2008    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">18.09.01</subfield>
+    <subfield code="b">2406</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">2528</subfield>
+    <subfield code="a">Towmbly, Susan</subfield>
+  </datafield>
+  <datafield tag="245" ind2="1" ind1="1">
+    <subfield code="a">[Informe final de evaluación externa del INIE] /</subfield>
+    <subfield code="c">Susan Towmbly</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">[San José, Costa Rica] :</subfield>
+    <subfield code="c">2008</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">10 hojas (sin paginar)</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="610">
+    <subfield code="9">153</subfield>
+    <subfield code="a">INSTITUTO DE INVESTIGACIÓN EN EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">287</subfield>
+    <subfield code="a">EVALUACIÓN </subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

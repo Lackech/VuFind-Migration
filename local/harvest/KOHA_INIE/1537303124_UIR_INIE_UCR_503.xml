@@ -1,0 +1,52 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00711nam a2200181Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">503</subfield>
+    <subfield code="d">503</subfield>
+  </datafield>
+  <controlfield tag="008">161212b2008    cl ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9789568302955</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">04.02.02 </subfield>
+    <subfield code="b">1654</subfield>
+  </datafield>
+  <datafield tag="110" ind2=" " ind1="2">
+    <subfield code="a">Red Regional de Innovaciones Educativas para América Latina y el Caribe</subfield>
+    <subfield code="9">2204</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Convivencia Democrática, Inclusión y Cultura de Paz: Lecciones Aprendidas desde la Práctica Educativa Innovadora en América Latina/</subfield>
+    <subfield code="c">Red Regional de Innovaciones Educativas para América Latina y el Caribe</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">Santiago,Cl: </subfield>
+    <subfield code="b">UNESCO, </subfield>
+    <subfield code="c">2008</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">307 páginas</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">DEMOCRACIA</subfield>
+    <subfield code="9">589</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">CULTURA </subfield>
+    <subfield code="9">378</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">EDUCACIÓN INCLUSIVA</subfield>
+    <subfield code="9">2</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">PAZ</subfield>
+    <subfield code="9">725</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

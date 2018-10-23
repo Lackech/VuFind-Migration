@@ -1,0 +1,74 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01062nam a2200253Ia 4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">1364</subfield>
+    <subfield code="d">1364</subfield>
+  </datafield>
+  <controlfield tag="008">170621b2012    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">05.05.03 </subfield>
+    <subfield code="b">1481</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="a">Brenes Villalobos, Gabriela</subfield>
+    <subfield code="9">1894</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Impacto social del establecimiento de una orquesta infantil en la comunidad de León XIII / </subfield>
+    <subfield code="c">Gabriela Brenes Murillo, Mónica Brenes Montoya, Karla Abarca Molina</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">[San José, Costa Rica] : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2012</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">30 hojas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Informe final proyecto de Acción Social ED-2630 (enero 2012)</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Título de la portada Viviendo y creciendo: creación de una orquesta infantil en la comunidad de León XIII</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">La unidad posee  II informe (junio,2012)  y otro informe final (julio,2012)</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">MÚSICA</subfield>
+    <subfield code="9">13</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">NIÑOS</subfield>
+    <subfield code="9">59</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">NIÑAS</subfield>
+    <subfield code="9">60</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">5</subfield>
+    <subfield code="a">ADOLESCENTES</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">VIDA COTIDIANA</subfield>
+    <subfield code="9">597</subfield>
+  </datafield>
+  <datafield ind1=" " tag="651" ind2="4">
+    <subfield code="a">LEON XIII (TIBAS, SAN JOSE)</subfield>
+    <subfield code="9">2946</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Brenes Montoya, Mónica</subfield>
+    <subfield code="9">2459</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="a">Abarca Molina, Karla María</subfield>
+    <subfield code="9">2022</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

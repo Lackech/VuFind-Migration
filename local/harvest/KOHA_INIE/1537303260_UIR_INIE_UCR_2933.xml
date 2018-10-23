@@ -1,0 +1,55 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01926nab a2200181   4500</leader>
+  <controlfield tag="005">20160331133524.0</controlfield>
+  <controlfield tag="008">151105b2005    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">734</subfield>
+    <subfield code="a">Monge Alvarado, María de los Ángeles</subfield>
+  </datafield>
+  <datafield ind2="3" tag="245" ind1="1">
+    <subfield code="a">El uso de paracaídas en las actividades lúdicas, como un medio para  reforzar el valor de la cooperación /</subfield>
+    <subfield code="c">María de los Angeles Monge Alvarado,  Maureen Meneses Montero</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2005</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">páginas 79-89</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">Cuando los docentes inician actividades lúdicas con sus alumnos, siempre buscan ampliar el juego a una educación integral, donde los valores humanos tienen gran relevancia. El valor de la cooperación es uno de ellos, y a través de actividades con materiales como el paracaídas es facilmente comprendido por los alumnos.
+Se debe recordar que Vygotski (1979) hace referencia a la trascendencia del juego como factor central de aprendizaje y generador de la adaptación social, en el desarrollo que hace el niño en las actividades colectivas y sociales. 
+Los juegos cooperativos son propuestos para disminuir las manifestaciones de agresividad en los juegos promoviendo actitudes de sensibilización, cooperación, comunicación y solidaridad (Pérez, 1998). 
+Los niños juegan con otros y no contra los otros; juegan para superar desafíos u obstáculos y no para superar a los otros.
+Se anexan actividades por realizar con paracaídas, los cuales pueden ser también implementados con materiales como sábanas o telas grandes, en caso de no tener facilidad para conseguir el material original</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="9">97</subfield>
+    <subfield code="a">Meneses Montero, Maureen</subfield>
+    <subfield code="c">coautora</subfield>
+  </datafield>
+  <datafield ind1="0" tag="773" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0300</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.29, no.1 (2005)</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2933</subfield>
+    <subfield code="d">2933</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,51 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00803nam a2200169Ia 4500</leader>
+  <controlfield tag="008">150811b2008    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">06.02.01 </subfield>
+    <subfield code="b">2004 CD #204</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="a">Cedeño Volkmar, Germán Antonio</subfield>
+    <subfield code="9">770</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Comunidades de educación estratégica para la atención integral de personas con enfermedades crónicas /</subfield>
+    <subfield code="c">Germán Antonio Cedeño Volkmar</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica. :</subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2008</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">27 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="500" ind2=" ">
+    <subfield code="a">Proyecto de Acción Social TC-496
+ La unidad posee informe final 2007 , 2008, junio 2009 a mayo 2010, 2011 
+Informe del 2008 y 2011 en CD #204 
+Informe global de estudiantes del TCU 2011</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">CAPACITACIÓN</subfield>
+    <subfield code="9">729</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">SALUD DE LAS COMUNIDAD</subfield>
+    <subfield code="9">771</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">TRABAJO COMUNAL UNIVERSITARIO (TCU)</subfield>
+    <subfield code="9">773</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">1527</subfield>
+    <subfield code="d">1527</subfield>
+  </datafield>
+</record>

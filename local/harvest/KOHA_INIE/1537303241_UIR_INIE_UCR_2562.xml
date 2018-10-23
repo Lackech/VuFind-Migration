@@ -1,0 +1,36 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00484nab a22001337a 4500</leader>
+  <controlfield tag="008">150511b1997    cl ||||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">REVIS 15.04.04</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">52</subfield>
+    <subfield code="a">Reyes Zapata, Hilda</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Calidad de atención en salud : Un derecho de las mujeres /</subfield>
+    <subfield code="c">Hilda Reyes Zapata</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">Chile :</subfield>
+    <subfield code="b">Red de Salud de las mujeres latinoamericanas y del caribe,</subfield>
+    <subfield code="c">1997</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">páginas 31-58</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="0" tag="773">
+    <subfield code="t">Revista Mujer Salud</subfield>
+    <subfield code="g">No.4 (octubre- diciembre,1997)</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2562</subfield>
+    <subfield code="d">2562</subfield>
+  </datafield>
+</record>

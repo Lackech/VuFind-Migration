@@ -1,0 +1,58 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02538nam a2200205Ia 4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">1373</subfield>
+    <subfield code="d">1373</subfield>
+  </datafield>
+  <controlfield tag="008">170621b1992    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">06.01.00 </subfield>
+    <subfield code="b">131</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Oviedo Gutiérrez, Jenny</subfield>
+    <subfield code="9">2956</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Patrones de solución de problemas multiplicativos simples en niños de 7 a 12 años / Jenny Oviedo Gutiérrez, Zayra Méndez Barrantes</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">[San José, Costa Rica]: </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1992</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">40 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Informe Final y otros documentos. Proyectos de Investigación N°724-89-025</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">Esta investigación se realizó en forma paralela a un proyecto similar en Colombia, con el fin de intercambiar ideas y experiencias entre ambos grupos de investigadores; básicamente en busca de esfuerzos por mejorar la enseñanza de las matemáticas. Se estudiaron los procedimientos empleados por los niños para resolver problemas, y se determinó que estas formas van ligadas al nivel de madurez y evolución cognoscitiva, por lo que es normal que los niños comiencen resolviendo los problemas de una forma y con el tiempo vayan evolucionando hacia otros procedimientos.  De ahí la importancia de que el docente no espere que todos sus estudiantes solucionen los problemas de la misma manera ni lo hagan de forma elaborada desde el principio. Otro aspecto importante que los educadores deben considerar es que, al variar el contexto de un problema, puede presentarse también una variación en el procedimiento empleado por el niño para solucionarlo. En el estudio se presentaron tres diferentes contextos:  compra y venta de confites, construcción de una pared y mezcla de agua y polvo.  De estos, el contexto "mezcla" fue el más difícil para los niños, probablemente porque no funcionaron los procedimientos de adición y numeración. En cuanto a los docentes, se les recomienda técnicas y metodologías constructivistas (casi nunca empleadas en Costa Rica para la enseñanza de las matemáticas), como por ejemplo:  enfrentar a los niños a problemas que sean de su interés, permitirles reunirse en grupos a discutir la posible solución y los procedimientos, estimularlos a hacer sus propios planteamientos (no hacerles una demostración mecánica de cómo resolver los problemas), compartir las conclusiones con toda la clase y orientarlos acerca de las posibles soluciones.</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">EDUCACIÓN COMPARADA</subfield>
+    <subfield code="9">1711</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">MATEMÁTICAS  </subfield>
+    <subfield code="9">482</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">PEDAGOGÍA</subfield>
+    <subfield code="9">1770</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">APRENDIZAJE </subfield>
+    <subfield code="9">387</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="a">Méndez Barrantes, Zayra</subfield>
+    <subfield code="9">2957</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

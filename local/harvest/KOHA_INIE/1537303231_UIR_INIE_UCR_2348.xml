@@ -1,0 +1,47 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02031nam a2200169Ia 4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2348</subfield>
+    <subfield code="d">2348</subfield>
+  </datafield>
+  <controlfield tag="008">180911b2008    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">19.02.06 </subfield>
+    <subfield code="b">1715</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="a">Camacho Villalobos, María Elena</subfield>
+    <subfield code="9">182</subfield>
+  </datafield>
+  <datafield ind1=" " tag="245" ind2=" ">
+    <subfield code="a">Fortalecimiento de los mecanismos de la revista educación / </subfield>
+    <subfield code="c">María Elena Camacho Villalobos</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2008</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">23 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Informe final proyecto N° 724-A8-765 que corresponde al Vol.32(2) de 2008</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">El proyecto tiene como objetivo general: ofrecer a la comunidad del área de la educación nacional e internacional el volumen 32, número 2 del 2008, de “Educación, Revista de la Universidad de Costa Rica”, en formato electrónico e impreso para facilitar y ampliar la difusión de la investigación y la reflexión referidas al campo educativo. Las actividades realizadas fueron: • Recepción de artículos. • Arbitraje de artículos. • Entrega del volumen a la Editorial en CD para la respectiva diagramación. • Revisión de cada una de las partes de la revista, asegurando el cumplimiento de parámetros de calidad, devolver cualquier aspecto que deba corregirse nuevamente y que no se ajuste al formato de la revista. • Cada archivo de la revista se convirtió en PDF. Los resultados obtenidos se condujeron paralelamente con las metas propuestas, de manera satisfactoria. Este proyecto de apoyo a la investigación, deja beneficios académicos, pues con la publicación digital que sale antes de la impresa (soporte en papel), se acelera la difusión de la investigación que se anida en los artículos que conforman el volumen. También permitió mantener la periodicidad, cuyo parámetro nos permite continuar en el Catálogo Latindex y Redalyc, que son hemerotecas electrónicas, que divulgan internacionalmente la difusión de la investigación, para los usuarios que consulten Internet en el tema de las revistas.</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">PUBLICACIONES PERIÓDICAS</subfield>
+    <subfield code="9">3</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

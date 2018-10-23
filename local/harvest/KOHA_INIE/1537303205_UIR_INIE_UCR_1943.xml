@@ -1,0 +1,63 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02171nam a2200217Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">1943</subfield>
+    <subfield code="d">1943</subfield>
+  </datafield>
+  <controlfield tag="008">180628b2010    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">06.05.02 </subfield>
+    <subfield code="b">1117</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1=" ">
+    <subfield code="a">Piedra García, Luis Ángel</subfield>
+    <subfield code="9">983</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Estrategias didácticas para la enseñanza universitaria en grupos grandes: un estudio de las estrategias existentes e implementadas para la creación de nuevas propuestas /</subfield>
+    <subfield code="c"> Luis Ángel Piedra García, Susan Francis Salazar, Andrea Melissa Mora Umaña</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2010</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">169 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Informe final Proyecto N°724-A8-085</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">Esta investigación realizó una exploración de las estrategias didácticas que los docentes principalmente de la Universidad de Costa Rica implementan en los grupos grandes o numerosos (más de 50 estudiantes). A la vez se hizo un análisis del marco pedagógico y didáctico de estos grupos y una propuesta de trabajo estratégico desde la teoría constructivista cibernética de segundo orden. Para el estudio se trabajaron dos grupos focales con docentes de grupos grandes, dos grupos focales con estudiantes que estaban en clases de más de 50 estudiantes y finalmente se le administró un instrumento que recogía características pedagógicas y didácticas de las estrategias usadas por los docentes en grupos grandes. Para ello se aplicó este instrumento a 43 docentes del año 2008 que representa una muestra alta de un total de 120 grupos de más de 50 estudiantes que reportó la Oficina de Registro de la Universidad de Costa Rica para el segundo semestre del 2008. Se buscaron de manera exhaustiva estudios sobre el tema dentro o fuera de Costa Rica. También se realizaron observaciones de clases magistrales y se realizaron contactos con universidades extranjeras que nos dieran elementos de cómo se ve el fenómeno de grupos grandes en sus respectivos países.</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">MÉTODOS PEDAGÓGICOS</subfield>
+    <subfield code="9">824</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+    <subfield code="9">8</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">DIDÁCTICA </subfield>
+    <subfield code="9">997</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">CONSTRUCTIVISMO (EDUCACIÓN)</subfield>
+    <subfield code="9">419</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1=" ">
+    <subfield code="a">Francis Salazar, Susan</subfield>
+    <subfield code="9">557</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="a">Mora Umaña, Andrea Melissa</subfield>
+    <subfield code="9">1579</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

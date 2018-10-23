@@ -1,0 +1,49 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00595nam a2200169   4500</leader>
+  <controlfield tag="008">160622b2014    cr a|||| |||| 00| | spa d</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">97899770925</subfield>
+  </datafield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">13.01.02  </subfield>
+    <subfield code="b">1290</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">1860</subfield>
+    <subfield code="a">Cabrera Valverde, Jorge Mario</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Análisis de la demanda de profesionales en el periódico La Nación en el 2013 /</subfield>
+    <subfield code="c">Jorge Mario Cabrera Valverde</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b"> CONARE, UNED, OLAP, </subfield>
+    <subfield code="c">2014</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">44 páginas; </subfield>
+    <subfield code="c">ilustraciones</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">571</subfield>
+    <subfield code="a">MERCADO DE TRABAJO</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">452</subfield>
+    <subfield code="a">DATOS ESTADÍSTICOS</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="4" tag="651">
+    <subfield code="9">47</subfield>
+    <subfield code="a">COSTA RICA</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">3266</subfield>
+    <subfield code="d">3266</subfield>
+  </datafield>
+</record>

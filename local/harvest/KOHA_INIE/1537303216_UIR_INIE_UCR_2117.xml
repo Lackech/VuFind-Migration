@@ -1,0 +1,64 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00968nam a2200217Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2117</subfield>
+    <subfield code="d">2117</subfield>
+  </datafield>
+  <controlfield tag="008">180822b2008    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">14.02.02 </subfield>
+    <subfield code="b">1581</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="a">Jiménez, Emilio </subfield>
+    <subfield code="9">4117</subfield>
+  </datafield>
+  <datafield tag="245" ind2="3" ind1="1">
+    <subfield code="a">La Presencia de los Emo como moda en la juventud  costarricense del área central de la Ciudad de Alajuela / </subfield>
+    <subfield code="c">Emilio Jiménez; Priscilla Quirós; José Pablo Sandoval; Karina Sequeira</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">E. Jiménez, </subfield>
+    <subfield code="c">2008</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">79 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Guía de Investigación Integrada II presentada a la Escuela  de Estudios Generales de la Universidad de Costa Rica\ Contiene el CD #165 con una presentación en Power Point sobre el trabajo presentado.</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">ADOLESCENTES</subfield>
+    <subfield code="9">5</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">JUVENTUD</subfield>
+    <subfield code="9">476</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">MODA</subfield>
+    <subfield code="9">4118</subfield>
+  </datafield>
+  <datafield ind2="4" ind1=" " tag="651">
+    <subfield code="9">4119</subfield>
+    <subfield code="a">ALAJUELA (COSTA RICA) </subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="a">Quirós, Priscilla</subfield>
+    <subfield code="9">4120</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Sandoval, José Pablo</subfield>
+    <subfield code="9">4121</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="a">Sequeira, Karina</subfield>
+    <subfield code="9">4122</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

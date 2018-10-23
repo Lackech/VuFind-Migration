@@ -1,0 +1,59 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03256nam a2200205   4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">3389</subfield>
+    <subfield code="d">3389</subfield>
+  </datafield>
+  <controlfield tag="008">170208b2016    CR ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">06.01.01</subfield>
+    <subfield code="b">2247</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">759</subfield>
+    <subfield code="a">García Fallas, Jacqueline</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Consolidación de la participación de estudiantes con trabajos finales en el campo de educación de grado y posgrado de la UCR en el INIE /</subfield>
+    <subfield code="c">Jacqueline García Fallas y Wendy  Páez Cerdas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">[San José, Costa Rica] :</subfield>
+    <subfield code="b">INIE,</subfield>
+    <subfield code="c">2016</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">29 páginas + 4 hojas </subfield>
+  </datafield>
+  <datafield ind1=" " tag="500" ind2=" ">
+    <subfield code="a">Informe final Proyecto de Investigación Nº 724-B5-731</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">El objetivo del estudio es consolidar la participación de estudiantes de grado y posgrado de la Universidad de Costa Rica en la realización de investigaciones en el campo educativo articuladas a los programas de investigación del Instituto de Investigación en Educación, (INIE). Para llevar a cabo el proceso de integración se hicieron diferentes acciones congruentes con los objetivos del proyecto. Entre ellas, ya que se habla de acciones congruentes se hizo una divulgación en las Unidades Académicas, los posgrados de la Facultad de Educación. Se hizo una convocatoria pública a toda la universidad. Se seleccionó a los participantes en función de: El promedio ponderado de notas (25%), la pertenencia y calidad de la propuesta de investigación, así como la factibilidad de completarla en el período que comprende la beca (55%) y vinculación con los programas, líneas de investigación del INIE (20%). Una vez elegido el proyecto, se hizo un proceso de inducción de la propuesta aprobada y se le dio el seguimiento durante el año. Para ello se establecieron acuerdos a seguir y compromisos adquiridos al hacerse acreedor o acreedores del mismo. Algunas de las conclusiones del proyecto se mencionan a continuación: Tal como se puede destacar el proceso que se ha llevado a cabo requiere tanto la divulgación, la evaluación y el seguimiento del estudiantado. Los resultados por lo tanto responden a la conjunción de acciones y la colaboración mutua entre diferentes unidades académicas e instancias universitarias con el Instituto. La(s) persona(s) estudiante(s) recibe(n) un acompañamiento adicional a su trabajo y un recurso económico que le permite cumplir con las tareas asignadas. Este proyecto permite impulsar la vinculación de estudiantes de posgrado y grado al Instituto, además la modalidad de beca concursable que propone el proyecto ha logrado posicionarse, esto lo evidencia el número de Trabajos Finales de Graduación que participaron el cual se ha incrementado año con año. La participación estudiantil permitió una socialización de sus trabajaos de investigación en espacios tan importantes como fueron: la Sede del Pacífico, en las Jornadas de Investigación del Pacífico, en la Jornada de investigación de la Facultad de Ciencias Sociales, la Red REDCOINVES, PROINNOVA y con las carreras y posgrados donde se presentaron los trabajos finales de graduación.</subfield>
+  </datafield>
+  <datafield ind2="4" tag="610" ind1="1">
+    <subfield code="9">153</subfield>
+    <subfield code="a">INSTITUTO DE INVESTIGACIÓN EN EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">326</subfield>
+    <subfield code="a">INVESTIGACIÓN EDUCATIVA</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">1518</subfield>
+    <subfield code="a">PARTICIPACIÓN ESTUDIANTIL</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">1810</subfield>
+    <subfield code="a">CAPITAL INTELECTUAL</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">154</subfield>
+    <subfield code="a"> Páez Cerdas, Wendy</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

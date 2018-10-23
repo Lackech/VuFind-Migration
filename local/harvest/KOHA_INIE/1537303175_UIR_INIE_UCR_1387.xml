@@ -1,0 +1,47 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03003nam a2200169Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">1387</subfield>
+    <subfield code="d">1387</subfield>
+  </datafield>
+  <controlfield tag="008">170621b2008    cr  |||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">06.01.01 </subfield>
+    <subfield code="b">1445</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="a">Chaves Salas, Ana Lupita</subfield>
+    <subfield code="9">255</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Experiencias significantes en relación con los procesos pedagógicos promovidos con los educadores y educadoras / </subfield>
+    <subfield code="c">Lupita Chaves Salas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2008</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">1 volumen (sin numerar)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Informe Final de Investigación N° 724-A5-051 (2008).  También se dispone del II Informe parcial presentado en el 2007.</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">El propósito de este proyecto fue recolectar experiencias positivas que diferentes personas hayan compartido con educadores y educadoras en cualquiera de los niveles del Sistema Educativo Nacional (preescolar, primaria, secundaria o universitaria).  Se pretendió rescatar prácticas pedagógicas, acciones, actitudes, relaciones interpersonales de ese personal docente, con el objetivo de darlo a conocer a docentes en servicio y en formación.El enfoque de esta investigación es cualitativo ya que se pretende analizar ensayos donde se narren experiencias positivas que diferentes personas han vivido como estudiantes de educadoras y educadores.  El paradigma cualitativo de esta investigación se basa en principios teleológicos, ontológico-axiológicos, epistemológicos y metodológicos que se definen y que la distinguen de la investigación positivista en educación.  La información se recolectó mediante ensayos y conversación informal entre autoras, autores y docentes.  El proyecto se elaboró en seis etapas, a saber: I.Elaboración teórica.  Revisión bibliográfica sobre aspectos como calidad de la educación, práctica docente, formación docente, docentes y aprendizaje, grandes maestros, docentes destacados e identidad personal y profesional de los docentes. II.Ubicación de participantes. Se les envió cartas de invitación a una serie de personas para que participaran con sus ensayos o relatos. III.Recolección de la Información.  Para la recolección de información se elabora una guía para la escritura de los relatos o ensayos, la cual se envía a las personas interesadas. IV.Análisis de datos. Esta consta de dos fases, la primera consiste en analizar el contenido de cada uno de los documentos a la luz de los objetivos de la investigación y la segunda tiene el propósito de profundizar en lo que piensan y sienten las autoras, autores y docentes seleccionados. V.Elaboración de informe final. Realizado el análisis se inicia la elaboración del informe final. VI.Elaboración de un libro con los ensayos de las personas participantes.  Se concluye con un primer borrador del libro "Educadoras y educadores destacados". Como conclusiones, la autora identifica algunas de las características personales de educadoras y educadores destacados y despliega esas cualidades.</subfield>
+  </datafield>
+  <datafield tag="650" ind2="0" ind1=" ">
+    <subfield code="a">CIENCIAS DE LA EDUCACIÓN</subfield>
+    <subfield code="9">330</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="0" tag="650">
+    <subfield code="a">DOCENTES</subfield>
+    <subfield code="9">331</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

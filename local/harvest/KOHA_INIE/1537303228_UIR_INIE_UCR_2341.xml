@@ -1,0 +1,44 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00494nam a2200157Ia 4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">2341</subfield>
+    <subfield code="d">2341</subfield>
+  </datafield>
+  <controlfield tag="008">180911b2011    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">19.01.05 </subfield>
+    <subfield code="b">2065</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="100">
+    <subfield code="a">Ríos Cortés, Karol</subfield>
+    <subfield code="9">2503</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Proyecto redes sociales para el INIE / </subfield>
+    <subfield code="c">Karol Ríos Cortés</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2011</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">32 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Proyecto de Acción Social ED-2795</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="650">
+    <subfield code="a">REDES DE INFORMACIÓN</subfield>
+    <subfield code="9">1620</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="650">
+    <subfield code="a">REDES SOCIALES</subfield>
+    <subfield code="9">297</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

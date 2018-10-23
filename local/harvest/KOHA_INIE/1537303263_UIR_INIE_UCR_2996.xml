@@ -1,0 +1,46 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02756nab a22001697a 4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2996</subfield>
+    <subfield code="d">2996</subfield>
+  </datafield>
+  <controlfield tag="005">20170313161841.0</controlfield>
+  <controlfield tag="008">160107b200     cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">1184</subfield>
+    <subfield code="a">Delgado Montoya , William</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Inclusión: principio de calidad educativa desde la perspectiva del desarrollo humano /</subfield>
+    <subfield code="c">William Delgado Montoya</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2007</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">páginas 45-58</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">Este ensayo propone un acercamiento al concepto de inclusión como calidad de la educación desde la perspectiva del desarrollo humano.  En este sentido plantea una discusión sobre la participación del estado social, el derecho de la ciudadanía y los factores económicos hegemónicos en el marco de la globalización, que favorecen los mecanismos de exclusión:  pobreza, acciones políticas elitistas, discriminación étnica, segregación cultural, participación de organismos internacionales en la toma de decisiones político-económicas nacionales y otros, limitando la gestión de un Estado de corte benefactor dentro de una estructura social.  Además, considera el centro escolar como un espacio de interacciones entre los individuos, que promueve una humanización del sistema educativo para y por las personas.  Asimismo, se busca inquietar al lector al esbozar las diferentes posiciones teóricas del pensamiento de la exclusión versus inclusión, aclarando la diferencia sustancial del compromiso de la gestión educativa en el contexto nacional, reflejado en diferentes estratos tanto económicos, políticos como sociales y culturales.  Resalta el enfoque de un propósito inclusivo en la educación como parte de la aspiración en la administración de la educación por la calidad.  Se justifican entonces los centros educativos incluyentes, donde el contexto de aprendizaje de los estudiantes y las estudiantes atiende las diferentes individualidades de manera que sean consideradas dentro del desarrollo integral curricular, retomando las interacciones humanas que constantemente se modifican, para buscar estrategias y proyectos mas efectivos y eficaces en el proceso administrativo, que faciliten una acción propositiva ante el cambio en la educación.  Así, el alcance de soluciones a los problemas se logra de una manera altruista, holística; eso implica un rol dinámico, democrático y multifacético que involucra al lector y el compromiso del administrador en las organizaciones educativas para lograr una gestión asertiva</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" tag="773" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0309</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.31, no.2 (2007)</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+</record>

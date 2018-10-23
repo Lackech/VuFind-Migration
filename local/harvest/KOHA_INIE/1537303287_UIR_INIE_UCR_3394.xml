@@ -1,0 +1,76 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01354nam a2200253   4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">3394</subfield>
+    <subfield code="d">3394</subfield>
+  </datafield>
+  <controlfield tag="008">170213b2016    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">06.03.06</subfield>
+    <subfield code="b">2292 CD # 277</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">756</subfield>
+    <subfield code="a">Cerdas Núñez, Jeannette </subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Calidad de las interacciones pedagógicas que promueven docentes de educación preescolar en grupos de niños y niñas de edades entre 5 y 7 años en centros públicos y privados del Gran Área Metropolitana: estudio interuniversitario a partir del instrumento CLASS (Classroom Assesment Scoring Systems) /</subfield>
+    <subfield code="c">Jeannete Cerdas Núñez, Rocío Castillo Cedeño, Marianella Castro Pérez, Nohemí Hernández Herrera, Rosa María Hidalgo Chinchilla</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">[San José, Costa Rica] :</subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2016</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">61 páginas + 12 hojas;</subfield>
+    <subfield code="e">1 disco de computadora; archivo PDF</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Informe final Proyecto de Investigación Nº 724-B3-338</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">La Unidad posee informe en formto electrónico, CD #277</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">455</subfield>
+    <subfield code="a">EDUCACIÓN PREESCOLAR</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">11</subfield>
+    <subfield code="a">CALIDAD DE LA EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">387</subfield>
+    <subfield code="a">APRENDIZAJE </subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">83</subfield>
+    <subfield code="a">AMBIENTE DE LA CLASE</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">9</subfield>
+    <subfield code="a">FORMACIÓN DE DOCENTES</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">247</subfield>
+    <subfield code="a">Castillo Cedeño, Rocío</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">1694</subfield>
+    <subfield code="a">Castro Pérez, Marianella</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">166</subfield>
+    <subfield code="a">Hernández Herrera, Nohemí</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">2404</subfield>
+    <subfield code="a">Hidalgo Chinchilla, Rosa María</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

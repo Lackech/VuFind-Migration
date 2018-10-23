@@ -1,0 +1,41 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00610nam a2200157Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">CD #94</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">Dobles Trejos, Cecilia</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Conociendo las realidades de los equipos regionales itinerantes en las veinte regiones educativas del país / </subfield>
+    <subfield code="c">Cecilia Dobles Trejos</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">CENAREC, </subfield>
+    <subfield code="c">2004</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Resultados de investigación\Documento en formato pdf \ Contiene presentación en formato ppt</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">EQUIPOS REGIONALES ITINERANTES  </subfield>
+  </datafield>
+  <datafield tag="650" ind2=" " ind1=" ">
+    <subfield code="a">NECESIDADES EDUCATIVAS ESPECIALES </subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">EDUCACION</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2=" ">
+    <subfield code="a">COSTA RICA</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="p">002080 </subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2524</subfield>
+    <subfield code="d">2524</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,60 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00899nam a2200205   4500</leader>
+  <controlfield tag="008">160128b2014    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">06.06.02 </subfield>
+    <subfield code="b">2291</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">1376</subfield>
+    <subfield code="a">Parrales Rodríguez, Sonia</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Identificación de necesidades de capacitación de profesorado de secundaria en el área de recursos docentes para favorecer el involucramiento de estudiantes en el proceso educativo /</subfield>
+    <subfield code="c">Sonia Parrales Rodríguez, Jorge Robles Murillo</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">[San José, Costa Rica] ;</subfield>
+    <subfield code="b">INIE,</subfield>
+    <subfield code="c">2014</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">136 páginas; ilustraciones</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Informe final proyecto de investigación Nº 724-B3-049</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">9</subfield>
+    <subfield code="a">FORMACIÓN DE DOCENTES</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">729</subfield>
+    <subfield code="a">CAPACITACIÓN</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">456</subfield>
+    <subfield code="a">EDUCACIÓN SECUNDARIA</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1021</subfield>
+    <subfield code="a">RELACIONES ENTRE DOCENTES Y ALUMNOS </subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1377</subfield>
+    <subfield code="a">FACTORES DE PERMANENCIA</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">1378</subfield>
+    <subfield code="a">Robles Murillo, Jorge</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">3055</subfield>
+    <subfield code="d">3055</subfield>
+  </datafield>
+</record>

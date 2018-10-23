@@ -1,0 +1,55 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03383nam a22001817a 4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">3548</subfield>
+    <subfield code="d">3548</subfield>
+  </datafield>
+  <controlfield tag="008">180717b2018    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">18.09.01</subfield>
+    <subfield code="b">2489</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="100">
+    <subfield code="9">746</subfield>
+    <subfield code="a">Vargas Sandoval, Yensi</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Investigación evaluativa sobre la educación pública de secundaria: Los criterios de equidad y permanencia /</subfield>
+    <subfield code="c">Yensi Vargas Sandoval</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">[San José, Costa Rica] :</subfield>
+    <subfield code="b">INIE,</subfield>
+    <subfield code="c">2018</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">115 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="500" ind2=" ">
+    <subfield code="a">Informe final Proyecto de investigación N° 724-B5-314</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">Este estudio tiene como objetivo general. Analizar los procesos de evaluación sobre educación pública de secundaria a partir de los criterios de equidad del sistema educativo, así como la permanencia del estudiantado. Para llevarlo a cabo, se ha recurrido a la consulta documental referente a evaluaciones del sistema educativo.  También se han consultado evaluaciones realizadas en otros países de América Latina. La revisión y análisis de los documentos localizados sobre evaluación del sistema educativo, permitió elaborar el primer producto sobre contextualización  teórica, el cual reúne una discusión sobre equidad, acceso, permanencia y deserción.  Además, se recupera la reflexión sobre los criterios y parámetros en que se evalúa la educación secundaria, con los aportes obtenidos de las entrevistas a las Direcciones Regionales del Ministerio de Educación Pública de San José, Pérez Zeledón, Cartago y Ciudad Quesada.  Entre las conclusiones están las siguientes:
+    • La evaluación social y la búsqueda de la equidad en el sistema educativo busca fortalecer un modelo de desarrollo económico, que cae en una profunda contradicción con los objetivos del capital.   Sin embargo, la búsqueda de equidad al acceso no pretende otra cosa más que generar mano de obra capacitada para un mercado laboral rígidamente definido, además de que  en tanto mercado laboral perpetúa la ley del más fuerte en el campo de la educación.
+    • La evaluación de la equidad educativa, pocas veces se realiza con una modalidad participativa, pluralista y reivindicativa.  La sospecha es que esto ocurre porque tampoco hay interés de potenciar reivindicaciones de aquellas personas, sectores, poblaciones quienes históricamente han encarnado la inequidad social y educativa.
+    • Se concluye con la relevancia e importancia de establecer a la evaluación social en una ruta programática que se contrapone a las perspectivas centradas en la estandarización de las destrezas, las habilidades y los conocimientos (pruebas PISA); sustentadas en el control, la eficiencia de la ejecución presupuestaria y la respuesta a los objetivos cumplidos en instituciones y acciones estatales.
+    • Se evidencia que el término de permanencia no es el más utilizado o no existe mayor preocupación por potenciar la permanencia en el sistema educativo.  Más bién, parece que al sistema le favorece mantener cierto nivel de exclusión o de deserción.  En esto valga ejemplificar con el Programa Avancemos que si bien es cierto aporta a las familias y a jóvenes para que permanezcan dentro del sistema educativo, en muchos casos, es por acceder al monto de la transferencia y no al interés por el desarrollo educativo.</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">287</subfield>
+    <subfield code="a">EVALUACIÓN </subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">343</subfield>
+    <subfield code="a">EQUIDAD</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">456</subfield>
+    <subfield code="a">EDUCACIÓN SECUNDARIA</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

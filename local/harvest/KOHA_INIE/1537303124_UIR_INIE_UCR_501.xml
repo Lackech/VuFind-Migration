@@ -1,0 +1,44 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00534nam a2200157Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">501</subfield>
+    <subfield code="d">501</subfield>
+  </datafield>
+  <controlfield tag="008">161212b2009    cl ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="020">
+    <subfield code="a">9789561906181</subfield>
+  </datafield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">06.02.02 </subfield>
+    <subfield code="b">2025</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Inzunza H., Jorge</subfield>
+    <subfield code="9">2200</subfield>
+  </datafield>
+  <datafield tag="245" ind2="3" ind1="1">
+    <subfield code="a">La construcción del derecho a la educación y la institucionalidad educativa en Chile / </subfield>
+    <subfield code="c">Jorge Inzunza H.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Chile : </subfield>
+    <subfield code="b">Observatorio Chileno de Políticas Educativas, </subfield>
+    <subfield code="c">2009</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">143 páginas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">DERECHO A LA EDUCACIÓN</subfield>
+    <subfield code="9">599</subfield>
+  </datafield>
+  <datafield tag="651" ind2="4" ind1="0">
+    <subfield code="a">CHILE</subfield>
+    <subfield code="9">1078</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,61 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00585nam a2200205Ia 4500</leader>
+  <controlfield tag="008">150506b1991    u  ||||| |||| 00| 0 eng d</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">00137950977</subfield>
+  </datafield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">18.01.01 </subfield>
+    <subfield code="b">854</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Doing science : the reality club / </subfield>
+    <subfield code="c">John Brockman, editor</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">New York, E.U. : </subfield>
+    <subfield code="b">PRENTICE HALL PRESS, </subfield>
+    <subfield code="c">1991</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">296 páginas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">CIENCIA Y TECNOLOGÍA </subfield>
+    <subfield code="9">37</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">MEDICIÓN</subfield>
+    <subfield code="9">38</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">SEXO</subfield>
+    <subfield code="9">39</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">BIOLOGÍA</subfield>
+    <subfield code="9">40</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">COGNICIÓN</subfield>
+    <subfield code="9">41</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">CONOCIMIENTO</subfield>
+    <subfield code="9">42</subfield>
+  </datafield>
+  <datafield ind1=" " tag="700" ind2=" ">
+    <subfield code="a">Brockman, John</subfield>
+    <subfield code="9">43</subfield>
+    <subfield code="e">editor</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">13</subfield>
+    <subfield code="d">13</subfield>
+  </datafield>
+</record>

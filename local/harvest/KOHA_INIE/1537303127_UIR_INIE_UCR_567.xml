@@ -1,0 +1,44 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00438nam a2200157Ia 4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">567</subfield>
+    <subfield code="d">567</subfield>
+  </datafield>
+  <controlfield tag="008">170208b2009    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="020">
+    <subfield code="a">9789968411615</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">05.05.03 </subfield>
+    <subfield code="b">1780</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="a">Noda, María Rosa</subfield>
+    <subfield code="9">2447</subfield>
+  </datafield>
+  <datafield ind2="6" tag="245" ind1="1">
+    <subfield code="a">En la cocina de María / </subfield>
+    <subfield code="c">María Rosa Noda</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">Costa Rica : </subfield>
+    <subfield code="b">Promesa, </subfield>
+    <subfield code="c">2009</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">56 páginas</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">LITERATURA </subfield>
+    <subfield code="9">655</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">NOVELA GUATEMALTECA</subfield>
+    <subfield code="9">2448</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

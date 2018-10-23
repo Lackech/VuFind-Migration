@@ -1,0 +1,68 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00822nam a22002297a 4500</leader>
+  <controlfield tag="008">150925b2013    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="020" ind2=" ">
+    <subfield code="a">9789968779319</subfield>
+  </datafield>
+  <datafield tag="020" ind2=" " ind1=" ">
+    <subfield code="a">9789968779300</subfield>
+  </datafield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">14.02.02 </subfield>
+    <subfield code="b">288 CD # 151</subfield>
+  </datafield>
+  <datafield ind2=" " tag="110" ind1="1">
+    <subfield code="9">1098</subfield>
+    <subfield code="a">Costa Rica. Ministerio de Cultura y Juventud </subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Segunda Encuesta Nacional de Juventudes Costa Rica 2013: Informe de principales resultados /</subfield>
+    <subfield code="c">Ministerio de Cultura y Juventud. Consejo Nacional de Política Pública de la Persona Joven</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">[San José, Costa Rica] :</subfield>
+    <subfield code="b">El Ministerio,</subfield>
+    <subfield code="c">2013</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">127 páginas;</subfield>
+    <subfield code="b"> ilustraciones</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">550</subfield>
+    <subfield code="a">ENCUESTAS</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">476</subfield>
+    <subfield code="a">JUVENTUD</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">404</subfield>
+    <subfield code="a">FAMILIA</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">48</subfield>
+    <subfield code="a">SEXUALIDAD</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">886</subfield>
+    <subfield code="a">TRABAJO</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">323</subfield>
+    <subfield code="a">MIGRACIÓN</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">396</subfield>
+    <subfield code="a">SOCIEDAD </subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2899</subfield>
+    <subfield code="d">2899</subfield>
+  </datafield>
+</record>

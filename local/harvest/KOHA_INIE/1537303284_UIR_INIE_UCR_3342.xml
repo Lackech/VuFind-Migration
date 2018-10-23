@@ -1,0 +1,36 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00584nam a2200133   4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">3342</subfield>
+    <subfield code="d">3342</subfield>
+  </datafield>
+  <controlfield tag="008">161018b2015    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">Archivo # 23 </subfield>
+  </datafield>
+  <datafield tag="110" ind1=" " ind2=" ">
+    <subfield code="9">760</subfield>
+    <subfield code="a">Instituto de Investigación en Educación</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Suplemento especial del Semanario Universidad. 3er congreso Internacional de Investigación Educativa. Educación y globalización. / </subfield>
+    <subfield code="c">Instituto de Investigación en Educación</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a"> San José, Costa Rica : </subfield>
+    <subfield code="b">Universidad de Costa Rica, </subfield>
+    <subfield code="c">2015. </subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">8 páginas</subfield>
+  </datafield>
+  <datafield ind2="0" tag="610" ind1="1">
+    <subfield code="9">153</subfield>
+    <subfield code="a">INSTITUTO DE INVESTIGACIÓN EN EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">07</subfield>
+  </datafield>
+</record>

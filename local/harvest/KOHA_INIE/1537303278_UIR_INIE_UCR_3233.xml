@@ -1,0 +1,71 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00796nam a2200241   4500</leader>
+  <controlfield tag="008">160518b2002    S  ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">8436814312</subfield>
+  </datafield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">02.05.02 </subfield>
+    <subfield code="b">2210 </subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">1787</subfield>
+    <subfield code="a">Fernández del Valle, Jorge </subfield>
+  </datafield>
+  <datafield ind2="3" ind1="1" tag="245">
+    <subfield code="a">El acogimiento residencial en la protección a la infancia /</subfield>
+    <subfield code="c">Jorge Fernández del Valle, Jesús Fuertes Zurita</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a"> Madrid :  </subfield>
+    <subfield code="b">Ediciones pirámide, </subfield>
+    <subfield code="c">c2000</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">251 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="490">
+    <subfield code="a">Colección Psicología</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">1009</subfield>
+    <subfield code="a">BIENESTAR DE LA INFANCIA</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">59</subfield>
+    <subfield code="a">NIÑOS</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">60</subfield>
+    <subfield code="a">NIÑAS</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">543</subfield>
+    <subfield code="a">TRABAJO SOCIAL </subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">874</subfield>
+    <subfield code="a">PSICOLOGÍA DEL NIÑO</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">576</subfield>
+    <subfield code="a">ASPECTOS SOCIALES </subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">298</subfield>
+    <subfield code="a">COMPORTAMIENTO</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">1788</subfield>
+    <subfield code="a">Fuertes Zurita, Jesús </subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">3233</subfield>
+    <subfield code="d">3233</subfield>
+  </datafield>
+</record>

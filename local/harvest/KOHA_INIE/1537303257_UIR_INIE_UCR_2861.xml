@@ -1,0 +1,71 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00981nam a2200241   4500</leader>
+  <controlfield tag="008">150910b2009    mx a|||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="020">
+    <subfield code="a">9786070205804</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">06.02.01</subfield>
+    <subfield code="b">2271</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">970</subfield>
+    <subfield code="a">Didriksson Takayanagui, Axel</subfield>
+  </datafield>
+  <datafield ind2="6" tag="245" ind1="1">
+    <subfield code="a">De la privatización a la mercantilización de la educación superior /</subfield>
+    <subfield code="c">Axel Didriksson Takayanagui; Alma X. Herrera Márquez; Lidia Jaqueline Villafán Aguilar; Bolívar Huerta Martínez; Dante Torres Ríos</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">México :</subfield>
+    <subfield code="b">Universidad Nacional Autónoma de México,</subfield>
+    <subfield code="c">2009</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">155 páginas</subfield>
+  </datafield>
+  <datafield tag="490" ind2=" " ind1=" ">
+    <subfield code="a">Educación (Universidad Nacional Autónoma de México)</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">971</subfield>
+    <subfield code="a">ASPECTOS POLÍTICOS</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">972</subfield>
+    <subfield code="a">PRIVATIZACIÓN</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">973</subfield>
+    <subfield code="a">ASPECTOS ECONÓMICOS</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">974</subfield>
+    <subfield code="a">Herrera Márquez, Alma X.</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">975</subfield>
+    <subfield code="a">Villafán Aguilar, Lidia Jaqueline</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">976</subfield>
+    <subfield code="a">Huerta Martínez, Bolívar</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="9">977</subfield>
+    <subfield code="a">Torres Ríos, Dante</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2861</subfield>
+    <subfield code="d">2861</subfield>
+  </datafield>
+</record>

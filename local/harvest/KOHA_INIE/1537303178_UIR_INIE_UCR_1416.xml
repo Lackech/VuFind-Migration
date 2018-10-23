@@ -1,0 +1,40 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00474nam a2200133Ia 4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">1416</subfield>
+    <subfield code="d">1416</subfield>
+  </datafield>
+  <controlfield tag="008">170928b1989    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">06.01.01 </subfield>
+    <subfield code="b">982</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Universidad Nacional. Centro de Investigación y Docencia en Educación.</subfield>
+    <subfield code="9">3205</subfield>
+  </datafield>
+  <datafield ind2="4" tag="245" ind1="1">
+    <subfield code="a">Compendio de resúmenes</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">Heredia, Costa Rica. : </subfield>
+    <subfield code="b">UNA, </subfield>
+    <subfield code="c">1989</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">177 páginas</subfield>
+  </datafield>
+  <datafield ind2="0" tag="650" ind1=" ">
+    <subfield code="a">INVESTIGACIÓN EDUCATIVA</subfield>
+    <subfield code="9">326</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="711">
+    <subfield code="a">Encuentro Nacional de Investigadores en Educación [5 : 1989 : Heredia, C.R.]</subfield>
+    <subfield code="9">3206</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

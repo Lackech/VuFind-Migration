@@ -1,0 +1,43 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00512nam a2200157Ia 4500</leader>
+  <controlfield tag="008">150427b1989    uk ||||| |||| 00| 0 eng d</controlfield>
+  <datafield ind2=" " tag="020" ind1=" ">
+    <subfield code="a">0-08-036463-2</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">06.02.03 1995</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="a">Fagerlind, Ingemar</subfield>
+    <subfield code="9">23</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Education and national development: a comparative perspective / </subfield>
+    <subfield code="c">by Ingemar Fagerlind and Lawrence J. Saha</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">Oxford : </subfield>
+    <subfield code="b">Pergamon Press, </subfield>
+    <subfield code="c">1989</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">321 páginas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">DESARROLLO DE LA EDUCACIÓN</subfield>
+    <subfield code="9">24</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="a">Saha, Lawrence J.</subfield>
+    <subfield code="9">25</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">10</subfield>
+    <subfield code="d">10</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,65 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00893nam a2200205Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">1812</subfield>
+    <subfield code="d">1812</subfield>
+  </datafield>
+  <controlfield tag="008">180424b1998    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">06.03.06 </subfield>
+    <subfield code="b">574</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">Molina, Mauricio</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Diagnóstico de destrezas cognoscitivas empleadas por estudiantes de noveno año en la resolución de problemas/</subfield>
+    <subfield code="c">Mauricio Molina, Eileana Montero, Sofía Díaz, Olga de León Páez, Elizabeth Sáenz</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1998</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">38 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Informe Final del proyecto 724-96-561</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">En abril de 1997 informe nacional</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">Debido a que poder evaluar apropiadamente las habilidades intelectuales de los estudiantes, especialmente cuando se entiende la educación como un proceso dirigido al desarrollo de habilidades de pensamiento, y como parte del proyecto para diagnosticar las destrezas cognoscitivas de noveno año, se diseñó una prueba estandarizada, la cual buscaba obtener mediciones de diversas destrezas que han sido conceptualizadas usando el enfoque de las ciencias cognoscitivas conocido como teoría del procesamiento de la información, combinado con el enfoque psicométrico clásico. Para construir los 43 ítemes que conformarían la prueba, se tomaron tareas o problemas en contextos académicos que pudieran relacionarse con las matemáticas, las ciencias, los estudios sociales y el español. La prueba fue administrada a una muestra al azar de 2123 estudiantes, en 41 colegios del país, en las categorías de urbano-rural, público-no público, académico-no académico. Excepto para metacognición, todas las habilidades contaron al menos con tres ítemes en la prueba (categorización, isomorfismo, flexibilidad, representación icónica, deducción, inducción, causa-efecto, recursividad, búsqueda). En general, el desempeño de los estudiantes fue relativamente bajo (la nota promedio fue 53.12). Más del 90% de los estudiantes obtuvieron una nota menor de 70. También hay evidencia estadística de que, a nivel de la población total de estudiantes, los varones tienen un promedio mayor que el de las mujeres (5% de diferencia). Los colegios no públicos tuvieron un promedio 7,35 superior a los públicos, lo mismo pasa en relación con los colegios urbanos y los rurales, los académicos y los no académicos, los diurnos y los nocturnos, en cuyos casos los primeros obtuvieron promedios más altos que los segundos. Existe una asociación entre la posición que ocupó el colegio en la prueba de noveno año del MEP y la que ocupó en la prueba de destrezas cognoscitivas, lo que no significa que estén midiendo lo mismo. Por último, el informe agrupa los resultados de la medición de las habilidades cognoscitivas mediante el análisis de factores. Así, por ejemplo, el factor 1 agrupa los ítemes de destrezas como búsqueda, categorización, causa-efecto y algunos de isomorfismo, es decir, aquellos que presentaron un menor grado de dificultad para el estudiante, según la prueba. Las tres habilidades en las que parece haber un desempeño más pobre son búsqueda, recursividad y metacognición.</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">EDUCACIÓN SECUNDARIA</subfield>
+    <subfield code="9">456</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">DIAGNÓSTICO</subfield>
+    <subfield code="9">632</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">RESOLUCIÓN DE PROBLEMAS</subfield>
+    <subfield code="9">1590</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="700">
+    <subfield code="a">Montero, Eileana</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1=" ">
+    <subfield code="a"> Díaz, Sofía</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="700">
+    <subfield code="a">de León Paez, Olga</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2=" ">
+    <subfield code="a">Sáenz, Elizabeth</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

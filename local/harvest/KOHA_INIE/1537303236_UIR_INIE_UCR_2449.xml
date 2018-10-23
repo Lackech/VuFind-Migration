@@ -1,0 +1,40 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00696nam a2200157Ia 4500</leader>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">CD #168</subfield>
+  </datafield>
+  <datafield tag="111" ind2=" " ind1=" ">
+    <subfield code="a">Congreso Nacional de Educación  (1 : 2002 : San José, Costa Rica)</subfield>
+  </datafield>
+  <datafield tag="245" ind2=" " ind1=" ">
+    <subfield code="a">Por una educación renovada</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">CONARE, </subfield>
+    <subfield code="b">2002</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">[disco compacto]</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Contiene las ponencias:\Hacia el mejoramiento del sistema educativo costarricense: enfoques y tendencias de la administración de la educación.\Los valores como eje transversal de un ambiente de aprendizaje informatizado.</subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2=" ">
+    <subfield code="a">EDUCACION</subfield>
+  </datafield>
+  <datafield tag="650" ind2=" " ind1=" ">
+    <subfield code="a">CONFERENCIAS</subfield>
+  </datafield>
+  <datafield tag="711" ind2=" " ind1=" ">
+    <subfield code="a">Congreso Nacional de Educación  (1 : 2002 : San José, Costa Rica)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="p">002549 </subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2449</subfield>
+    <subfield code="d">2449</subfield>
+  </datafield>
+</record>

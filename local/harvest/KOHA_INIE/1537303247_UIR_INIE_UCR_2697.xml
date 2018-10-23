@@ -1,0 +1,49 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01788nab a2200169   4500</leader>
+  <controlfield tag="005">20160317160829.0</controlfield>
+  <controlfield tag="008">150618b2000    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">215</subfield>
+    <subfield code="a">Sequeira Rodríguez, Alicia</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="3" tag="245">
+    <subfield code="a">Un enfoque para la educación y la escuela del nuevo siglo /</subfield>
+    <subfield code="c">Alicia Sequeira Rodríguez</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2000</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">páginas 65-73</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">Los tiempos van cambiando, dándose una concentración y centralización de capital en pocas naciones. El grupo de los siete países (Group of Seven), con sus ochocientos millones de habitantes, controla la mayor parte de la tecnología, la economía, la informática y el poder militar bajo el cual están sujetos los aproximadamente cuatro billones de personas.
+Este nuevo orden mundial ha tenido sus repercusiones en América Latina. Entre ellas se puede mencionar la desmaterialización de la producción, que consiste en el menor uso de materias primas por producto producido, lo cual influye en los precios de la materia prima que explotan nuestras naciones.
+Hemos llegado a una época donde el enfoque educativo constructivista sustituye al academicista, donde se enfatiza los derechos humanos para todos los seres humanos, la paz, la tolerancia y la comprensión.
+Estas corrientes afectarán al costarricense, ya que se espera que para el año 2014, se tendrán ciudadanos y ciudadanas, productores y productoras y consumidores y consumidoras unidas y unidos por los valores de la sostenibilidad</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" tag="773" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0032</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.24, no.especial (2000) </subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2697</subfield>
+    <subfield code="d">2697</subfield>
+  </datafield>
+</record>

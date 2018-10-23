@@ -1,0 +1,46 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01395nab a22001697a 4500</leader>
+  <controlfield tag="005">20150909161908.0</controlfield>
+  <controlfield tag="008">150909b2003    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">966</subfield>
+    <subfield code="a">Vagas Cordero, Zoila Rosa</subfield>
+  </datafield>
+  <datafield tag="245" ind2="3" ind1="1">
+    <subfield code="a">La confrontación: una oportunidad para el desarrollo personal /</subfield>
+    <subfield code="c">Zoila Rosa Vagas Cordero</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2003</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">páginas 79-86</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">Este artículo pretende apoyar al profesional en Orientación u otros profesionales de ayuda que se inician en el campo laboral y que necesitan desarrollar mayores destrezas personales para utilizar la confrontación vista como una técnica estratégica, que fundamentada desde diferentes enfoques psicológicos para la Orientación, se convierte en una herramienta de gran utilidad en la ayuda de las personas que muestran diferentes conductas, tales como dificultad, para interactuar con sus semejantes, limitado compromiso personal y empobrecida conexión con la realidad, entre otras; en donde la confrontación resulta un medio eficaz y una oportunidad para el desarrollo personal a partir de la integración del yo</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind2=" " ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0202</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.27, no.2  (2003)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2856</subfield>
+    <subfield code="d">2856</subfield>
+  </datafield>
+</record>

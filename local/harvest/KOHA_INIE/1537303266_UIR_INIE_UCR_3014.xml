@@ -1,0 +1,46 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01516nab a2200169   4500</leader>
+  <controlfield tag="005">20160331141137.0</controlfield>
+  <controlfield tag="008">160112b           f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">1287</subfield>
+    <subfield code="a">Calvo Ballestero, María Mayela</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Enseñanza eficaz de la resolución de problemas en matemáticas /</subfield>
+    <subfield code="c">María Mayela Calvo Ballestero</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2008</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">páginas 132-138</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">El presente artículo surge debido a la preocupación existente a causa del bajo rendimiento en matemática, factor que ha sido causante de la deserción y repitencia en el sistema educativo costarricense. La resolución de problemas ha sido considerada una de las áreas de la matemática que mayor dificultad ha presentado para la población estudiantil. Los niños y las niñas son capaces de resolver mecánicamente las operaciones fundamentales básicas (suma, resta, multiplicación y división), pero no saben como aplicarlas para la solución de un problema, ya que solo les ha enseñado a actuar de forma mecánica y repetitiva, por ello es fundamental tomar conciencia acerca de la problemática vivida en torno a este tema, el mejoramiento en los procesos de enseñanza y aprendizaje de la resolución de problemas</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="0" tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0396</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.32, no.1 (2008)</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3014</subfield>
+    <subfield code="d">3014</subfield>
+  </datafield>
+</record>

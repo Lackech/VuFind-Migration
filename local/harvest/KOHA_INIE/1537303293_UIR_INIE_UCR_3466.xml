@@ -1,0 +1,67 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>     nam a22     7a 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">3466</subfield>
+    <subfield code="d">3466</subfield>
+  </datafield>
+  <controlfield tag="008">180115b2017    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">06.03.06</subfield>
+    <subfield code="b">2437</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">2503</subfield>
+    <subfield code="a">Ríos Cortés, Karol</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Aportes de la virtualidad en la enseñanza de la biología tropical en procesos de formación de grado y posgrado de una organización educativa a nivel internacional en Costa Rica. La experiencia de la Organización de Estudios Tropicales (OET) /</subfield>
+    <subfield code="c">Karol Ríos Cortés</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">[San José, Costa Rica] :</subfield>
+    <subfield code="b">INIE,</subfield>
+    <subfield code="c">2017</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">172 páginas; 134 páginas sin numerar</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Informe final Proyecto de Investigación Nº 724-B5-A69</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="505">
+    <subfield code="a">La presente investigación nació de la inquietud de personeros de la Organización de  Estudios Tropicales (OET) sobre la posibilidad de incluir TIC y virtualidad en su oferta educativa y tuvo como objetivo valorar los aportes de la educación virtual en la propuesta educativa de enseñanza de la biología tropical de una organización educativa a nivel internacional que ofrece cursos de grado y posgrado para estudiantes nacionales e internacionales.
+Esta investigación recabó información de primera mano con encuestas a docentes y estudiantes, observaciones de campo de sus cursos, entrevistas a expertos en el tema de las principales universidades públicas del país con un acercamiento bibliográfico, además de las consideraciones particulares de la dinámica pedagógica de la OET. Tomando en cuenta la diversidad de los orígenes de estudiantes y docentes, se aplican encuestas y entrevistas a profundidad que proporcionan un escenario inicial de la situación actual de los cursos de la OET en cuanto uso de TIC y de virtualidad. En total participaron 11 docentes y 52 estudiantes.  Entre las conclusiones se mencionan las siguientes:
+
+A partir de los resultados obtenidos en la consulta a personas expertas, se han identificado algunos aspectos que deberían considerarse guías para una posible virtualización de curso, entendiendo que se pueden desarrollar diversos niveles de virtualidad de acuerdo con los objetivos y las propias dinámicas de cada proceso.
+Como se pudo observar en las etapas anteriores de la investigación, ninguna de las personas entrevistadas pudo hacer una mención directa acerca de un indicador o un aspecto, sin embargo a partir de sus comentarios pueden inferirse algunos elementos. Al mismo tiempo, se pudo observar instrumentos ya utilizados por estas instituciones que sirven debase para trabajar en la propuesta, específicamente los usados por la UNED (Matriz de Organización de Cursos en Línea y la Matriz por semanas de Cursos en Línea).
+Es importante destacar, que el instrumento es una guía o apoyo de tipo cualitativo, cuyo objetivo radica en facilitar un proceso de valoración sobre cómo y con qué herramientas y recursos se puede iniciar el diseño de un espacio virtual de apoyo a la docencia. Por lo tanto, este instrumento indicará el nivel de preferencia por impartir el curso con diferentes niveles de virtualidad.
+Las personas que utilicen esta herramienta tendrán que valorar los indicadores presentados y relacionados con la posibilidad de virtualizar algunos contenidos de sus cursos, así tendrán un panorama ordenado y descriptivo de las posibilidades.
+El instrumento presenta dos fases, la fase global relacionada con la propuesta del curso en general, y la fase específica o plan para el diseño de la experiencia de aprendizaje que desglosa por contenidos y actividades un plan de incorporación de TIC y virtualidad.
+Finalmente, es necesario destacar que su uso es referencial y sólo es un punto de partida; la idea es que si se utiliza se vaya mejorando a partir de la experiencia y de los requerimientos de la organización.</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">8</subfield>
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1267</subfield>
+    <subfield code="a">ENSEÑANZA VIRTUAL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">484</subfield>
+    <subfield code="a">TECNOLOGÍA DE LA INFORMACIÓN </subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">1841</subfield>
+    <subfield code="a">DOCENCIA</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">439</subfield>
+    <subfield code="a">EDUCACIÓN AMBIENTAL </subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

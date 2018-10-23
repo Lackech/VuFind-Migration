@@ -1,0 +1,45 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01441nab a22001577a 4500</leader>
+  <controlfield tag="008">150611b2000    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">189</subfield>
+    <subfield code="a">Morales Abarca, Fernando</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Globalización:  conceptos, características y contradicciones /</subfield>
+    <subfield code="c">Fernando Morales Abarca</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2000</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">páginas 7-12</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">El objetivo del artículo consiste en promover tanto la reflexión como la discusión con respecto a: ¿Qué se entiende por globalización?, ¿de qué se trata la globalización? y ¿cuáles son sus principales características y contradicciones? En este sentido, el artículo presenta, a nivel exploratorio, algunos de los principales conceptos, características y contradicciones del fenómeno de la globalización. Se le da la prioridad a aquellos aspectos que han sido desarrollados, de manera escrita, por destacados investigadores contemporáneos en el campo de las ciencias sociales. Cada uno de los investigadores citados elabora una respuesta de lo que entiende por globalización y algunos de ellos establecen las principales características y contradicciones que provoca dicho fenómeno</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind2=" " ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0025</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.24, no.1 (2000)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2663</subfield>
+    <subfield code="d">2663</subfield>
+  </datafield>
+</record>

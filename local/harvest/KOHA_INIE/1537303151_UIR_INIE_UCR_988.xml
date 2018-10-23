@@ -1,0 +1,47 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00692nam a2200181Ia 4500</leader>
+  <datafield ind2=" " tag="020" ind1=" ">
+    <subfield code="a">9977-30-306-1</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">06.04.05 </subfield>
+    <subfield code="b">848</subfield>
+  </datafield>
+  <datafield tag="111" ind2=" " ind1=" ">
+    <subfield code="a">Foro Regional: La Universidad Centroamericana hacia el Tercer Milenio (1° : 1996 : San José, C.R.)</subfield>
+  </datafield>
+  <datafield tag="245" ind2=" " ind1=" ">
+    <subfield code="a">Memoria primer foro regional: La Universidad centroamericana hacia el tercer milenio</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José : </subfield>
+    <subfield code="b">EDUCA/CSUCA, </subfield>
+    <subfield code="c">1997</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">140 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="650" ind1=" ">
+    <subfield code="a">UNIVERSIDADES</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="650">
+    <subfield code="a">EDUCACION SUPERIOR</subfield>
+  </datafield>
+  <datafield ind2=" " tag="650" ind1=" ">
+    <subfield code="a">CONFERENCIAS</subfield>
+  </datafield>
+  <datafield tag="650" ind2=" " ind1=" ">
+    <subfield code="a">CALIDAD DE LA EDUCACION</subfield>
+  </datafield>
+  <datafield ind2=" " tag="651" ind1=" ">
+    <subfield code="a">AMERICA CENTRAL</subfield>
+  </datafield>
+  <datafield ind2=" " tag="711" ind1=" ">
+    <subfield code="a">Foro Regional: La Universidad Centroamericana hacia el Tercer Milenio (1° : 1996 : San José, C.R.)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">988</subfield>
+    <subfield code="d">988</subfield>
+  </datafield>
+</record>

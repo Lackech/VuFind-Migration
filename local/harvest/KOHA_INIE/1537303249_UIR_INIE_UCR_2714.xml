@@ -1,0 +1,46 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02044nab a22001697a 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2714</subfield>
+    <subfield code="d">2714</subfield>
+  </datafield>
+  <controlfield tag="005">20170914100153.0</controlfield>
+  <controlfield tag="008">150625b2001    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">244</subfield>
+    <subfield code="a">Sánchez Montero, Francisco</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Percepción de los procesos de  enseñanza y aprendizaje de la Escuela de Nutrición de la Universidad de Costa Rica /</subfield>
+    <subfield code="c">Francisco Sánchez Montero</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2001</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">páginas 35-52</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">Para determinar la opinión de docentes y estudiantes de la Escuela de Nutrición, sobre los procesos de enseñanza y aprendizaje, se realizó una encuesta y analizó con base en la teoría sobre metáforas. Los resultados muestran la concepción docente acerca del conocimiento, de su rol como enseñante y las obligaciones y características que le atribuye al alumno. Entre las opiniones de los estudiantes, destacan su manera de entrar al proceso de apender y mantenerse en él y su sentir hacia el rol del docente y el suyo propio. En este contexto, valora los contenidos teóricos y metodológicos de sus cursos, sus obligaciones de sus cursos, sus obligaciones de estudiante y expectativas profesionales, basadas en sus prejuicios acerca de la carera que cursa. Se concluye que el sistema de creencias que define la praxis docente es unidireccional, adherido a los materiales de instrucción y a la ideología institucional que propicia la fantasía de que el trabajo docente subsana las ansiedades e ilusiones de su quehacer. Por su parte, en el sistema de creencias estudiantil media su preocupación de llevar la teoría a la práctica e identificarse con los valores de la sociedad, esperando que su estadía en la universidad solvente sus necesidades académicas, vocacionales y de desarrollo personal</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0054</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.25, no.1  (2001)</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+</record>

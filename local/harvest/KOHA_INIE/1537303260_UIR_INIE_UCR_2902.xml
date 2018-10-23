@@ -1,0 +1,84 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01238nam a2200277   4500</leader>
+  <controlfield tag="008">150925b2013    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">06.03.06 </subfield>
+    <subfield code="b">2167 </subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">1106</subfield>
+    <subfield code="a">Molina Rojas, Noilin</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Características sociopersonales de la población estudiantil de la Sede Rodrigo Facio de la Universidad de Costa Rica /</subfield>
+    <subfield code="c">Noilin Molina Rojas; Karen Ortega Borloz; Marysol Chinchilla Morera; María Elena Brenes Rodríguez; Wendy López Mainieri; Enos Brown Richards; Marta Iturrino Audrain; Anabetty González Jiménez</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">INIE,</subfield>
+    <subfield code="c">2013</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">98 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Informe final Proyecto de Investigación N°724-B1-264</subfield>
+  </datafield>
+  <datafield tag="610" ind2="4" ind1="2">
+    <subfield code="9">714</subfield>
+    <subfield code="a">UNIVERSIDAD DE COSTA RICA</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">8</subfield>
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">481</subfield>
+    <subfield code="a">ESTUDIANTES UNIVERSITARIOS </subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">576</subfield>
+    <subfield code="a">ASPECTOS SOCIALES </subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">77</subfield>
+    <subfield code="a">DESARROLLO HUMANO</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="9">1107</subfield>
+    <subfield code="a">Ortega Borloz, Karen</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">1108</subfield>
+    <subfield code="a">Chinchilla Morera, Marysol</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">1109</subfield>
+    <subfield code="a">Brenes Rodríguez, María Elena </subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="9">1110</subfield>
+    <subfield code="a">López Mainieri, Wendy</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">1111</subfield>
+    <subfield code="a">Brown Richards, Enos </subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">1112</subfield>
+    <subfield code="a">Iturrino Audrain, Marta</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="9">1113</subfield>
+    <subfield code="a">González Jiménez, Anabetty </subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2902</subfield>
+    <subfield code="d">2902</subfield>
+  </datafield>
+</record>

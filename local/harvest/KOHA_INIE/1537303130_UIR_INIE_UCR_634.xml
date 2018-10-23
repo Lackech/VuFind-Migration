@@ -1,0 +1,57 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00638nam a2200193Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">634</subfield>
+    <subfield code="d">634</subfield>
+  </datafield>
+  <controlfield tag="008">170316b2011    cr abd|| |||| 00| | spa d</controlfield>
+  <datafield tag="020" ind2=" " ind1=" ">
+    <subfield code="a">9789968794589</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">05.03.01 </subfield>
+    <subfield code="b">1468</subfield>
+  </datafield>
+  <datafield ind1="2" ind2=" " tag="110">
+    <subfield code="a">Programa de las Naciones Unidas para el Desarrollo</subfield>
+    <subfield code="9">262</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Atlas del desarrollo humano cantonal de Costa Rica 2011 / </subfield>
+    <subfield code="c">PNUD</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">PNUD, </subfield>
+    <subfield code="c">2011</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">111 páginas;</subfield>
+    <subfield code="b">Ilustraciones.</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">DESARROLLO HUMANO</subfield>
+    <subfield code="9">77</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">ESTADÍSTICA </subfield>
+    <subfield code="9">549</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">INFORMES</subfield>
+    <subfield code="9">267</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">CONDICIONES DE VIDA</subfield>
+    <subfield code="9">786</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">DESARROLLO ECONÓMICO Y SOCIAL</subfield>
+    <subfield code="9">445</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

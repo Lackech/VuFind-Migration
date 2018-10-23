@@ -1,0 +1,47 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00520nam a2200169Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">76</subfield>
+    <subfield code="d">76</subfield>
+  </datafield>
+  <controlfield tag="008">150723b2       u  ||||| |||| 00| | e   d</controlfield>
+  <datafield ind1=" " tag="020" ind2=" ">
+    <subfield code="a">0873678249</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">06.03.05 </subfield>
+    <subfield code="b">1204</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Tjeldvoll, Arild</subfield>
+    <subfield code="9">435</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Torsten Husén conversation in comparative education / </subfield>
+    <subfield code="c">Arild Tjeldvoll</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">USA :  </subfield>
+    <subfield code="b">Phi Delta Kappa Educational Foundation; </subfield>
+    <subfield code="c">2000</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">182 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Material en idioma inglés</subfield>
+  </datafield>
+  <datafield ind1=" " tag="600" ind2="0">
+    <subfield code="9">2391</subfield>
+    <subfield code="a">TORSTEN HUSEN</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

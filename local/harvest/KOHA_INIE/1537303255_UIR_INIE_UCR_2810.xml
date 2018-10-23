@@ -1,0 +1,51 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01651nab a2200181   4500</leader>
+  <controlfield tag="005">20160328161112.0</controlfield>
+  <controlfield tag="008">150813b2002    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">239</subfield>
+    <subfield code="a">Solano Alpízar, José </subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="4">
+    <subfield code="a">Los desafíos de la educación superior en el contexto de la globalización /</subfield>
+    <subfield code="c">José Solano Alpízar, María Ester Aguilar Mora</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2002</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">páginas 137-145</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">La presente ponencia realiza una caracterización de algunos de los desafíos que enfrenta la educación superior frente al acelerado proceso de cambios que ha propiciado la globalización, y sugiere posibles cursos de acción que contribuyan a que la educación superior se adecúe al contexto sin perder su compromiso socio-cultural con la sociedad costarricense.
+Para efectos expositivos la ponencia se estructura en tres partes: en la primera se realiza una breve caracterización del fenómeno de la globalización, en la segunda se precisan algunos de los desafíos a los que se enfrenta la educación superior como producto de las transformaciones de su entorno, tanto nacional como internacional, y en la tercera parte se enuncian algunos retos que requieren de un proceso de reflexión permanente por parte de las personas que se encuentran comprometidas con la educación superior</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">216</subfield>
+    <subfield code="a">Aguilar Mora, María Ester</subfield>
+  </datafield>
+  <datafield ind1="0" tag="773" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0059</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.26, no.2  (2002)</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2810</subfield>
+    <subfield code="d">2810</subfield>
+  </datafield>
+</record>

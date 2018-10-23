@@ -1,0 +1,67 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01096nam a2200229Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2083</subfield>
+    <subfield code="d">2083</subfield>
+  </datafield>
+  <controlfield tag="008">160413b2009    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">13.09.09  </subfield>
+    <subfield code="b">1450</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="a">Cárdenas Leitón, Helvetia</subfield>
+    <subfield code="9">766</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="245">
+    <subfield code="a">Referentes teóricos y metodológicos de docentes en servicio con una perspectiva de inclusión educativa / </subfield>
+    <subfield code="c">Helvetia Cárdenas Leitón,  Rolando Quesada Sancho</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">Alajuela, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2009</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">99 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="500" ind2=" ">
+    <subfield code="a">Informe final Proyecto de Investigación Nº 724-A5-060.
+Incluye Segundo Informe parcial</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">El proyecto procura analizar los sistemas de creencias teóricas, metodológicas y profesionales de las graduadas y los graduados en servicio de las carreras de Educación primaria y Educación Preescolar de la Sede de Occidente, que sustentan la implement</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">DOCENTES</subfield>
+    <subfield code="9">331</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">ESTABLECIMIENTOS DE ENSEÑANZA</subfield>
+    <subfield code="9">1519</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">CREENCIA</subfield>
+    <subfield code="9">1343</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">EDUCACIÓN INCLUSIVA</subfield>
+    <subfield code="9">2</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">195</subfield>
+    <subfield code="a">Quesada Sancho, Rolando</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+  </datafield>
+</record>

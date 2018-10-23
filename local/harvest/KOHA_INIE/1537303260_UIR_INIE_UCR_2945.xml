@@ -1,0 +1,46 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01484nab a2200169   4500</leader>
+  <controlfield tag="005">20160729160824.0</controlfield>
+  <controlfield tag="008">151120b2005    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">1186</subfield>
+    <subfield code="a">Navarro Thames, Carlos</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="3">
+    <subfield code="a">La conexión lectura - escritura en la enseñanza de las lenguas extranjeras /</subfield>
+    <subfield code="c">Carlos Navarro Thames</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2005</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a"> páginas 197-206</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">La interacción entre la lectura y  la escritura no ha recibido toda la atención que merece en la enseñanza de las lenguas extranjeras. De igual manera ambas destrezas han sido tradicionalmente enseñadas en forma separada lo cual va en detrimento de la adquisición de una destreza o ambos  por parte del estudiante. Este estudio propone que entre más lea un estudiante de un segundo idioma más grande será su capacidad para escribir en ese idioma. La lectura y la escritura se complementan de manera tal que su enseñanza en forma conjunta le dan al instructor de idiomas  la oprtunidad de crear  una atmásfera de  clase más dinámica y al estudiante la poportunidad de practicarlas en un ambiente caracterizado por  la comunicación oral y escrita de sus sentimientos, opiniones y valores</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind2=" " ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0304</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.29, no.2 (2005)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2945</subfield>
+    <subfield code="d">2945</subfield>
+  </datafield>
+</record>

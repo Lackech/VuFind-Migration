@@ -1,0 +1,75 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00914nam a2200241   4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3104</subfield>
+    <subfield code="d">3104</subfield>
+  </datafield>
+  <controlfield tag="008">160418b2007    cr a|||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="020" ind1=" ">
+    <subfield code="a">9788471125125</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">13.09.09</subfield>
+    <subfield code="b">2307</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">1533</subfield>
+    <subfield code="a">Cuenca, Ricardo</subfield>
+    <subfield code="e">Compilador</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Nuevos maestros para América Latina /</subfield>
+    <subfield code="c">Ricardo Cuenca, Nicole Nucinkis, Virginia Zavala (Compiladores)</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">Madrid, Lima, Bolivia, Alemania :</subfield>
+    <subfield code="b">Ediciones Morata, GTZ, InWent,</subfield>
+    <subfield code="c">2007</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">295 pàginas;</subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="490">
+    <subfield code="a">Pedagogía. Educación, culturas y lenguas en América Latina</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">331</subfield>
+    <subfield code="a">DOCENTES</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">9</subfield>
+    <subfield code="a">FORMACIÓN DE DOCENTES</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">485</subfield>
+    <subfield code="a">EDUCACIÓN INTERCULTURAL </subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1534</subfield>
+    <subfield code="a">EDUCACIÓN BILINGÜE</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">829</subfield>
+    <subfield code="a">DIVERSIDAD CULTURAL</subfield>
+  </datafield>
+  <datafield ind1=" " tag="651" ind2="4">
+    <subfield code="9">273</subfield>
+    <subfield code="a">AMÉRICA LATINA</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">1535</subfield>
+    <subfield code="a">Nucinkis, Nicole</subfield>
+    <subfield code="e">compiladora</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="9">1536</subfield>
+    <subfield code="a">Zavala, Virginia</subfield>
+    <subfield code="e">compiladora</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

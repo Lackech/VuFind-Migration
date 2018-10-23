@@ -1,0 +1,66 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00961nam a2200217Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">1330</subfield>
+    <subfield code="d">1330</subfield>
+  </datafield>
+  <controlfield tag="008">170613b2006    mx ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">05.01.02 </subfield>
+    <subfield code="b">1937</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Apertura económica, género y pobreza en el Istmo Centroamericano.  Costa Rica: género y cadena de valor de la Cooperativa de Productores de Leche Dos Pinos R.L. / </subfield>
+    <subfield code="c">Ana Carcedo, coordinadora, Diana Amador, María José Chaves Groh, con la colaboración de Ana Rosa Ruiz.</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">México : </subfield>
+    <subfield code="b">Fondo de Desarrollo de las Naciones Unidas para la Mujer, </subfield>
+    <subfield code="c">2006</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">76 páginas</subfield>
+  </datafield>
+  <datafield ind1="2" tag="610" ind2="4">
+    <subfield code="9">2919</subfield>
+    <subfield code="a">COOPERATIVA DE PRODUCTORES DE LECHE DOS PINOS R.L.</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1028</subfield>
+    <subfield code="a">ANÁLISIS DE GÉNERO </subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">MUJERES</subfield>
+    <subfield code="9">55</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">TRABAJADORAS</subfield>
+    <subfield code="9">1774</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">MERCADO DE TRABAJO</subfield>
+    <subfield code="9">571</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">777</subfield>
+    <subfield code="a">Carcedo, Ana</subfield>
+    <subfield code="e">Coordinador/a</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">2264</subfield>
+    <subfield code="a">Amador, Diana</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">2258</subfield>
+    <subfield code="a">Chaves Groh, María José</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="a">Ruiz, Ana Rosa</subfield>
+    <subfield code="9">2920</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

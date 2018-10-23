@@ -1,0 +1,59 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>     nam a22        4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">3489</subfield>
+    <subfield code="d">3489</subfield>
+  </datafield>
+  <controlfield tag="008">180509b2017    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">06.03.06</subfield>
+    <subfield code="b">2453</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">3310</subfield>
+    <subfield code="a">Deliyore Vega, Rocío</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Construcción de la comunicación alternativa y aumentativa en el centro de educación especial de Heredia /</subfield>
+    <subfield code="c">María del Rocío Deliyore Vega</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">[San José, Costa Rica] :</subfield>
+    <subfield code="b">INIE,</subfield>
+    <subfield code="c">2017</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">194 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Informe final Proyecto de Investigación Nº 724-B5-243</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">La investigación tuvo como objetivo  analizar las necesidades de aprendizaje que tiene el personal docente de los centros de educación especial del país para brindar estrategias de comunicación alternativa al estudiantado con barreras de comunicación.  La muestra seleccionada consiste en  las personas docentes del Centro de Enseñanza Especial de la provincia de Heredia, participaron 24 docentes que tienen a su cargo a 343 estudiantes en condición de discapacidad, de los cuales 183 muestran diversas barreras de comunicación.  Con el fin de realizar la recolección de información se aplicaron técnicas tales como la entrevista enfocada, la observación participante, por medio del diario de campo, y la revisión documental. Además, se llevaron a cabo 10 talleres para cubrir necesidades expuestas por los docentes  participantes. Entre las conclusiones se exponen las siguientes:
+    • Con los aportes de dicha población participante, en el primer momento de la investigación-acción, se detectan dos categorías principales que constituyen limitaciones para trabajar la comunicación alternativa con el estudiantado en el entorno educativo. Tales categorías principales son barreras presentes en el sistema y necesidades propias del equipo profesional. Ambas categorías se dividen en subcategorías que enmarcan el desarrollo de la investigación- acción. 
+    • Las necesidades detectadas en el periodo diagnóstico de la investigación-acción, se dividen en las siguientes subcategorías: necesidad de trabajo cooperativo, necesidad de estrategias inclusivas, necesidad de estrategias de alta tecnología, necesidad de evaluación para la selección de un sistema de comunicación alternativa y necesidad de documentación y registros en torno a la comunicación alternativa. 
+    • Se determina que las acciones que benefician la inclusión social del estudiantado en el Centro de Educación Especial de Heredia se relacionan con tomar espacios de cooperación en los que puedan participar todas las personas implicadas en el proceso pedagógico del estudiantado. Lo anterior en virtud de unificar objetivos para el alcance de la comunicación alternativa. Las personas participantes diseñaron instrumentos de registro para unificar criterios y dar continuidad a las decisiones emprendidas, valoraron los aportes que puedan ofrecer las personas de cada disciplina representada en el equipo, así como las familias y usuarios de comunicación alternativa. 
+    • Finalmente, se concluye que, si bien es cierto, la investigación-acción generó beneficios significativos en torno al conocimiento docente y al acceso que dichos beneficios ofrecen a la comunicación alternativa, aún prevalecen barreras que limitan el éxito total en la eliminación de barreras de la comunicación. Principalmente, persisten limitaciones económicas que suponen la necesidad de compartir espacios de aula, o la carencia de recursos tecnológicos que obstaculizan la comunicación alternativa para las personas en condición de discapacidad en dichos espacios. </subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">817</subfield>
+    <subfield code="a">EDUCACIÓN ESPECIAL</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">2</subfield>
+    <subfield code="a">EDUCACIÓN INCLUSIVA</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">150</subfield>
+    <subfield code="a">COMUNICACIÓN</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">343</subfield>
+    <subfield code="a">EQUIDAD</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

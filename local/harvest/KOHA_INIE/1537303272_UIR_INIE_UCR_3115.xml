@@ -1,0 +1,75 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01289nam a2200253   4500</leader>
+  <controlfield tag="008">160418b2008    ck ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="020" ind1=" ">
+    <subfield code="a">9789588166421</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">06.03.06 </subfield>
+    <subfield code="b">2182 </subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">1557</subfield>
+    <subfield code="a">Flores del Rosario, Pablo</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Cuadernos de pedagogía 2 /</subfield>
+    <subfield code="c">Pablo Flores del Rosario; Bertha Gladys Sarmiento, Silvia López de Maturana Luna</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">Bucaramanga, Colombia :</subfield>
+    <subfield code="b">Universidad Autónoma de Bucaramanga,</subfield>
+    <subfield code="c">2008</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">64 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="500" ind2=" ">
+    <subfield code="a">Ponencias desarrolladas en el II encuentro de Educación Preescolar, organizadopor la Facultad de Educación de la UNAB</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="505">
+    <subfield code="t">El debate actual por la epistemología infantil: entre la teoría y la experiencia. Propedéutica sobre cómo desarrollar el pensamiento en la temprana infancia /</subfield>
+    <subfield code="r">Pablo Flores del Rosario</subfield>
+  </datafield>
+  <datafield ind2=" " tag="505" ind1=" ">
+    <subfield code="t">Lectura y desarrollo mental /</subfield>
+    <subfield code="r">Bertha Gladys Sarmiento</subfield>
+  </datafield>
+  <datafield ind1=" " tag="505" ind2=" ">
+    <subfield code="t">La modificabilidad cognitiva desde los primeros años: territorio de un nuevo paradigma /</subfield>
+    <subfield code="r">Silvia López de Maturana Luna</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">455</subfield>
+    <subfield code="a">EDUCACIÓN PREESCOLAR</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">365</subfield>
+    <subfield code="a">LECTURA</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">875</subfield>
+    <subfield code="a">DESARROLLO MENTAL</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">1557</subfield>
+    <subfield code="a">Flores del Rosario, Pablo</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="9">1559</subfield>
+    <subfield code="a">López de Maturana Luna, Silvia</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">1558</subfield>
+    <subfield code="a">Sarmiento, Bertha Gladys</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3115</subfield>
+    <subfield code="d">3115</subfield>
+  </datafield>
+</record>

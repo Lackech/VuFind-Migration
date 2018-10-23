@@ -1,0 +1,48 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01720nab a2200169   4500</leader>
+  <controlfield tag="005">20160317160727.0</controlfield>
+  <controlfield tag="008">150618b2000    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">213</subfield>
+    <subfield code="a">Brenes Castro, Abelardo</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Educación para el espíritu de comunidad / </subfield>
+    <subfield code="c">Abelardo Brenes Castro</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2000</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">páginas 39-56</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">El Programa de Cultura de Paz y Democracia para América Central de la Universidad de Costa Rica, ha desarrollado en los últimos años una experiencia comunitaria de Educación para la Paz en Rincón Grande de Pavas. Esta experiencia se ha dado como un acompañamiento dentro de un proceso comunal de carácter autogestionario, donde la comunidad ha propuesto su propia agenda de desarrollo de desarrollo y ha ido definiendo la forma de organización más idónea por medio de la cual la realizar, dentro de una perspectiva de Cultura de Paz y Democracia.
+El Programa, en su estrategia de acción, privilegia las acciones educativas y, en este sentido, anima el involucramiento de las escuelas y los periodistas de los medios de comunicación denominado triángulo educativo. Este triángulo se fundamenta en una alianza entre las escuelas, la comunidad y los periodistas para promover y consolidar la cultura de paz y de democracia en una forma coordinada y sistemática.
+Para la realización de dicho programa, se capacitaron a los maestros con ocho talleres</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" tag="773" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0032</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.24, no.especial (2000)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2695</subfield>
+    <subfield code="d">2695</subfield>
+  </datafield>
+</record>

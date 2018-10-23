@@ -1,0 +1,67 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02451nam a2200229Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2216</subfield>
+    <subfield code="d">2216</subfield>
+  </datafield>
+  <controlfield tag="008">180711b2001    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">18.01.01 </subfield>
+    <subfield code="b">1257</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="100">
+    <subfield code="a">Zeledón Ruiz, María del Pilar</subfield>
+    <subfield code="9">813</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Aprendizaje ético-moral de la cultura escolar y familiar, una experiencia en el nivel inicial en Costa Rica / </subfield>
+    <subfield code="c">María del Pilar Zeledón Ruiz</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2011</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">221 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Informe final proyecto de investigación Nº 724-A8-046</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">El presente informe presenta los insumos básicos para publicar un libro de texto que recoge los resultados más relevantes de la investigación en torno a la contextualización en nuestro país, del modelo de aprendizaje ético-moral que puede ser utilizado dentro de la cultura escolar y familiar. De esta manera, se pretende poner a disposición de la comunidad educativa nacional un material de apoyo para tender puentes entre las líneas de acción formativas que realizan docentes y padres/madres de familia, en la construcción de la personalidad ético moral de los niños/as, atendiendo los ámbitos y dimensiones morales que constituyen este modelo. En el estudio participaron directores, docentes, padres/madres de familia y niños/as de 5-8 años. La experiencia investigativa permitió reafirmar la necesidad de contar con material de apoyo para orientar la formación ético-moral de los niños/as con apoyo de estrategias significativas y pertinentes que vinculan los esfuerzos que se realizan en el aula y aquellos que se gestan en los entornos familiares. Este proyecto se enmarca dentro de la perspectiva de la investigación aplicada, de esta manera, se trata de utilizar los resultados obtenidos de la investigación sobre "El modelo de aprendizaje ético moral dentro de la cultura escolar y familiar: su contextualización en Costa Rica" para la elaboración del libro que va dirigido a la comunidad educativa nacional, que permita ser más pertinente, eficaz y atractiva, las prácticas formativas, no solo del educador/a sino también de los padres/madres de familia, en el ámbito de la formación en valores de los niños/as.</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">PROYECTO DE INVESTIGACION</subfield>
+    <subfield code="9">3951</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">APRENDIZAJE </subfield>
+    <subfield code="9">387</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">CULTURA </subfield>
+    <subfield code="9">378</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">EDUCACIÓN PREESCOLAR</subfield>
+    <subfield code="9">455</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">VALORES CULTURALES</subfield>
+    <subfield code="9">593</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">ÉTICA</subfield>
+    <subfield code="9">563</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="4" tag="651">
+    <subfield code="a">COSTA RICA</subfield>
+    <subfield code="9">47</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

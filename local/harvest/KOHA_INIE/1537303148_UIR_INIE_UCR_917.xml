@@ -1,0 +1,38 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00494nam a2200145Ia 4500</leader>
+  <datafield ind1=" " tag="020" ind2=" ">
+    <subfield code="a">9968-9939-1-3</subfield>
+  </datafield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">06.03.06 </subfield>
+    <subfield code="b">83</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="111">
+    <subfield code="a">Simposio de Educación Preescolar (4 : 2001 : San José, Costa Rica)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="245">
+    <subfield code="a">Memoria / IV Simposio de Educación Preescolar</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, C.R. : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">2001</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">257 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="500" ind2=" ">
+    <subfield code="a">La Unidad posee las Memorias del II Simposio (1995) y III Simposio (1998)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="650" ind1=" ">
+    <subfield code="a">EDUCACION PREESCOLAR</subfield>
+  </datafield>
+  <datafield tag="650" ind2=" " ind1=" ">
+    <subfield code="a">CONFERENCIAS</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">917</subfield>
+    <subfield code="d">917</subfield>
+  </datafield>
+</record>

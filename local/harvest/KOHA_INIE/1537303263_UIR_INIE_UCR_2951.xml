@@ -1,0 +1,47 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01431nab a22001697a 4500</leader>
+  <controlfield tag="005">20160331134727.0</controlfield>
+  <controlfield tag="008">151126b2005    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">129</subfield>
+    <subfield code="a">Mora Vargas, Ana Isabel</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Guía para elaborar una propuesta de evaluación /</subfield>
+    <subfield code="c">Ana Isabel Mora Vargas</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2005</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">páginas 77 - 97</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">El presente artículo constituye una guía básica para elaborar una propuesta de investigación, proceso previo a la presentación de un proyecto de investigación. Se pretende ofrecer una herramienta que permita a la población estudiantil del área de educación reconocer la vinculación docencia-investigación y plantear de manera fácil y precisa sus propuestas de investigación en los cursos que así lo requiran.
+La guía se estructura y organiza entes capítulos: el problema de investigación, el marco conceptual y el procedimiento metodológico. Cada tema recoge la experiencia acumulada de la autora en la labor docente y de investigación en el nivel de educación superior, se ofrece un fundamento teórico básico y se sugieren actividades de aplicación</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " tag="773" ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0304</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.29, no.2 (2005)</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">2951</subfield>
+    <subfield code="d">2951</subfield>
+  </datafield>
+</record>

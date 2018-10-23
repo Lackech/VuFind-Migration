@@ -1,0 +1,54 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>04577nab a2200169   4500</leader>
+  <controlfield tag="005">20160317160758.0</controlfield>
+  <controlfield tag="008">150618b2000    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">214</subfield>
+    <subfield code="a">Ordoñez Peñalonzo, Jacinto</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="3">
+    <subfield code="a">El concepto de cambio y la educación /</subfield>
+    <subfield code="c">Jacinto Ordoñez Peñalonzo</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2000</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">páginas 57-63</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">El concepto de cambio en el contexto de la educación implica recuperar la conciencia del contexto mayor al cual la educación es tributaria, el cambio social, tema al cual dedicaremos la primera parte de este trabajo. A partir de este esfuerzo, nuestro trabajo intenta aclarar dicho concepto en el contexto del proceso educativo para luego referirnos, a manera de conclusión, al caso de la educación primaria.
+La expresión aprender para el cambio se ha generalizado en algunos ambientes educativos de la América Latina y de otras latitudes, es un discurso que puede quedar difuso a menos que se explique aquello a lo cual se refiere cuando se habla de cambio, especialmente en el contexto de la educación primaria, que es un subsistema del sistema educativo.
+Cuando hablamos de educación primaria nos referimos a una edad importante de la formación de las nuevas generaciones. La manera como el sistema educativo divide la educación, obviamente, lo ha hecho con el criterio biológico -la edad de los niños- y no social. Dichosamente, el aporte del Piaget nos ha dirigido hacia la recuperación del ser humano- niño, como sujeto que construye conocimiento frente los desafíos del ambiente, el objeto que lo desafía. Es decir, Piaget se aproxima al estudio del sujeto como constructor de conocimiento tomando como punto de partida la estructura genética que le da posibilidades de, en conformidad con su edad, comprender y responder frente a esos  desafíos que le brinda el ambiente y sobrevivir. Es decir, Piaget nos plantea una epistemología que es genética.
+Por otra parte, el aporte de Paulo Freire  dichosamente también nos ha dirigido hacia la recuperación  del ser humano como sujeto frente al sistema social. La respuesta de Piaget es psico-genética, la respuesta de Freire es psico-social. Piaget nos ayuda a ver prioritariamente al niño o a la niña como sujeto frente al ambiente natural, Freire nos ayuda a ver al niño o a la niña cono sujeto frente al ambiente social. Ambos son importantes  para la educación  primaria actual. Nuevamente concluimos que no es posible descuidar ninguno de los factores decisivos  en la formación de los niños. Lo que se nos impone es comprender la relación dialéctica entre lo biológico y lo social. Aquí se debe advertir que Freire trabajó más en la educación de adultos;sin embargo, sus principios  psicosociales nos parecen de suma importancia para la educación primaria. Como sobre esto se ha hecho muy poco, lo que se debe agregar es sólo un proyecto para futuras investigaciones. Ese proyecto debería tener, al menos, los siguientes ejes teóricos:
+En primer lugar, que el niño o la niña es sujeto no sólo en el ambiente natural sino también en el ambiente social. Al niño y niña debe tratársele como sujeto de la educación y no como objeto del mismo.
+En segundo lugar, que de la misma manera como al niño a la niña hay que confrontarlo con su ambiente natural para que actúe sobre él y que actuando lo conozca, así también hay que confrontarlo con el ambiente social para que actúe sobre él y que actuando lo conozca.
+En tercer lugar, que existe una diferencia entre el mundo de lo natural y el mundo de lo social, que el mundo natural nos es dado a todos por igual pero que el mundo social, somos los seres humanos los que lo creamos y que cada sociedad tiene formas diferentes de organizarlo.
+En cuarto lugar, que se trata de actuar en el ambiente natural para lograr los beneficios que la naturaliza nos da para vivir, pero que también se trata de actuar en el ambiente social para lograr un sistema más apropiado para las necesidades humanas.
+En quinto lugar, que es posible establecer la diferencia entre lo social que busca su permanencia porque es necesario para la vida humana concreta y que es posoble detectar el cambio como esfuerzo creador para sustituir los sistemas que ya se han agotado</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" tag="773" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0032</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.24, no.especial (2000)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2696</subfield>
+    <subfield code="d">2696</subfield>
+  </datafield>
+</record>

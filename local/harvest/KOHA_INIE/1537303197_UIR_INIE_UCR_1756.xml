@@ -1,0 +1,51 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00947nam a2200169Ia 4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">1756</subfield>
+    <subfield code="d">1756</subfield>
+  </datafield>
+  <controlfield tag="008">141002s2008    cr            000 | und d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">06.03.06 </subfield>
+    <subfield code="b">1399</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="a">Carballo Vargas, Sonia</subfield>
+    <subfield code="9">191</subfield>
+  </datafield>
+  <datafield ind2="3" tag="245" ind1="1">
+    <subfield code="a">La educación del niño y la niña menores de tres años. Un estudio sobre la percepción que tienen las mujeres jefas de hogar de los límites que emplean al educar a sus hijos e hijas / </subfield>
+    <subfield code="c">Sonia Carballo Vargas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2008</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">148 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Informe final Proyecto N° 724-A5-309. La Unidad posee informe parcial 2006</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">	La educación del niño y de la niña menores de tres años, es un estudio sobre la percepción que tienen que tienen las mujeres-madres acerca del manejo de límites al educar a sus hijos e hijas. Desde una perspectiva básicamente psicopedagógica se investigó la percepción que tienen las mujeres madres acerca de los límites que manejan al educar a sus hijos e hijas durante el desarrollo prenatal y la primera infancia. Se insiste en escribir mujeres-madres embarazadas y mujeres madres jefas de hogar porque en esta investigación se dimensiona la necesidad de educar a la mujer como persona de derechos y a la madre que protege sus derechos y los de sus hijos e hijas. Las mujeres madres embarazadas, con sus percepciones evidencian preocupaciones, sentimientos, emociones, alegrías y dudas sobre la vivencia de su embarazo. Esta perspectiva permite a la investigadora proponer que en la educación prenatal a mujeres madres embarazadas se construya con ellas conocimientos habilidades emocionales, sociales y espirituales que les permita ser ellas mismas como personas en su relación consigo misma y con las demás personas. En la investigación de las percepciones que tienen las mujeres madres jefas de hogar acerca del manejo de límites al educar a sus hijos e hijas, el aporte que dan ellas, permite a la investigadora visualizar como hay comportamientos propios de los niños y de las niñas de edad prenatal y primera infancia, que aunque son propios del desarrollo, llegan a irritar a las madres. De ahí que la mujer-madre jefa de hogar requiere educación para fortalecer sus conocimientos en desarrollo humano y en el manejo de habilidades emocionales, sociales y espirituales que permitan que eduquen de forma armoniosa a sus hijos e hijas.</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">EDUCACIÓN PREESCOLAR</subfield>
+    <subfield code="9">455</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">MADRES</subfield>
+    <subfield code="9">1614</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">DISCIPLINA</subfield>
+    <subfield code="9">3586</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

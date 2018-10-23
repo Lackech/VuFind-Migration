@@ -1,0 +1,67 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03587nam a2200229Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">1948</subfield>
+    <subfield code="d">1948</subfield>
+  </datafield>
+  <controlfield tag="008">180628b1996    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">06.05.02 </subfield>
+    <subfield code="b">126</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="a">Peralta Monge, Teresita</subfield>
+    <subfield code="9">121</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Plan piloto para el mejoramiento de la enseñanza de la ciencia y la matemática : informe final /</subfield>
+    <subfield code="c"> Teresita Peralta Monge, Ana Rocío Madrigal Gutiérrez</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica :  </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1996</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">219 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Existe otro item: Informe final proyecto de investigación No. 724-89-421</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">Este proyecto de investigación, cuyo enfoque es constructivista, se realizó con el objetivo de elaborar y poner en práctica un plan piloto para mejorar -cualitativa y cuantitativamente- la enseñanza de las Ciencias y la Matemática en las instituciones de educación pública en Costa Rica. El plan se llevó a cabo en cuatro instituciones (dos escuelas y dos colegios), que representarían al grupo experimental. Asimismo, se seleccionaron cuatro instituciones más ( dos escuelas y dos colegios), que constituyeron el grupo control. Para la consecución de este plan, el equipo de investigadores propuso una serie de objetivos específicos, entre ellos, ejecutar el plan piloto para evaluarlo y hacer las adecuaciones necesarias en los programas de estudio de la Educación General Básica y del Ciclo Diversificado. Otro de los objetivos fue desarrollar, en los estudiantes, aptitudes científicas y actitudes positivas ante las Ciencias y la Matemática. Para esto, se aplicaron pruebas de aptitud con el fin de conocer la visión de los alumnos sobre cada una de las asignaturas, la escala empleada para recoger esta información fue elaborada por el Dr. Kenneth Tobin. También se confeccionaron y validaron pruebas de conocimiento con referencia a criterios, que se aplicaron ( tanto al grupo control como al experimental) al inicio del proyecto, en marzo de 1992, y al finalizar cada curso lectivo mientras tardó la investigación (en 1992, en 1993 y en 1994, respectivamente). Los resultados y el análisis de estas pruebas se presentan en 45 cuadros y sus respectivos gráficos en este informe final. Las pruebas citadas facilitaron, además, el cumplimiento de otro objetivo, determinar el nivel de los estudiantes con respecto a las variables dependientes en la investigación: dominio de procesos científicos, actitud hacia las Ciencias y su enseñanza, actitud hacia la Matemática y su enseñanza, dominio de conocimientos mínimos en Matemática y en Ciencias y desarrollo del pensamiento crítico. Para el análisis cualitativo del proyecto, los datos se recogieron por medio de la observación sistemática y controlada de las clases, así como por medio de encuestas y entrevistas a estudiantes, a maestros, a profesores, a directores y a padres de familia. Los resultados de esta investigación demostraron que después de aplicar el plan piloto al grupo experimental hubo mejoras en el rendimiento académico y en la actitud ante ambas asignaturas por parte de los estudiantes, el ambiente de aprendizaje se tornó más participativo y se propició la construcción del conocimiento (no su imposición). También se dio un cambio positivo en la actitud de los docentes que participaron en el proyecto. </subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">ENSEÑANZA</subfield>
+    <subfield code="9">14</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">EDUCACIÓN SECUNDARIA</subfield>
+    <subfield code="9">456</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">ENSEÑANZA DE LAS CIENCIAS </subfield>
+    <subfield code="9">996</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">MATEMÁTICAS  </subfield>
+    <subfield code="9">482</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">APRENDIZAJE </subfield>
+    <subfield code="9">387</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">FORMACIÓN DE DOCENTES</subfield>
+    <subfield code="9">9</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1=" ">
+    <subfield code="a">Madrigal Gutiérrez, Ana Rocío</subfield>
+    <subfield code="9">3490</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,62 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02968nam a2200205Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2080</subfield>
+    <subfield code="d">2080</subfield>
+  </datafield>
+  <controlfield tag="008">180828b2004    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">13.08.01 </subfield>
+    <subfield code="b">1278 CD #104</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="100">
+    <subfield code="a">Fonseca González, Vanessa</subfield>
+    <subfield code="9">1940</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Aprender jugando: Evaluación de la Célula Microcosmos de Vida / </subfield>
+    <subfield code="c">Vanessa Fonseca González</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">Costa Rica: </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2004</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">32 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Informe Final del Proyecto de Investigación N° 724-A4-152. Incluye disco compacto Nº104.</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">Este proyecto tuvo como propósito describir de que manera se incluyó el disco compacto “La célula: Microcosmos de vida” como una herramienta complementaria en el proceso de construcción de conocimientos sobre la célula entre estudiantes y profesores de noveno año. Valorar si el juego, brinda las herramientas conceptuales básicas para resolver los retos impuestos en las diferentes actividades del juego. Este disco es la primera producción de su tipo en Costa Rica. De ahí que sus condiciones de distribución y recepción son únicas y no hay antecedentes en el país de aplicaciones semejantes usadas en educación. Para realizar esta investigación se realizaron entrevistas personales y telefónicas a aproximadamente 9 personas, revisión de facturas de compra de CD, listas de participantes y capacitadores facilitadas por el INIE, y talleres. Como resultados más sobresalientes, están que algunos docentes demostraron ansiedad al no saber qué hacer o cómo jugar, otros exhibieron tensión producida por no saber las respuestas de algunas preguntas. La dinámica del juego tiende a acelerarse después de la etapa en el laboratorio. Lo que indica que en este sitio el usuario poco experimentado con este tipo de aplicaciones naturaliza su modo de navegación e interactividad con el juego. Entusiasmo generalizado. La novedad de la aplicación para algunos usuarios se demostró en curiosidad y asombro. Esto generó un involucramiento muy alto de parte de los participantes. Como conclusiones más importantes se enumeran las siguientes: 
+• El potencial del juego en análisis continúa siendo una propuesta de valor para docentes y estudiantes quienes afirmaron disfrutar y aprender en el proceso. 
+• Los problemas de distribución del juego y su nula circulación minimizan o invisibilizan el impacto que este realmente podría tener en el aula. 
+• El error que se generó en el proceso de quemado del texto impide su utilización en plataformas de computadoras Apple. Esto puede ser corregido en próximas ediciones. 
+• Reconstruir más fielmente el proceso de recepción en el aula, solo se podría hacer en un ambiente natural lo que supondría la utilización de una metodología diferente: etnografía de audiencias.</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">PROYECTO DE INVESTIGACION</subfield>
+    <subfield code="9">3951</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">CÉLULAS</subfield>
+    <subfield code="9">4017</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">JUEGO EDUCATIVO</subfield>
+    <subfield code="9">1941</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">ENSEÑANZA DE LAS CIENCIAS </subfield>
+    <subfield code="9">996</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,77 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01123nam a2200253Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2198</subfield>
+    <subfield code="d">2198</subfield>
+  </datafield>
+  <controlfield tag="008">180712b2005    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">16.01.02 </subfield>
+    <subfield code="b">1259</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Carrillo Delgado, María de los Ángeles</subfield>
+    <subfield code="9">2522</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Informe de Investigación: Consultas académicos universitarios sobre su percepción hacia la temática ambiental / </subfield>
+    <subfield code="c">María de los Angeles Carrillo Delgado; Claudia  Charpentier Esquivel; Lidia Mayela Hernández Rojas; Alejandrina Mata Segreda; Olga Emilia Brenes Chacón; Claudia Zuñiga Vega</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">Costa Rica: </subfield>
+    <subfield code="b">UCR, </subfield>
+    <subfield code="c">2005</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">28 páginas</subfield>
+  </datafield>
+  <datafield tag="610" ind1=" " ind2="4">
+    <subfield code="a">UNIVERSIDAD NACIONAL </subfield>
+    <subfield code="9">584</subfield>
+  </datafield>
+  <datafield tag="610" ind1=" " ind2="4">
+    <subfield code="a">INSTITUTO TECNOLÓGICO DE COSTA RICA </subfield>
+    <subfield code="9">582</subfield>
+  </datafield>
+  <datafield tag="610" ind2="4" ind1=" ">
+    <subfield code="a">UNIVERSIDAD ESTATAL A DISTANCIA </subfield>
+    <subfield code="9">583</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">MEDIO AMBIENTE</subfield>
+    <subfield code="9">792</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">INFORMES DE INVESTIGACIÓN </subfield>
+    <subfield code="9">4007</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">ENCUESTAS</subfield>
+    <subfield code="9">550</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">232</subfield>
+    <subfield code="a">Charpentier Esquivel, Claudia</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="9">2615</subfield>
+    <subfield code="a">Hernández Rojas, Lidia Mayela</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">109</subfield>
+    <subfield code="a">Mata Segreda, Alejandrina</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Brenes Chacón, Olga Emilia</subfield>
+    <subfield code="9">2614</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">2520</subfield>
+    <subfield code="a">Zúñiga Vega, Claudia</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,46 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01385nab a2200169   4500</leader>
+  <controlfield tag="005">20170826062552.0</controlfield>
+  <controlfield tag="008">151211b2006    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">88</subfield>
+    <subfield code="a">Gallardo Álvarez, Isabel</subfield>
+  </datafield>
+  <datafield ind2="4" tag="245" ind1="1">
+    <subfield code="a">La lectura de textos literarios en el colegio ¿Porqué no leen  los estudiantes? /</subfield>
+    <subfield code="c">Isabel Gallardo Álvarez</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2006</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">páginas 157-172</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">¿Porqué no leen los estudiantes de secundaria los textos literarios que les piden los docentes? Este artículo intenta contestar la pregunta refiriéndose a algunos de los aspectos que pueden provocar esta falta de gusto por la lectura. Uno de ellos se refiere a los cambios culturales ocurridos en las sociedades en los últimos tiempos, otro es la falta de ejemplo en el hogar, con padres que no son lectores  y el último es el tipo de textos que se escogen en el colegio como obligatorios  para la lectura. Éstos, más la forma de enseñarles en los colegios, son algunos de los factores  que no están ayudando a que el estudiante adolescente se acerque con placer al texto literario</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="0" tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0306</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.30, no.1 (2006)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">2963</subfield>
+    <subfield code="d">2963</subfield>
+  </datafield>
+</record>

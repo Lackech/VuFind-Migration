@@ -1,0 +1,34 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00647nam a2200133Ia 4500</leader>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">CD #176</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="111">
+    <subfield code="a">Universidad Iberoamericana León</subfield>
+  </datafield>
+  <datafield ind1=" " tag="245" ind2=" ">
+    <subfield code="a">[Información de la Dirección de Programas e Investigaciones en Educación]</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">México : </subfield>
+    <subfield code="b">Universidad Iberoamericana León, </subfield>
+    <subfield code="c">2006</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">[disco compacto]</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Incluye:\Curso propedéutico Identidad y roles del asesor\Diagnóstico necesidades de formación de los asesores\Programa de formación de habilidades para el Monitoreo y seguimiento de las acciones de asesoría pedagógica a la escuela.</subfield>
+  </datafield>
+  <datafield ind2=" " tag="650" ind1=" ">
+    <subfield code="a">UNIVERSIDAD IBEROAMERICANA LEON</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="p">002554 </subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2455</subfield>
+    <subfield code="d">2455</subfield>
+  </datafield>
+</record>

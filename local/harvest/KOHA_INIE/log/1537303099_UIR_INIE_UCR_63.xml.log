@@ -1,0 +1,1 @@
+Sep 18, 14:48:05 /usr/lib/jvm/default-java/bin/java -Xms512m -Xmx512m -DentityExpansionLimit=0 -Duser.timezone=UTC  -jar /usr/local/vufind/import/solrmarc_core_3.1.jar ../import/import_KOHA_INIE.properties -solrj /usr/local/vufind/solr/vendor/dist/solrj-lib /usr/local/vufind/local/harvest/KOHA_INIE/1537303099_UIR_INIE_UCR_63.xml

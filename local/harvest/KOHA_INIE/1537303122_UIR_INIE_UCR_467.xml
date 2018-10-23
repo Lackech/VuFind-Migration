@@ -1,0 +1,51 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00748nam a2200181Ia 4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">467</subfield>
+    <subfield code="d">467</subfield>
+  </datafield>
+  <controlfield tag="008">170203b2012    us ||||| |||| 00| | e   d</controlfield>
+  <datafield ind2=" " tag="020" ind1=" ">
+    <subfield code="a">9781615280780</subfield>
+  </datafield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">06.03.04 </subfield>
+    <subfield code="b">1567 CD#161</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">2148</subfield>
+    <subfield code="a">Place, Barbara</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Discussions 4 learning: an oral vocabulary and language program based on fine art real world photos / </subfield>
+    <subfield code="c">Barbara Place</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Worcester, Massachusetts  : </subfield>
+    <subfield code="b">Davis Publications, </subfield>
+    <subfield code="c">2012</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">volúmenes</subfield>
+  </datafield>
+  <datafield ind1=" " tag="500" ind2=" ">
+    <subfield code="a">Contiene: Program guide level A \ level A theme 1 \
+level A theme 2 \ level A theme 3 \ level A theme 4 \ level A 48 fine art images, 48 real world photos</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">ENSEÑANZA DE IDIOMAS</subfield>
+    <subfield code="9">1317</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1147</subfield>
+    <subfield code="a">BILINGÜISMO </subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">LENGUA INGLESA</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

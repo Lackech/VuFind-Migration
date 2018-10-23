@@ -1,0 +1,55 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>     nam a22     7a 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">3455</subfield>
+    <subfield code="d">3455</subfield>
+  </datafield>
+  <controlfield tag="008">171025b2009    CR ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">02.01.02</subfield>
+    <subfield code="b">1012</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">715</subfield>
+    <subfield code="a">Cordero Cordero, Teresita </subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Fortalecimiento y desarrollo del Plan Estratégico del 2009-2015 del INIE /</subfield>
+    <subfield code="c">Teresita Cordero Cordero, Wendy Páez  Cerdas, Ferdinando Goñi Ortiz</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">[San José, Costa Rica] :</subfield>
+    <subfield code="b">INIE,</subfield>
+    <subfield code="c">2009</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">13 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Informe final Proyecto de investigación Nº 724-A9-739</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">La Unidad posee Plan Estratégico 2009-2015</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="610">
+    <subfield code="9">153</subfield>
+    <subfield code="a">INSTITUTO DE INVESTIGACIÓN EN EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">762</subfield>
+    <subfield code="a">PLANIFICACIÓN ESTRATÉGICA</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="9">154</subfield>
+    <subfield code="a"> Páez Cerdas, Wendy</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">3256</subfield>
+    <subfield code="a">Goñi Ortiz, Ferdinando</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

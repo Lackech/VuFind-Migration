@@ -1,0 +1,62 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01090ngm a2200241   4500</leader>
+  <controlfield tag="003">cru INIE</controlfield>
+  <controlfield tag="005">20160905111302.0</controlfield>
+  <controlfield tag="008">160905b2016    mx ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">cru INIE</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">CD #274</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="9">1985</subfield>
+    <subfield code="a">Universidad Nacional Autónoma de México. Centro de Investigaciones Interdisciplinarias en Ciencias y Humanidades. Departamento de Producción Audiovisual y Multimedia</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Cristina Díaz López</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">México :</subfield>
+    <subfield code="b">CEIICH-UNAM,</subfield>
+    <subfield code="c">2016</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 videodisco (cerca de 31 min.);</subfield>
+    <subfield code="b">sonoro</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="490">
+    <subfield code="a">Trayectorias de académicas cubanas</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Créditos
+Producción, realización , edición y postproducción / Víctos Manuel Méndez Villanueva</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Coordinación académica / Norma Blazquez Graf y Lourdes Fernández Rius</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">La colección ofrece valiosos testimonios que pretenden estimular a las mujeres que decidan iniciarse en el camino de la academia y la investigación</subfield>
+  </datafield>
+  <datafield ind1=" " tag="600" ind2="0">
+    <subfield code="9">1987</subfield>
+    <subfield code="a">DÍAZ LÓPEZ, CRISTINA</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">968</subfield>
+    <subfield code="a">BIOGRAFÍAS</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">55</subfield>
+    <subfield code="a">MUJERES</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">08</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">3315</subfield>
+    <subfield code="d">3315</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,46 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01897nab a2200169   4500</leader>
+  <controlfield tag="005">20160422124907.0</controlfield>
+  <controlfield tag="008">160422b2010    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">1596</subfield>
+    <subfield code="a">Ruíz Chaves, Warner</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="3">
+    <subfield code="a">El centro de capacitación en educación a distancia: de la capacitación al desarrollo profesional 2000-2010 /</subfield>
+    <subfield code="c">Warner Ruíz Chaves</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2010</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">páginas 35-50</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">El escrito presenta una breve sistematización de la experiencia del Centro de Capacitación en Educación a Distancia (UNED) de Costa Rica con el fin de comprender la evolución de la concepción de capacitación "tradicional" a una propuesta de desarrollo profesional docente en el cual los equipos académicos de la Universidad se comprometieron no solo con la mejora personal sino en vvir la experiencia de la Misión y la Visión y el Modelo Pedagógico centrado en el estudiante que tiene la Institución. Esto de modo que se evidencien prácticas tutoriales da calidad, es decir, buscar la excelencia académica para la construcción de una sociedad justa basada, entre otros aspectos, en una exigencia académica en sus quehaceres fundamentales: docencia, investigación, extensión y producción de materiales didácticos. Todo con el objetivo de alcanzar los niveles educativos superiores deseados en condiciones de calidad, pertinencia y equidad, acordes con las demandas de los diversos grupos de la sociedad costarricense. Para ello se analizaron las estrategias metodológicas  aplicadas en algunos cursos y los comentarios de participantes de las experiencias</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" tag="773" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0398</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.35, no.1 (ene.-jun., 2011)</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">3142</subfield>
+    <subfield code="d">3142</subfield>
+  </datafield>
+</record>

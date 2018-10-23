@@ -1,0 +1,66 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01714nam a2200229Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2256</subfield>
+    <subfield code="d">2256</subfield>
+  </datafield>
+  <controlfield tag="008">180706b1994    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">18.08.00 </subfield>
+    <subfield code="b">179</subfield>
+  </datafield>
+  <datafield ind1=" " tag="100" ind2=" ">
+    <subfield code="a">Pereira Pérez, Zulay</subfield>
+    <subfield code="9">2902</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Nociones de suma y resta desde la perspectiva del niño.</subfield>
+    <subfield code="c">Zulay Pereira Pérez</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1994</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">153 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Informe Final del Proyecto de Investigación N° 724-90-046; Programa de Investigación en Epistemología Genética y Educación</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">El estudio procura conocer las nociones de suma y resta que tienen los niños de primero, segundo y tercer grado. La mayoría de estos niños, hacen referencia a acciones de quitar o añadir y aumentar para las respuestas a estos procesos. Sin embargo, persisten confusiones conceptuales que se traducen en "errores" de planteamiento, inversión de la operación y del procedimiento. Por lo tanto, se ve la necesidad de profundizar en el análisis de las concepciones de los niños. Por otro lado, se determinó que no existen diferencias entre conceptos en los niños, según sexo, nivel o tipo de escuela. Para los niños, parece ser significativo poder relacionar las acciones de suma y resta con situaciones de la vida cotidiana. Los niños mostraron clara facilidad para relacionar acciones concretas de adición y sustracción que se realizan frente a ellos con las operaciones de suma y resta que utilizan en el trabajo escolar.</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">MATEMÁTICAS  </subfield>
+    <subfield code="9">482</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">APRENDIZAJE </subfield>
+    <subfield code="9">387</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">EDUCACIÓN RURAL</subfield>
+    <subfield code="9">1665</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">EDUCACION URBANA</subfield>
+    <subfield code="9">3960</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">EDUCACIÓN PRIMARIA</subfield>
+    <subfield code="9">367</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">NIÑOS</subfield>
+    <subfield code="9">59</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+  </datafield>
+</record>

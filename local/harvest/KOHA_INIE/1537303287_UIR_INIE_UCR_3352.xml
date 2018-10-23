@@ -1,0 +1,61 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00708nam a2200205   4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3352</subfield>
+    <subfield code="d">3352</subfield>
+  </datafield>
+  <controlfield tag="008">161109b2005    sp a|||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="020">
+    <subfield code="a">8479535865</subfield>
+  </datafield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">05.03.05</subfield>
+    <subfield code="b">2396</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">2153</subfield>
+    <subfield code="a">O' Connor, Joseph</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Coaching con PNL: guía práctica para obtener lo mejor de ti mismo y de los demás /</subfield>
+    <subfield code="c">Joseph O' Connor y Andrea Lages</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Barcelona, España :</subfield>
+    <subfield code="b">Ediciones Urano,</subfield>
+    <subfield code="c">2005</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">268 páginas;</subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">301</subfield>
+    <subfield code="a">LIDERAZGO</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">729</subfield>
+    <subfield code="a">CAPACITACIÓN</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">2154</subfield>
+    <subfield code="a">AUTORREALIZACIÓN (PSICOLOGÍA)</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">426</subfield>
+    <subfield code="a">MANUALES </subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">2155</subfield>
+    <subfield code="a">PROGRAMACIÓN NEUROLINGUÍSTICA</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">2156</subfield>
+    <subfield code="a">Lages, Andrea</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

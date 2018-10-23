@@ -1,0 +1,77 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03344nam a2200265Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2319</subfield>
+    <subfield code="d">2319</subfield>
+  </datafield>
+  <controlfield tag="008">180905b1997    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">18.09.01 </subfield>
+    <subfield code="b">712</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">4199</subfield>
+    <subfield code="a">Alvarado González, Liceth</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Informe nacional sobre el desarrollo, validación y aplicación de las pruebas de diagnóstico de conocimientos, 1997 / </subfield>
+    <subfield code="c">Liceth Alvarado González, Norma Patricia Blanco Quirós, Ana Cervantes Acosta, Mary Leitón Quirós, José Maurilio Loría Meneses, Juan Manuel Esquivel Alfaro </subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1997</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">142 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">La unidad posee informe nacional sobre resultados y resumen comparativo de resultados de pruebas 1995-1996 y 1997</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">Este informe explica el proceso de desarrollo y de validación de las pruebas de diagnóstico de conocimientos en las áreas de Matemáticas, Español, Ciencias y Estudios Sociales para el I y II ciclos de la Educación General Básica. Por ser pruebas referidas a criterios, se procedió a definir concreta y específicamente los conocimientos que se medirían. Para esto, los investigadores se basaron en los objetivos conductuales que los asesores del MEP indicaron como prioritarios para ser medidos en cada ciclo. Con esta información se elaboraron pruebas piloto para cada una de las asignaturas, que luego fueron sometidas a un proceso de validación con el fin de reformular los ítemes para que presentaran una calidad técnica aceptable y un nivel de discriminación igual o superior a 0,35. Una vez realizada esta tarea, se administraron las pruebas diagnósticas a una muestra constituida por la lista nacional de instituciones y su matrícula inicial para 1996 en los niveles de tercer y sexto grados (información suministrada por el MEP). Esta muestra se dividió en cuatro grupos y cada grupo se ordenó según las regiones de MIDEPLAN. El análisis estadístico de estas pruebas, para el cual se consideraron las variables de género, tipo de escuela, sector y región, arrojó información importante sobre los resultados por dominio de objetivos y los resultados normativos (tanto en el nivel descriptivo como en el inferencial), necesaria para la ejecución de acciones correctivas que favorezcan el mejoramiento de la educación en Costa Rica. También se elaboró un inventario para medir, por una parte, la actitud de los educadores hacia la docencia como vivencia real de los valores sociales y hacia la atención del niño como individuo y, por otra, la reacción hacia acciones propias de la docencia de carácter más cognoscitivo. La encuesta se administró a una muestra conformada por todos los docentes de los grupos de tercer y sexto grados en los que se realizaron las pruebas. El resultado de esta medición evidencia una actitud negativa de los maestros hacia la docencia; sin embargo, se advierte la necesidad de efectuar un estudio de validación del instrumento empleado para este propósito.</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">PRUEBAS</subfield>
+    <subfield code="9">629</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">DIAGNÓSTICO</subfield>
+    <subfield code="9">632</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">INFORMES</subfield>
+    <subfield code="9">267</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Blanco Quirós, Norma Patricia</subfield>
+    <subfield code="9">4200</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Cervantes Acosta, Ana</subfield>
+    <subfield code="9">4201</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Leitón Quirós, Mary </subfield>
+    <subfield code="9">4188</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="a">Loría Meneses, José Maurilio</subfield>
+    <subfield code="9">122</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Esquivel Alfaro, Juan Manuel</subfield>
+    <subfield code="9">157</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+  </datafield>
+</record>

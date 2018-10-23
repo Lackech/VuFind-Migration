@@ -1,0 +1,57 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00696nam a2200193   4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">3527</subfield>
+    <subfield code="d">3527</subfield>
+  </datafield>
+  <controlfield tag="008">180629b2013    ag a|||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="020" ind1=" ">
+    <subfield code="a">9789500009898</subfield>
+  </datafield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">06.03.07</subfield>
+    <subfield code="b">2459</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1=" ">
+    <subfield code="9">3852</subfield>
+    <subfield code="a">Recalde, Santa</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Cambio climático / </subfield>
+    <subfield code="c">Santa Recalde, María Josefa Mandón, Pablo Torres, Marcelo Alejandro Diez</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">[Buenos Aires, Argentina] :</subfield>
+    <subfield code="b">Ministerio de Educación de la Nación,</subfield>
+    <subfield code="c">[2013]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">148 páginas;</subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield ind2=" " tag="490" ind1=" ">
+    <subfield code="a">Escritura en ciencias,</subfield>
+    <subfield code="v">10</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">996</subfield>
+    <subfield code="a">ENSEÑANZA DE LAS CIENCIAS </subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="700">
+    <subfield code="9">3853</subfield>
+    <subfield code="a">Mandón, María Josefa</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="700">
+    <subfield code="9">3854</subfield>
+    <subfield code="a">Torres, Pablo</subfield>
+  </datafield>
+  <datafield ind1=" " tag="700" ind2=" ">
+    <subfield code="9">3813</subfield>
+    <subfield code="a">Diez, Marcelo Alejandro</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

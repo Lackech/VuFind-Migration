@@ -1,0 +1,65 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00743nam a2200217Ia 4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2052</subfield>
+    <subfield code="d">2052</subfield>
+  </datafield>
+  <controlfield tag="008">180904b2001    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">12.06.01 </subfield>
+    <subfield code="b">1603</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1=" ">
+    <subfield code="a">Valle Lima, Suzana María</subfield>
+    <subfield code="9">3722</subfield>
+  </datafield>
+  <datafield ind2="3" tag="245" ind1="1">
+    <subfield code="a">La dimensión de entorno en la construcción de la sostenibilidad institucional / </subfield>
+    <subfield code="c">Suzana María Valle Lima</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Proyecto ISNAR, </subfield>
+    <subfield code="c">2001</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">141 páginas</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">INNOVACIONES</subfield>
+    <subfield code="9">649</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">ORGANIZACIÓN</subfield>
+    <subfield code="9">4169</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1=" ">
+    <subfield code="a">Gómez de Castro, Antonia María</subfield>
+    <subfield code="9">4173</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="700">
+    <subfield code="a">Mengo, Oneyda </subfield>
+    <subfield code="9">3728</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="a">Medina, Marcos</subfield>
+    <subfield code="9">4172</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1=" ">
+    <subfield code="a">Maestrey, Albina </subfield>
+    <subfield code="9">3725</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Trujillo, Valentina</subfield>
+    <subfield code="9">4170</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="a">Alfaro, Omar</subfield>
+    <subfield code="9">4171</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

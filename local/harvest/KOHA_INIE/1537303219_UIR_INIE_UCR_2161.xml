@@ -1,0 +1,57 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02777nam a2200205Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2161</subfield>
+    <subfield code="d">2161</subfield>
+  </datafield>
+  <controlfield tag="008">180713b2004    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">14.02.05 </subfield>
+    <subfield code="b">1045 CD #195</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="a">Villarreal Montoya, Ana Lucía</subfield>
+    <subfield code="9">252</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Construcción del concepto de maternidad en la educación formal y no formal / </subfield>
+    <subfield code="c">Ana Lucía Villareal Montoya; Katia Alvarado Calderón</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">2004</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">61 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Informe Final del Proyecto N° 724-A2-032\Taller en CD</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">Este proyecto se orienta a develar la construcción social, política, ideológica y económica de la maternidad, desde la perspectiva de género para desarrollar diferentes acciones dirigidas a que las mujeres develen el contenido que se le asigna a la maternidad, tanto en la educación formal como no formal en el contexto costarricense. Los objetivos planteados fueron: analizar el proceso de construcción del concepto de maternidad en la educación formal y establecer estrategias para deconstruir el concepto de maternidad en la sociedad costarricense. Esta investigación se enmarca en la tradición de la investigación cualitativa. Esta elección se debió al interés por la comprensión de los significados atribuidos por los individuos a la maternidad. De este modo, en una perspectiva feminista, lo que interesa es aproximarse a lo que un grupo de niños y niñas pueda informar sobre lo que para ellos es “una madre”. Se centrará en la idea que expresen niños y niñas sobre la maternidad como un concepto que se construye en la interacción con los otros y desde luego con sus propias madres y otros referentes maternos. Como técnicas para recolección de la información se utilizó el dibujo temático, la entrevista focalizada o simbólica con niños y las niñas, grupo focal, entrevista dirigida para la docente y para la facilitadora. En el espacio de la educación formal, la población meta del proyecto la conforman infantes de tercer grado de primaria y la docente de un grupo de estudiantes de 9 años. En el espacio de la educación no formal la población meta la conforma un grupo de mujeres participantes en el programa “Creciendo juntas”, coordinado por el Instituto Mixto de Ayuda Social (IMAS). Los resultados son presentados según los discursos de las personas participantes, así como en cinco dimensiones, a saber: Descriptiva; La moral-ética; La función materna; Del cuidado; La función de la escuela. La investigación presenta una propuesta de Deconstrucción y transformación del concepto maternidad.</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">MATERNIDAD</subfield>
+    <subfield code="9">2496</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">EDUCACION FORMAL </subfield>
+    <subfield code="9">4059</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">EDUCACION NO FORMAL</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Alvarado Calderón, Kathia</subfield>
+    <subfield code="9">2020</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+  </datafield>
+</record>

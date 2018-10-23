@@ -1,0 +1,46 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01679nab a2200169   4500</leader>
+  <controlfield tag="005">20160331135107.0</controlfield>
+  <controlfield tag="008">151211b2006    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">186</subfield>
+    <subfield code="a">Méndez Anchía, Silvia</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Comprensión lectora y textos literarios: una propuesta psicopedagógica /</subfield>
+    <subfield code="c">Silvia Méndez Anchía</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2006</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">páginas 141-155</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">El ensayo presenta una reflexión sobre  la lectura de textos literarios en el tercer ciclo de la Enseñanza General Básica en relación con el fomento  de la comprensión lectora y la formación del estudiante. Primero, se realiza una breve presentación de los programas de estudio de Español del Ministerio de Educación Pública  en lo relativo a la lectura de textos literarios. Luego se aclaran dos premisas de la propuesta: la concepción de Psicopedagogía que le sirve de encuadre y el orden de presentación de los niveles de lectura. Se desarrollan, a continuación, una serie de consideraciones  acerca de los seis niveles de comprensión lectora propuestos en los programas de estudio (literal, de reorganización de lo explícito, inferencial, evaluativo, apreciativo, y aplicativo y recreativo) con base en las demandas cognitivas que implica la lectura de textos literarios, para planear, por último, la necesidad de que la lectura forme  y transforme a los sujetos adolescentes</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind1="0" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0306</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.30, no.1 (2006)</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2962</subfield>
+    <subfield code="d">2962</subfield>
+  </datafield>
+</record>

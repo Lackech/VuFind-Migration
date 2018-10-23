@@ -1,0 +1,46 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01430nab a22001697a 4500</leader>
+  <controlfield tag="005">20160328155550.0</controlfield>
+  <controlfield tag="008">150730b2002    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">197</subfield>
+    <subfield code="a">Bolaños González, Jimmy</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="3">
+    <subfield code="a">La responsabilidad civil en los directores de Centros Educativos por daños ocacionados por sus alumnos /</subfield>
+    <subfield code="c">Jimmy Bolaños González</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2002</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">páginas 135-146</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">Los Directores de Centros Educativos, públicos y privados, tienen que hacer frente a múltiples responsabilidades en el ejercito de sus delicadas funciones al frente de un centro de enseñanza de menores de edad. Este artículo aborda la responsabilidad civil o patrimonial que legalmente les puede corresponder afrontar por daños que ocasionen sus alumnos durante su permanencia en los centros educativos, para lo cual se hae un repaso por la legislación vigente, haciendo acopio a la legislación comparada y a una jurisprudencia reciente, a fin de biensituar el análisis jurídico del tema, distinguiendo sus diferentes consecuencias, sea que se trate del ámbito público o privado en que se desenvuelvan</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="0" tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0060</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.26, no.1  (2002)</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2750</subfield>
+    <subfield code="d">2750</subfield>
+  </datafield>
+</record>

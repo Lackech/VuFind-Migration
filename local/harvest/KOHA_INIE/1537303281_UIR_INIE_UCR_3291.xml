@@ -1,0 +1,53 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00721nam a2200181   4500</leader>
+  <controlfield tag="008">160729b2016    cr a|||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="020">
+    <subfield code="a">9789930528167</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">05.03.01</subfield>
+    <subfield code="b">2295</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">1390</subfield>
+    <subfield code="a">Chacón Mata, Fernanda</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="3" tag="245">
+    <subfield code="a">El desarrollo costarricense en el contexto internacional: situación actual y retos /</subfield>
+    <subfield code="c">Fernanda Chacón y Pablo Sauma</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Universidad de Costa Rica. Observatorio del Desarrollo,</subfield>
+    <subfield code="c">2016</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">76 páginas;</subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="490">
+    <subfield code="a">Serie Indicadores internacionales de desarrollo,</subfield>
+    <subfield code="v">10</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">77</subfield>
+    <subfield code="a">DESARROLLO HUMANO</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">445</subfield>
+    <subfield code="a">DESARROLLO ECONÓMICO Y SOCIAL</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">265</subfield>
+    <subfield code="a">INDICADORES DE DESARROLLO</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3291</subfield>
+    <subfield code="d">3291</subfield>
+  </datafield>
+</record>

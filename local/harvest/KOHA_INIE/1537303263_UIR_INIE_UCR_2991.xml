@@ -1,0 +1,46 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01441nab a2200169   4500</leader>
+  <controlfield tag="005">20160331140239.0</controlfield>
+  <controlfield tag="008">151216b2007    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">1117</subfield>
+    <subfield code="a">Cabezas Pizarro, Hannia </subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Detección de conductas agresivas "bullyings" en escolares de sexto a octavo año, en una muestra costarricense /</subfield>
+    <subfield code="c">Hannia Cabezas Pizarro</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2007</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">páginas 123-133</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">El presente trabajo es un estudio piloto llevado a cabo con una muestra de estudiantes costarricenses, que se encuentran entre sexto y octavo año, que pretende medir las conductas agresivas  que se presentan en esa población. Generalmente ubicamos estas conductas fuera del contexto escolar, sin embargo, es un hecho que se vive en nuestras aulas con más frecuencia de la que imaginamos, situación que se está tornando preocupante y a la que debe prestarse atención. Los datos obtenidos  en la muestra nos indican porcentajes de conductas agresivas en este grupo comparables con la media europea, situación que no debe escapar a la atención de las personas encargadas de disciplinar y orientar a esa población</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " tag="773" ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0308</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.31, no.1 (2007)</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">2991</subfield>
+    <subfield code="d">2991</subfield>
+  </datafield>
+</record>

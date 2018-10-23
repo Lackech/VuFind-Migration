@@ -1,0 +1,50 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02255nab a2200181   4500</leader>
+  <controlfield tag="005">20160331155058.0</controlfield>
+  <controlfield tag="008">160126b           f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">183</subfield>
+    <subfield code="a">Moncada Jiménez, José</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Estudio de caso: análisis biomecánico y fisiológico del Skyrunner /</subfield>
+    <subfield code="c">José Moncada Jiménez, Pietro Scaglioni Solano</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2009</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">páginas 145-154</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">El propósito de este estudio de caso fue analizar un implemento deportivo de venta en el mercado costarricense, el Skyrunner, desde el punto de vista de biomecánico y fisiológico. Para ello, se estudiaron las diferencias biomécanicas y fisiológicas cuando se usa y no se usa el Skyrunner. Un hombre (20 años, 1.67 m, 55 kg) fue el caso de estudio. El análisis de las variables biomecáncias se realizó por medio de una plataforma de fuerza, con el que se obtuvo la fuerza vertical, el tiempo de vuelo, la altura de salto, el impulso vertical y la duracción de la fase de impulso. Para la medición de las variables fisiológicas se utilizó un carro metabólico para evaluar el gasto energético mientras el sujeto se ejercitaba en una banda sin fin durante el calentamiento, el ejercicio y la fase de recuperación. En general, la utilización del Skyrunner provocó un mayor gasto de energía, que se puede atribuir al requerimiento de mecanismos de equilibrio y tensión muscular que conllevan un gasto importante de energía. La altura de los saltos con Skyrunner fueron de un 50% más altas, a pesar de que el impulso vertical fue cerca de un 15% menor. El tiempo de impulsión fue de un 27,5% del tiempo de un salto normal y se generaron fuerzas casi tres veces mayores. Esto denota la gran eficiencia mecánica del sistema, que es capaz de guardar y utilizar mayor cantidad de energía elástica acumulada en la estructura, en comparación con la que producen las piernas en forma aislada</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">1323</subfield>
+    <subfield code="a">Scaglioni Solano, Pietro</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="0" tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0311</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.33, no.1 (2009)</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">3030</subfield>
+    <subfield code="d">3030</subfield>
+  </datafield>
+</record>

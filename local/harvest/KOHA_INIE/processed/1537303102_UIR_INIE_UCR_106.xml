@@ -1,0 +1,42 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00640nam a2200157Ia 4500</leader>
+  <controlfield tag="008">150727b201     c  ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="022" ind1=" ">
+    <subfield code="a">1021-1209</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">05.01.01 </subfield>
+    <subfield code="b">1800</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Reflexiones: revista Facultad de Ciencias Sociales</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Editorial de la Universidad de Costa Rica, </subfield>
+    <subfield code="c">2012</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">316 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Número especial, Jornadas de Investigación Interdisciplinaria en Ciencias Sociales "Compartiendo la experiencia investigativa 30 de agosto al 02 de setiembre, 2011"</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">CIENCIAS SOCIALES </subfield>
+    <subfield code="9">276</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">PUBLICACIONES PERIÓDICAS</subfield>
+    <subfield code="9">3</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">106</subfield>
+    <subfield code="d">106</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,79 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01230nam a2200265Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">924</subfield>
+    <subfield code="d">924</subfield>
+  </datafield>
+  <controlfield tag="008">160414b2006    CR a|||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="020" ind1=" ">
+    <subfield code="a">9968993975</subfield>
+  </datafield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">06.03.01 </subfield>
+    <subfield code="b">320</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">736</subfield>
+    <subfield code="a">Arguedas Quesada, Consuelo</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="3" tag="245">
+    <subfield code="a">La expresión artística un medio para construir procesos pedagógicos significativos en el aula [Guía didáctica] / </subfield>
+    <subfield code="c">Consuelo Arguedas Quesada; Julieta Castro Bonilla; Jacqueline García Fallas</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2006</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">106 páginas;</subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="490">
+    <subfield code="a">Colección Yigüirro</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">Las vivencias del proceso de investigación "La expresión artística: un recurso heurístico para la construcción de procesos pedagógicos en el aula, desde una perspectiva de género", se han logrado plasmar en la obra titulada "La expresión artística un medio para construir procesos pedagógicos significativos en el aula". En esta las autoras plantean la experiencia compartida con docentes y estudiantes de la Escuela República de Haití en los períodos de marzo del 2001 a noviembre del 2002, mediante la cual se propusieron integrar la expresión artística a los contenidos curriculares, considerándola un eje transversal metodológico para su integración al currículo escolar, y a una propuesta innovadora para la práctica pedagógica. La culminación del proceso se muestra a través de la publicación de esta guía.</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">EXPRESIÓN ARTÍSTICA INFANTIL</subfield>
+    <subfield code="9">1522</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">PROCESO DE APRENDIZAJE</subfield>
+    <subfield code="9">1523</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">MATEMÁTICAS  </subfield>
+    <subfield code="9">482</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">ESTUDIOS SOCIALES</subfield>
+    <subfield code="9">675</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">MEDIO AMBIENTE</subfield>
+    <subfield code="9">792</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">MÚSICA</subfield>
+    <subfield code="9">13</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">EXPRESIÓN CORPORAL</subfield>
+    <subfield code="9">1440</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="9">1082</subfield>
+    <subfield code="a">Castro Bonilla, Julieta</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">759</subfield>
+    <subfield code="a">García Fallas, Jacqueline</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

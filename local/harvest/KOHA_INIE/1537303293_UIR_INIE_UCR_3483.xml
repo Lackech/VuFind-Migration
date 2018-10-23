@@ -1,0 +1,46 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>     nam a22     7a 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">3483</subfield>
+    <subfield code="d">3483</subfield>
+  </datafield>
+  <controlfield tag="008">180223b2014    pn ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="022" ind1=" " ind2=" ">
+    <subfield code="a">04947061</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">05.03.01</subfield>
+    <subfield code="b">2129</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Tareas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">Panamá :</subfield>
+    <subfield code="b">CELA,</subfield>
+    <subfield code="c">2014</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">144 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="500">
+    <subfield code="a">Tareas, no.147, mayo -agosto, 2014</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">396</subfield>
+    <subfield code="a">SOCIEDAD </subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">378</subfield>
+    <subfield code="a">CULTURA </subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">3</subfield>
+    <subfield code="a">PUBLICACIONES PERIÓDICAS</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">03</subfield>
+  </datafield>
+</record>

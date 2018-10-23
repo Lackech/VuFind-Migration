@@ -1,0 +1,64 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00903nam a2200229Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2127</subfield>
+    <subfield code="d">2127</subfield>
+  </datafield>
+  <controlfield tag="008">180821b2002    ag ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">14.02.02 </subfield>
+    <subfield code="b">456</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="110">
+    <subfield code="a">Fondo de las Naciones Unidas para la Infancia (UNICEF)</subfield>
+    <subfield code="9">4026</subfield>
+  </datafield>
+  <datafield tag="245" ind2="3" ind1="1">
+    <subfield code="a">La nutrición en las primeras etapas de la vida. Modulo 1 / </subfield>
+    <subfield code="c">Fondo de las Naciones Unidas para la Infancia </subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">Buenos Aires, Argentina : </subfield>
+    <subfield code="b">UNICEF, </subfield>
+    <subfield code="c">2002</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">65</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="500">
+    <subfield code="a">La Unidad de Información cuenta además con los modulos 2-La alimentación del niño en edad escolar/ 3-Aprender a leer y a escribir/ 4-Aprender a leer y a escribir en la escuela/ 5-El desarrollo psicológico infantil</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">NUTRICIÓN</subfield>
+    <subfield code="9">534</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">ALFABETIZACIÓN</subfield>
+    <subfield code="9">80</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">PSICOLOGÍA DEL DESARROLLO</subfield>
+    <subfield code="9">1264</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">DERECHOS DEL NIÑO</subfield>
+    <subfield code="9">570</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+  </datafield>
+</record>

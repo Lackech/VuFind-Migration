@@ -1,0 +1,63 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00894nam a2200217   4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2870</subfield>
+    <subfield code="d">2870</subfield>
+  </datafield>
+  <controlfield tag="008">150914b2014    MX a|||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="020" ind2=" ">
+    <subfield code="a">9786070262166</subfield>
+  </datafield>
+  <datafield ind2=" " tag="050" ind1=" ">
+    <subfield code="b">http://uir-gestion.inie.ucr.ac.cr/cgi-bin/koha/cataloguing/addbiblio.pl#</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">CD # 259</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">245</subfield>
+    <subfield code="a">Sánchez Olvera, Alma</subfield>
+  </datafield>
+  <datafield tag="245" ind2="3" ind1="1">
+    <subfield code="a">La profesión académica en la FES Acatlán: nudos y tensiones en trayectorias e itinerarios académicos /</subfield>
+    <subfield code="c">Alma Sánchez Olvera; Raquel Güereca Torres</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">México :</subfield>
+    <subfield code="b">Universidad Nacional Autónoma de México. Facultad de Estudios Superiores,</subfield>
+    <subfield code="c">2014</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">167 páginas</subfield>
+    <subfield code="b">1 disco de computadora; Archivo PDF</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">69</subfield>
+    <subfield code="a">GÉNERO</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">8</subfield>
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">331</subfield>
+    <subfield code="a">DOCENTES</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">498</subfield>
+    <subfield code="a">FORMACIÓN PROFESIONAL</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1928</subfield>
+    <subfield code="a">SITUACIÓN DE LOS DOCENTES</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">187</subfield>
+    <subfield code="a">Güereca Torres, Raquel</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">08</subfield>
+  </datafield>
+</record>

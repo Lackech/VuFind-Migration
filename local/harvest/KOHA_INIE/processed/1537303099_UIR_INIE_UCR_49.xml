@@ -1,0 +1,55 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00632nam a2200193Ia 4500</leader>
+  <controlfield tag="008">150716b1992    U  ||||| |||| 00| | E   d</controlfield>
+  <datafield tag="020" ind2=" " ind1=" ">
+    <subfield code="a">0873674588</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">06.03.04 </subfield>
+    <subfield code="b">1212</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="a">Grant Hennings, Dorothy</subfield>
+    <subfield code="9">364</subfield>
+  </datafield>
+  <datafield tag="245" ind2="1" ind1="0">
+    <subfield code="a">Beyond the read aloud: learning to read through listening to reflecting on literature / </subfield>
+    <subfield code="c">Dorothy Grant Hennings</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">Indiana : </subfield>
+    <subfield code="b">Phi Delta Kappa Educational Foundation, </subfield>
+    <subfield code="c">1992</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">93 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Material en idioma inglés</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">LECTURA</subfield>
+    <subfield code="9">365</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">LEER</subfield>
+    <subfield code="9">366</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">EDUCACIÓN PRIMARIA</subfield>
+    <subfield code="9">367</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">PENSAMIENTO</subfield>
+    <subfield code="9">368</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">49</subfield>
+    <subfield code="d">49</subfield>
+  </datafield>
+</record>

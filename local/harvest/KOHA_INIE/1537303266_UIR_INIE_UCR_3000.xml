@@ -1,0 +1,47 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02347nab a2200169   4500</leader>
+  <controlfield tag="005">20160111142728.0</controlfield>
+  <controlfield tag="008">160107b2       cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">1260</subfield>
+    <subfield code="a">Fragoso Fernández, Esther</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Orientación profesional del docente a partir de la investigación acción. Caso: Construcción de un proyecto de formación en valores /</subfield>
+    <subfield code="c">Esther Fragoso Fernández</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2007</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">páginas111-125</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">El trabajo que se presenta es un avance de dos de las tres fases que conforman la presente investigación. En este estudio se aprecian los lineamientos teoricos que sustentan el proyecto de investigación y se valora la utilización de la investigación acción como metodología para la formación continua del profesorado, muestra el desarrollo que se llevo a cabo en el colegio, asi como, las ventajas y obstáculos que se presentaron a lo largo de su puesta en práctica. En la metodología se contempla la aplicación de la investigación acción como una herramienta de formacion del profesorado del Colegio Montessori Tepuente en Cuernavaca Morelos, México, al desarrollar una propuesta educativa en valores para la comunidad escolar. Los resultados reflejan el avance de los instrumentos trabajados con maestros, padres de familia, alumnos y directivos del plantel. La aportación central  de esta investigación muestra una aversión  a nivel descriptivo de la orientación y desarrollo logrado con los maestros a partir de la investigación acción participativa en la elaboración de un  programa en valores para todos los ámbitos del colegio.
+En el desarrollo de la investigación se está aplicando la tercera fase de dicho programa como prueba piloto en el ciclo escolar 2007-2008. Con la investigación se espera dar soporte formativo y academico a la  comunidad educativa (directivos, maestros, padres y niños del colegio en particular) y a futuro, considerar este trabajo  como un modelo para que otras escuelas afines se beneficien con el programa de valores en el colegio</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind2=" " ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0309</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.31, no.2 (2007) </subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">3000</subfield>
+    <subfield code="d">3000</subfield>
+  </datafield>
+</record>

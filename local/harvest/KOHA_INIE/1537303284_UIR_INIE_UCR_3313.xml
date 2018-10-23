@@ -1,0 +1,79 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01159nam a22002657a 4500</leader>
+  <controlfield tag="008">160831b2015    s.l||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="020" ind1=" ">
+    <subfield code="a">994220923</subfield>
+  </datafield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">06.02.01</subfield>
+    <subfield code="b"> 2368</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">1954</subfield>
+    <subfield code="a">Carrión Jaramillo, Fabián</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Aprendamos a educar / Fabián Carrión, Juan Durán, Edgar Isch, Pablo Miranda, Mariana Pallasco, Fernando Rodríguez</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">[Lugar de publicación no identificado] :</subfield>
+    <subfield code="b">Ediciones Opción,</subfield>
+    <subfield code="c">2015</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">149 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="505" ind2=" ">
+    <subfield code="t">La praxis educativa: ¿Reproducción o emancipación? / </subfield>
+    <subfield code="r">Fabián Carrión Jaramillo</subfield>
+  </datafield>
+  <datafield ind2=" " tag="505" ind1=" ">
+    <subfield code="t">Una aproximación a la pedagogía crítica /</subfield>
+    <subfield code="r">Edgar Isch L.</subfield>
+  </datafield>
+  <datafield ind2=" " tag="505" ind1=" ">
+    <subfield code="t">¿Cómo educar para la emancipación social /</subfield>
+    <subfield code="r">Juan Carlos Durán Molina</subfield>
+  </datafield>
+  <datafield ind2=" " tag="505" ind1=" ">
+    <subfield code="t">Evaluación de la política 7 del Plan Decenal de Educación /</subfield>
+    <subfield code="r">Fernando Rodríguez A.</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="505">
+    <subfield code="t">La interculturalidad en el Ecuador /</subfield>
+    <subfield code="r">Pablo MIranda</subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2="0">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="9">1955</subfield>
+    <subfield code="a">Durán Molina, Juan Carlos</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">1956</subfield>
+    <subfield code="a">Isch L., Edgar</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="9">1957</subfield>
+    <subfield code="a">Pallasco, Mariana</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">1958</subfield>
+    <subfield code="a">Rodríguez A., Fernando</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="9">1959</subfield>
+    <subfield code="a">Miranda, Pablo</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">3313</subfield>
+    <subfield code="d">3313</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,46 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00508nam a22001577a 4500</leader>
+  <controlfield tag="008">161018b2014    cr a|||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">05.03.01 </subfield>
+    <subfield code="b">2232 </subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">2082</subfield>
+    <subfield code="a">Barboza Navarro, Luis </subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Autoestima, amistad y noviazgo /</subfield>
+    <subfield code="c">Luis Barboza Navarro</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Litografía Morales,</subfield>
+    <subfield code="c"> 2014</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">51 páginas; </subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield ind2="0" tag="650" ind1=" ">
+    <subfield code="9">1874</subfield>
+    <subfield code="a">RELACIONES HUMANAS</subfield>
+  </datafield>
+  <datafield ind2="0" tag="650" ind1=" ">
+    <subfield code="9">876</subfield>
+    <subfield code="a">DESARROLLO AFECTIVO</subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2="0">
+    <subfield code="9">1790</subfield>
+    <subfield code="a">PERSONALIDAD</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">3339</subfield>
+    <subfield code="d">3339</subfield>
+  </datafield>
+</record>

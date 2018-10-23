@@ -1,0 +1,55 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01743nab a2200193   4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2719</subfield>
+    <subfield code="d">2719</subfield>
+  </datafield>
+  <controlfield tag="005">20170904153200.0</controlfield>
+  <controlfield tag="008">150701b2001    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">246</subfield>
+    <subfield code="a">Mora Z., Laura</subfield>
+  </datafield>
+  <datafield tag="245" ind2="3" ind1="1">
+    <subfield code="a">La imagen corporal en adolescentes: expresión de los aprendizajes socioculturales adquiridos sobre el ser mujer /</subfield>
+    <subfield code="c">Laura Mora Z., Gabriela Muñoz P., Cecilia Villarreal</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2001</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">páginas 111-122</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">En este artículo se presentan los resultados de una investigación cualitativa, realizada con un grupo de quince mujeres adolescentes estudiantes del Liceo Monseñor Rubén Odio Herrera de la provincia de San José. Se recogen experiencias de estas jóvenes con respecto a la forma de vivir su femineidad en la adolescencia profundizando en cuanto a las percepciones y significados que, a través de la educación, ellas han construido alrededor del cuerpo femenino.
+Se reúnen algunas de las principales concepciones teóricas relativas a la imagen corporal femenina en la etapa de la adolescencia para relacionarlas con la forma en cómo las participantes conciben la maternidad, la belleza física y la necesidad de aceptación frente a otras personas. Hace referencia a la dimensión erótica del cuerpo femenino y a la necesidad de convertirlo en un instrumento para alcanzar y mantener el matrimonio</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">254</subfield>
+    <subfield code="a">Villarreal Montoya, Cecilia</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="9">616</subfield>
+    <subfield code="a">Muñoz Porras, Gabriela</subfield>
+  </datafield>
+  <datafield tag="773" ind1="0" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0054</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.25, no.1  (2001)</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+</record>

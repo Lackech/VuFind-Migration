@@ -1,0 +1,39 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00669nam a2200145Ia 4500</leader>
+  <datafield ind2=" " tag="020" ind1=" ">
+    <subfield code="a">978-84-7245-644-0</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">18.01.01 </subfield>
+    <subfield code="b">1609</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">Daniel Dannett [et al.]</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="245">
+    <subfield code="a">El nuevo humanismo y las fronteras de la ciencia /  </subfield>
+    <subfield code="c">Daniel Dannett [et al.]</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">Barcelona : </subfield>
+    <subfield code="b">Kairós, </subfield>
+    <subfield code="c">2007                                                                                                                                                                                                                                                          </subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">486 páginas.</subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2=" ">
+    <subfield code="a">CIENCIA.</subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2=" ">
+    <subfield code="a">HUMANISMO.</subfield>
+  </datafield>
+  <datafield ind1=" " tag="700" ind2=" ">
+    <subfield code="a">Dannett, Daniel [et.al]</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">488</subfield>
+    <subfield code="d">488</subfield>
+  </datafield>
+</record>

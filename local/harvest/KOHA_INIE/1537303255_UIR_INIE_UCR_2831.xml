@@ -1,0 +1,48 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01986nab a2200169   4500</leader>
+  <controlfield tag="005">20160328162747.0</controlfield>
+  <controlfield tag="008">150827b2003    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">249</subfield>
+    <subfield code="a">Pacheco Urbina, Vivian María</subfield>
+  </datafield>
+  <datafield ind2="3" tag="245" ind1="1">
+    <subfield code="a">La inteligencia y el pensamiento creativo: aportes históricos en la educación / </subfield>
+    <subfield code="c">Vivian María Pacheco Urbina</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica </subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2003</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">páginas 17-26</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">El propósito de este artículo es pretender información que permite establecer un marco conceptual y referencial de diversos que aportan posiciones teóricas sobre el desarrollo de la inteligencia y el pensamiento creativo en la educación. Se destacan personas que a través de la historia se han considerado inteligentes, por acierto en la toma de decisiones y por el papel que han desempeñado en una serie de actividades, cuyas actuaciones marcan un cambio en los procesos sociales, políticos y científicos.
+Se realiza un análisis sobre elementos fundamentales del pensamiento creativo desde la perspectiva de que la educación debe promover en el individuo la apertura a un mundo más amplio, lleno de nuevas oportunidades para el desarrollo de su potencial creativo, considerando que al tener confianza para aceptar los cambios, va a recibir la más extensa variedad de conocimiento y de experiencias enriquecedoras para el desarrollo personal. 
+En el artículo se describe la transformación paulatina del concepto de talento intelectual, el cual deja de estar limitado por el resultado de las pruebas de C.I., para incorporar las habilidades potenciales que el individuo tiene en una diversidad de áreas y que son fundamentales para realizar contribuciones a la sociedad</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind1="0" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0190</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.27, no.1  (2003)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">03</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">2831</subfield>
+    <subfield code="d">2831</subfield>
+  </datafield>
+</record>

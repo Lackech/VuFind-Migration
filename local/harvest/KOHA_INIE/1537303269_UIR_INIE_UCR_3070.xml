@@ -1,0 +1,70 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01060nam a2200229   4500</leader>
+  <controlfield tag="008">160201b2015    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">02.05.02</subfield>
+    <subfield code="b">2297</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">223</subfield>
+    <subfield code="a">Barquero Cerdas, Martha</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Plan de implementación de la salud laboral en el personal del INIE 2016-2017: recursos laborales para el bienestar integral del personal /</subfield>
+    <subfield code="c">Elaborado por: Martha Barquero Cerdas, Shirley Carmona Brenes, Fabiola Fernández Trejos, Sara Gamboa Umaña, Jacqueline García Fallas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">[San José, Costa Rica] :</subfield>
+    <subfield code="b">INIE, OBS, Universidad de Costa Rica,</subfield>
+    <subfield code="c">[2015]</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">33 páginas;</subfield>
+    <subfield code="b">ilustraciones a color</subfield>
+  </datafield>
+  <datafield ind2=" " tag="610" ind1="2">
+    <subfield code="9">153</subfield>
+    <subfield code="a">INSTITUTO DE INVESTIGACIÓN EN EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1393</subfield>
+    <subfield code="a">PLANIFICACIÓN DE LA SALUD</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1394</subfield>
+    <subfield code="a">CALIDAD DE LA VIDA LABORAL</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1395</subfield>
+    <subfield code="a">SALUD MENTAL</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1396</subfield>
+    <subfield code="a">POLÍTICA DE SALUD</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">1397</subfield>
+    <subfield code="a">Carmona Brenes, Shirley</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">1398</subfield>
+    <subfield code="a">Fernández Trejos, Fabiola</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="9">1399</subfield>
+    <subfield code="a">Gamboa Umaña, Sara</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">759</subfield>
+    <subfield code="a">García Fallas, Jacqueline</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">3070</subfield>
+    <subfield code="d">3070</subfield>
+  </datafield>
+</record>

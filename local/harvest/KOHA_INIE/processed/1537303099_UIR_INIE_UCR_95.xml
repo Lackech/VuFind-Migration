@@ -1,0 +1,55 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00580nam a2200193Ia 4500</leader>
+  <controlfield tag="008">150724b2011    CL ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="022" ind2=" ">
+    <subfield code="a">0718-6002</subfield>
+  </datafield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">06.06.02 </subfield>
+    <subfield code="b">1159</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="a">Danielson, Charlotte</subfield>
+    <subfield code="9">497</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Competencias docentes: desarrollo, apoyo y evaluación / </subfield>
+    <subfield code="c">Charlotte Danielson</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">Chile : </subfield>
+    <subfield code="b">PREAL, </subfield>
+    <subfield code="c">2011</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">20 páginas</subfield>
+  </datafield>
+  <datafield tag="490" ind2=" " ind1=" ">
+    <subfield code="a">Documentos Nº 51</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">FORMACIÓN DE DOCENTES</subfield>
+    <subfield code="9">9</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">FORMACIÓN PROFESIONAL</subfield>
+    <subfield code="9">498</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">DOCENTES</subfield>
+    <subfield code="9">331</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">499</subfield>
+    <subfield code="a">PRÁCTICA PEDAGÓGICA</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">03</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">95</subfield>
+    <subfield code="d">95</subfield>
+  </datafield>
+</record>

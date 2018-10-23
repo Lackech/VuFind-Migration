@@ -1,0 +1,51 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00550nam a2200181Ia 4500</leader>
+  <controlfield tag="008">150731b1988    sp ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="020" ind2=" " ind1=" ">
+    <subfield code="a">8425425411017</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">05.01.01 </subfield>
+    <subfield code="b">2119</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="a">Frankl, Viktor E.</subfield>
+    <subfield code="9">656</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">El hombre en busca de sentido / </subfield>
+    <subfield code="c">Viktor E. Frankl con un prefacio de Gordon W. Allport</subfield>
+  </datafield>
+  <datafield tag="250" ind2=" " ind1=" ">
+    <subfield code="a">9 edición</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">Barcelona : </subfield>
+    <subfield code="b">Editorial Herder, </subfield>
+    <subfield code="c">1988</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">132 páginas</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">PSICOLOGÍA</subfield>
+    <subfield code="9">657</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">PSICOTERAPIA</subfield>
+    <subfield code="9">658</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">659</subfield>
+    <subfield code="a"> Allport, Gordon W.</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">164</subfield>
+    <subfield code="d">164</subfield>
+  </datafield>
+</record>

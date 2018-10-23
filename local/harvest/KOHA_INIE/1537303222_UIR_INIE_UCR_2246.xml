@@ -1,0 +1,55 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00990nam a2200193Ia 4500</leader>
+  <controlfield tag="008">160519b1998    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">18.03.01 </subfield>
+    <subfield code="b">30</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="a">Mora Vargas, Ana Isabel</subfield>
+    <subfield code="9">129</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Lineamientos para elaborar el perfil academico profesional / </subfield>
+    <subfield code="c">Ana Isabel, Mora Vargas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">Costa Rica: </subfield>
+    <subfield code="b">INIE,</subfield>
+    <subfield code="c">1998</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">61 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Este documento es la actualización de la "Guía metodológica para elaborar perfiles académico profesionales en la Universidad de Costa Rica", publicada en 1994.</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">El propósito de este nuevo documento es ofrecer a las unidades académicas un instrumento curricular que surge de la propia práctica de quienes han planificado las acciones curriculares en la Universidad de Costa Rica.  También puede orientar acciones s</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+    <subfield code="9">714</subfield>
+    <subfield code="a">UNIVERSIDAD DE COSTA RICA</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1698</subfield>
+    <subfield code="a">PERFIL PROFESIONAL</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">285</subfield>
+    <subfield code="a">METODOLOGÍA</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1166</subfield>
+    <subfield code="a">RECURSOS HUMANOS</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2246</subfield>
+    <subfield code="d">2246</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,59 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00914nam a2200181Ia 4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">1747</subfield>
+    <subfield code="d">1747</subfield>
+  </datafield>
+  <controlfield tag="008">180419b2004    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">09006.03.06 </subfield>
+    <subfield code="b">1122</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Peralta Monge, Teresita</subfield>
+    <subfield code="9">121</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Conceptos geométricos en maestros de escuela primaria / </subfield>
+    <subfield code="c">Teresita Peralta Monge; Mario Murillo Chaves; Gonzalo Valverde Calvo</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2004</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">200 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Informe Final del Proyecto N° 724-A1-054\La unidad posee informe parcial de 2001</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">Este proyecto de investigación responde a necesidades de capacitación de maestros y maestras de escuela primaria en relación con la enseñanza aprendizaje de la Matemática, detectadas en el proyecto de investigación Plan piloto para el mejoramiento en la enseñanza de las Ciencias y la Matemática. La investigación tuvo como propósito conocer los significados construir por los maestros y las maestras para conceptos geométricos básicos, contenidos en los programas de Matemática de la escuela primaria, para contar con elementos teóricos que orienten el proceso de enseñanza aprendizaje en el área de Geometría, en los cursos de formación y capacitación de maestros y maestras de escuela primaria. Este fue un estudio de tipo exploratorio por cuanto pretender conocer sobre los conceptos y relaciones matemáticas que han construido los maestros y las maestras en su formación en Geometría. Se aplicó un cuestionario de tipo exploratorio a los maestros y maestras; además hubo observación de aula y la realización de entrevistas como técnicas de recopilación de información. Se presentan los resultados obtenidos por los diferentes medios de investigación, utilizados para el abordaje de cada uno de los tres objetivos específicos que orientaron el proceso de investigación. Entre los resultados más importantes que emergen de la investigación se puede afirmar que: • En su mayoría los maestros y maestras participantes, así como los estudiantes universitarios que participaron en el proyecto y que se están formando para maestros y maestras, al ingresar al curso de 31 geometría presentan deficiencias en: La construcción de relaciones entre polígonos; La construcción del concepto de congruencia entre polígonos; La construcción del concepto de semejanza entre polígonos; La construcción de estrategias para el cálculo del área de polígonos irregulares. • En relación con los referentes teóricos propuestos para la orientación del material didáctico para procesos de formación y capacitación de maestros y maestras de escuela primaria. Se presentan como anexos: los instrumentos utilizados en la investigación, transcripción de entrevistas a maestros y maestras; transcripción de entrevistas a estudiantes; ejecuciones de maestros y maestras en ejercicios de cálculo de área; los materiales utilizados en los talleres.</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">EDUCACIÓN PRIMARIA</subfield>
+    <subfield code="9">367</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">MATEMÁTICAS  </subfield>
+    <subfield code="9">482</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">GEOMETRÍA</subfield>
+    <subfield code="9">2609</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">3583</subfield>
+    <subfield code="a">Valverde Calvo, Gonzalo</subfield>
+  </datafield>
+  <datafield ind1="0" tag="700" ind2=" ">
+    <subfield code="9">1573</subfield>
+    <subfield code="a">Murillo Chaves, Mario</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

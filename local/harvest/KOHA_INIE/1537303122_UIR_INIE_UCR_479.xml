@@ -1,0 +1,51 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00744nam a2200181Ia 4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">479</subfield>
+    <subfield code="d">479</subfield>
+  </datafield>
+  <controlfield tag="008">170203b2011    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="020" ind1=" ">
+    <subfield code="a">9786077678540</subfield>
+  </datafield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">06.02.01 </subfield>
+    <subfield code="b">1708</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">2185</subfield>
+    <subfield code="a">Alba, Alicia de</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Pensar con Foucault : nuevos horizontes e imaginarios en educación / </subfield>
+    <subfield code="c">Alicia de Alba; Manuel Martínez Delgado, coordinadores</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">México : </subfield>
+    <subfield code="b">Universidad Autónoma de Zacatecas, </subfield>
+    <subfield code="c">2011</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">240 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="490" ind1=" ">
+    <subfield code="a">Educación, debates e imaginario social, 13 / Alicia de Alba;  Cultura, curriculum y procesos institucionales, 19 / Manuel Martínez Delgado</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="600">
+    <subfield code="9">2169</subfield>
+    <subfield code="a">FOUCAULT, MICHEL</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="a">Martínez Delgado, Manuel</subfield>
+    <subfield code="9">2012</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

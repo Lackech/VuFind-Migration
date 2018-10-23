@@ -1,0 +1,45 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00765nam a2200157   4500</leader>
+  <controlfield tag="008">150826b2014    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">06.02.01</subfield>
+    <subfield code="b">2261</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="110">
+    <subfield code="9">545</subfield>
+    <subfield code="a">Costa Rica. Ministerio de Educación Pública</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Informe Detección de necesidades de capacitación del personal docente y administrativo-docente en servicio del Ministerio de Educación Pública</subfield>
+    <subfield code="c">Ministerio de Educación Pública; Instituto de Desarrollo Profesional Uladislao Gámez Solano</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Ministerio de Educación Pública; Instituto de Desarrollo Profesional Uladislao Gámez Solano,</subfield>
+    <subfield code="c">2014</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">48 páginas</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">729</subfield>
+    <subfield code="a">CAPACITACIÓN</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">498</subfield>
+    <subfield code="a">FORMACIÓN PROFESIONAL</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2822</subfield>
+    <subfield code="d">2822</subfield>
+  </datafield>
+</record>

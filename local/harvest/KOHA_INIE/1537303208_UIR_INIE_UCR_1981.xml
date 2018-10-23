@@ -1,0 +1,36 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00367nam a2200133Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">1981</subfield>
+    <subfield code="d">1981</subfield>
+  </datafield>
+  <controlfield tag="008">180704b2000       ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">06.05.04 </subfield>
+    <subfield code="b">1687</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="110">
+    <subfield code="a">Banco Mundial</subfield>
+    <subfield code="9">337</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Desarrollo infantil temprano</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">[Lugar de publicación no identificado] :</subfield>
+    <subfield code="c">2000</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="c">v</subfield>
+    <subfield code="a">v</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">DESARROLLO DEL NIÑO</subfield>
+    <subfield code="9">723</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

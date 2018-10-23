@@ -1,0 +1,46 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01359nab a2200169   4500</leader>
+  <controlfield tag="005">20160317163550.0</controlfield>
+  <controlfield tag="008">150706b2001    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">259</subfield>
+    <subfield code="a">Carazo Vargas, Pedro</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Actividad física y capacidad funcional en el adulto mayor:  El taekwondo como alternativa de mejoramiento /</subfield>
+    <subfield code="c">Pedro Carazo Vargas</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2001</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a"> páginas 125-135</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">Con el envejecimiento se presenta una serie de cambios de orden fisiológico, psicológico y social, capacer de reducir la capacidad para efectuar eficientemente las tareas de la vida diaria. En la presente revisión de literatura se realiza una descripción de estas modificaciones, así como una recopilación de los principales efectos de la actividad física sobre la capacidad funcional del adulto mayor. Se analizan los primeros indicios que señalan al taekwondo como una importante alternativa para mejorar el desempeño en las tareas de la vida diaria y a la vez se recomiendan las principales pautas a seguir para investigar la temática</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="0" tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0189</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.25, no.2  (2001)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2734</subfield>
+    <subfield code="d">2734</subfield>
+  </datafield>
+</record>

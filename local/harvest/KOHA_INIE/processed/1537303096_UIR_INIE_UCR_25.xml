@@ -1,0 +1,59 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00723nam a2200205Ia 4500</leader>
+  <controlfield tag="008">150714b1999    us ||||| |||| 00| | eng d</controlfield>
+  <datafield ind2=" " ind1=" " tag="020">
+    <subfield code="a">00761990429</subfield>
+  </datafield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">05.01.01 </subfield>
+    <subfield code="b">1136</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="a">Schensul, Jean J. </subfield>
+    <subfield code="9">293</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Enhanced ethnographic methods / </subfield>
+    <subfield code="c">Jean J. Schensul, Margaret D. LeCompte, Bonnie K. Nastasi, Stephen P. Borgatti</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">USA : </subfield>
+    <subfield code="b">Altamira Press, </subfield>
+    <subfield code="c">1999</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">162 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">v.3 Audiovisual techniques, focused group, interviews and elicitation techniques</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">GRUPOS FOCALES </subfield>
+    <subfield code="9">294</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">ETNOGRAFÍA</subfield>
+    <subfield code="9">286</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="9">283</subfield>
+    <subfield code="a">LeCompte, Margaret D.</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="9">295</subfield>
+    <subfield code="a">Nastasi, Bonnie K. </subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">296</subfield>
+    <subfield code="a">Borgatti, Stephen P. </subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">25</subfield>
+    <subfield code="d">25</subfield>
+  </datafield>
+</record>

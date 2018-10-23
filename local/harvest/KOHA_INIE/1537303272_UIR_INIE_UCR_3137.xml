@@ -1,0 +1,47 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02411nab a2200169   4500</leader>
+  <controlfield tag="005">20160422110145.0</controlfield>
+  <controlfield tag="008">160422b2010    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">1592</subfield>
+    <subfield code="a">Romero Morales, Grettel</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Análisis de necesidades e intereses recreativos de las personas adultas mayores del albergue San José Obrero, del cantón de Siquirres: propuesta recretiva /</subfield>
+    <subfield code="c">Grettel Romero Morales</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2010</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">páginas 133-152</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">Este artículo comprende el análisis de las necesidades y los intereses recreativos de las personas adultas mayores del "Albergue San José Obrero" del cantón de Siquirres, y una propuesta recreativa que se ajusta a sus requerimientos. El enfoque utilizado en esta investigación fue cualitativo de investigación-acción y se utilizó la entrevista cualitativa, la discusión del grupo focal, la lista de cotejo y el diario de campo como instrumentos de mediación. La información acerca de las necesidades e intereses recreativos se obtuvo por medio de un diagnóstico institucional, la información de la condicion general de las personas adultas mayores y las opiniones de las personas adultas mayores acerca de sus experiencias y preferencias recreativas. La información obtenida se analizó mediante las técnicas de resumen y de sistematización. El estudio mostró la necesidad en esta población de mantener su condición física y cognoscitiva, su vinculación con la sociedad, el sentido de pertenencia al grupo y el sentido de utilidad y autosuficiencia; además del interés por participar en manualidades, paseos, actividades de aprendizaje, actividad física, siembra, pesca, cuentos, bingo y actividades culinarias. Con las conclusiones derivadas del diagnóstico se elaboró una propuesta recreativa que comprende la descripción detallada de 12 actividades recreativas para ser implementadas en la población investigada. 
+Las actividades recreativas propuestas comprenden inducción a la recreación, actividades culinarias, manualidades, juegos de mesa, paseo, siembra, actividades físicas e intelectuales</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" tag="773" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0361</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.34, no.2 (jul.-dic., 2010)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3137</subfield>
+    <subfield code="d">3137</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,60 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00810nam a2200205   4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3375</subfield>
+    <subfield code="d">3375</subfield>
+  </datafield>
+  <controlfield tag="008">170130b2007    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">14.02.02</subfield>
+    <subfield code="b">1336</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">255</subfield>
+    <subfield code="a">Chaves Salas, Ana Lupita</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Red interinstitucional para la niñez de Costa Rica[ Informe 2007] /</subfield>
+    <subfield code="c">Lupita Chaves Salas, Gerardo Hernández Naranjo, Olga L. Solano Córdoba</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">[San José, Costa Rica] : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2007</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 volumen (en varias paginaciones)</subfield>
+  </datafield>
+  <datafield ind1=" " tag="500" ind2=" ">
+    <subfield code="a">Informe Proyecto de Acción Social ED-1445</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">757</subfield>
+    <subfield code="a">PRIMERA INFANCIA</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">59</subfield>
+    <subfield code="a">NIÑOS</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">60</subfield>
+    <subfield code="a">NIÑAS</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">784</subfield>
+    <subfield code="a">RED INTERINSTITUCIONAL PARA LA NIÑEZ Y LA ADOLESCENCIA DE COSTA RICA</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">2342</subfield>
+    <subfield code="a">Hernández Naranjo, Gerardo</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">742</subfield>
+    <subfield code="a">Solano Córdoba, Olga L.</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

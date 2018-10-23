@@ -1,0 +1,42 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00650nam a2200145Ia 4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">1439</subfield>
+    <subfield code="d">1439</subfield>
+  </datafield>
+  <controlfield tag="008">171003b2006    f  ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">06.02.01 </subfield>
+    <subfield code="b">1416</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Programa Conjunto de las Naciones Unidas sobre el VIH SIDA</subfield>
+    <subfield code="9">2194</subfield>
+  </datafield>
+  <datafield ind2="3" ind1="1" tag="245">
+    <subfield code="a">La educación relativa al tratamiento del VIH y el SIDA: Un componente escencial de las iniciativas en pro del acceso universal a la prevención, el tratamiento y la atención médica /</subfield>
+    <subfield code="c">Programa Conjunto sobre las Naciones Unidas sobre el VIH-SIDA</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">Francia : </subfield>
+    <subfield code="b">UNESCO, </subfield>
+    <subfield code="c">2006</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">52 páginas ;</subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">PREVENCIÓN DEL SIDA</subfield>
+    <subfield code="9">1863</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">ATENCIÓN MÉDICA</subfield>
+    <subfield code="9">3226</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

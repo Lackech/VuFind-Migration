@@ -1,0 +1,46 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02277nab a2200169   4500</leader>
+  <controlfield tag="005">20160331132849.0</controlfield>
+  <controlfield tag="008">151028b2004    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">1130</subfield>
+    <subfield code="a">García Peñalvo, Francisco José</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="7">
+    <subfield code="a">De los recursos didácticos para el aula a los contenidos para espacios virtuales educativos con componentes activos y herramientas de autor /</subfield>
+    <subfield code="c">Francisco José García Peñalvo</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2004</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">páginas 203-220</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">El uso de las Tecnologías de la Información y la Comunicación en los procesos educativos en general, y en la Universidad en particular, comienza a ser una realidad, al menos en apariencia y en infraestructura. Es cotidiano el uso de medios audiovisuales como apoyo a la tradicional lección magistral, así como la publicación de diversos materiales en diversos sitios web relacionados con la docencia. Sin embargo, un análisis más profundo de la situación quizás nos lleve a una realidad menos alentadora, donde el conjunto de los autores de contenidos didácticos no reúne todo el potencial humano que la Universidad podría ofrecer. En consecuencia el número de materiales didácticos se ve afectado negativamente, de modo que la calidad, organización y accesibilidad de los mismos es susceptible de importantes mejoras. Desde éste artículo, apoyándonos en las experiencias desarrolladas en el Laboratorio de Diseños Educativos Multimedia y Teleeducación del Instituto de Ciencias de la Educación de la Universidad de Salamanca, se aboga por la necesidad de superar la mera creación de elementos docentes aislados y caminar hacia el establecimiento efectivo de verdaderos espacios virtuales educativos, que deberían estar soportados por componentes educativos activos y herramientas de autor, defendemos que las interfaces autor-herramienta han de estar pensadas para facilitar el acercamiento como autores de contenidos a un personal que no tiene por qué ser experto en informática</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind2=" " ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0253</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.28, no.2 (2004)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2920</subfield>
+    <subfield code="d">2920</subfield>
+  </datafield>
+</record>

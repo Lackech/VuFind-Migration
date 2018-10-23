@@ -1,0 +1,63 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03628nam a2200217Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2074</subfield>
+    <subfield code="d">2074</subfield>
+  </datafield>
+  <controlfield tag="008">180829b2008    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">13.03.01 </subfield>
+    <subfield code="b">1656</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="100">
+    <subfield code="a">Rubio Alcalá, Fernando D.</subfield>
+    <subfield code="9">1149</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Análisis del malestar laboral en los entornos educativos e implementación de programas virtuales y presenciales para prevenir ese malestar laboral en el profesorado / </subfield>
+    <subfield code="c">Fernando Rubio Alcalá, Lastenia Ma. Bonilla Sandoval</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2008</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">95 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Informe final proyecto 724-A6-119</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">El tema principal de esta investigación es el estrés y su incidencia en la figura del docente costarricense. El proyecto pretende trazar un plan de investigación donde se articule tanto el análisis de la situación como las vías de prevención; el tema se aborda desde tres perspectivas: • Fuentes o causas de tensión o de preocupación. • Estilos de afrontamiento. • Consecuencias en el estado físico de la persona. Es una investigación de tipo exploratorio, el método utilizado fue tanto el método cualitativo como el cuantitativo. Se eligieron ambos por su complementariedad. La población a la que va dirigido son los docentes de las instituciones públicas de la zona oeste de la provincia de San José, de diversos niveles: preescolar, primaria y secundaria. Para recoger la información se utilizaron fuentes documentales, entrevistas en profundidad e informales, encuestas, observación y escritos personales. Las primeras conclusiones que se alcanzaron fueron: • Las instituciones educativas elegidas para la investigación presentaron, en relación a la deserción y repitencia, el mismo comportamiento que describe el Informe del Estado de la Nación desde varios años atrás. En ellas, el número de grupos desde el primer nivel hasta el último presenta una disminución de un 60% en el 2006. • El número de alumnos por aula promedio en las instituciones de primaria y secundaria elegidas fue de 33 alumnos. El rango de promedios es la institución estuvo entre 28 y 45 alumnos por aula. • Los comportamientos que reflejaron los directores en sus funciones administrativas evidenció la necesidad de que la mayoría de éstos reciban capacitación para ejercer esta labor. Un punto importante que ellos deben reconocer es que una buena planificación de las actividades a realizarse en la institución favorece notoriamente el ambiente laboral; la improvisación o la no resolución de un asunto aumenta notoriamente el malestar laboral. • Debido a que los niveles de estrés autopercibido se hallan entre “algo” y “bastante” según la escala propuesta, más cercanos al primero que al segundo, se puede afirmar que el profesorado de Costa Rica se encuentra en los límites de los promedios teóricos establecido para esta población. Sin embargo, esto no elimina la necesidad de dar capacitación en el manejo del estrés, para evitar que en algunos casos se llegue al estado denominado “quemado”. • El sexo no parece introducir variabilidad en el punto anterior. • El sentimiento de pertenencia al MEP entre los docentes en ejercicio en las instituciones educativas preescolar, primaria y secundaria, es casi nulo. Ellos identifican MEP con oficinas centrales, sin considerar que ellos son la parte mayoritaria del este Ministerio.</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">CONDICIONES DE TRABAJO</subfield>
+    <subfield code="9">778</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">ESTRÉS LABORAL</subfield>
+    <subfield code="9">1811</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">DOCENTES</subfield>
+    <subfield code="9">331</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">INTELIGENCIA EMOCIONAL</subfield>
+    <subfield code="9">2390</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1=" ">
+    <subfield code="a">Bonilla Sandoval, Lastenia Ma.</subfield>
+    <subfield code="9">1809</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

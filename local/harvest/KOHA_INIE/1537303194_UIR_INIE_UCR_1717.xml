@@ -1,0 +1,44 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00654nam a2200169Ia 4500</leader>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">06.03.04 </subfield>
+    <subfield code="b">577</subfield>
+  </datafield>
+  <datafield ind1=" " tag="110" ind2=" ">
+    <subfield code="a">Universidad Nacional</subfield>
+  </datafield>
+  <datafield tag="111" ind2=" " ind1=" ">
+    <subfield code="a">Seminario Taller Latinoamericano sobre la dimensión ambiental en el quehacer universitario [1995 : Cartago, Costa Rica]</subfield>
+  </datafield>
+  <datafield tag="245" ind2=" " ind1=" ">
+    <subfield code="a">Memoria</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">Cartago, Costa Rica : </subfield>
+    <subfield code="b">Taller de Publicaciones ITCR, </subfield>
+    <subfield code="c">1995</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">278 páginas</subfield>
+  </datafield>
+  <datafield tag="650" ind2=" " ind1=" ">
+    <subfield code="a">EDUCACION AMBIENTAL</subfield>
+  </datafield>
+  <datafield ind2=" " tag="650" ind1=" ">
+    <subfield code="a">SEMINARIOS</subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2=" ">
+    <subfield code="a">EDUCACION SUPERIOR</subfield>
+  </datafield>
+  <datafield ind2=" " tag="651" ind1=" ">
+    <subfield code="a">AMERICA LATINA</subfield>
+  </datafield>
+  <datafield ind2=" " tag="711" ind1=" ">
+    <subfield code="a">Seminario Taller Latinoamericano sobre la dimensión ambiental en el quehacer universitario [1995 : Cartago, Costa Rica]</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">1717</subfield>
+    <subfield code="d">1717</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,103 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02313nam a22003377a 4500</leader>
+  <controlfield tag="008">160201b2015    mx ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">18.09.01</subfield>
+    <subfield code="b">2296</subfield>
+  </datafield>
+  <datafield tag="110" ind2=" " ind1="2">
+    <subfield code="9">1392</subfield>
+    <subfield code="a">Instituto Nacional para la Evaluación de la Educación (México)</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="1" tag="245">
+    <subfield code="a">¿Qué significa evaluar con enfoque de derechos?</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">México :</subfield>
+    <subfield code="b">Instituto Nacional para la Evaluación de la Educación,</subfield>
+    <subfield code="c">2015 - 2016</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">1 volumen (en varias paginaciones)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Gaceta de la política nacional de evaluación educativa en México, año I, no.3 (noviembre 2015 - febrero 2016)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="505">
+    <subfield code="t">Evaluar el derecho humano a la educación /</subfield>
+    <subfield code="r">Luis Raúl González Pérez  </subfield>
+  </datafield>
+  <datafield tag="505" ind2=" " ind1=" ">
+    <subfield code="t">Evaluar en y desde la diversidad social y lingüística /</subfield>
+    <subfield code="r">Rosalinda Morales Garza </subfield>
+  </datafield>
+  <datafield ind2=" " tag="505" ind1=" ">
+    <subfield code="t">Atención multicultural: referentes de la evaluación educativa en Jalisco  / </subfield>
+    <subfield code="r">Francisco de Jesús Ayón López </subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="505">
+    <subfield code="t">Baja California: uso de la información para fortalecer la garantía del derecho a la educaicón /</subfield>
+    <subfield code="r">Mario Herrera Zárate</subfield>
+  </datafield>
+  <datafield tag="505" ind2=" " ind1=" ">
+    <subfield code="t">Recuperar la rectoría del Estado en la educación /</subfield>
+    <subfield code="r">Gilberto Guevara Niebla </subfield>
+  </datafield>
+  <datafield ind2=" " tag="505" ind1=" ">
+    <subfield code="t">Retos para el diseño de un sistema de indicadores educativos desde un enfoque de derechos /</subfield>
+    <subfield code="r">Adolfo del Río Martínez, Héctor Virgilio robles Vásquez, Verónica Medrano Camacho </subfield>
+  </datafield>
+  <datafield tag="505" ind2=" " ind1=" ">
+    <subfield code="t">¿Porqué una evaluación educativa desde la perspectiva de derechos? Siete puntos para la discusión /</subfield>
+    <subfield code="r">José Luis Gutiérrez Espíndola</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="505">
+    <subfield code="t">La bilateralidad como clave del derecho a la educación /</subfield>
+    <subfield code="r">Marianela Nuñez Barboza </subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="505">
+    <subfield code="t">Camino hacia la equidad de los niños, niñas y adolescentes /</subfield>
+    <subfield code="r">Isabel M. Crowley </subfield>
+  </datafield>
+  <datafield tag="505" ind2=" " ind1=" ">
+    <subfield code="t">Desafíos actuales del proceso evaluativo: la perspectiva de Save the Children /</subfield>
+    <subfield code="r">María Josefina Menéndez Carbajal </subfield>
+  </datafield>
+  <datafield ind1=" " tag="505" ind2=" ">
+    <subfield code="t">La evaluación educativa como acto de garantía de derechos /</subfield>
+    <subfield code="r">Néstor López </subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="505">
+    <subfield code="t">Derecho a la educación en México: política e indicadores educativos a partir del modelo de las 4 A /</subfield>
+    <subfield code="r">María Mercedes Ruiz Muñoz </subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="505">
+    <subfield code="t">Derechos, consideraciones para una evaluación /</subfield>
+    <subfield code="r">Agustín Caso Rapahel </subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">287</subfield>
+    <subfield code="a">EVALUACIÓN </subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">451</subfield>
+    <subfield code="a">POLÍTICA EDUCATIVA</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">599</subfield>
+    <subfield code="a">DERECHO A LA EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="4" tag="651">
+    <subfield code="9">19</subfield>
+    <subfield code="a">MÉXICO</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">3066</subfield>
+    <subfield code="d">3066</subfield>
+  </datafield>
+</record>

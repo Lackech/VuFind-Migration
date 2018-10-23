@@ -1,0 +1,53 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01857nam a2200181Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">1770</subfield>
+    <subfield code="d">1770</subfield>
+  </datafield>
+  <controlfield tag="008">141002s2010    cr            000 | und d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">06.03.06 </subfield>
+    <subfield code="b">1765</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">129</subfield>
+    <subfield code="a">Mora Vargas, Ana Isabel</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Hacia la redefinición del crédito: unidad valorativa de la carga académica del estudiante en la educación superior / </subfield>
+    <subfield code="c">Ana Isabel Mora Vargas, Isabel Gallardo Alvarez</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2010</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">130 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Informe Proyecto de Investigación N° 724-A5-138</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">El objeto de estudio de esta investigación es el crédito académico, como la unidad valorativa de la carga académica del estudiante, se pretende revisar su definición y con base en los resultados del diagnóstico, buscar una reelaboración de su definición y la manera de calcularlo. 
+Para ello se hizo una serie de entrevistas a directores de distintas unidades académicas y a partir de sus comentarios surgió la necesidad de hacer un instrumento que indagara más profundamente en su concepción y uso, por parte de estudiantes y docentes. En este instrumento se tomaron como variables de estudio las implicaciones del esfuerzo estudiantil, los tipos de curso (teórico, teórico práctico y práctico) así como la percepción de los docentes acerca de las implicaciones del crédito en las estrategias de enseñanza. 
+Con los resultados obtenidos se vio que este era usado en la Universidad de Costa Rica para muchas otras labores y más que para valorar o medir la carga acádemica del estudiantado, se utiliza también para calcular el costo de los cursos y para asignar becas a los estudiantes, entre otros aspectos que no son de interés en este estudio.</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+    <subfield code="9">8</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">CRÉDITO ACADÉMICO</subfield>
+    <subfield code="9">3590</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Gallardo Álvarez, Isabel</subfield>
+    <subfield code="9">88</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

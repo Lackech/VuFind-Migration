@@ -1,0 +1,59 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03418nam a2200205Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2013</subfield>
+    <subfield code="d">2013</subfield>
+  </datafield>
+  <controlfield tag="008">180705b2010    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">06.06.02 </subfield>
+    <subfield code="b">1925 CD #134</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="100">
+    <subfield code="a">Vargas Fallas, Claudio A.</subfield>
+    <subfield code="9">3364</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Elaboración y validación del módulo de educación rural para la formación de docentes de I y II ciclo de Nicaragua y validación del módulo de Costa Rica / </subfield>
+    <subfield code="c">Claudio Vargas Fallas; Wilfredo Gonzaga Martínez; Gabriela Chinchilla Arguedas; Nidia Mejía Arias</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2010</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">293 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Informe final del proyecto No. 724-A9-517\CD #134</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">El trabajo de investigación incluye dos etapas: la primera correspondió a la elaboración del módulo y la segunda a la validación del mismo. En el caso de Costa Rica la investigación desarrolló la segunda etapa ya que se partió del módulo elaborado por Máster Claudio Vargas Fallas, como proyecto final de la maestría en Educación Rural Centroamericana de la División de Educación Rural de la Universidad Nacional, realizado en el 2007. En el caso de Nicaragua, en la etapa de elaboración del módulo, se partió de una investigación sobre la situación laboral de los docentes y las docentes y la formación que imparten las Escuelas Normales para la preparación de los futuros docentes de Educación Básica Regular. Esta investigación se enmarca dentro del enfoque mixto, el cual es un proceso que recolecta, analiza y vincula datos cuantitativos y cualitativos en un mismo estudio o serie de investigaciones para responder a un planteamiento del problema. Se aplicaron cuestionarios que difieren en su contenido para cada país debido a que se ajustaron a las particularidades que presenta cada uno de ellos en cuanto a terminología y realidad educativa. Los participantes fueron seleccionados por conveniencia tanto en Costa Rica como en Nicaragua. Para seleccionar los lugares donde se aplicarían los instrumentos a los docentes rurales, se consideró que estos fueran representativos de diferentes contextos rurales, de tal modo que la información recopilada reflejara, en lo posible, la diversidad étnica, cultural, social, económica y geográfica de estas zonas. Como resultados se presentan dos módulos: el correspondiente a Costa Rica, que parte de la reorganización de la información obtenida de la propuesta presentada por Vargas (2007) y la validación que se hiciera con la participación de expertos en educación rural, docentes rurales en servicio, estudiantes de la carrera de Educación en I y II Ciclos; y el módulo correspondiente a Nicaragua, para el cual se hizo un diagnóstico sobre la labor de los docentes rurales y la formación que imparten las Escuela Normales, docentes y autoridades académicas de estas instituciones formadoras. El diagnóstico permitió identificar entre otros aspectos, las múltiples funciones que desempeñan, las ventajas y las limitaciones que tienen en su campo laboral. Además se logró conocer la relación entre la formación que brindan las Escuela Normales y la pertinencia de la misma en el momento de afrontar la realidad educativa rural.</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">FORMACIÓN DE DOCENTES</subfield>
+    <subfield code="9">9</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">EDUCACIÓN RURAL</subfield>
+    <subfield code="9">1665</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2=" ">
+    <subfield code="a">Gonzaga Martínez, Wilfredo</subfield>
+    <subfield code="9">1819</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1=" ">
+    <subfield code="a">Chinchilla Arguedas, Gabriela</subfield>
+    <subfield code="9">3916</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2=" ">
+    <subfield code="a">Mejía Arias, Nidia </subfield>
+    <subfield code="9">3917</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

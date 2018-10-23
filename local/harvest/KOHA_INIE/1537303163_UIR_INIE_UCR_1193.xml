@@ -1,0 +1,184 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>09289nam a2200565Ia 4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">1193</subfield>
+    <subfield code="d">1193</subfield>
+  </datafield>
+  <controlfield tag="008">170509b2009    gw a|||| |||| 00| | e   d</controlfield>
+  <datafield ind2=" " tag="020" ind1=" ">
+    <subfield code="a">9783899589665</subfield>
+  </datafield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">06.03.06</subfield>
+    <subfield code="b">2413</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="a">Engel, Constanze</subfield>
+    <subfield code="9">2708</subfield>
+    <subfield code="e">Editor/a</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Emerging transformation in higher education : concepts, projects, networking : proceedings of the International UNISTAFF Forum, March 2009, Kassel University, Witzenhausen /</subfield>
+    <subfield code="c">Constanze Engel and  Martina Pletsch-Betancourt</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">Alemania :</subfield>
+    <subfield code="b">Institute for Socio-cultural Studies (ISOS); University of Kassel</subfield>
+    <subfield code="c">2009</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">367 páginas;</subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield ind2=" " tag="505" ind1=" ">
+    <subfield code="r">Michael Fremerey</subfield>
+    <subfield code="t">UNISTAFF: Generating innovative competence in higher education =  	UNISTAFF: Generación de competencias innovadoras en la educación superior</subfield>
+  </datafield>
+  <datafield ind1=" " tag="505" ind2=" ">
+    <subfield code="r">Matthias Wesseler </subfield>
+    <subfield code="t">A new spirit: The innovation of quality in teaching and learning = Un nuevo espíritu: La innovación de la calidad en la enseñanza y el aprendizaje</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="505">
+    <subfield code="r">Amini Siawuch</subfield>
+    <subfield code="t">Looking forwards – looking backwards: UNISTAFF Programme Tracer Study 2008Looking forwards – looking backwards: UNISTAFF Programme Tracer Study 2008 = Mirando hacia el futuro - mirando hacia atrás: UNISTAFF Program Tracer Study 2008</subfield>
+  </datafield>
+  <datafield tag="505" ind2=" " ind1=" ">
+    <subfield code="r">Caro  Lucas, Emilia Nercissians</subfield>
+    <subfield code="t">The dialectics of innovation = La dialéctica de la innovación</subfield>
+  </datafield>
+  <datafield ind1=" " tag="505" ind2=" ">
+    <subfield code="r">Abraham Simatupang</subfield>
+    <subfield code="t">The new role of universities: Societal and intellectual entrepreneurs = El nuevo papel de las universidades: Empresarios sociales e intelectuales</subfield>
+  </datafield>
+  <datafield ind2=" " tag="505" ind1=" ">
+    <subfield code="r">José Edgardo A. Gomez, Jr.</subfield>
+    <subfield code="t">Bringing planning education to the local level: The extension program of the University of the Philippines’ School of Urban &amp; Regional Planning, 2007-2010 phase = Llevar la planificación de la educación al nivel local: El programa de extensión de la Escuela de Planificación Urbana y Regional de la Universidad de Filipinas, fase 2007-2010</subfield>
+  </datafield>
+  <datafield tag="505" ind2=" " ind1=" ">
+    <subfield code="r">Alicia Díaz</subfield>
+    <subfield code="t">Quality education in Central American rural areas: A challenge undertaken by the Universidad Nacional, Costa Rica = Educación de calidad en áreas rurales centroamericanas: un desafío emprendido por la Universidad Nacional de Costa Rica</subfield>
+  </datafield>
+  <datafield tag="505" ind2=" " ind1=" ">
+    <subfield code="r">Tadele Tefera</subfield>
+    <subfield code="t">Reforming research at Haramaya University, Ethiopia: The role of institutional linkage in technology transfer =  Reformar la investigación en la Universidad de Haramaya, Etiopía: El papel de la vinculación institucional en la transferencia de tecnología</subfield>
+  </datafield>
+  <datafield ind2=" " tag="505" ind1=" ">
+    <subfield code="r">Trina Tallei,  Sitaresmi Ismangil</subfield>
+    <subfield code="t">Dancing with change: A tango to a successful outcome. The case of the development of the Biotechnology Service Unit at Faculty of Mathematics and Natural Science - University of Sam Ratulangi Manado = Bailando con el cambio: Un tango a un resultado acertado. El caso del desarrollo de la Unidad de Servicio de Biotecnología en la Facultad de Matemáticas y Ciencias Naturales - Universidad de Sam Ratulangi Manado</subfield>
+  </datafield>
+  <datafield ind1=" " tag="505" ind2=" ">
+    <subfield code="r">Diana Lyrawati</subfield>
+    <subfield code="t">Capacity building: Nurturing practitioners - cultivating preceptors through a higher education institutions partnership = Creación de capacidades: Promover a los practicantes - cultivar preceptores a través de una asociación de instituciones de educación superior</subfield>
+  </datafield>
+  <datafield ind2=" " tag="505" ind1=" ">
+    <subfield code="r">Joyce A. Asiimwe</subfield>
+    <subfield code="t">Transforming higher education practice for a sustainable future: A paradigm shift from teaching to learning =  	Transformar la práctica de la educación superior para un futuro sostenible: Un cambio de paradigma de la enseñanza al aprendizaje</subfield>
+  </datafield>
+  <datafield ind2=" " tag="505" ind1=" ">
+    <subfield code="r">John T. Githaiga,  David R. Tuigong
+</subfield>
+    <subfield code="t">Quality assurance in higher education: Collaboration or competition among institutions? = Garantía de calidad en la educación superior: ¿Colaboración o competencia entre instituciones?</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="505">
+    <subfield code="r">Leonila R. Sito,   Aurora Santiago-Cuyan</subfield>
+    <subfield code="t">Educational experiences of diverse learners in higher education teacher training institutions: Scenario in Northern Philippines = Experiencias educativas de diversos estudiantes en instituciones de formación de profesores de educación superior: Escenario en el norte de Filipinas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="505" ind1=" ">
+    <subfield code="r">Francisco Alarcón</subfield>
+    <subfield code="t">Higher education quality accreditation system of Central America: An institutional stakeholder network for improvement and accountability = Sistema de acreditación de la calidad de la educación superior de Centroamérica: Una red de actores institucionales para mejorar y rendir cuentas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="505" ind2=" ">
+    <subfield code="r">Ahmad Syafiq</subfield>
+    <subfield code="t">Increasing the effectiveness of UNISTAFF project work implementation = Aumento de la eficacia de la ejecución de los trabajos del proyecto UNISTAFF</subfield>
+  </datafield>
+  <datafield tag="505" ind2=" " ind1=" ">
+    <subfield code="r">Yonny Koesmaryono,  Titik Sumarti</subfield>
+    <subfield code="t">Emerging transformation in Bogor Agricultural University – Indonesia: From learning organization toward quality organizational learning = Transformación emergente en la Universidad Agrícola de Bogor - Indonesia: De la organización del aprendizaje a la calidad del aprendizaje organizacional</subfield>
+  </datafield>
+  <datafield tag="505" ind2=" " ind1=" ">
+    <subfield code="r">Hany Youssef Hassan </subfield>
+    <subfield code="t">Students’ participation in higher education quality assurance Call for project partners as a trial for application in the Egyptian Higher Education System = Participación de los estudiantes en el aseguramiento de la calidad de la educación superior Convocatoria de socios del proyecto como prueba para su aplicación en el Sistema Egipcio de Educación Superior</subfield>
+  </datafield>
+  <datafield ind1=" " tag="505" ind2=" ">
+    <subfield code="r"> Alicia E. Vargas- Porras</subfield>
+    <subfield code="t">Human empowerment through academic networks. The case of GUCAL XXI in Central America = Empoderamiento humano a través de redes académicas. El caso de GUCAL XXI en Centroamérica</subfield>
+  </datafield>
+  <datafield ind1=" " tag="505" ind2=" ">
+    <subfield code="r">Supartono, Wahyu</subfield>
+    <subfield code="t">UNISTAFF: Milestone for establishing and expanding the networks = UNISTAFF: Hito para el establecimiento y expansión de las redes</subfield>
+  </datafield>
+  <datafield ind1=" " tag="505" ind2=" ">
+    <subfield code="r">Emilia Nercissians</subfield>
+    <subfield code="t">Gender, technology, and higher education revisited: Research and networking for change = Revisión del género, la tecnología y la educación superior: investigación y establecimiento de redes para el cambi</subfield>
+  </datafield>
+  <datafield ind2=" " tag="505" ind1=" ">
+    <subfield code="r"> Arnulfo P. Azcarraga</subfield>
+    <subfield code="t">Engaging an entire academic community towards shared governance: A balancing act among multiple stakeholders and multiple perspectives = Involucrar a toda una comunidad académica hacia la gobernanza compartida: Un acto de equilibrio entre múltiples actores y múltiples perspectivas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="505" ind2=" ">
+    <subfield code="r">Setyo Pertiwi, Singgih  Hawibowo,  Damona K. Poespawardaja</subfield>
+    <subfield code="t">Strengthening transformation process towards an autonomous university through networks = Fortalecimiento del proceso de transformación hacia una universidad autónoma a través de redes</subfield>
+  </datafield>
+  <datafield tag="505" ind2=" " ind1=" ">
+    <subfield code="r">Gabriel Katana,  Noah Khaemba</subfield>
+    <subfield code="t">Repositioning of the African university: The role of the UNISTAFF programme = Reposicionamiento de la universidad africana: El papel del programa UNISTAFF</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="505">
+    <subfield code="r">Sitaresmi Ismangil,  Wolfgang Nellen,  Trina Tallei, Apriliana Laily Fitri </subfield>
+    <subfield code="t">Development of an Indonesian-German biodiversity network for teaching, training and research collaboration: A multiplier effect of UNISTAFF program = Desarrollo de una red de biodiversidad indonesia-alemana para la enseñanza, la formación y la colaboración en investigación: un efecto multiplicador del programa UNISTAFF</subfield>
+  </datafield>
+  <datafield ind1=" " tag="505" ind2=" ">
+    <subfield code="r"> Elizabeth S. B. Abenga</subfield>
+    <subfield code="t">Capacity building in higher education: The case of Masinde Muliro University of Science and Technology, Kenya = Capacitación en educación superior: El caso de la Universidad de Ciencia y Tecnología Masinde Muliro, Kenia</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="505">
+    <subfield code="r">Hendrawan Soetanto</subfield>
+    <subfield code="t">Professional certification for lecturers: A new emerging transformation towards better quality of higher education in Indonesia = Certificación profesional para profesores: Una nueva transformación emergente hacia una mejor calidad de la educación superior en Indonesia</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="505">
+    <subfield code="r">Betty Akullu Ezati</subfield>
+    <subfield code="t">Redesigning the professional development programme at Makerere University for enhanced participation and effectiveness =  	Rediseño del programa de desarrollo profesional en la Universidad de Makerere para mejorar la participación y la eficacia</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="505">
+    <subfield code="r"> Asenath J. Sigot</subfield>
+    <subfield code="t">Change and technological innovation in higher education: A challenging and transforming initiative for a young university = El cambio y la innovación tecnológica en la educación superior: una iniciativa desafiante y transformadora para una universidad joven</subfield>
+  </datafield>
+  <datafield ind1=" " tag="505" ind2=" ">
+    <subfield code="r">Helen Omondi Mondoh</subfield>
+    <subfield code="t">Innovative skills and strategies in teaching large undergraduate classes at Egerton University = Habilidades y estrategias innovadoras en la enseñanza de grandes clases de pregrado en la Universidad de Egerton</subfield>
+  </datafield>
+  <datafield ind2=" " tag="505" ind1=" ">
+    <subfield code="r">Setyo Pertiwi</subfield>
+    <subfield code="t">Integrated approach for strengthening student competences and skills towards improvement of relevance and competitiveness = Enfoque integrado para reforzar las competencias y aptitudes de los estudiantes para mejorar la pertinencia y la competitividad</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="505">
+    <subfield code="r">Carlos Perez Brito</subfield>
+    <subfield code="t">Information systems, development and innovation in Guatemala =  Sistemas de información, desarrollo e innovación en Guatemala</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">8</subfield>
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">UNIVERSIDADES </subfield>
+    <subfield code="9">16</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">CALIDAD DE LA EDUCACIÓN</subfield>
+    <subfield code="9">11</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">REDES ACADÉMICAS</subfield>
+    <subfield code="9">764</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">2709</subfield>
+    <subfield code="a"> Pletsch-Betancourt, Martina</subfield>
+    <subfield code="e">Editor/a</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

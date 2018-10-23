@@ -1,0 +1,50 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02069nab a2200169   4500</leader>
+  <controlfield tag="005">20160331140219.0</controlfield>
+  <controlfield tag="008">151216b2007    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">1082</subfield>
+    <subfield code="a">Castro Bonilla, Julieta</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Experiencias didácticas para el mejoramiento de la práctica pedagógica del profesor de artes plásticas /</subfield>
+    <subfield code="c">Julieta Castro Bonilla</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2007</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">páginas 109-121</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">El texto que a continuación presento, surge de una investigación en la que participan docentes que imparten lecciones en instituciones  del sistema educativo y se preocupan por renovar sus prácticas pedagógicas con el propósito de que sus estudiantes - niños y adolescentes- apliquen los aprendizajes mediante nuevas formas de expresión artística.
+ En el artículo se menciona la metodología que aplica esa investigación, la cual se organiza mediante "fases" que facilitan espacios flexibles que permiten valorar el trabajo docente mediante el enfoque cualitativo que  promueve la investigación - acción en el aula. 
+También se hace referencia a la fundamentación de una práctica pedagógica que le permite al profesor  y a sus estudiantes, la posibilidad de asignar nuevos significados al trabajo que se realiza dentro y fuera del contexto escolar. 
+Finalmente se ofrecen algunas propuestas metodológicas que se dirigen de manera especial a quienes imparten lecciones de artes plásticas en la educación secundaria, aunque se pueden adecuar a otras poblaciones estudiantiles, mediante la planificación de proyectos que tiendan a mejorar las experiencias artísticas de quienes participan en los procesos de aprendizaje. Se espera que el texto facilite la organización de investigaciones que favorezcan la innovación en el aula
+</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " tag="773" ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0308</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.31, no.1 (2007)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2990</subfield>
+    <subfield code="d">2990</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,46 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02104nab a2200169   4500</leader>
+  <controlfield tag="005">20160331140651.0</controlfield>
+  <controlfield tag="008">160107b2007    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">1268</subfield>
+    <subfield code="a">Ramírez Molina, Catalina</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Propuesta para analizar El gato negro de Edgar  Allan Poe, la novela Marianela de Benito Pérez Galdos y las rimas de Gustavo Adolfo Bécquer /</subfield>
+    <subfield code="c">Catalina Ramírez Molina</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2007</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">páginas 183-192</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">La intención de la siguiente propuesta de análisis para los textos literarios: El gato negro, Marianela y las Rimas es cumplir con los objetivos planteados en el MEP , articular los contenidos con las actividades o estrategias de aprendizaje y desarrollar un aprendizaje significativo. Con respecto al género lírico, se proponen algunos cambios en los contenidos, ya que, a traves del artículo titulado: Estrategias metodológicas utilizadas por docentes de sétimo año en la enseñanza del análisis  de textos literarios, se muestra que los alunmos poseen actitudes hostiles hacia este género del discurso, debido a  la forma en que se han acercado a él.  Por esta razón, para que los estudiantes sean capaces de dialogar con el género lirico, de profundizar en su mensaje, de interpretarlo y disfrutarlo es preciso que lleguen a desarrollar una sensibilidad y que adquieran ciertas competencias linguisticas culturales y esteticoliterarias. Es importante señalar que el planeamiento de las actividades para analizar cada texto literario cambia, es decir, un cuento romántico no puede ser analizado de la misma manera que un cuento naturalista. De esta manera, la siguiente propuesta es solo una guía,   debido a que cada texto posee características particulares que deben ser analizadas por el docente antes de planificar la clase</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0309</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.31, no.2 (2007)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">3003</subfield>
+    <subfield code="d">3003</subfield>
+  </datafield>
+</record>

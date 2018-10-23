@@ -1,0 +1,43 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00490nam a2200157Ia 4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">1290</subfield>
+    <subfield code="d">1290</subfield>
+  </datafield>
+  <controlfield tag="008">170601b1992    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">04.02.01 </subfield>
+    <subfield code="b">978 DOC #113</subfield>
+  </datafield>
+  <datafield ind1="2" tag="110" ind2=" ">
+    <subfield code="9">569</subfield>
+    <subfield code="a">UNICEF</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Primero los niños : Convención sobre los derechos del niño</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">UNICEF, </subfield>
+    <subfield code="c">1992</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">89 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Incluye el Documento N°113</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="6">
+    <subfield code="a">DERECHOS DEL NIÑO</subfield>
+    <subfield code="9">570</subfield>
+  </datafield>
+  <datafield ind2="6" tag="650" ind1="1">
+    <subfield code="a">BIENESTAR DE LA INFANCIA</subfield>
+    <subfield code="9">1009</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

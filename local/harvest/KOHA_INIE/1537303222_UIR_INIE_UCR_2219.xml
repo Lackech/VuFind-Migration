@@ -1,0 +1,45 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01466nam a2200157Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2219</subfield>
+    <subfield code="d">2219</subfield>
+  </datafield>
+  <controlfield tag="008">180711b2006    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">18.01.01 </subfield>
+    <subfield code="b">1272</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Villarreal Montoya, Ana Lucía</subfield>
+    <subfield code="9">252</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Elaboración video: El patriarcado en la Universidad de Costa Rica / </subfield>
+    <subfield code="c">Instituto de Investigación en Educación</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">Costa Rica: </subfield>
+    <subfield code="b">INIE, Programa de Investigación en Educación y género, </subfield>
+    <subfield code="c">2006</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">9 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">Esta investigación se presentó para elaborar un video donde se visibilice tanto simbólicamente como en su distribución de los cargos de autoridad una reproducción patriarcal a nivel de la institución Universidad de Costa Rica. Se logra en lo que corresponde a la visibilización de la violencia simbólica en la ciudad universitaria. 
+El video tiene una duración de 16 minutos, que incluye tomas de edificios, bustos, placas, esculturas y murales ubicados todas en la Ciudad Universitaria Rodrigo Facio, en San Pedro de Montes de Oca. El sustento teórico se logró por medio de una entrevista realizada a la M.Sc. Vera Aguilar sobre el tema violencia simbólica de género, el cual ella desarrolló en una investigación que llevó a cabo en el Programa de Investigación en Educación y Género. El video también incluye textos y música. El video se titula: La mitad por el todo. </subfield>
+  </datafield>
+  <datafield ind1=" " ind2="4" tag="610">
+    <subfield code="9">714</subfield>
+    <subfield code="a">UNIVERSIDAD DE COSTA RICA</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">INFORMES SOBRE PROYECTOS</subfield>
+    <subfield code="9">3986</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

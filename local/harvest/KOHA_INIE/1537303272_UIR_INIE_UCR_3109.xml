@@ -1,0 +1,46 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00885nam a22001577a 4500</leader>
+  <controlfield tag="008">160418b2008    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">06.03.06 </subfield>
+    <subfield code="b">2176 </subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">180</subfield>
+    <subfield code="a">Romero Estrada, Francisco A.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Articulación de la Universidad de Costa Rica con instituciones de educación superior: colegios universitarios (CUNA, CUC, CUP, CUNLIMON, CURDTS), Escuela Centroamericana de Ganadería (ECAG), Centro de Investigación y Perfeccionamiento de la Educación Técnica (CIPET), Instituto Nacional de Aprendizaje (INA) /</subfield>
+    <subfield code="c">Investigación, redacción y revisión Francisco Romero Estrada</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Costa Rica : </subfield>
+    <subfield code="b">Universidad de Costa Rica, Vicerrectoría de Docencia, </subfield>
+    <subfield code="c">[2008?] </subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">168 páginas;</subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield ind2="4" tag="610" ind1="1">
+    <subfield code="9">714</subfield>
+    <subfield code="a">UNIVERSIDAD DE COSTA RICA</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">8</subfield>
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">1550</subfield>
+    <subfield code="a">COOPERACIÓN UNIVERSITARIA</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">3109</subfield>
+    <subfield code="d">3109</subfield>
+  </datafield>
+</record>

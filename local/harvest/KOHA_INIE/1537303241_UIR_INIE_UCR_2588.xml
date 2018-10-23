@@ -1,0 +1,45 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01361nab a22001577a 4500</leader>
+  <controlfield tag="008">150527b1998    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">170</subfield>
+    <subfield code="a">Del Vecchio Ugalde, Janina</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Igualdad y valoración de méritos en la educación costarricense /</subfield>
+    <subfield code="c">Janina Del Vecchio Ugalde</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">1998</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">páginas 7 - 24</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">Esta investigación analiza la política educativa costarricense, entendida como la acción reguladora y directriz que orienta el quehacer académico escolar y colegial en Costa Rica. Propone lineamientos para una política educativa de alta calidad académica, acorde con las necesidades y expectativas sociales del país, en el marco general que la sociedad costarricense ha adoptado como modelo  de desarrollo solidario, justo y sostenible, y establece la forma en que las diferencias individuales son tratadas por el modelo educativo costarricense. Asimismo, analiza los aspectos de calidad ("excelencia") académica, oportunidad de aprendizaje y acceso a la formación del actual modelo educativo nacional</subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2="0">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" tag="773" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0020</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.22, no.1 (1998)</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">2588</subfield>
+    <subfield code="d">2588</subfield>
+  </datafield>
+</record>

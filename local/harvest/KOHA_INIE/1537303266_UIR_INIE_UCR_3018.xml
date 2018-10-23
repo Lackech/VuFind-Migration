@@ -1,0 +1,46 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01661nab a2200169   4500</leader>
+  <controlfield tag="005">20160331141635.0</controlfield>
+  <controlfield tag="008">160119b2008    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">618</subfield>
+    <subfield code="a">Moreira Mora, Tania Elena</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Desafíos de la Ley 7600 ante las nuevas tendencias de la educación inclusiva /</subfield>
+    <subfield code="c">Tania Elena Moreira Mora</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2008</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">páginas 57-71</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">En este artículo interesa profundizar  en la trayectoria histórica  y en las perspectivas teóricas de la educación inclusiva, así como proponer algunos desafíos de la ley 7600 ante el contexto actual de la educación para todos, a partir de una indagación  bibliográfica  sobre la evolución de este paradigma. Se presentan las principales perspectivas contemporáneas como la diversidad, normalización, derecho humano, los valores y la interculturalidad que consolidan el surgimiento de un prisma inclusivo. En consonancia con tales enfoques se propones algunos desafíos de la ley 7600 sobre la Igualdad de las personas  con discapacidad de 1996 en el contexto educativo de Costa Rica. Estos retos se orientaron hacia el desarrollo de proyectos educativos, el trabajo cooperativo, la consolidación de valores, la capacitación  docente y los recursos humanos y materiales con una intención en común: contribuir con el cumplimiento de los objetivos de la ley</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind1="0" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0310</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.32, no.2 (2008)</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3018</subfield>
+    <subfield code="d">3018</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,58 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00958nam a2200181Ia 4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">1715</subfield>
+    <subfield code="d">1715</subfield>
+  </datafield>
+  <controlfield tag="008">180417b1996    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">06.03.04 </subfield>
+    <subfield code="b">544</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Memoria / </subfield>
+    <subfield code="c">Lidia Hernández Rojas, Carmen Roldán Chacón, editoras</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica :  </subfield>
+    <subfield code="b">EUNED, </subfield>
+    <subfield code="c">1996</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">187 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Acuerdo bilateral para el desarrollo sostenible Costa Rica- Reino de los Países Bajos</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">EDUCACIÓN AMBIENTAL </subfield>
+    <subfield code="9">439</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">DESARROLLO  SOSTENIBLE</subfield>
+    <subfield code="9">443</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">PROTECCIÓN AMBIENTAL</subfield>
+    <subfield code="9">3120</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="a">Hernández Rojas, Lidia</subfield>
+    <subfield code="9">233</subfield>
+    <subfield code="e">Editor/a</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="700">
+    <subfield code="a">Roldán Chacón, Carmen</subfield>
+    <subfield code="9">3556</subfield>
+    <subfield code="e">Editor/a</subfield>
+  </datafield>
+  <datafield tag="711" ind2=" " ind1=" ">
+    <subfield code="9">3557</subfield>
+    <subfield code="a">Seminario Taller "Incorporación de la Educación Ambiental para un Desarrollo Sostenible en diferentes sectores de la sociedad costarricense" [1995 : San José, Costa Rica]</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

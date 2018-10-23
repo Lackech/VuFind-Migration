@@ -1,0 +1,68 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01072nam a22002297a 4500</leader>
+  <controlfield tag="008">150916b2015    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">Tesis # 58</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">1034</subfield>
+    <subfield code="a">Castro Soto, Leonel</subfield>
+  </datafield>
+  <datafield tag="245" ind2="3" ind1="1">
+    <subfield code="a">La historia de la matemática en el currículo de matemáticas de educación secundaria en Costa Rica (1949-2012) / </subfield>
+    <subfield code="c">Leonel Castro Soto, Patricia Cortés Campos, Roberto Guzmán Gómez, Noemí Lezcano Arias, Grettel Mora Coto, Natalia Rosales Fernández</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">L. Castro S.,</subfield>
+    <subfield code="c">2015</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">232 páginas; </subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield ind1=" " tag="502" ind2=" ">
+    <subfield code="a">Seminario de graduación (Licenciatura en la enseñanza de la matemática) -- Universidad de Costa Rica. Facultad de Educación</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">482</subfield>
+    <subfield code="a">MATEMÁTICAS  </subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">456</subfield>
+    <subfield code="a">EDUCACIÓN SECUNDARIA</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">342</subfield>
+    <subfield code="a">CURRÍCULO (EDUCACIÓN)</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="9">1035</subfield>
+    <subfield code="a">Cortés Campos, Patricia</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="9">1036</subfield>
+    <subfield code="a">Guzmán Gómez, Roberto</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="9">1037</subfield>
+    <subfield code="a">Lezcano Arias, Noemí</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="9">1038</subfield>
+    <subfield code="a">Mora Coto,  Grettel</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="9">1039</subfield>
+    <subfield code="a">Rosales Fernández, Natalia</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">02</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2874</subfield>
+    <subfield code="d">2874</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,48 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01701nab a22001577a 4500</leader>
+  <controlfield tag="008">150528b1998    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">182</subfield>
+    <subfield code="a">Camacho Villalobos, María Elena</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Eventos especiales : Reseña de la actividad de entrega del volumen de la Revista Educación /</subfield>
+    <subfield code="c"> María Elena Camacho V.</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">1998</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">páginas 151 -  158</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">Se hizo entrega del volumen 21, número 1 de 1997, se resaltaron las expectativas, alcances, logros y desarrollo que ha tenido la Revista Educación 
+En dicho número se incluyeron 11 artículos con la contribución de 11 autores y se comentan las diferentes áreas temáticas. Actualmente la Revista tiene difusión nacional e internaciona, goza de alto prestigio y se proyectan mejoras para ella.
+Se expone una síntesis sobre el evento especial con la actividad de entrega del número y se hace referencista a las diferentes direcciones que ha tenido la Revista. Se presenta a los nuevos miembros que conforman la Revista. Se invitan personalidades de la Facultad de Educación.
+El pasado 11 de abril de 1998 se realizó la lucida entrega del volumen 21, número 1 de 1997 de la Revista Educación, en el auditorio de la Facultad de Educación, este evento especial se realizó con el propósito de celebrar los veinte años de existencia de la Revista Educación. Este evento se desarrolló en tres etapas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="0" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" tag="773" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0020</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.22, no.1 (1998)  </subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2599</subfield>
+    <subfield code="d">2599</subfield>
+  </datafield>
+</record>

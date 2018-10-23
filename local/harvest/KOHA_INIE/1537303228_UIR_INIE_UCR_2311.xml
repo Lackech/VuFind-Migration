@@ -1,0 +1,99 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02340nam a2200325Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2311</subfield>
+    <subfield code="d">2311</subfield>
+  </datafield>
+  <controlfield tag="008">180905b1988    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">18.09.01 </subfield>
+    <subfield code="b">53</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="a">Chacón Prendas, Rosalina</subfield>
+    <subfield code="9">4194</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Resultados de las pruebas nacionales de conocimientos mínimos : matemática, español, estudios sociales y ciencias /</subfield>
+    <subfield code="c">Rosalina Chacón Prendas, Ana María González Ramírez, Juan Manuel Esquivel Alfaro, Sofía María Díaz Solís, Damaris Fajardo Salas, Vilma Delgado Estrada, María del Pilar Arias Calvo</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1988</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">59 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">Este informe incluye los resultados de las pruebas de matemática, español, estudios sociales y ciencias, aplicadas a estudiantes de segundo y tercer ciclo de educación general básica y educación diversificada en 1987. Se ofrece una breve introducción que explica el tipo de prueba elaborado, su justificación teórica y describe el proceso de desarrollo y validación de las pruebas. Además se ofrecen cuadros y gráficos que muestran promedios de puntaje y calificaciones para cada nivel de la población total y de acuerdo con las siguientes variables: región, situación legal de la Institución (oficial, privada y semi – oficial) y zona de ubicación de las instituciones educativas (urbano – rural). También se presentan cuadros y gráficos con el número y porcentaje de estudiantes que logran una calificación de 60 o más en el segundo y tercer ciclo, y 65 o más en educación diversificada, en cada asignatura. Además se hace una comparación de los resultados obtenidos por los alumnos en matemática y español en los años de 1986 1987.</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">PRUEBAS</subfield>
+    <subfield code="9">629</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">MATEMÁTICAS  </subfield>
+    <subfield code="9">482</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">ESPAÑOL</subfield>
+    <subfield code="9">36</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">ESTUDIOS SOCIALES</subfield>
+    <subfield code="9">675</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">CIENCIAS NATURALES</subfield>
+    <subfield code="9">1934</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">ESTUDIANTES </subfield>
+    <subfield code="9">332</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">RESULTADOS DE INVESTIGACIÓN</subfield>
+    <subfield code="9">4187</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">EDUCACION GENERAL</subfield>
+    <subfield code="9">3913</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="700">
+    <subfield code="9">3835</subfield>
+    <subfield code="a">González Ramírez, Ana María</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">157</subfield>
+    <subfield code="a">Esquivel Alfaro, Juan Manuel</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2=" ">
+    <subfield code="9">4195</subfield>
+    <subfield code="a">Díaz Solís, Sofía María</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1=" ">
+    <subfield code="9">3209</subfield>
+    <subfield code="a">Fajardo Salas, Damaris</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="700">
+    <subfield code="9">1569</subfield>
+    <subfield code="a">Delgado Estrada, Vilma</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2=" ">
+    <subfield code="9">4196</subfield>
+    <subfield code="a">Arias Calvo, María del Pilar</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+  </datafield>
+</record>

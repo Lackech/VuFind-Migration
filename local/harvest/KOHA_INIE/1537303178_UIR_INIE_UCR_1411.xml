@@ -1,0 +1,70 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01365nam a2200241Ia 4500</leader>
+  <controlfield tag="008">160812b1999    cr ||||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">06.01.01 </subfield>
+    <subfield code="b">742</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="a">Chaves Salas, Ana Lupita</subfield>
+    <subfield code="9">255</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Articulación de procesos de investigación en los Centros Laboratorio de la Universidad de Costa Rica con su proyecto pedagógico : informe final / </subfield>
+    <subfield code="c">Ana Lupita Chaves Salas, María Agustina Cedeño S., Jackeline García F., Alicia Gurdián F.</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica. :  </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1999</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 volumen (en varias paginaciones)</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="500">
+    <subfield code="a">Informe final del proyecto de investigación N° 724-97-340</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Informe parcial del proyecto de investigación N° 724-97-340 (1998)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">En este informe parcial se da cuenta de los antecedentes y los primeros resultados del proyecto, elaborado como un apoyo académico a los docentes de los centros laboratorio de la Universidad de Costa Rica: la Escuela Nueva y el Liceo Laboratorio Emma Gamboa : resumen ejecutivo.</subfield>
+  </datafield>
+  <datafield ind2="4" tag="610" ind1="2">
+    <subfield code="a">UNIVERSIDAD DE COSTA RICA</subfield>
+    <subfield code="9">714</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">EVALUACIÓN DE PROGRAMAS</subfield>
+    <subfield code="9">969</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">FORMACIÓN DE DOCENTES</subfield>
+    <subfield code="9">9</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">INVESTIGACIÓN EDUCATIVA</subfield>
+    <subfield code="9">326</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">1512</subfield>
+    <subfield code="a">Cedeño Suárez, María Agustina</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">759</subfield>
+    <subfield code="a">García Fallas, Jacqueline</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">169</subfield>
+    <subfield code="a">Gurdián Fernández, Alicia</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">1411</subfield>
+    <subfield code="d">1411</subfield>
+  </datafield>
+</record>

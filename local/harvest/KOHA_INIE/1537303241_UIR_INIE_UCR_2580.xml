@@ -1,0 +1,44 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01328nab a22001577a 4500</leader>
+  <controlfield tag="008">150521b1997    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">94</subfield>
+    <subfield code="a">Cascante Madrigal, Lilliam</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Evaluación de un método para la enseñanza de lenguas extranjeras /</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Universidad de Costa Rica,</subfield>
+    <subfield code="c">1997</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">páginas 45-49</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">El presente artículo tiene por objetivo analizar la experimentación que se llevó a cabo con grupos de alumnos de secundaria, para evaluar el método de francés La Fenêtre, elaborado por Ligia Salas Pereira. Es la primera vez que un método para la enseñanza del francés lengua extranjera se experimenta y evalúa antes de ser implantado en el nivel nacional. Durante la experimentación se aplicaron diferentes instrumentos, tanto a los alumnos de las instituciones involucradas como a sus profesores. Los resultados finales fueron muy satisfactorios pues reflejaron un nivel de adquisición de conocimientos semejante al que se obtiene con la utilización de métodos elaborados por especialistas franceses.</subfield>
+  </datafield>
+  <datafield ind2=" " tag="650" ind1=" ">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind1="0" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0019</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.2, no.1 (1997)</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2580</subfield>
+    <subfield code="d">2580</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,46 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02283nab a2200169   4500</leader>
+  <controlfield tag="005">20160420110846.0</controlfield>
+  <controlfield tag="008">160420b2010    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">1525</subfield>
+    <subfield code="a">Naranjo Pereira, María Luisa</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Factores que favorecen el desarrollo de una actitud positiva hacia las actividades académicas /</subfield>
+    <subfield code="c">María Luisa Naranjo Pereira</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2010</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">páginas 31-53</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">Este artículo presenta una investigación de tipo descriptivo, cuyo objetivo es analizar los factores personales que favorecen el desarrollo de una actitud positiva hacia las actividades académicas, de acuerdo con la opinión de dos grupos de estudiantes de décimo año. Ella está constituida por un constructo principal: la actitud positiva hacia las actividades académicas, y un subconstructo: los factores personales que favorecen esas actitudes. Los aspectos que integran este subconstructo son la autoestima positiva, la motivación, la comunicación asertiva y el manejo del estrés. La introducción y el referente teórico evidencian la relación que existe entre estos factores, las actitudes hacia el aprendizaje y los logros académicos de la población estudiantil. De acuerdo con los resultados obtenidos, se concluye que la población estudiantil concede importancia tanto a factores internos como externos relacionados con la motivación, y los percibe como significativos para el desarrollo de actitudes positivas hacia las actividades académicas. De igual forma sucede con el hecho de poseer una autoestima positiva, saver comunicarse asertivamente y poder manejar el estrés  de forma adecuada. Se recomienda, por lo tanto, que las instituciones educativas presten especial atención al desarrollo socio-emocional  del estudiantado, mediante la realización de programas que favorezcan el logro de su motivación académica, un mejoramiento de su autoestima, la habilidad para comunicarse asertivamente y el afrontamiento apropiado del estrés</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind1="0" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0313</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.34, no.1 (2010)</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">3118</subfield>
+    <subfield code="d">3118</subfield>
+  </datafield>
+</record>

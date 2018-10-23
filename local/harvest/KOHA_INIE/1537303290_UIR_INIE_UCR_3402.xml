@@ -1,0 +1,44 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00545nam a2200157   4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">3402</subfield>
+    <subfield code="d">3402</subfield>
+  </datafield>
+  <controlfield tag="008">170313b2008    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">18.01.01</subfield>
+    <subfield code="b">2408</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">2526</subfield>
+    <subfield code="a">Barrantes Echavarría, Rodrigo</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Investigación: un  camino al conocimiento: un enfoque cuantitativo y cualitativo /</subfield>
+    <subfield code="c">Rodrigo Barrantes Echavarría</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">1 edición 1999</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica,</subfield>
+    <subfield code="b">EUNED,</subfield>
+    <subfield code="c">Reimpresiones: 2008</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">xiii, 264 páginas</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">163</subfield>
+    <subfield code="a">INVESTIGACIÓN</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">426</subfield>
+    <subfield code="a">MANUALES </subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

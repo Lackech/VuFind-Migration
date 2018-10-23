@@ -1,0 +1,51 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00737nam a2200169Ia 4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">1621</subfield>
+    <subfield code="d">1621</subfield>
+  </datafield>
+  <controlfield tag="008">180307b1984    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">06.02.03 </subfield>
+    <subfield code="b">62</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="a">Vicarioli C., Giuliana.</subfield>
+    <subfield code="9">3403</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Desarrollo psicogenético y enseñanza de algunos conceptos físicos</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1984</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">50 páginas</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">El decepcionante resultado, no obstante los esfuerzos realizados que en materia de educación científica realiza el país, podría deberse a que no se toma en cuenta el nivel evolutivo del niño al introducir los temas en los programas escolares, a que existen graves deficiencias de concatenación en los temas y a que el sistema educativo tiende a reforzar escisión escuela-ciencia con la vida cotidiana del niño y la memorización de los temas que se ve a menudo confundida con su comprensión. El marco teórico que utiliza este trabajo es el piagetiano constructivista según la cual el conocimiento, si bien parte de esquemas heredados, llega a construir estructuras mentales que son independientes tanto del medios externo como de las bases heredadas. El objetivo general del proyecto es señalar errores o indicar mecanismos generalizados que puedan hacer más efectivo el esfuerzo que en materia de educación realiza el país. Con tres años de duración, la investigación comprende cuatro etapas: · Análisis de los contenidos de física de los programas vigentes en cuanto a concatenación de conceptos y su momento de introducción. · Estudio del desarrollo picogenético en el niño y adolescente en algunos conceptos de mecánica, calor, electricidad y óptica. · Formulación de hipótesis de trabajo según la cual el momento ideal para la introducción escolar de los temas es cuando los estudiantes poseen las circunstancias normativas del fenómeno. Entonces con el mínimo de esfuerzo, por parte del docente y del niño, éste puede pasar al nivel de comprensión normal. · En la última etapa se trata de hacer plausible la hipótesis formulada. Además se aprovecha para poner en prueba una metodología activa donde las pruebas de inducción se aplicaron a la enseñanza combinando la acción del sujeto, con un equipo en extremo sencillo y que trata de interesar al niño al dar una explicación de los fenómenos que lo rodean con objetos de la experiencia cotidiana. </subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">DESARROLLO DE LA EDUCACIÓN</subfield>
+    <subfield code="9">24</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">FÍSICA</subfield>
+    <subfield code="9">673</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">PSICOLOGÍA DE LA EDUCACIÓN</subfield>
+    <subfield code="9">625</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

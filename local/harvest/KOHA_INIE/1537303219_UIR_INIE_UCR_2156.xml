@@ -1,0 +1,66 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02676nam a2200229Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2156</subfield>
+    <subfield code="d">2156</subfield>
+  </datafield>
+  <controlfield tag="008">180717b2009    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">14.02.04 </subfield>
+    <subfield code="b">1402</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1=" ">
+    <subfield code="a">Cordero Cordero, Teresita </subfield>
+    <subfield code="9">715</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="3" tag="245">
+    <subfield code="a">La construcción de la memoria histórica y la narrativa (autobiográficas, cuentos, leyendas y mitos) de las Madres /Padres- maestras/os en centroamérica / </subfield>
+    <subfield code="c">Teresita Cordero Cordero</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2009</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">77 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Informe final No. 724-A6-303\La Unidad posee informe parcial de 2006</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">Esta investigación tiene como antecedente el proceso investigativo “Experiencias pedagógicas de las madresmaestras: comprendiendo los significados del jardín”. El objetivo general es contribuir en la construcción de la memoria histórica de la organización de las Madres-Maestras en Panamá, Costa Rica y Honduras por medio de la narrativa de autobiografías, cuentos, leyendas, mitos. La población está conformada por las personas participantes de la organización de Madres-Maestras en Costa Rica, Panamá y Honduras que libremente deseen enviar sus autobiografías y cuentos infantiles inéditos por escrito o que los narren; personas participantes de la organización de las Madres-Maestras que manifiesten su anuencia a ser entrevistadas sobre su historia personal o contando cuentos inéditos. Se contó con un proceso de consentimiento informado para participar con sus contribuciones y respetar la autoría del material. Se recibieron 46 historias y relatos que fueron registrados en esta investigación, se hizo un registro fotográfico de las autoras y algunas se logró grabarlas en video. Una vez que se contó con el material, se procedió a trabajarlo en el paquete de análisis cualitativo Ti sobre la base de una serie de categorías, que surgieron de previo en la lectura de las primeras autobiografías. Entre otras se pensó en tomar en cuenta las siguientes ideas para la codificación inicial: relaciones interpersonales, aspectos socio-afectivos, aprendizajes registrados, mención a lo pedagógico, el contexto social y las referencias religiosas. En las historias y relatos se encuentran muchas referencias que valoran positivamente, su participaciónen la organización, sin dejar de compartir contradicciones, conflictos, alegrías y aprendizajes que han experimentado al ser parte de OMMA en el contexto de su historia biográfica.</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">MADRES</subfield>
+    <subfield code="9">1614</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">PADRES</subfield>
+    <subfield code="9">405</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">DOCENTES</subfield>
+    <subfield code="9">331</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">RELATOS PERSONALES</subfield>
+    <subfield code="9">422</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="651">
+    <subfield code="a">AMÉRICA CENTRAL</subfield>
+    <subfield code="9">457</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+  </datafield>
+</record>

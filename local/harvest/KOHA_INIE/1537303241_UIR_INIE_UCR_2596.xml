@@ -1,0 +1,51 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02535nab a2200169   4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2596</subfield>
+    <subfield code="d">2596</subfield>
+  </datafield>
+  <controlfield tag="008">150528b1998    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">108</subfield>
+    <subfield code="a">Rojas Porras, Marta</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="3">
+    <subfield code="a">El libro de texto : instrumento para la innovación educativa /</subfield>
+    <subfield code="c">Marta Rojas Porras</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">1998</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">páginas 91 - 118</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">Basado en investigaciones sobre el libro de texto y el manejo de aula, y en la experiencia en su elaboración, este artículo presenta una caracterización de este instrumento didáctico, esboza la situación de éste en el país, sus relaciones con la innovación educativa y las limitaciones más relevantes para concretar su aporte en el aula. Termina planteando el sentido de la Serie: hacia el siglo XXI en esta innovación.
+Se caracteriza el libro de texto como medio de comunicación portador de sentidos explícitos e implícitos, el cual trabaja con varios tipos de lenguaje. Se plantea que como materialización de un modelo de enseñanza y aprendizaje, el texto encarna una pedagogía dinamizadora de la relación educador- educando y premite el acercamiento a asignaturas particulares.
+Señala que las investigaciones han demostraso una correlación directa entre el uso del texto, su calidad y resultados académicos positivos; pero expresa la preocupación porque se ha encontrado que una de las limitaciones relevantes para un uso innovador de este recurso es la ausencia casi total de esta temática en la formación de los educadores y en la investigación educativa, de donde se deriva posiblemente, la carencia de criterios para la selección y la puesta en práctica de una dinámica de la clase que haga un uso creativo y crítico del texto . Agrega que para un uso innovador del libro resulta fundamental el trabajo con docentes, únicos garantes de convertirlo en un elemento dinámico.
+Propone los libros de la serie: hacia el siglo XXI como un punto de partida para la curiosidad, la confrontación y la construcción; como interlocutores en la situación de aula y facorecedores del diálogo entre docentes, estudiantes y sus contextos; como una aventura por abordar con esperanza.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" tag="773" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0020</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.22, no.1 (1998)  </subfield>
+  </datafield>
+  <datafield ind1=" " tag="856" ind2=" ">
+    <subfield code="u">http://revistas.ucr.ac.cr/index.php/educacion/article/view/24677/24896</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+</record>

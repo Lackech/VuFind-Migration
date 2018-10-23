@@ -1,0 +1,53 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00672nam a2200205Ia 4500</leader>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9968-862-08-8</subfield>
+  </datafield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">12.06.01 </subfield>
+    <subfield code="b">420</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1=" ">
+    <subfield code="a">Camacho Jiménez, Kemly</subfield>
+  </datafield>
+  <datafield ind1=" " tag="245" ind2=" ">
+    <subfield code="a">Internet, ¿cómo vamos cambiando? : elaborado a partir de las historias organizacionales de la adopciòn de la Internet (2000-2002)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, C.R. : </subfield>
+    <subfield code="b">Fundación Acceso, </subfield>
+    <subfield code="b"/>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">96 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="650">
+    <subfield code="a">TECNOLOGIA</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="650">
+    <subfield code="a">NUEVA TECNOLOGIA</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="650">
+    <subfield code="a">CULTURA ORGANIZACIONAL</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="650">
+    <subfield code="a">COMUNICACION ORGANIZACIONAL</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="650">
+    <subfield code="a">GENERACION DE CONOCIMIENTO</subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2=" ">
+    <subfield code="a">ESTUDIO ETNOGRAFICO</subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2=" ">
+    <subfield code="a">SOCIEDAD CIVIL</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="651">
+    <subfield code="a">AMERICA CENTRAL</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">892</subfield>
+    <subfield code="d">892</subfield>
+  </datafield>
+</record>

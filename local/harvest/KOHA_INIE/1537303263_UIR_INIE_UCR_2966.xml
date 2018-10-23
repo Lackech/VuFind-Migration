@@ -1,0 +1,46 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01908nab a2200169   4500</leader>
+  <controlfield tag="005">20160331135227.0</controlfield>
+  <controlfield tag="008">151211b2006    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">1082</subfield>
+    <subfield code="a">Castro Bonilla, Julieta</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Experiencias metodológicas construidas a partir de la expresión artística, del conocimiento de las teorías implícitas y de los modelos de pensamiento del docente /</subfield>
+    <subfield code="c">Julieta Castro Bonilla</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2006</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">páginas 201-215</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">En el presente artículo se expone parte  de los resultados  de una investigación que se refiere  a la práctica pedagógica que se construyen a partir  de las creencias, concepciones y estilos de pensamiento del personal docente, en el que la expresión artística le permite a la población estudiantil la concreción de sus aprendizajes. Participaron investigadores universitarios, docentes de los niveles de preescolar, educación primaria y secundaria, incluyendo los estudiantes de estos. El trabajo investigativo que hasta la fecha se ha  desarrollado demuestra que el estudio, la indagación, la reflexión y la búsqueda constante y sistemática de conocimientos  y experiencias  pedagógicas  y artísticas  intervienen en la organización de actividades para enseñar. La planificación de situaciones de aprendizaje en diferentes contextos hace posible la construcción de proyectos artístico pedagógicos planteados  desde una perspectiva globalizadora y lúdica, que a la vez permite el logro de aprendizajes cognitivos,  socio-afectivos y psicomotores, fundamentales para el desarrollo de una personalidad integral</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="0" tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0306</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.30, no.1 (2006)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2966</subfield>
+    <subfield code="d">2966</subfield>
+  </datafield>
+</record>

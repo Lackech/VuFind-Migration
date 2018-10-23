@@ -1,0 +1,56 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00984nam a2200193Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">1896</subfield>
+    <subfield code="d">1896</subfield>
+  </datafield>
+  <controlfield tag="008">180517b1993    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">06.03.07</subfield>
+    <subfield code="b"> 566</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="a">Herrera Peña, María Eugenia</subfield>
+    <subfield code="9">177</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Perfil académico profesional de la carrera de enfermería / </subfield>
+    <subfield code="c">María Eugenia Herrera Peña, Ana Isabel Mora Vargas, Agustina Cedeño Suárez</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1993</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">24 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="500" ind2=" ">
+    <subfield code="a">Véase también en la misma línea de investigación: Perfil académico profesional de la carrera de derecho y de la carrera de periodismo.</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">El propósito de este proyecto consistió en actualizar el perfil académico y profesional de la carrera de Enfermería, ya que como eje orientador del plan de estudios, debe responder a las necesidades y a los avances científicos y tecnológicos en el campo de la salud. Esta labor se realizó en tres etapas. Primero se recopiló en la Unidad Académica, en el Centro de Evaluación Académica, en el Consejo Nacional de Rectores y en el Colegio de Enfermeras de Costa Rica, la información en que se fundamenta la planificación curricular de la carrera. Con estos datos se elaboró un documento base del perfil, el cual fue sometido al análisis y a la reflexión por parte de las investigadoras del IIMEC-CEA, de la Comisión de Curriculum de la Unidad Académica, de docentes y estudiantes de la carrera de Enfermería, así como de otras carreras que prestan apoyo, y de graduados en la disciplina en cuestión. El documento final se compone de un marco referencial y conceptual de la carrera en el que se incluyen los antecedentes históricos (desde sus orígenes hasta la consolidación del plan de estudios en la Universidad de Costa Rica). También se discuten los fundamentos de la disciplina, de los cuales se hace especial énfasis en el objeto de estudio y en las concepciones de ser humano, de sociedad y del proceso de enseñanza-aprendizaje. Brinda, además, una conceptualización del profesional en enfermería, que ofrece una descripción general de la disciplina y que contempla, entre otros aspectos, el ámbito de acción de este profesional, su función social y las características que le exige su servicio laboral y que lo distinguen de otros trabajadores. En lo que concierne a los componentes del perfil profesional, estos se estructuran en tres áreas: la académica, que incluye los conocimientos, las habilidades y las destrezas; la personal, constituida por los valores y las actitudes, y la laboral, conformada por las funciones y las tareas. Finalmente, se enfatiza (en el aspecto cualitativo) la necesidad de que se dé prioridad a la relación teoría-práctica, a la relación enfermera-paciente y a la relación enfermera-equipo de salud. 
+</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">FORMACIÓN PROFESIONAL</subfield>
+    <subfield code="9">498</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">PERFIL PROFESIONAL</subfield>
+    <subfield code="9">1698</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">129</subfield>
+    <subfield code="a">Mora Vargas, Ana Isabel</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">1512</subfield>
+    <subfield code="a">Cedeño Suárez, María Agustina</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

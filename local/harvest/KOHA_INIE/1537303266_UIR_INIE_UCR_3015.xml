@@ -1,0 +1,47 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01369nab a22001697a 4500</leader>
+  <controlfield tag="005">20160331141158.0</controlfield>
+  <controlfield tag="008">160112b        xxuf|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">1288</subfield>
+    <subfield code="a">Quijano Chacón, Grettel</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="3" tag="245">
+    <subfield code="a">La inclusión: un reto para el sistema educativo costarricense /</subfield>
+    <subfield code="c">Grettel Quijano Chacón</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2008</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">páginas 139-155</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">Este artículo se escribe con referencia a una serie de aspectos relacionados con la inclusión educativa, con el propósito de hacer conciencia en la comunidad educativa y en la sociedad costarricense, acerca de la importancia de llevar a la práctica actitudes de respeto, tolerancia y solidaridad hacia los estudiantes y las estudiantes con necesidades educativas especiales asociados a discapacidad intelectual, lo que posibilita la construcción de una sociedad justa y equitativa. 
+Para que la inclusión sea una realidad, es necesario que exista una responsabilidad compartida, en la que cada uno asuma sus responsabilidades con el fin de mejorar la calidad de vida de dicha población</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind2=" " ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0396</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.32, no.1 (2008)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">3015</subfield>
+    <subfield code="d">3015</subfield>
+  </datafield>
+</record>

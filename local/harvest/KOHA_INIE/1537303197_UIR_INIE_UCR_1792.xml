@@ -1,0 +1,46 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00746nam a2200145Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">1792</subfield>
+    <subfield code="d">1792</subfield>
+  </datafield>
+  <controlfield tag="008">180420b2002    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">06.03.06</subfield>
+    <subfield code="b"> 389</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="a">Sequeira Rodríguez, Alicia</subfield>
+    <subfield code="9">215</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="3">
+    <subfield code="a">La práctica curricular de la educación superior costarricense 1843-1941:  Fundamentos de una teoría</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b"> IIMEC, </subfield>
+    <subfield code="c">2002</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">10 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Informe Final del Proyecto de Investigación N° 724-96-239</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">Esta investigación pretendió responder a la pregunta ¿Cuáles son las características teóricas que ha generado la práctica curricular de la Educación Superior de Costa Rica entre 1843-1941? El propósito fue aclarar el papel de la práctica de la educación superior en el período señalado de manera que los hechos curriculares ocurridos en el pasado pudieran dar luz para atesorar lo pertinente y, a la vez, poner atención a los factores que no contribuyeron a dar impulso a la educación superior. Los objetivos propuestos para la investigación no se alcanzaron en su totalidad como se indica en las conclusiones, implicaciones y recomendaciones; debido a que la investigación se tuvo que interrumpir por tiempos prolongados y, por otra parte, el tiempo asignado fue demasiado corto para poder concluir una tarea de esta magnitud pues el período investigado es de un siglo</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+    <subfield code="9">8</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">CURRÍCULO (EDUCACIÓN)</subfield>
+    <subfield code="9">342</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,43 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00555nam a2200157   4500</leader>
+  <controlfield tag="008">160128bsf      cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">04.02.01</subfield>
+    <subfield code="b">2293</subfield>
+  </datafield>
+  <datafield ind2=" " tag="110" ind1="2">
+    <subfield code="9">1381</subfield>
+    <subfield code="a">Instituto de Estudios Interdisciplinarios de la Niñez y la Adolescencia (Costa Rica)</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Instrumentos guía para la realización del debido proceso</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">[Heredia, Costa Rica] :</subfield>
+    <subfield code="b">UNA. INEINA,</subfield>
+    <subfield code="c">sin fecha</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">20 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Título tomado de la cubierta</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">570</subfield>
+    <subfield code="a">DERECHOS DEL NIÑO</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">332</subfield>
+    <subfield code="a">ESTUDIANTES </subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">3057</subfield>
+    <subfield code="d">3057</subfield>
+  </datafield>
+</record>

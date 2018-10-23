@@ -1,0 +1,84 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00944nam a2200277   4500</leader>
+  <controlfield tag="008">160803b2011    c  ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="020">
+    <subfield code="a">9789591807632</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">06.06.02</subfield>
+    <subfield code="b">2359</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="100">
+    <subfield code="9">1920</subfield>
+    <subfield code="a">Massón Cruz, Rosa María</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Estudio comparativo en la formación de profesores de secundaria básica / </subfield>
+    <subfield code="c">Rosa María Massón Cruz, Miguel Jorge Llivina Lavigne, Victoria Arencibia Sosa</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Cuba :</subfield>
+    <subfield code="b">Ministerio de Educación,</subfield>
+    <subfield code="c">2011</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">150 páginas</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">9</subfield>
+    <subfield code="a">FORMACIÓN DE DOCENTES</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">331</subfield>
+    <subfield code="a">DOCENTES</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">456</subfield>
+    <subfield code="a">EDUCACIÓN SECUNDARIA</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">451</subfield>
+    <subfield code="a">POLÍTICA EDUCATIVA</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">482</subfield>
+    <subfield code="a">MATEMÁTICAS  </subfield>
+  </datafield>
+  <datafield ind1=" " ind2="4" tag="651">
+    <subfield code="9">1261</subfield>
+    <subfield code="a">CUBA</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="4">
+    <subfield code="9">458</subfield>
+    <subfield code="a">REPÚBLICA DOMINICANA</subfield>
+  </datafield>
+  <datafield ind2="4" ind1=" " tag="651">
+    <subfield code="9">1736</subfield>
+    <subfield code="a">PERÚ</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="4">
+    <subfield code="9">1349</subfield>
+    <subfield code="a">COLOMBIA</subfield>
+  </datafield>
+  <datafield ind2="4" ind1=" " tag="651">
+    <subfield code="9">63</subfield>
+    <subfield code="a">ARGENTINA</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="700">
+    <subfield code="9">1921</subfield>
+    <subfield code="a">Llivina Lavigne, Miguel Jorge</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="700">
+    <subfield code="9">1922</subfield>
+    <subfield code="a">Arenciba Sosa, Victoria</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3297</subfield>
+    <subfield code="d">3297</subfield>
+  </datafield>
+</record>

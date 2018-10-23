@@ -1,0 +1,50 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02259nab a2200181   4500</leader>
+  <controlfield tag="005">20160422114824.0</controlfield>
+  <controlfield tag="008">160420b2010    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">1568</subfield>
+    <subfield code="a">Ojeda, Juana</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="245">
+    <subfield code="a">Planificación académica y cultura organizacional en las instituciones de educación básica /</subfield>
+    <subfield code="c">Juana Ojeda, María Ferrer</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2010</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">páginas 15-33</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">En este artículo se hace un resumen de un estudio que tuvo como propósito determinar la relación entre la cultura organizacional y la planificación académica en las instituciones de educación básica. El clima organizacional estuvo evaluado a partir de los elementos, categorías y tipos que lo modifican; por su parte, la planificación académica se midió a partir de las fases, principios y pasos previstos en sus objetivos. Para alcanzar el propósito establecido, se hizo una exhaustiva revisión bibliográfica que permitió fundamentar teóricamente la investigación. La construcción teórica-referencial se hizo por medio de la revisión de antecedentes, análisis de teorías, definición de conceptos y fundamentos teóricos relacionados con la temática que se investigó. El tipo de investigación utilizada fue la descriptiva. La información se obtuvo mediante la aplicación de un cuestionario aplicado al personal docente y directivo de las instituciones de educación básica investigadas. El análisis y la interpretación de los resultados obtenidos se efectuaron de manera cuantitativa utilizando el paquete estadístico computarizado denominado SPSS versión 12.0. Se logró determinar que existe una alta relación de dependencia entre las variables clima organizacional y planificación académica, lo que puso en evidencia que la planificación académica es afectada por los elementos, categorías y tipos de clima organizacional imperantes en las instituciones básicas estudiadas</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">1570</subfield>
+    <subfield code="a">Ferrer, María</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="0" tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0361</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.34, no.2 (jul.-dic., 2010)</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3124</subfield>
+    <subfield code="d">3124</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,55 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01495nab a22001937a 4500</leader>
+  <controlfield tag="005">20160620113936.0</controlfield>
+  <controlfield tag="008">150730b2002    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">615</subfield>
+    <subfield code="a">Mora Zúñiga, Laura</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Percepciones sobre la femineidad y sus implicaciones vocacionales en mujeres adolecentes /</subfield>
+    <subfield code="c">Laura Mora Zúñiga, Gabriela Muñoz Porras, Vilarreal Montoya, Cecilia</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2002</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">páginas 103-120</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">El artículo presenta resultados de una investigación cuyo objetivo de estudio fue un grupo de mujeres estudiantes de especialidades técnicas tradicionalmente reconocidas como masculinas.
+Identifica algunas de las razones por las cuales estas jóvenes eligen estudiar en un colegio técnico y especializarse en esos oficios. Concluye que es necesario continuar profundizando en las posibilidades y condiciones de toma de decisiones en la dinámica familiar, las condiciones y oportunidades que brindan las instituciones a las adolescentes de estas y otras especialidades, el número de relaciones y la opinión docente-alumno en estos centros educativos</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">616</subfield>
+    <subfield code="a">Muñoz Porras, Gabriela</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">254</subfield>
+    <subfield code="a">Villarreal Montoya, Cecilia</subfield>
+  </datafield>
+  <datafield tag="773" ind2=" " ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0060</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.26, no.1  (2002)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2748</subfield>
+    <subfield code="d">2748</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,51 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00557nam a2200181   4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">3503</subfield>
+    <subfield code="d">3503</subfield>
+  </datafield>
+  <controlfield tag="008">180615b2014    m  ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9786078345304</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">04.02.01</subfield>
+    <subfield code="b">2465</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1=" ">
+    <subfield code="9">3770</subfield>
+    <subfield code="a">López Díaz, Isabel Cristina</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Educar en derechos humanos: un camino a la paz /</subfield>
+    <subfield code="c">Isabel Cristina López Díaz</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">México :</subfield>
+    <subfield code="b">Neisa,</subfield>
+    <subfield code="c">2014</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">273 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="490">
+    <subfield code="a">Transversales</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">588</subfield>
+    <subfield code="a">DERECHOS HUMANOS</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="0">
+    <subfield code="a">EDUCACIÓN EN VALORES</subfield>
+    <subfield code="9">719</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">691</subfield>
+    <subfield code="a">CONVIVENCIA ESCOLAR</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

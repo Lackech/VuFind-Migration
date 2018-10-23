@@ -1,0 +1,47 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00992nam a2200181Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">1901</subfield>
+    <subfield code="d">1901</subfield>
+  </datafield>
+  <controlfield tag="008">180518b1995    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">06.03.07</subfield>
+    <subfield code="b"> 7</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Hernández Rodríguez, María del Carmen</subfield>
+    <subfield code="9">194</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Estudio psicogénetico del concepto de descomposición de la materia orgánica, en niños de 8 a 12 años de la región de San Ramón, Alajuela, Costa Rica /</subfield>
+    <subfield code="c"> María del Carmen Hernández Rodríguez, Sonia Delgado</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1995</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">87 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">El Centro tiene el tercer Informe parcial  e Informe  final del proyecto de investigación No. 724-92-213</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">Investigación interdisciplinaria, en la que participaron investigadoras de las áreas de Biología, de Tecnología Educativa y de Psicología, cuya finalidad es contribuir a la teoría psicogenética, con el estudio de la evolución de conceptos básicos de Ciencias en niños de 8 a 12 años. Se fundamenta en una filosofía constructivista, inspirada en la psicología y la epistemología genética originadas en la escuela de Ginebra por Jean Piaget. Su principal objetivo es solucionar algunos problemas que se presentan en la Enseñanza de las Ciencias en la Educación General Básica, concretamente en lo que respecta al tema de la descomposición de la materia, concepto abstracto (de difícil comprensión para los estudiantes), que implica además la comprensión de que la materia cumple un ciclo del cual dependen otros procesos importantes. Se trabajó con una muestra de 350 estudiantes de segundo a sexto grado de dos escuelas del cantón de San Ramón de Alajuela. Una de ellas es una escuela urbana y semi-oficial, cuyos estudiantes proceden de un estrato social medio o medio alto; la otra es una institución rural y agrícola, sus estudiantes proceden de un estrato social medio o medio bajo. Para la recolección de los datos se diseñaron tres instrumentos con el propósito de conocer las ideas que los niños de 8 a 12 años manejan sobre temas ecológicos. Dos de estos instrumentos fueron elaborados por las investigadoras a cargo del estudio. El primero consistió en la observación de dos troncos, cada uno en diferente estado de descomposición, los cuales debían ser descritos por los niños al responder a preguntas abiertas elaboradas para este propósito; además, debían realizar un dibujo de cada tronco con el fin de que las investigadoras pudieran determinar cómo perciben los niños el proceso de descomposición. El segundo instrumento fue un cuestionario con preguntas de selección y con preguntas abiertas relacionadas con la definición de algunos conceptos y fue elaborado para determinar la influencia del hogar, de la escuela y de los medios de comunicación en la construcción de los conceptos relacionados con el proceso de descomposición y el ciclo de la materia orgánica. El tercero fue diseñado por la Dra. Bonnie Shapiro, de Calgari (Canadá); se trata de una encuesta-video en la que se observa el proceso de descomposición de frutas en un platón. Con los resultados de este último instrumento se realizó una comparación inter-cultural sobre los conocimientos de temas ecológicos de los niños costarricenses con respecto a los conocimientos, sobre el mismo tema, de los niños canadienses. Del estudio se concluye que los niños están familiarizados con el proceso de descomposición, aunque no comprenden el proceso en sí. Además, a pesar de que relacionan los hongos y las bacterias con este proceso, desconocen qué es un hongo y qué es una bacteria. Tampoco relacionan el proceso de fotosíntesis y el de la descomposición con el ciclo de la materia, con lo cual se evidencia que estos procesos se enseñan aisladamente y no en forma integral. Ello sugiere la necesidad de un cambio curricular en los programas de Ciencias de la Educación General Básica</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">ENSEÑANZA DE LAS CIENCIAS </subfield>
+    <subfield code="9">996</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">185</subfield>
+    <subfield code="a">Delgado Quesada, Sonia</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

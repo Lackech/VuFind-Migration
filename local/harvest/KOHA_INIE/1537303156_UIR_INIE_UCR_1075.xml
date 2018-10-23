@@ -1,0 +1,49 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00814nam a2200181Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">1075</subfield>
+    <subfield code="d">1075</subfield>
+  </datafield>
+  <controlfield tag="001">"</controlfield>
+  <controlfield tag="008">180530b2001    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="020" ind2=" ">
+    <subfield code="a">9977-67-677-1</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">19. 01.01 </subfield>
+    <subfield code="b">1392</subfield>
+  </datafield>
+  <datafield ind1=" " tag="100" ind2=" ">
+    <subfield code="a">Montero Gálvez, Virginia</subfield>
+    <subfield code="9">3685</subfield>
+  </datafield>
+  <datafield ind2=" " tag="245" ind1=" ">
+    <subfield code="a">Visión Histórica de la Carrera de Bibliotecología y Ciencias de la Información en la Universidad de Costa Rica de 1968 a 1998 / </subfield>
+    <subfield code="c">Virginia Montero Gálvez, Lidiette  Díez Solano,  Benilda Salas Sánchez</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, C.R. : </subfield>
+    <subfield code="b">Editorial de la Universidad de Costa Rica, </subfield>
+    <subfield code="c">2001</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">111 páginas</subfield>
+  </datafield>
+  <datafield tag="610" ind2="0" ind1=" ">
+    <subfield code="a">UNIVERSIDAD DE COSTA RICA. FACULTAD DE EDUCACIÓN. ESCUELA DE BIBLIOTECOLOGÍA Y CIENCIAS DE LA INFORMACIÓN</subfield>
+    <subfield code="9">3686</subfield>
+  </datafield>
+  <datafield ind1=" " tag="700" ind2=" ">
+    <subfield code="a">Díez Solano, Lidiette</subfield>
+    <subfield code="9">3687</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1=" ">
+    <subfield code="a">Salas Sánchez, Benilda</subfield>
+    <subfield code="9">3688</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

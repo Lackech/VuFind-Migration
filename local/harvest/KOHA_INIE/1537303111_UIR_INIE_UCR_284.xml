@@ -1,0 +1,59 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00702nam a2200205Ia 4500</leader>
+  <controlfield tag="008">151104b1       S  ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="020" ind2=" " ind1=" ">
+    <subfield code="a">8487767567</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">18.03.01 </subfield>
+    <subfield code="b">1899</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="a">Rodríguez Gómez, Gregorio</subfield>
+    <subfield code="9">1136</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Metodología de la investigación cualitativa / </subfield>
+    <subfield code="c">Gregorio Rodríguez Gómez, Javier Gil Flores, Eduardo García Jiménez</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="250">
+    <subfield code="a">2 edición</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">Málaga : </subfield>
+    <subfield code="b">Ediciones Aljibe, </subfield>
+    <subfield code="c">1999</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">378 páginas</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">METODOLOGÍA</subfield>
+    <subfield code="9">285</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">INVESTIGACIÓN CUALITATIVA</subfield>
+    <subfield code="9">317</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">MÉTODOS DE INVESTIGACIÓN </subfield>
+    <subfield code="9">288</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="a">Gil Flores, Javier</subfield>
+    <subfield code="9">1137</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="0">
+    <subfield code="a">García Jiménez, Eduardo</subfield>
+    <subfield code="9">1138</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">284</subfield>
+    <subfield code="d">284</subfield>
+  </datafield>
+</record>

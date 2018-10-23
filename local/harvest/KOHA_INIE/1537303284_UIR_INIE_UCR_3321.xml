@@ -1,0 +1,78 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00972nam a22002537a 4500</leader>
+  <controlfield tag="008">160923b2009    mx a|||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="020">
+    <subfield code="a">9789708300544</subfield>
+  </datafield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">06.05.04 </subfield>
+    <subfield code="b">2231 </subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">2014</subfield>
+    <subfield code="a">Kostelnik, Marjorie J.</subfield>
+  </datafield>
+  <datafield ind2="3" tag="245" ind1="1">
+    <subfield code="a">El desarrollo social de los niños / </subfield>
+    <subfield code="c">Marjorie J. Kostelnik, Alice Phipps Whiren, Anne K. Soderman, Kara M. Gregory, traductor José Carmen Pecina Hernández</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">México : </subfield>
+    <subfield code="b">Cengage Learning Editores, </subfield>
+    <subfield code="c">2009.</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">xxv, 502 páginas; </subfield>
+    <subfield code="b">ilustraciones. </subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">723</subfield>
+    <subfield code="a">DESARROLLO DEL NIÑO</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">876</subfield>
+    <subfield code="a">DESARROLLO AFECTIVO</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">644</subfield>
+    <subfield code="a">DESARROLLO DE HABILIDADES</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">2015</subfield>
+    <subfield code="a">COMPETENCIAS PARA LA VIDA</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">613</subfield>
+    <subfield code="a">DESARROLLO SOCIAL </subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1103</subfield>
+    <subfield code="a">SOCIALIZACION </subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">2016</subfield>
+    <subfield code="a">Phipps Whiren, Alice </subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">2017</subfield>
+    <subfield code="a">Soderman, Anne K.</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">2018</subfield>
+    <subfield code="a">Gregory, Kara M.</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="9">2019</subfield>
+    <subfield code="a">Pecina Hernández, José Carmen</subfield>
+    <subfield code="e">traductor/a</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">3321</subfield>
+    <subfield code="d">3321</subfield>
+  </datafield>
+</record>

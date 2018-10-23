@@ -1,0 +1,61 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01122nam a2200205   4500</leader>
+  <controlfield tag="008">160511b2014    cr a|||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">06.03.04 </subfield>
+    <subfield code="b">2334</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">1743</subfield>
+    <subfield code="a">Guzmán Simón, Fernando</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="245">
+    <subfield code="a">Los ecositemas de la lengua escrita en los alumnos del II ciclo de educación general básica en Costa Rica /</subfield>
+    <subfield code="c">Fernando Guzmán Simón, Celia Moreno Morilla, Eduardo García Jiménez</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">[Lugar de publicación no identificado] :</subfield>
+    <subfield code="b">Universidad de Costa Rica; Universidad de Sevilla,</subfield>
+    <subfield code="c">[2014?]</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">45 páginas;</subfield>
+    <subfield code="b">ilustarciones</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">El proyecto de investigación "Los ecosistemas de la lengua escrita en los alumnos del II ciclo de la Educación General Básica en Costa Rica" ha sido fruto de la colaboración de la Universidad de Sevilla (US) con el Instituto de Investigación en Educación (INIE) de la Universidad de Costa Rica (UCR).</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">365</subfield>
+    <subfield code="a">LECTURA</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1189</subfield>
+    <subfield code="a">ESCRITURA</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">80</subfield>
+    <subfield code="a">ALFABETIZACIÓN</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">367</subfield>
+    <subfield code="a">EDUCACIÓN PRIMARIA</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">1744</subfield>
+    <subfield code="a">Moreno Morilla, Celia</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">1138</subfield>
+    <subfield code="a">García Jiménez, Eduardo</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3220</subfield>
+    <subfield code="d">3220</subfield>
+  </datafield>
+</record>

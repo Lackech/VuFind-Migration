@@ -1,0 +1,71 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03453nam a2200241Ia 4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">1219</subfield>
+    <subfield code="d">1219</subfield>
+  </datafield>
+  <controlfield tag="008">170516b2002    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">01.01.06 </subfield>
+    <subfield code="b">272</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">759</subfield>
+    <subfield code="a">García Fallas, Jacqueline</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Evaluación de los proyectos de innovación pedagógica e investigación educativa, en el marco del proyecto "apoyo al mejoramiento inicial de docentes de la educación primaria básica de la coordinación educativa y cultural de centroamérica (CECC)" / </subfield>
+    <subfield code="c">Jacqueline García Fallas, Julieta Castro Bonilla, Ana Lupita Chaves Salas, Nayibe Tabash Blanco</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">2002</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">205 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="500" ind2=" ">
+    <subfield code="a">Contiene el resumen ejecutivo, Proyecto de Investigación  No. 724-A3-719</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">El objeto de esta investigación es la evaluación de los proyectos de innovación e investigación educativa llevados a cabo en los países centroamericanos en el marco del programa "Apoyo al Mejoramiento de la Formación Inicial de Docentes de la Educación Primaria o Básica en Centroamérica", desarrollado por la Coordinación Educativa y Cultural Centroamericana y la Embajada Real de los Países Bajos.El documento tiene tres capítulos donde se desarrollan los temas de:  Contexto de la evaluación, se incluye la información correspondiente a objetivos, marco conceptual y diseño metodológico para llevar a cabo las propuestas evaluativas; Análisis y resultados, se incluyen las características generales de los proyectos de investigación e innovación educativa.  Además se presenta el estudio realizado por el equipo de evaluadoras a los once proyectos de investigación educativa, organizados por país; y Consideraciones generales, se presenta la reflexión final del equipo de evaluadoras en torno a los proyectos analizados. Los objetivos de la investigación son:  - Valorar el impacto y la influencia potenciales que podrían tener los resultados e los proyectos ejecutados, en los formadores y en la formación inicial de docentes en sus propios países y en la región en general.  - Valorar el papel que jugó, en el desarrollo de los proyectos la supervisión ejercida por la Dirección del proyecto, la coordinación nacional del proyecto y los supervisores nombrados para proyectos de investigación.  - Valorar el impacto e influencia posible en los resultados de los proyectos de innovación pedagógica en la actualización profesional de los maestros centroamericanos Los resultados más importantes fueron:  - Las  propuestas de investigación educativa incorporaron sectores sociales y regiones que denotan marcadas necesidades educativas y socioeconómicas, según el contexto de cada país.  - Algunos de los proyectos de investigación tienen calidad técnica y  claridad conceptual. Asimismo se proyectan hacia una formación integral del ser humano, capas de crear y trasformar su contexto.  - Hay sentimiento generalizado de que las propuestas de investigación educativa se amplíen, se continúen y se divulguen a nivel nacional y regional para que tenga impacto en la formación inicial de docentes.</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">PROYECTOS DE DESARROLLO</subfield>
+    <subfield code="9">2739</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">RELACIONES HUMANAS</subfield>
+    <subfield code="9">1874</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">EVALUACIÓN </subfield>
+    <subfield code="9">287</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">EDUCACIÓN PRIMARIA</subfield>
+    <subfield code="9">367</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">FORMACIÓN DE DOCENTES</subfield>
+    <subfield code="9">9</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="a">Castro Bonilla, Julieta</subfield>
+    <subfield code="9">1082</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="a">Chaves Salas, Ana Lupita</subfield>
+    <subfield code="9">255</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">104</subfield>
+    <subfield code="a">Tabash Blanco, Nayibe</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

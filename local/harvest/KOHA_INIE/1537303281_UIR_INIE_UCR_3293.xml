@@ -1,0 +1,62 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00805nam a2200181   4500</leader>
+  <controlfield tag="008">160729b2015    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">06.02.01</subfield>
+    <subfield code="b">2357</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">1909</subfield>
+    <subfield code="a">Velásquez, Milton Ascencio</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Una educación transformadora para El Salvador: propuesta y obstáculos para alcanzarla /</subfield>
+    <subfield code="c">Milton Ascencio Velásquez</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">pp. 31-46</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">11</subfield>
+    <subfield code="a">CALIDAD DE LA EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">1363</subfield>
+    <subfield code="a">EDUCACIÓN CÍVICA</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">599</subfield>
+    <subfield code="a">DERECHO A LA EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">451</subfield>
+    <subfield code="a">POLÍTICA EDUCATIVA</subfield>
+  </datafield>
+  <datafield tag="773" ind1="0" ind2=" ">
+    <subfield code="d">Cartago, Costa Rica : Instituto Tecnológico de Costa Rica, 2015</subfield>
+    <subfield code="o">004209</subfield>
+    <subfield code="t">Revista comunicación</subfield>
+    <subfield code="x">03793974</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="773" ind2=" " ind1="0">
+    <subfield code="0">3292</subfield>
+    <subfield code="9">3368</subfield>
+    <subfield code="a"/>
+    <subfield code="b"/>
+    <subfield code="d">Cartago, Costa Rica : Instituto Tecnológico de Costa Rica, 2015</subfield>
+    <subfield code="o">004209</subfield>
+    <subfield code="t">Revista comunicación</subfield>
+    <subfield code="w"/>
+    <subfield code="x">03793974</subfield>
+    <subfield code="z"/>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">3293</subfield>
+    <subfield code="d">3293</subfield>
+  </datafield>
+</record>

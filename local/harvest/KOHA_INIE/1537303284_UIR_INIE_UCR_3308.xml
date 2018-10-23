@@ -1,0 +1,61 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00800nam a22002057a 4500</leader>
+  <controlfield tag="008">160829b    2009   a|||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="020" ind2=" ">
+    <subfield code="a">9788469184646</subfield>
+  </datafield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">14.02.03</subfield>
+    <subfield code="b">2371</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">1946</subfield>
+    <subfield code="a">Alcalá Cortijo, Paloma</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Ni tontas ni locas: las intelectuales en el Madrid del primer tercio del siglo XX /</subfield>
+    <subfield code="c">Coordinación a cargo de Paloma Alcalá Cortijo, Capi Corrales Rodrigáñez, Julia López Giráldez</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">[Madrid] :</subfield>
+    <subfield code="b">Fundación Española para la Ciencia y la Tecnología,</subfield>
+    <subfield code="c">Impresión de 2009</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">254 páginas;</subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">55</subfield>
+    <subfield code="a">MUJERES</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">22</subfield>
+    <subfield code="a">HISTORIA</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">968</subfield>
+    <subfield code="a">BIOGRAFÍAS</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="4">
+    <subfield code="9">1504</subfield>
+    <subfield code="a">ESPAÑA</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="9">1947</subfield>
+    <subfield code="a">Corrales Rodrigáñez, Capi</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">1948</subfield>
+    <subfield code="a">López Giráldez, Julia</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">3308</subfield>
+    <subfield code="d">3308</subfield>
+  </datafield>
+</record>

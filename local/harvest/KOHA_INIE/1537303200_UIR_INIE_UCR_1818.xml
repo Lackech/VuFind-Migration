@@ -1,0 +1,63 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01010nam a2200217Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">1818</subfield>
+    <subfield code="d">1818</subfield>
+  </datafield>
+  <controlfield tag="008">180424b1994    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">06.03.06</subfield>
+    <subfield code="b"> 61</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="a">Cascante Madrigal, Lilliam</subfield>
+    <subfield code="9">94</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Evaluación del método la fenetre en una muestra de 7° de educación secundaria / </subfield>
+    <subfield code="c">Lilliam Cascante Madrigal, Ligia María Salas P.</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1994</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">paginación irregular</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Proyecto de Investigación No. 724-91-209. La Unidad posee I, II informes e informe final</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">Los objetivos del método de enseñanza La Fenêtre son lograr una mejor actitud hacia el francés, mejorar el rendimiento en esta materia y permitir el aprovechamiento del tiempo y el espacio en el aula y una mayor interacción entre los alumnos y el profesor. Antes de publicar definitivamente el texto, las investigadoras llevaron a cabo un estudio para observar el cumplimiento de estos propósitos y de sus principios teóricos: el aprendizaje del francés por medio de actividades de lectura, el auto-aprendizaje y el acercamiento a la civilización francesa. El instrumento diseñado tenía la forma de escalas bipolares de diferencial semántico aplicadas en pre-test y post-test para medir la actitud de los estudiantes hacia el francés. Las dimensiones incluidas en las escalas se referían a evaluación ("agradable-desagradable"), potencia ("aburrido-entretenido") y actividad ("útil-inútil"). La población estudiada fue de 703 estudiantes de 7º año y once profesores del mismo nivel. Cada profesor tuvo a su cargo dos grupos: uno de experimentación (que utilizó el método La Fenêtre) y otro control (que empleó otro método). Los resultados del pre-test muestran que en todos los grupos la actitud hacia el francés es positiva en los alumnos de sétimo año. Los grupos de experimentación evaluaron más positivamente el francés que los grupos control, pero ambos consideraron su enseñanza como útil, necesaria y agradable. Los resultados del post-test muestran que la actitud es también positiva al final del curso lectivo; sin embargo, los resultados son más bajos que los del pre-test en ambos grupos. Las autoras recomiendan el uso del método nuevo en la Educación General Básica. </subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">EDUCACIÓN SECUNDARIA</subfield>
+    <subfield code="9">456</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">MÉTODOS PEDAGÓGICOS</subfield>
+    <subfield code="9">824</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">MÉTODO LA FENETRE</subfield>
+    <subfield code="9">341</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">ENSEÑANZA DE IDIOMAS</subfield>
+    <subfield code="9">1317</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">FRANCÉS</subfield>
+    <subfield code="9">604</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="a">Salas P., Ligia María</subfield>
+    <subfield code="9">3609</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

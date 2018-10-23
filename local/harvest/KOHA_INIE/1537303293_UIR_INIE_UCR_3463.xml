@@ -1,0 +1,58 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>     nam a22        4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">3463</subfield>
+    <subfield code="d">3463</subfield>
+  </datafield>
+  <controlfield tag="008">171212b2017    CR ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">14.02.02</subfield>
+    <subfield code="b">2436</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">2649</subfield>
+    <subfield code="a">Kaufmann Kappari, Etty Helen</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Trabajos psicológicos del adolescente /</subfield>
+    <subfield code="c">Etty Helen Kaufmann Kappari, Silvia Romero Vargas</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">[San José, Costa Rica] : </subfield>
+    <subfield code="b">INIE,</subfield>
+    <subfield code="c">2017</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">98 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="500">
+    <subfield code="a">Informe final Proyecto de Investigación Nº 724-B4-306</subfield>
+  </datafield>
+  <datafield tag="505" ind1=" " ind2=" ">
+    <subfield code="a">El objetivo de este trabajo fue conocer cómo la participación en redes virtuales, grupos y actividades deportivas, religiosas, sociales o comunales estructuradas regulares, y con al menos, una permanencia de un año influyen en la elaboración de los trabajos psicológicos propios de la adolescencia.  Por ser un estudio exploratorio, el diseño propuso una libre escogencia de los participantes, tomó en cuenta los intereses particulares; por ejemplo, en este caso se elije trabajar con jóvenes de tres grupos de edad: 13 años y 0 meses a 14 años y 11 meses; 15 años y 0 meses a 16 años y 11 meses; 17 años y 0 meses a 18 años y 11 meses.  Esto con el fin de conocer las diferencias con respecto al enfrentamiento de los seis trabajos psicológicos propuestos por Ricardo Rodulfo en relación con la edad del adolescente.  Se aplicaron dos técnicas: cuestionario de oraciones incompletas y entrevista grupo focal. En total, participaron 779 personas. Algunas de las conclusiones del estudio se mencionan a continuación:
+En la adolescencia hay un encuentro con la pérdida de un lugar, muchos cierres y muchas aperturas, cambios y movilizaciones. Así nos lo han hecho comprender las personas entrevistadas y encuestadas para esta investigación. Se dejan paulatinamente ciertas relaciones de dependencia hacia las personas adultas y pasan a la confrontación de su ser desde una posición sexual: ser hombre, ser mujer, ser sujeto deseante.
+El cuestionamiento a lo establecido se enlaza con la búsqueda por una independencia. Una articulación compleja, sobre todo para las personas adultas que están cerca de la adolescencia. También se pone en marcha el encuentro y re-significación de insignias del pasado: aquello que les fue heredado de su familia y de la cultura. Para oponerse o aceptar esos ideales que le traspasaron sus familiares, la persona adolescente tiene que atravesar un reconocimiento de  su historia. El psicoanalista Mariano Fernández (2010) propone la adolescencia como un movimiento que permite a la cultura revisarse, analizarse, re-pensarse. Esto porque, según el autor, la adolescencia sostiene una pregunta permanente hacia la ley.
+Coincidimos con Fernández en que la adolescencia le aporta a la cultura un tiempo de reflexión. Las investigadoras proponen que las instituciones, lejos de acallar las voces de las personas adolescentes, más bien están llamadas a garantizar los espacios donde la adolescencia realice un trabajo, una elaboración subjetiva para incluirse en el discurso social y no solo para oponerse desde la palabra o el acto.</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">5</subfield>
+    <subfield code="a">ADOLESCENTES</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">3327</subfield>
+    <subfield code="a">PSICOLOGÍA DEL ADOLESCENTE</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1518</subfield>
+    <subfield code="a">PARTICIPACIÓN ESTUDIANTIL</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">3328</subfield>
+    <subfield code="a">Romero Vargas, Silvia</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

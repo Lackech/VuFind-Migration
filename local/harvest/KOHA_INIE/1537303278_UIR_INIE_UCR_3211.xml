@@ -1,0 +1,50 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00523nam a22001817a 4500</leader>
+  <controlfield tag="008">160511b1986    sp ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="020">
+    <subfield code="a">847530933X</subfield>
+  </datafield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">05.01.01</subfield>
+    <subfield code="b">2326</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">1712</subfield>
+    <subfield code="a">Durkheim, Émile</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="245">
+    <subfield code="a">Las reglas del método sociológico / </subfield>
+    <subfield code="c">Émile Durkheim</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">2 edición </subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Argentina :</subfield>
+    <subfield code="b">Orbis,</subfield>
+    <subfield code="c">[1986?]</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">187 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Edición tomada de páginas preliminares</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">335</subfield>
+    <subfield code="a">SOCIOLOGÍA</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">285</subfield>
+    <subfield code="a">METODOLOGÍA</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">3211</subfield>
+    <subfield code="d">3211</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,62 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02822nam a2200205Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2250</subfield>
+    <subfield code="d">2250</subfield>
+  </datafield>
+  <controlfield tag="008">180710b2006    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">18.04.01 </subfield>
+    <subfield code="b">1330</subfield>
+  </datafield>
+  <datafield ind1=" " tag="100" ind2=" ">
+    <subfield code="a">Vindas Lara, Andrea</subfield>
+    <subfield code="9">2830</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Propuesta de formulario para la encuesta del Graduado UCR / </subfield>
+    <subfield code="c">Andrea Vindas Lara, Adriana Barquero Villalobos y Rose Mary Fonseca González</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2006</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">60 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Informe Final del Proyecto de Investigación N° 724-A5-141</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">Esta investigación pretende evaluar y proponer un instrumento de recolección de información para los graduados universitarios con el fin de llegar a sustituir el formulario actual. El proyecto de Encuesta del Graduado es un proyecto institucional que está ubicado en el Instituto de Investigaciones en Ciencias Económicas (IICE), de la Universidad de Costa Rica. El proyecto de investigación “Tendencias de Graduación”, es el trabajo de investigación que sugirió como un a de sus recomendaciones, elaborar esta investigación. Para la realización de esta investigación los pasos seguidos fueron: 1. Efectuar una revisión histórica del proyecto y sus objetivos, utilizando como fuentes el Consejo Universitario y el IICE. 2. Generar una matriz donde en cada columna se ubiquen los diferentes formularios que se han utilizado a lo largo de los años. 3. Generar una matriz con una columna adicional a la derecha para que cada unidad académica, incluyendo los institutos de investigación y autoridades universitarias, anoten desde su perspectiva si consideran que es pertinente o no mantener la medición de la variable y sugerencias de su redacción. 4. Se realizó el análisis de la información con las respuestas de las unidades académicas, con base en las recomendaciones generar una propuesta de nuevo formulario. 5. Se utilizó el SAE de la Oficina de Registro. Como resultados más significativos estuvieron: 
+• Localización de las cuatro versiones del formulario a partir de la revisión histórica. 
+• Hallazgo de un acuerdo institucional que no se concretó y que se venía ejecutando ilegalmente (venta del formulario). Esto motivó al IICE a cerrar el proyecto. 
+• Se cuenta con una propuesta de formulario que elimina duplicación de información respecto al SAE y que incorpora elementos sugeridos por el Centro de Evaluación Académica. Adjunta copia de los instrumentos utilizados, de la propuesta, variables de los cuatro formularios, resultados de la consulta y oficio enviado al Vicerrector de Vida Estudiantil.</subfield>
+  </datafield>
+  <datafield ind1=" " tag="610" ind2="4">
+    <subfield code="9">714</subfield>
+    <subfield code="a">UNIVERSIDAD DE COSTA RICA</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">PROYECTO DE INVESTIGACION</subfield>
+    <subfield code="9">3951</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">ENCUESTAS</subfield>
+    <subfield code="9">550</subfield>
+  </datafield>
+  <datafield ind1=" " tag="700" ind2=" ">
+    <subfield code="a">Barquero Villalobos, Adriana</subfield>
+    <subfield code="9">1888</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="700">
+    <subfield code="a">Fonseca González, Rose Mary</subfield>
+    <subfield code="9">3966</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

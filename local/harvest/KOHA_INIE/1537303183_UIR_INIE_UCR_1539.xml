@@ -1,0 +1,86 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01315nam a2200289Ia 4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">1539</subfield>
+    <subfield code="d">1539</subfield>
+  </datafield>
+  <controlfield tag="008">170124b2011    cr  |||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">Tesis # 4</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="a">Araya Madrigal, Gabriela</subfield>
+    <subfield code="9">2284</subfield>
+  </datafield>
+  <datafield ind2="3" tag="245" ind1="1">
+    <subfield code="a">La interculturalidad en escuelas costarricenses con población migrante / </subfield>
+    <subfield code="c">Gabriela Araya Madrigal; Melany Blanco Álvarez; Nancy Durán Martínez; Sherry Hernández Carballo; Glenda Lizano Pérez; Gabriela Solano Montero</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">[San José; Costa Rica],</subfield>
+    <subfield code="c">2011</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">350 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="500">
+    <subfield code="a">Producto del proyecto de investigación No.724-B0-703. Promoción de la participación de estudiantes con trabajos finales en el campo de la educación del grado y posgrado de la UCR en el INIE, de Teresita Cordero Cordero</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">EDUCACIÓN INTERCULTURAL </subfield>
+    <subfield code="9">485</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">MIGRANTES</subfield>
+    <subfield code="9">2285</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">ASPECTOS SOCIALES </subfield>
+    <subfield code="9">576</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">SOCIOLOGÍA DE LA EDUCACIÓN</subfield>
+    <subfield code="9">947</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">INTEGRACIÓN CULTURAL</subfield>
+    <subfield code="9">2286</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">INTEGRACIÓN ESCOLAR</subfield>
+    <subfield code="9">2135</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">ASPECTOS EDUCATIVOS</subfield>
+    <subfield code="9">636</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="a">Blanco Álvarez, Melany</subfield>
+    <subfield code="9">2287</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="a">Durán Martínez, Nancy</subfield>
+    <subfield code="9">2288</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Hernández Carballo, Sherry</subfield>
+    <subfield code="9">2289</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Lizano Pérez, Glenda</subfield>
+    <subfield code="9">2290</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="a">Solano Montero, Gabriela</subfield>
+    <subfield code="9">2291</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">02</subfield>
+  </datafield>
+</record>

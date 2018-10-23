@@ -1,0 +1,50 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00658nam a2200169   4500</leader>
+  <controlfield tag="008">150811b2013    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9789968787147</subfield>
+  </datafield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">14.02.03  </subfield>
+    <subfield code="b">1444</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">767</subfield>
+    <subfield code="a">León Zúñiga, Lilliana </subfield>
+    <subfield code="e">Compiladora</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Mujeres, economía solidaria y consumo responsable: VII concurso de mujeres: voces, imágenes y testimonios 2013 /</subfield>
+    <subfield code="c">Lilliana León Zúñiga, compilación y edición</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica</subfield>
+    <subfield code="b">Centro de Comunicación Voces Nuestras,</subfield>
+    <subfield code="c">2013</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">213 páginas;</subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">55</subfield>
+    <subfield code="a">MUJERES</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">69</subfield>
+    <subfield code="a">GÉNERO</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">422</subfield>
+    <subfield code="a">RELATOS PERSONALES</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2798</subfield>
+    <subfield code="d">2798</subfield>
+  </datafield>
+</record>

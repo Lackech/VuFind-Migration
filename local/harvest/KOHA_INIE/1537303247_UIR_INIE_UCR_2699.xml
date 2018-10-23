@@ -1,0 +1,51 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01360nab a2200169   4500</leader>
+  <controlfield tag="005">20160317161034.0</controlfield>
+  <controlfield tag="008">150618b2000    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">216</subfield>
+    <subfield code="a">Aguilar Mora, María Ester</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Hacia una pedagogía rural para las escuelas rurales costarricenses /</subfield>
+    <subfield code="c">María Ester Aguilar Mora</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2000</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">páginas 83-90</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">La ponencia plantea abordar una alternativa orientadora de la práctica pedagógica en la escuela rural.
+Se considera que sigue existiendo una brecha en el desarrollo de los procesos educativos en la escuela rural con respecto a la escuela urbana y que la educación en el medio rural requiere la atención de aspectos muy particulares.
+La ponencia abordará un breve análisis de la educación rural en Costa Rica y algunos tópicos como:
+La escuela rural.
+La atención de los procesos educativos a partir de las necesidades educativas.
+El educador desde la perspectiva de la Pedagogía  rural. Los cuales requieren el análisis y la reflexión  de los participantes</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" tag="773" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0032</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.24, no.especial (2000)</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2699</subfield>
+    <subfield code="d">2699</subfield>
+  </datafield>
+</record>

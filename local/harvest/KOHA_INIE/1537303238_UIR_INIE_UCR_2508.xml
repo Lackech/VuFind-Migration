@@ -1,0 +1,47 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00820nam a2200181Ia 4500</leader>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">CD #59</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="110">
+    <subfield code="a">Instituto Dominicano de Telecomunicaciones</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="245">
+    <subfield code="a">El INDOTEL avances, retos y perspectivas ante la  Sociedad de la Información / </subfield>
+    <subfield code="c">Instituto Dominicano de Telecomunicaciones</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">República Dominicana : </subfield>
+    <subfield code="b">INDOTEL, </subfield>
+    <subfield code="c"> sin fecha</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">12 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="500">
+    <subfield code="a">Palabras del Presidente del Instituto de Dominicano de las Telecomunicaciones en el congreso de "Tecnología de Información, la comunicación y la Educación a distancia. Desafío en el desarrollo de America Latina" \Documento en formato pdf.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">SOCIEDAD DE LA INFORMACION </subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="650">
+    <subfield code="a">TECNOLOGIAS DE LA INFORMACION</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a"> INDOTEL</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">INTERNET</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">BANDA ANCHA</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="p">002019 </subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2508</subfield>
+    <subfield code="d">2508</subfield>
+  </datafield>
+</record>

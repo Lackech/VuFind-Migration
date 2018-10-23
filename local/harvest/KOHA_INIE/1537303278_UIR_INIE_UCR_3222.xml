@@ -1,0 +1,50 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00871nam a2200193   4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3222</subfield>
+    <subfield code="d">3222</subfield>
+  </datafield>
+  <controlfield tag="003">cru INIE</controlfield>
+  <controlfield tag="005">20170202141913.0</controlfield>
+  <controlfield tag="008">160511b2013    cr ||||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">cru INIE</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">CD #250 </subfield>
+    <subfield code="b">Tesis # 53</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">1748</subfield>
+    <subfield code="a">Montoya Trejos, Erick Alberto </subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Propuesta de contenidos de una página web con información del proceso de adminisón e ingreso a la Universidad de Costa Rica /</subfield>
+    <subfield code="c">Erick Alberto Montoya Trejos</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">[San José, Costa Rica] : </subfield>
+    <subfield code="b">E. Montoya T.,</subfield>
+    <subfield code="c">2013</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">269 páginas; </subfield>
+    <subfield code="b">archivo pdf</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="502">
+    <subfield code="a">Tesis (maestría profesional en bibliotecología y estudios de la información con énfasis en gerencia de la información). Universidad de Costa Rica. Sistema de Estudios de Posgrado</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="610">
+    <subfield code="9">714</subfield>
+    <subfield code="a">UNIVERSIDAD DE COSTA RICA</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">1749</subfield>
+    <subfield code="a">CONDICIONES DE ADMISIÓN</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">08</subfield>
+  </datafield>
+</record>

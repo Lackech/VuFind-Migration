@@ -1,0 +1,61 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00797nam a2200217   4500</leader>
+  <controlfield tag="008">160727b2005    m  ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="020">
+    <subfield code="a">9703219977 (UNAM)</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="020">
+    <subfield code="a">9707224606 (Plaza y Valdés)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">06.04.05</subfield>
+    <subfield code="b">2346</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">970</subfield>
+    <subfield code="a">Didriksson Takayanagui, Axel</subfield>
+  </datafield>
+  <datafield tag="245" ind2="3" ind1="1">
+    <subfield code="a">La universidad de la innovación: una estrategia de transformación para la construcción de universidades del futuro / </subfield>
+    <subfield code="c">Axel Didriksson</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="250">
+    <subfield code="a">2 edición</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">México :</subfield>
+    <subfield code="b">Universidad Nacional Autonóma de México; Plaza y Valdés,</subfield>
+    <subfield code="c">2005</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">165 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="490">
+    <subfield code="a">Educación Superior Contemporánea</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">16</subfield>
+    <subfield code="a">UNIVERSIDADES </subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">8</subfield>
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">7</subfield>
+    <subfield code="a">REFORMA DE LA EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="4" tag="651">
+    <subfield code="9">273</subfield>
+    <subfield code="a">AMÉRICA LATINA</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">3281</subfield>
+    <subfield code="d">3281</subfield>
+  </datafield>
+</record>

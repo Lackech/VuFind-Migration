@@ -1,0 +1,58 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02125nab a2200205   4500</leader>
+  <controlfield tag="005">20160331155231.0</controlfield>
+  <controlfield tag="008">160126b2009    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">1328</subfield>
+    <subfield code="a">García García, Blanquita Concepción</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Evaluación y Gerencia participativa  de los aprendizajes en el aula. Una mirada en la práctica evaluativa en el tiempo /</subfield>
+    <subfield code="c">Blanquita Concepción García García, Alfonso Carrillo Vásquez, Teodoro Pinto Iglesias,María Lourdes Piñero Martín</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2009</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">páginas 25-50</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">El presente artículo  es de naturaleza descriptiva-explicativa con un abordaje documental. En él se esbozan las principales teorías y enfoques relacionados con la evaluación de los aprendizajes, en línea con el tiempo de su aparición, para luego configurar un escenario de la gerencia participativa en el aula desde la mirada de la práctica evaluativa como parte constitutiva del proceso de enseñanza y aprendizaje que, a su vez, implica la asimilación del conocimiento con la consecuente transformación. Se asume una gerencia participativa con miras a propiciar un ambiente lo suficientemente dinámico, interactivo, crítico y reflexivo que permita la búsqueda de la calidad y la excelencia en el aula. Se propone un enfoque de la gerencia de los aprendizajes en el que cada uno de los actores educativos asume el líderazgo compartido en la planificación, organizacion, dirección, evaluación y realimentación, el cual se desarrolla en un ambiente de comunicación, reflexión crítica y autorregulación durante el proceso que implica la construcción y reconstrucción de los saberes y el desarrollo de competencias</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="9">1329</subfield>
+    <subfield code="a">Carrillo Vásquez, Alfonso</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">1331</subfield>
+    <subfield code="a">Piñero Martín, María Lourdes</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="9">1330</subfield>
+    <subfield code="a">Pinto Iglesias, Teodoro</subfield>
+  </datafield>
+  <datafield tag="773" ind1="0" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0312</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.33, no.2 (2009)</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3034</subfield>
+    <subfield code="d">3034</subfield>
+  </datafield>
+</record>

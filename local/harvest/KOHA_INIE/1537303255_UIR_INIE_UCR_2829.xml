@@ -1,0 +1,48 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02393nab a2200169   4500</leader>
+  <controlfield tag="005">20160328162658.0</controlfield>
+  <controlfield tag="008">150827b2002    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">941</subfield>
+    <subfield code="a">Arias Quirós, Ana Cecilia</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="3">
+    <subfield code="a">La autoevaluación-autorregulación y la excelencia de la educación superior: Una experiencia valiosa /</subfield>
+    <subfield code="c">Ana Cecilia Arias Quirós, Olga Echeverría Murray</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2002</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">páginas 221-228</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">El trabajo deriva de la experiencia que durante cinco años hemos venido acumulando en la Escuela de Antropología y Sociología de la Universidad de Costa Rica, alrededor de un proceso de autoevaluación-autorregulación que puede convertirse en un camino, para lograr la excelencia académica en el marco de una Universidad Estatal, en este caso concreto, la Universidad de Costa Rica.
+Sin duda alguna, las condiciones sociales  y culturales que enfrentamos actualmente nos plantean un reto en lo que se refiere a la formación académico-profesional de los científicos sociales, particularmente de los antropólogos y antropólogas, sociólogos y sociólogas. Una tensión permanente y acentuada entre lo local y lo global, entre lo particular y lo general, una lucha continua entre la promoción del desarrollo y preservación de lo identitario, un mundo cada vez más comunicado, más tecnificado,  pero de igual forma, cada vez más pobre, que afecta hasta su desaparición a la naturaleza. Un mundo que exige mayor preparación a los profesionales, actualización permanente, eficiencia en su quehacer, una preparación académica y un perfil académico-profesional dispuesto para dar respuesta a todos estos requerimientos. Los procesos de autoevaluación-autorregulación, permiten - llevarlos adecuadamente- a las unidades académicas, basados en el diálogo y el análisis integral  del quehacer docente-administrativo, definir nuevos y posibles escenarios, una formación académica y profesional pertinente, viable, reflexiva y comprometida, especializada y actualizada tecnológicamente hablando y humanista</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">942</subfield>
+    <subfield code="a">Echeverría Murray, Olga</subfield>
+    <subfield code="c">coautora</subfield>
+  </datafield>
+  <datafield tag="773" ind1="0" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0059</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.26, no.2  (2002)</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2829</subfield>
+    <subfield code="d">2829</subfield>
+  </datafield>
+</record>

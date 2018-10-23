@@ -1,0 +1,76 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>     nam a22        4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">3488</subfield>
+    <subfield code="d">3488</subfield>
+  </datafield>
+  <controlfield tag="008">180509b2017    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">06.03.04</subfield>
+    <subfield code="b">2454</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">88</subfield>
+    <subfield code="a">Gallardo Álvarez, Isabel</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="245">
+    <subfield code="a">Las inferencias y la auto-regulación en la lectura digital e impresa. Un estudio comparado entre Costa Rica y España en el ámbito de la educación secundaria /</subfield>
+    <subfield code="c">Isabel Gallardo Álvarez, Fernando Guzmán Simón y Eduardo García Jiménez</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">[San José, Costa Rica] :</subfield>
+    <subfield code="b">INIE,</subfield>
+    <subfield code="c">2017</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">74 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="500">
+    <subfield code="a">Informe final Proyecto de Investigación Nº 724-B6-322</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">El estudio tuvo como propósito evaluar los hábitos de lectura en formatos impreso y digital, y  el  desarrollo de las inferencias y la auto-regulación lectora en educación secundaria (7º, 9º y 11º de Costa Rica y España). La población de referencia  estuvo constituida por los estudiantes de 12 a 17 años escolarizados de acuerdo con el International Satandard Classification of Education (ISCED) en los niveles 2 y 3, y que siguen el currículo oficial de los sistemas educativos de Costa Rica o España en una escuela financiada con fondos públicos. La población de los estudiantil fue completada por la de sus correspondientes familias y profesores. La muestra incluyó 3199 estudiantes de secundaria, 2490 de España (Sevilla) y 709 de Costa Rica (San José y Cartago).
+Se aplicaron varios instrumentos donde se recogió la información.  También se elaboró un instrumento en forma de escala para evaluar los procesos de auto regulación lectora en el estudiantado de secundaria.  Para dar respuestas a los objetivos de este trabajo se utilizaron diferentes técnicas de análisis de datos. Se realizó un análisis Paired-Samples T-Test (Midpoint) que permitió identificar qué tipo de texto e inferencia generan mayor dificultad en los estudiantes. Para ello, se calculó la puntuación media esperada para cada uno de los ítems de TECOLEIN (promedio de la puntuación máxima en un texto o inferencia considerando el número de ítems afectados) y se comparó con la puntuación media obtenida por los y las estudiantes en dicha prueba.
+Se utilizó un análisis de clúster bietápico para agrupar las respuestas del estudiantado en el TECOLEIN en función de variables personales (sexo y edad) y contextuales (país y titularidad). Entre las conclusiones se mencionan las siguientes:
+    • Idea 1. Para los dos clústeres (A y B), los resultados muestran que las puntuaciones del estudiantado en todos los tipos de textos se correlacionan significativamente (p&lt;0.001) con todos los tipos de inferencias.
+    • Idea 2. Esta puntuación en TECOLEIN refleja la variabilidad observada en las respuestas de los y las estudiantes ante preguntas referidas a distintos textos que exigen diferentes tipos de inferencias.
+    • Idea 3. Las correlaciones indican comportamientos similares en los datos del clúster A y del clúster B. Los datos muestran que las correlaciones más altas corresponden al tipo de texto narración breve y a las inferencias referenciales y de sustitución de categoría por su referente. En cambio, las correlaciones más bajas se encuentran en el texto columna de opinión y en las inferencias relacionadas con el tema del texto y consecuencia causal. Este mismo patrón de resultados se observa en las correlaciones entre los tipos de textos e inferencias y la puntuación total corregida de TECOLEIN.</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">365</subfield>
+    <subfield code="a">LECTURA</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1188</subfield>
+    <subfield code="a">COMPRENSIÓN DE LECTURA</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">41</subfield>
+    <subfield code="a">COGNICIÓN</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">3636</subfield>
+    <subfield code="a">ALFABETIZACIÓN INFORMACIONAL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">3637</subfield>
+    <subfield code="a">ALFABETIZACIÓN TECNOLÓGICA</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">456</subfield>
+    <subfield code="a">EDUCACIÓN SECUNDARIA</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="9">1743</subfield>
+    <subfield code="a">Guzmán Simón, Fernando</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">1138</subfield>
+    <subfield code="a">García Jiménez, Eduardo</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

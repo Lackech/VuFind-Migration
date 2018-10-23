@@ -1,0 +1,63 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>04402nam a2200217Ia 4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">2130</subfield>
+    <subfield code="d">2130</subfield>
+  </datafield>
+  <controlfield tag="008">180821b1994    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">14.02.02 </subfield>
+    <subfield code="b">56</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="a">Bonilla Gamboa, Flory Stella</subfield>
+    <subfield code="9">1069</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Líderes futuros : su percepción del envejecimiento / </subfield>
+    <subfield code="c">Flory Stella Bonilla Gamboa</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1994</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">88 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Proyecto de investigación N° 724-93-255</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">La finalidad de esta investigación consiste en conocer los prejuicios y estereotipos que manejan los estudiantes universitarios de carreras de servicio ( como Trabajo social, Enfermería y Psicología, entre otras) sobre la persona mayor y el proceso de envejecimiento, pues como fututos líderes del campo gerontológico en Costa Rica, son ellos quienes formularán las políticas y programas de atención al anciano, por lo cual es necesario saber cuál es su concepto sobre el adulto mayor, con el propósito de identificar aquellas ideas que pudieran perjudicar su labor como profesionales de ayuda. Otros objetivos del estudio son desarrollar e implementar programas de educación y sensibilización de la comunidad ante el envejecimiento y la persona mayor. En el marco teórico del estudio se presenta una revisión de la literatura especializada sobre el tema, no sin antes aclarar que el envejecimiento es un proceso que no responde solo a factores biológicos, sino también a factores culturales, los cuales varían de una sociedad a otra. Esta revisión permite afirmar que, a pesar de que existen conceptos positivos sobre la vejez, la mayoría de los estereotipos sobre ella son peyorativos y producto de diferentes enfoques: el económico, el religioso, el administrativo, el psicológico-social y el de las imágenes mentales que produce la sociedad, entre las cuales se pueden citar la abominación del cuerpo, la estigmatización del carácter y el estigma tribal. El estudio brinda también información estadística sobre la población de personas mayores en Costa Rica en lo referente a expectativas de vida, situación económica, educación, salud y actividades sociales. Además, tomando como base estudios previos sobre el tema, se afirma que en Costa Rica la interpretación y la descripción del envejecimiento se concentra en tres áreas: desempeño de papeles sociales, rasgos psicológicos y el aspecto físico. Para realizar esta investigación, se realizó una entrevista dividida en tres secciones. La primera recoge información sociodemográfica de los sujetos en estudio; la segunda consiste en una pregunta general que busca respuestas a tres variables, a saber, características físicas, sociales y psicológicas; la tercera es una pregunta para conocer la opinión de los encuestados con respecto de sus experiencias sobre las diferencias de género al envejecer. El instrumento se administró a una muestra de 109 estudiantes de las escuelas de Orientación y Educación Especial, de Psicología, de Trabajo Social, de Enfermería y de Educación primaria de la Universidad de Costa Rica. El análisis de los datos se llevó a cabo con el programa PlanPerfect de Word Perfect, el cual permitió formar categorías de características específicas, así como diferenciar rasgos y caracteres opuestos. Estas categorías fueron sometidas a la opinión de especialistas, quienes actuaron como jueces. El proceso de categorización involucró tanto análisis cualitativo como cuantitativo. Los resultados de organizaron en cuadros que agrupan los datos estadísticos ya sistematizados. Entre las conclusiones se establece que los prejuicios y estereotipos que los encuestados manejan sobre el adulto mayor se pueden agrupar en tres áreas: la física, la psicológica y la social. Se afirma también que en Costa Rica el concepto cultural de envejecimiento se relaciona con cambios físicos, con la edad cronológica y con patrones de actividad. Se concluye, además, que los criterios sobre la vejez responden a visiones de género, nivel educativo y carrera de los encuestados. Finalmente, se ofrecen algunas recomendaciones sobre el perfil de los líderes gerontológico del futuro.</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">ANCIANOS</subfield>
+    <subfield code="9">2660</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">ENVEJECIMIENTO</subfield>
+    <subfield code="9">2659</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">CALIDAD DE LA VIDA</subfield>
+    <subfield code="9">3974</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">TASA DE MORTALIDAD</subfield>
+    <subfield code="9">4100</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">LIDERAZGO</subfield>
+    <subfield code="9">301</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

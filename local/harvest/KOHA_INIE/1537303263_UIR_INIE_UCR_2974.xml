@@ -1,0 +1,48 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01722nab a22001697a 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2974</subfield>
+    <subfield code="d">2974</subfield>
+  </datafield>
+  <controlfield tag="005">20170203163616.0</controlfield>
+  <controlfield tag="008">151215b2006    CR f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">108</subfield>
+    <subfield code="a">Rojas Porras, Marta</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Esbozo de lineamientos conceptuales para la enseñanza y aprendizaje del léxico /</subfield>
+    <subfield code="c">Marta Eugenia Rojas Porras</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2006</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">páginas 9-29</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">En este artículo se procede a revisar aspectos teóricos  relativos al léxico como sistema y la palabra como elemento linguístico que conforma una red de relaciones, todo ello como un punto de partida para la enseñanza del léxico con una sustentación que aprovecha los aportes de la linguística aplicada. 
+El conocimiento de la lengua y el desarrollo del léxico requieren de un proceso sistemático por lo cual, para fines educativos, el dato de entrada debe ser dosificado, organizado y sistematizado. Para lograr esta planificación se debe partir de pautas referenciales (léxicos básicos y disponibles: lo que los sujetos conocen y usan) y no de modelos ideales.
+El objetivo consiste en lograr una comprensión muy vasta y una producción comprensiva adecuada a los diferentes tipos de texto. En este sentido, se conceptualiza la riqueza léxica como la selección adecuada a la posibilidad de actualizar lo conocido de manera pertinente al entorno verbal y a los contextos situacionales y temáticos del acto discursivo</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind1="0" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0307</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.30, no.2 (2006)</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+</record>

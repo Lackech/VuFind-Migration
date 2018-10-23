@@ -1,0 +1,57 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00768nab a2200193   4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">3363</subfield>
+    <subfield code="d">3363</subfield>
+  </datafield>
+  <controlfield tag="005">20170126155129.0</controlfield>
+  <controlfield tag="008">170126b2014    cr ||||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">06.04.05  </subfield>
+    <subfield code="b">2245</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">763</subfield>
+    <subfield code="a">Muñoz Varela, Luis</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Autonomía universitaria hoy: una reflexión necesaria /</subfield>
+    <subfield code="c"> Luis Muñoz Varela</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Editorial de la Universidad de Costa Rica, </subfield>
+    <subfield code="c">2014</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">pp. 67-79</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1752</subfield>
+    <subfield code="a">AUTONOMÍA UNIVERSITARIA</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">16</subfield>
+    <subfield code="a">UNIVERSIDADES </subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">7</subfield>
+    <subfield code="a">REFORMA DE LA EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">394</subfield>
+    <subfield code="a">EDUCACIÓN PÚBLICA </subfield>
+  </datafield>
+  <datafield tag="773" ind1="0" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1959-</subfield>
+    <subfield code="o">004026 </subfield>
+    <subfield code="t">Revista de Ciencias Sociales</subfield>
+    <subfield code="x">0482-5276</subfield>
+    <subfield code="g">No.144(2) (2014)</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+</record>

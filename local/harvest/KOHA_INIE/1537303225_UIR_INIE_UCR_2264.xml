@@ -1,0 +1,63 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>04031nam a2200205Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2264</subfield>
+    <subfield code="d">2264</subfield>
+  </datafield>
+  <controlfield tag="008">180706b2004    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">18.08.01 </subfield>
+    <subfield code="b">1190</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="100">
+    <subfield code="a">Camacho Álvarez, María Marta</subfield>
+    <subfield code="9">3255</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Mejoramiento del Proceso de la enseñanza aprendizaje de la matemática en la Educación Preescolar, visto desde la perspectiva de la formación docente / </subfield>
+    <subfield code="c">María Marta Camacho Álvarez</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2004</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">260 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="500" ind2=" ">
+    <subfield code="a">Informe Final del Proyecto de Investigación N° 724-A1-159</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">Esta investigación pretende analizar la formación docente de preescolar en ejercicio, en lo relativo a los procesos de enseñanza y aprendizaje de la matemática, fortalezas, debilidades y necesidades. La investigación está basada en un enfoque cualitativo, sin embargo se utilizan instrumentos que requieren de algunas cuantificaciones. La investigación se desarrollo en seis fases. Se puede indicar que esta investigación también es de tipo descriptiva, ya que estudia los fenómenos como aparecen en el momento de realizar la investigación. Incluye un diagnóstico cuyo objetivo es describir los fenómenos tal y como se presentan. La fuente principal y directa de los datos son las situaciones naturales. Ningún fenómeno puede ser entendido fuera de sus referencias espacio-temporales y su contexto. Las fuentes primarias las constituyeron 36 miembros del personal docente y administrativo de doce jardines infantiles de la provincia de Heredia. Las fuentes secundarias estuvieron constituidas por bibliografía, documentos de otras investigaciones, artículos, información obtenida por medio de la red, etc. Se enumeran conclusiones con respecto a la formación docente y con respecto al docente como agente de cambio; y como conclusión general indica que se requiere un cambio en la cultura matemática escolar, en el papel de los conocimientos y creencias previas, en los programas de formación de docentes los cuales deben capacitar a los futuros profesores para que sean capaces en su práctica caracterizar esa nueva cultura, diferente de la que proceden, un conocimiento de y sobre la actividad matemática, de la historia y epistemología de la disciplina, un conocimiento del currículo matemático escolar, un conocimiento de los estudiantes y de los procesos de aprendizaje. A partir de las conclusiones enumera las siguientes recomendaciones: 
+• A las profesoras y los profesores universitarios formadores de docentes en el área de Educación Preescolar en torno a la matemática: promover una metodología participativa en los cursos; promover un papel activo y participativo tanto de la o el docente como de la o el estudiante.
+• A los docentes en formación y docentes en ejercicio: participar en procesos de formación continua en el área de la matemática; evaluar constantemente procesos de formación y autoformación en los que participa; tratar de desarrollar el hábito y la necesidad de acceder herramientas de información de aspectos relacionados con la matemática. 
+• Al Instituto de Investigación en Educación: divulgar los resultados de esta investigación; promover reuniones, mesas de discusión sobre los principales temas de esta investigación; incentivar a instituciones de educación superior, organizaciones gubernamentales y no gubernamentales a promover la participación de grupos y personas interesadas en la educación preescolar, en los procesos de autoformación del Programa de Matemática Activa y Creativa que impulsa el INIE. 
+• A las instituciones gubernamentales y no gubernamentales, empresas que tienen relaciòn con los procesos de formación o autoformación en el área de la matemática: generar herramientas o espacios informativos del área de matemáticas</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">INFORMES</subfield>
+    <subfield code="9">267</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">EDUCACIÓN PREESCOLAR</subfield>
+    <subfield code="9">455</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">ASPECTOS EDUCATIVOS</subfield>
+    <subfield code="9">636</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">FORMACIÓN DE DOCENTES</subfield>
+    <subfield code="9">9</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">MATEMÁTICAS  </subfield>
+    <subfield code="9">482</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

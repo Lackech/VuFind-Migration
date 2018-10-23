@@ -1,0 +1,57 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00788nam a22001817a 4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3381</subfield>
+    <subfield code="d">3381</subfield>
+  </datafield>
+  <controlfield tag="008">170131b2014    CR ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">06.03.05  </subfield>
+    <subfield code="b">2256</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">1820</subfield>
+    <subfield code="a">Masis Fernández, Karen Gabriela</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Formación para personas facilitadoras de procesos de enseñanza aprendizaje con personas adultas y adultas mayores /</subfield>
+    <subfield code="c"> Karen Gabriela Masís Fernández, María José Víquez Barrantes</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">[San José, Costa Rica] : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2014-</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 volumen (en varias paginaciones)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Informe resultados de proyecto de Acción Social ED-3053</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">La Unidad posee informes 2014, 2015, 2016,2017</subfield>
+  </datafield>
+  <datafield ind1=" " tag="500" ind2=" ">
+    <subfield code="a">La vigencia del informe 2016, comprende del 1 de enero de 2016 al 13 de marzo 2017</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">La vigencia del  informe 2017, comprende del 14 de  marzo 2017 al 31 de diciembre de 2018</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">809</subfield>
+    <subfield code="a">EDUCACIÓN DE ADULTOS</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">729</subfield>
+    <subfield code="a">CAPACITACIÓN</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">1821</subfield>
+    <subfield code="a">Víquez Barrantes, María José</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

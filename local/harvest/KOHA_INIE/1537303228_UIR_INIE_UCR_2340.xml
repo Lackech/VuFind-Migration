@@ -1,0 +1,55 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02031nam a2200193Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2340</subfield>
+    <subfield code="d">2340</subfield>
+  </datafield>
+  <controlfield tag="008">180911b2011    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">19.01.03 </subfield>
+    <subfield code="b">1984</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="100">
+    <subfield code="a">Barquero Cerdas, Martha</subfield>
+    <subfield code="9">223</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Actualización y visibilización de los servicios y productos de la Unidad de Información y Referencia del INIE / </subfield>
+    <subfield code="c">Martha Barquero Cerdas; Rebecca Vargas Bolaños</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2011</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">24 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="500">
+    <subfield code="a">Informe final proyecto No.724-B0-724</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">La Unidad de Información y Referencia (UIR) del Instituto de Investigación en Educación (INIE) pretende convertirse en un recurso estratégico para el desarrollo del área educativa en el país, ofreciendo servicios y productos de calidad para satisfacer las necesidades de información de los usuarios que los necesitan. Por esta razón, el informe de la actividad de investigación que se presenta se realizó con el propósito de divulgar y visibilizar los servicios y productos que la Unidad ofrece. Así pues, estos fueron revisados, se actualizaron las bases de datos, se diseñó material publicitario que se entregó en visitas a instituciones vinculadas con el área educativa; también se actualizaron documentos de trabajo que se utilizan en la unidad, para el procesamiento de la información. Dado lo anterior, el resultado de las visitas realizadas fue muy provechoso para la UIR, ya que se hicieron visibles tanto los servicios, como los productos. Se evidencia que existió una retroalimentación de información entre las instituciones visitadas ya que nos brindaron información relativa a los servicios y productos que ofrecen a los usuarios, quedando de manifiesto la disponibilidad para compartir la información en beneficio de los usuarios interesados en investigar temas relacionados con la educación.</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">BIBLIOTECAS ESPECIALIZADAS</subfield>
+    <subfield code="9">1621</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">GESTIÓN</subfield>
+    <subfield code="9">2631</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">BASES DE DATOS</subfield>
+    <subfield code="9">1560</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">250</subfield>
+    <subfield code="a">Vargas Bolaños, Rebecca</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,55 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02796nam a2200193Ia 4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2071</subfield>
+    <subfield code="d">2071</subfield>
+  </datafield>
+  <controlfield tag="008">180829b2010    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">13.03.01 </subfield>
+    <subfield code="b">1266</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1=" ">
+    <subfield code="a">Bonilla Sandoval, Lastenia Ma.</subfield>
+    <subfield code="9">1809</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Evaluación de las competencias profesionales docentes y del malestar laboral en los entornos educativos.  Implementación de programas de mejora de la formación docente  y reducción del malestar, para mejorar la calidad educativa, la ocupabilidad laboral y combatir la exclusión social / </subfield>
+    <subfield code="c">Lastenia Ma. Bonilla Sandoval</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2010</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">64 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Informe final proyecto de investigación Nº 724-A8-510</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">El objetivo de la investigación es evaluar la eficacia de la implementación de programas de mejoras de la formación docente y reducción del malestar para mejorar la calidad educativa, la ocupabilidad laboral y combatir la exclusión social. El proyecto tiene dos vertientes: uno de investigación, sobre las competencias profesionales y el malestar laboral, y otro de capacitación. Se trabajó con docentes de dos instituciones públicas, una de primaria (Escuela Rincón Grande de Pavas) y la otra de secundaria (Liceo Luis Dobles Segreda) ambas en San José. Estos profesionales en educación asistieron a capacitaciones donde se pretendía que el docente reflexionara sobre el sentido de su vida incluida su labor profesional y las habilidades que se requieren para el ejercicio de esa labor. Para recopilar la información se utilizaron técnicas cualitativas: entrevistas, notas de las observaciones y documentos de trabajo individual y grupal. Entre las conclusiones a las que se llegó están las siguientes: Una causa importante de la desmotivación, o el malestar laboral es por no conocer la finalidad del “gran papeleo” que solicita el MEP, por lo tanto, sería conveniente que esta entidad mostrara a los docentes la importancia de los mismos. Se repiten los mismos resultados que la investigación anterior en relación con el malestar laboral (Bonilla y Rubio, 2009). Por lo que se aconseja poner en práctica las recomendaciones ahí dadas. Debido al desconocimiento del término “competencia profesional”, se sugiere introducir dentro de los programas de estudio universitarios la formación de competencias profesionales, la cual conlleva la educación de una rica personalidad en las diferentes áreas: intelectuales, volitiva y afectiva. Precisar las competencias profesionales que un docente debe adquirir, pues se evidencia que no hay consenso de ellas entre los “docentes en ejercicio”.</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">CONDICIONES DE TRABAJO</subfield>
+    <subfield code="9">778</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">ESTRÉS LABORAL</subfield>
+    <subfield code="9">1811</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">DOCENTES</subfield>
+    <subfield code="9">331</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">EVALUACIÓN </subfield>
+    <subfield code="9">287</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

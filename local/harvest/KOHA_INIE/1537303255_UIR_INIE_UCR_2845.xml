@@ -1,0 +1,48 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02001nab a2200169   4500</leader>
+  <controlfield tag="005">20160328163146.0</controlfield>
+  <controlfield tag="008">150903b2       CR f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">962</subfield>
+    <subfield code="a">Delgado Socatelli, Guadalupe</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Efecto de la presión ambiental en la efectividad del lanzamiento al aro y la ansiedad previa a la ejecución en basquetbolistas principiantes y avanzados /</subfield>
+    <subfield code="c">Guadalupe Delgado Socatelli</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2003</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">páginas 147-161</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">Con el propósito de determinar si las condiciones de presión ambiental dadas por: el tiempo de ejecución, y la ausencia o presencia del público afectaban el rendimiento de 10 jugadores de baloncesto principiantes y 10 jugadores avanzados al ejecutar 10 tiros libres al aro lo cual permitiría  conocer los cambios en la ansiedad grupal e individual de los participante mediante la aplicación de los instrumentos POMS de McNair, Loor y Droppleman (1971) y el CSAI-2 de Martens y Vealey (1990).
+El análisis estadístico se efectuó mediante la aplicación de un ANOVA  de medidas repetidas para buscar diferencias entre los intentos según el tipo de presión. La determinación de las diferencias entre grupos, entre las mediciones, según el nivel de presión. La determinación de las diferencias entre grupos, entre las mediciones, según el nivel de presión ambiental, y la interacción de la presión de los grupos, se hizo mediante la aplicación de un ANOVA Factorial Mixto.
+Los resultados de la investigación permitieron corroborar la individualidad de las respuestas de la ansiedad ante distintas situaciones y la importancia de la personalización del afrontamiento para el manejo de la ansiedad competitiva</subfield>
+  </datafield>
+  <datafield ind2="1" tag="650" ind1="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" tag="773" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0190</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.27, no.1  (2003)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2845</subfield>
+    <subfield code="d">2845</subfield>
+  </datafield>
+</record>

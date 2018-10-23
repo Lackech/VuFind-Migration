@@ -1,0 +1,66 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03282nam a2200229Ia 4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2292</subfield>
+    <subfield code="d">2292</subfield>
+  </datafield>
+  <controlfield tag="008">180705b2009    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">18.09.01 </subfield>
+    <subfield code="b">1689</subfield>
+  </datafield>
+  <datafield ind1=" " tag="100" ind2=" ">
+    <subfield code="a">Fallas Monge, Jeannette</subfield>
+    <subfield code="9">3912</subfield>
+  </datafield>
+  <datafield tag="245" ind2=" " ind1=" ">
+    <subfield code="a">Evaluación de los resultados obtenidos del curso "Respeto a toda forma de vida": con docentes y estudiantes que hayan sido expuestos de forma directa o indirecta</subfield>
+    <subfield code="c">Jeannette Fallas Monge </subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2009</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">147 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Informe final Proyecto No.724-A7-813</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">La Sociedad Mundial para la Protección Animal -WSPA- está interesada en conocer cómo la capacitación “Respeto a toda forma de vida”, ha propiciado conocimientos y acciones en docentes y estudiantes, que contribuyan al bienestar animal, haciendo énfasis en la protección, para evitar el trato cruel y el sufrimiento. Con base en este propósito se plantea la investigación “Evaluación de los resultados obtenidos del curso “Respeto a toda forma de vida” con docentes y estudiantes que hayan sido expuestos de forma directa o indirecta”. Dicha investigación tiene como objetivos específicos:  Diseñar, probar y aplicar los instrumentos de evaluación para el estudio de los resultados obtenidos.  Valorar los resultados obtenidos y la influencia potencial de la capacitación “Respeto a toda forma de vida” en docentes y estudiantes que contribuyan al bienestar animal. La investigación tiene un enfoque mixto, es decir se recabó información que requirió un análisis cualitativo. Participaron 61 docentes en el pretest y, en el postest, 53; estudiantes, fueron 143 niños y niñas. Al finalizar se plantean entre otras, las siguientes consideraciones finales:  La capacitación es bien recibida y aceptada por los docentes. En dicha aceptación podría estar contribuyendo el hecho de que existe un reconocimiento de la importancia del papel del docente en el fortalecimiento y la enseñanza de la temática que abarca esta capacitación.  Hay evidencias en el desarrollo de la investigación de que los docentes tienen dificultades para incorporar el tema respeto a toda forma de vida que aborda la capacitación dada por WSPA como un tema transversal. La tendencia es a incluirlo como un tema más de los que debe cubrir con su grupo de estudiantes.  Esta investigación pone en evidencia el papel que cumple la cultura en relación con el tema respeto a toda forma de vida. Por ejemplo aún cuando se reconoce que los animales silvestres no deben ser mascotas, el perico y la lora se ubican en algunos casos en la categoría de mascotas. También es posible observar el papel de la cultura en la presencia de prácticas específicas que se desarrollan en las diferentes regiones. Aún cuando los docentes poseen conocimientos sobre el tema respeto a toda forma de vida, dicho conocimiento no se ve plasmado en la realización de actividades específicas en el centro educativo.</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="0" tag="650">
+    <subfield code="a">EVALUACIÓN </subfield>
+    <subfield code="9">287</subfield>
+  </datafield>
+  <datafield ind2="0" tag="650" ind1=" ">
+    <subfield code="a">CURSOS DE CAPACITACIÓN</subfield>
+    <subfield code="9">1470</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1=" ">
+    <subfield code="a">Frías Quesada, Carmen María</subfield>
+    <subfield code="9">2158</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="700">
+    <subfield code="a">García Fallas, Jacqueline</subfield>
+    <subfield code="9">759</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1=" ">
+    <subfield code="a">Díaz Madrigal, María</subfield>
+    <subfield code="9">1438</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="700">
+    <subfield code="a">Brenes Barahona, Juan José</subfield>
+    <subfield code="9">3911</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,60 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03246nam a2200205Ia 4500</leader>
+  <controlfield tag="008">160517b2008    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">05.03.03 </subfield>
+    <subfield code="b">1630</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">759</subfield>
+    <subfield code="a">García Fallas, Jacqueline</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="3" tag="245">
+    <subfield code="a">La marginalidad de las mujeres trabajadoras sexuales activas o no de la zona roja de San José: un espacio sociocultural e histórico en sus historias de vida / </subfield>
+    <subfield code="c">Jacqueline García Fallas, Miriam Álvarez Hernández (col.)</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2008</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">183 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="500" ind2=" ">
+    <subfield code="a">Proyecto de investigación Nº 724-A6-313</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">El proyecto tiene como propósito visibilizar la construcción sociohistórica y cultural de las mujeres trabajadoras o extrabajadoras sexuales desde las perspectivas institucionales y de sí mismas. El estudio propicia una reflexión previa en torno a los siguientes aspectos: a) la categoría "puta"; b) la experiencia de marginalización y vulnerabilidad social en el trabajo sexual y c) los derechos humanos de las mujeres adultas trabajadoras sexuales. Por tratarse de un proyecto de investigación que se realiza en el marco de un Trabajo Comunal Universitario, y que cuenta con una participación directa de los responsables de la investigación, se propone un modelo de acción que responde a cada uno de los objetivos específicos, a saber:1)Desarrollar un proyecto de trabajo comunal universitario para dar apoyo a las acciones investigativas: "I fase. Proceso de sensibilización. "II fase: Proceso de desarrollo del proyecto del Trabajo comunal específico para cada participante o equipos interdisciplinarios de trabajo. "III fase: Proceso de seguimiento. "IV fase: Culminación del proyecto de TCU. "V fase: Evaluación y sistematización de la experiencia desarrollada.  2)Propiciar la recuperación de las experiencias de vida de las mujeres trabajadoras o extrabajadoras sexuales que asisten a la Asociación la Sala en San José. "I fase: Negociación y desarrollo de historias de vida. "II fase: Análisis de las historias de vida. "III fase: Devolución de los resultados a las personas participantes. "IV fase: Producción de un libro. "V fase: Divulgación Se propició la transdisciplinariedad  en el abordaje de los temas y las líneas de acción. Participaron estudiantes de las siguientes disciplinas: Filosofía, Enseñanza de la filosofía, Antropología, Sociología, Dirección de empresas, Psicología, Enfermería, Comunicación colectiva, Medicina, Historia y Derecho. Se identificaron  líneas de acción para la participación de estudiantes en el marco del TCU, estas líneas fueron: educación, salud integral, derechos humanos y fundamentales, recreación y expresión artística.  Se escogieron tres mujeres que asisten a  La Sala  para participar en el proceso de narración de su historia de vida, se reconstruyeron tres historias, ellas narran las expectativas, las experiencias y las proyecciones que las mujeres tienen de sí mismas en relación con el trabajo sexual. </subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">MARGINALIDAD</subfield>
+    <subfield code="9">1773</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">TRABAJADORAS</subfield>
+    <subfield code="9">1774</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">PROSTITUCIÓN</subfield>
+    <subfield code="9">54</subfield>
+  </datafield>
+  <datafield tag="651" ind2="4" ind1=" ">
+    <subfield code="9">1777</subfield>
+    <subfield code="a">ZONA ROJA (SAN JOSÉ, COSTA RICA)</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Álvarez Hernández, Mariam </subfield>
+    <subfield code="9">1778</subfield>
+    <subfield code="e">Colaborador/a</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">1342</subfield>
+    <subfield code="d">1342</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,47 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01912nab a2200157   4500</leader>
+  <controlfield tag="008">150603b1998    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">131</subfield>
+    <subfield code="a">Vargas Porras, Alicia</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Aproximación al planteamiento epistemológico de Jean Piaget y Fritjof Capra /</subfield>
+    <subfield code="c">Alicia E. Vargas Porras</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">1998</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">páginas 163 - 174</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">La adquisición del pensamiento y las formas de acceso al conocimiento son aspectos fundamentales a considerar por todo educador. El presente artículo tiene como fin primordial, analizar dos aproximaciones al conocimiento, aquella planteada por Jean Piaget y las que hace al respecto Fritjof Capra.
+Jean Piaget, sin ser educador de profesión, es quizá la persona que más ha aportado, con sus teorías, a la comprensión de cómo se constituye  el conocimiento de los niños. El presente artículo analiza aspectos importantes sobre la epistemología genética propuesta por este autor que nos acercan a la comprensión del acto individual del conocimiento. Por su parte, Fritjof Capra nos brinda un enfoque epistemológico holístico, de sistemas interrelacionados, que obliga a pensar en un ser humano no sólo en cuanto a sus dimensiones individuales sino también en sus interrelaciones con lo externo. Su pensamiento plantea retos importantes para la educación en un mundo que se encuentra actualmente en un punto crucial marcado por la crisis.
+El presente artículo realiza una aproximación al pensamiento epistemológico de Jean Piaget y de Fritjof Capra, concluyen y con una reflexión acerca del impacto de ambos autores en la educación</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind2=" " ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0021</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.22, no.2 (1998)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2613</subfield>
+    <subfield code="d">2613</subfield>
+  </datafield>
+</record>

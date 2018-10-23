@@ -1,0 +1,46 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01272nab a22001697a 4500</leader>
+  <controlfield tag="005">20160317155951.0</controlfield>
+  <controlfield tag="008">150617b2000       f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">199</subfield>
+    <subfield code="a">Barrantes Rodríguez, Aura</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="3" tag="245">
+    <subfield code="a">La gestión del centro educativo /</subfield>
+    <subfield code="c">Aura Barrantes Rodríguez</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2000</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">páginas 81-95</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">El presente ensayo procura abordar algunas situaciones que enfrentan actualmente los centros educativos con gran inferencia en su funcionamiento, así como la implicación de las mismas, en cuanto que este tipo de instituciones no están dando la respuesta en el nivel personal ni social que espera la ciudadanía. Se ofrecen aspectos concretos, el referente sobre el currículum que conviene asumirse y la gestión administrativa que podría atender las demandas educativas en el presente, en pos de una imagen objetivo propia, con el compromiso de coadyuvar a la consecución de una vida digna para la sociedad costarricense</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" tag="773" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0026</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.24, no.2 (2000)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2682</subfield>
+    <subfield code="d">2682</subfield>
+  </datafield>
+</record>

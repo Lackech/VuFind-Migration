@@ -1,0 +1,78 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01239nam a22002537a 4500</leader>
+  <controlfield tag="008">161018b2015    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">18.09.01 </subfield>
+    <subfield code="b">2235 CD #255 </subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">2083</subfield>
+    <subfield code="a">Badilla Chavarría, Leda</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Desarrollo de competencias profesionales a través de la evaluación participativa y simulación utilizando herramientas web DevaSimWeb / </subfield>
+    <subfield code="c">Leda Badilla Chavarría, Julieta Solórzano Salas, Melissa Valverde Hernández, Adrián Alvarado Ramírez, Sugey Montoya Sandí, Graciela Ordoñez Gutiérrez, Diana Aguilar Barquero</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">[San José, Costa Rica] : </subfield>
+    <subfield code="b">INIE,</subfield>
+    <subfield code="c">2015</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">91 páginas;</subfield>
+    <subfield code="b">+ 1 disco de computadora; archivo pdf. </subfield>
+    <subfield code="e"> 48 anexos en 3 volúmenes. </subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Informe final proyecto de investigación No.724-B2-522</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">287</subfield>
+    <subfield code="a">EVALUACIÓN </subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">8</subfield>
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1875</subfield>
+    <subfield code="a">COMPETENCIA PROFESIONAL</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">644</subfield>
+    <subfield code="a">DESARROLLO DE HABILIDADES</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">1375</subfield>
+    <subfield code="a">Solórzano Salas, Julieta</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="9">2084</subfield>
+    <subfield code="a">Valverde Hernández, Melissa</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">2085</subfield>
+    <subfield code="a">Alvarado Ramírez, Adrián</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">2086</subfield>
+    <subfield code="a">Montoya Sandí, Sugey</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">2087</subfield>
+    <subfield code="a">Ordoñez Gutiérrez, Graciela </subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">2088</subfield>
+    <subfield code="a">Aguilar Barquero, Diana </subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3343</subfield>
+    <subfield code="d">3343</subfield>
+  </datafield>
+</record>

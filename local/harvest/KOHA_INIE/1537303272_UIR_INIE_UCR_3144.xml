@@ -1,0 +1,46 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02057nab a2200169   4500</leader>
+  <controlfield tag="005">20160422135340.0</controlfield>
+  <controlfield tag="008">160422b2011    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">1525</subfield>
+    <subfield code="a">Naranjo Pereira, María Luisa</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="4">
+    <subfield code="a">Una revisión de la teoría de análisis transaccional y posibles aplicaciones en la educación desde orientación /</subfield>
+    <subfield code="c">María Luisa Naranjo Pereira</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2011</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">páginas 69-94</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">Este artículo presenta una breve referencia biográfica del creador d ela teoría de Análisis Transaccional, Eric Berne. Se analizan las características que distinguen esta teoría y su relación con otros enfoques teóricos. Se estudian los cuatro tipos de análisis que ella incluye: a) el análisis estructural y funcional de la personalidad y las patologías asociadas a su estructura; b) el análisis de transacciones y la comunicación humana; c) el análisis de juegos psicológicos, los papeles que se desempeñan en estos, sus características y la fórmula que sigue el desarrollo de esos juegos; y d) el análisis de los guiones de vida, la importancia de mensajes y mandatos recibidos para la conformación del guión y del mito personal, los mensajes que impulsan el guión y formas para abandonarlo. Se abordan, además, otros temas relevantes en esta teoría como son: las posiciones existenciales que asumen las personas sobre sí mismas, las otras y la vida; el papel de las emociones y su clasificación y la necesidad de caricias positivas para la supervivencia biológica y psicológica del ser humano. Después del análisis teórico se presenta un apartado con aportes basados en el Análisis Transaccional que pueden ser aplicados desde la Orientación en las instituciones educativas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="0" tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0398</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.35, no.1 (ene.-jun., 2011)</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">3144</subfield>
+    <subfield code="d">3144</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,46 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03013nab a2200169   4500</leader>
+  <controlfield tag="005">20160420145145.0</controlfield>
+  <controlfield tag="008">160420b2010    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">1583</subfield>
+    <subfield code="a">Madrigal Jiménez, José Alberto</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Beneficios de la calidad de vida de mujeres entre los 50 y los 81 años de edad al participar en un programa de recreación física grupal /</subfield>
+    <subfield code="c">José Alberto Madrigal Jiménez</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2010</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">páginas 111-132</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">El propósito de esta investigación fue profundizar en la experiencia individual y colectiva de mujeres al enfocarse en su percepción de cambios en la calidad de vida durante su participación en un programa de recreación física grupal. El enfoque que orientó este estudio fue mixto, con una predominancia cuantitativa. Participaron voluntariamente 27 mujeres con edades entre los 50 y 81 años, quienes integraban de forma activa el grupo "Manos de Oro" en Barrio Copán, en el cantón de San Ramón, Alajuela. Se puso en práctica un programa de actividades de recreación física grupal de cinco semanas, desarrollado en 15 sesiones de 75 minutos cada una (tres sesiones por semana). Para la medición de los diferentes dominios de la calidad de vida, se utilizó la versión española del Cuestionariode Salud SF-36. También, las participantes realizaron reflexiones personales acerca de cada sesión y, además, se hicieron entrevistas en grupo focal. Los resultados indicaron que el programa de recreación física grupal ayudó a mejorar la percepción de cambios en la calidad de vida de las participantes con respecto a lasocho dimensiones medidas en el Cuestionario de Salud SF-36. Además, se encontraron evidencias de cómo las mejoras en una variable pueden influenciar y cambiar a otras. Con respecto a las reflexiones personales y a las entrevistas en grupo focal, las participantes percibieron la calidad de vida como tener libertad e independencia, tener buena salud y tener buena convivencia familiar. También afirmaron tener una vida con calidad, por razones tales como tener estabilidad y convivencia, poder ejercitarse y sentirse bien. Asimismo, percibieron beneficios de las actividades de recreación física en las que participaron, como el hecho de sentirse mejor, ser más funcionales, flexibles y sentir menos dolor corporal. Con el estudio se concluyó que el programa de recreación física produjo mejoras significativas en la percepción de cambios en la calidad de vida de las participantes, así como una serie de beneficios auto-percibidos, lo cual puede ser un estímulo para que ellas adopten la recreación física como parte de sus actividades recreativas y forme parte de su estilo de vida</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " tag="773" ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0361</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.34, no.2 (jul.-dic., 2010)</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">3130</subfield>
+    <subfield code="d">3130</subfield>
+  </datafield>
+</record>

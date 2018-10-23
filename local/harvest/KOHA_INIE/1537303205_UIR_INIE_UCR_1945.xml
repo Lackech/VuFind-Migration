@@ -1,0 +1,79 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02980nam a2200253Ia 4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">1945</subfield>
+    <subfield code="d">1945</subfield>
+  </datafield>
+  <controlfield tag="008">180628b2005    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">06.05.02 </subfield>
+    <subfield code="b">1152</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="100">
+    <subfield code="a">Rojas Porras, Marta</subfield>
+    <subfield code="9">108</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Léxico básico escolar costarricense: estudio de frecuencias / </subfield>
+    <subfield code="c">Marta Eugenia Rojas Porras; Victor Manuel Sánchez Corrales</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2005</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">167 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Informe Final del Proyecto de Investigación N°724-A0-086</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">Este documento es la actualización de la investigación Desarrollo de la madurez léxica: propuesta metodológica. En este sentido, la investigación sobre el léxico escolar es un aporte para la labor del sistema educativo en su responsabilidad de preparar inventarios, materiales y prácticas que enfrenten al alumno a experiencias lingüísticas que actúen como estímulos apropiados para que formulen sus hipótesis lingüísticas. El estudio de léxico básico resulta un instrumento fundamental para la planificación lingüística, el mayor beneficio de estos estudios es la obtención del vocabulario como instrumento de trabajo y no como fin en sí mismo. 
+El objetivo principal de esta investigación fue determinar cuál vocabulario corresponde al léxico básico escolar costarricense, seleccionando las palabras según frecuencia de uso en muestras escritas. 
+El documento se basa en el tipo de investigación descriptiva de la lingüística sincrónica, aplicada a la lengua escrita, y al campo de la lingüística aplicada al español como lengua materna, por cuanto su propósito es servir para la planificación lingüística del sistema educativo costarricense. La población de esta investigación la constituyen los niños escolares del país. La muestra al azar fue conformada por 38 escuelas, de las cuales se seleccionó a un grupo de cuarto grado y otro de sexto grado. 
+Los resultados son presentados en forma general, según niveles (cuarto y sexto), zona (rural y urbana) y sexo. Posteriormente se presentan los parámetros de densidad léxica y las palabras que obtuvieron una frecuencia igual o superior a 100. 
+Con reflexión final los autores indican que las cifras obtenidas no quieren alarmar, sino sentar las bases referenciales para abordar el problema de la pobreza léxica, dada la relación íntima que este componente tiene con lo conceptual. Las universidades formadoras de profesionales en educación deben realizar los ajustes necesarios para poder responder a la responsabilidad de brindarle a la niñez costarricense el derecho a ejercerse como ser pensante, implícito en el derecho a la palabra. </subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">LEXICOGRAFÍA</subfield>
+    <subfield code="9">3536</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">LENGUAJE </subfield>
+    <subfield code="9">889</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">NIÑOS</subfield>
+    <subfield code="9">59</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">NIÑAS</subfield>
+    <subfield code="9">60</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">ESCUELAS </subfield>
+    <subfield code="9">300</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">SISTEMA EDUCATIVO</subfield>
+    <subfield code="9">2572</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">ENSEÑANZA</subfield>
+    <subfield code="9">14</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">APRENDIZAJE </subfield>
+    <subfield code="9">387</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">3522</subfield>
+    <subfield code="a">Sánchez Corrales, Víctor Manuel</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

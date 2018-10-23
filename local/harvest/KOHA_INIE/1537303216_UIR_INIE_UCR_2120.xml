@@ -1,0 +1,69 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00791nam a2200229Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2120</subfield>
+    <subfield code="d">2120</subfield>
+  </datafield>
+  <controlfield tag="008">180822b1996    cr ||||| |||| 00| | eng d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">14.02.02 </subfield>
+    <subfield code="b">199</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="a">Van der Gaag, Jacques</subfield>
+    <subfield code="9">4114</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Children of the poor in Latin America and the Caribbean /  </subfield>
+    <subfield code="c">Jacques van der Gaag,  Donald  Winkler</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">[Lugar de pubicación no identificado] : </subfield>
+    <subfield code="b">Human and Social Development Group, </subfield>
+    <subfield code="c">1996</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">32 páginas</subfield>
+  </datafield>
+  <datafield ind2="4" ind1=" " tag="610">
+    <subfield code="a">BANCO MUNDIAL</subfield>
+    <subfield code="9">2929</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">NIÑOS</subfield>
+    <subfield code="9">59</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">NIÑAS</subfield>
+    <subfield code="9">60</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">DESARROLLO ECONÓMICO Y SOCIAL</subfield>
+    <subfield code="9">445</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">PAÍSES EN DESARROLLO</subfield>
+    <subfield code="9">2049</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">POBREZA</subfield>
+    <subfield code="9">263</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">POLITICA INTERNACIONAL</subfield>
+    <subfield code="9">2242</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">DESIGUALDAD SOCIAL</subfield>
+    <subfield code="9">1146</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="700">
+    <subfield code="a">Winkler, Donald R.</subfield>
+    <subfield code="9">2897</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,45 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00569nam a2200157   4500</leader>
+  <controlfield tag="008">160307b2014    mx a|||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="020" ind1=" ">
+    <subfield code="a">9786070260360</subfield>
+  </datafield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">05.01.01</subfield>
+    <subfield code="b">2287</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">1495</subfield>
+    <subfield code="a">Chehaibar Náder, Lourdes</subfield>
+  </datafield>
+  <datafield tag="245" ind2="3" ind1="1">
+    <subfield code="a">La Universidad Nacional, un siglo de historia. 1910-2010 /</subfield>
+    <subfield code="c">Lourdes M. Chehaibar Náder, coordinadora</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">México :</subfield>
+    <subfield code="b">Universidad Nacional Autónoma de México,</subfield>
+    <subfield code="c">2014</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">237 páginas;</subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield ind1="2" ind2="4" tag="610">
+    <subfield code="9">1496</subfield>
+    <subfield code="a">UNIVERSIDAD NACIONAL AUTONÓMA DE MÉXCIO</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">22</subfield>
+    <subfield code="a">HISTORIA</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">3093</subfield>
+    <subfield code="d">3093</subfield>
+  </datafield>
+</record>

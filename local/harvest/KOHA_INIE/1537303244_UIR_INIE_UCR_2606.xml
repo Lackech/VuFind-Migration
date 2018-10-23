@@ -1,0 +1,47 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01907nab a22001577a 4500</leader>
+  <controlfield tag="008">150528b1998    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">123</subfield>
+    <subfield code="a">Ulloa Hidalgo, Herberth</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="3">
+    <subfield code="a">La educación  superior en Costa Rica ( 1880-1940) (Balance historiográfico) /</subfield>
+    <subfield code="c">Herberth Ulloa Hidalgo</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">1998</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">páginas 79-91</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">El presente balance consiste en un análisis crítico de una muestra representativa de las principales obras o estudios históricos sobre la educación superior costarricense del período 1880-1940. El eje del análisis lo constituye la forma en que los diversos autores, a través de las obras seleccionadas, abordan la clausura de la Universidad de Santo Tomás (1888), único ente universitario de la época, y la reapertura (1940), luego de heber transcurrido poco más de medio siglo.
+De acuerdo con el tratamiento del tema, los trabajos se agrupanen dos categorías generales: los de naturaleza narrativa, primero y después, aquellos signados por un esfuerzo explicativo. El balance comporta los siguientes pasos: análisis individual de cada obra; establecimiento de los supuestos teóricos de los que parte el respectivo autor, así como el tipo de fuentes y el manejo que de ellas se hace; exposición de los elementos compartidos por los autores examinados, y los aspectos diferenciadores, en torno a la clausura y reapertura de la Universidad.
+El estudio concluye con un comentario sobre ciertas cuestiones que,  a nuestro juicio,deben ser incorporadas o replanteadas en futuros trabajos sobre la problemática universitaria del período</subfield>
+  </datafield>
+  <datafield ind2="0" tag="650" ind1=" ">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0021</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.22, no.2 (1998)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2606</subfield>
+    <subfield code="d">2606</subfield>
+  </datafield>
+</record>

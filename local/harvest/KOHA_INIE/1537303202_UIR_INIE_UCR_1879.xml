@@ -1,0 +1,65 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01061nam a2200229Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">1879</subfield>
+    <subfield code="d">1879</subfield>
+  </datafield>
+  <controlfield tag="008">180516b1994    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">06.03.07 </subfield>
+    <subfield code="b">218</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Mora Vargas, Ana Isabel</subfield>
+    <subfield code="9">129</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Perfiles académico-profesionales en la Universidad  de Costa Rica /</subfield>
+    <subfield code="c"> Ana Isabel Mora Vargas, María Agustina Cedeño Suárez, María Eugenia Herrera Peña</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1994</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">51 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">De acuerdo con su Estatuto Orgánico (1990), la Universidad de Costa Rica debe contribuir a transformar la sociedad de manera que imperen una verdadera justicia social, un desarrollo integral, una libertad plena y una total independencia del pueblo costarricense, por lo cual la Institución debe revisar sus currícula constantemente. El IIMEC realizó en 1991 un sondeo para identificar los problemas que afectan la planificación curricular en educación superior y que saca a la luz diversos problemas: la planificación curricular es rígida, para muchos estudiantes la carrera se alarga más de lo establecido en el plan de estudios (en parte debido al excesivo número de cursos correquisito y requisito), el profesional se incorpora tardíamente a la fuerza laboral, se le limitan al estudiante las posibilidades de continuar estudios de posgrado (por obligaciones de tipo familiar y económico), la bibliografía de los cursos está desactualizada o es inaccesible. La investigación surge, entonces, como una necesidad de plantear los lineamientos para adecuar la planificación curricular, dentro de los cuales la determinación de los perfiles profesionales es de vital importancia. Mediante una metodología de trabajo participativo, el estudio tiene como objetivos elaborar el perfil académico profesional en tres unidades académicas (Derecho, Enfermería y Ciencias de la Comunicación Colectiva, énfasis en Periodismo) y confeccionar una guía metodológica para elaborar dichos perfiles en la UCR. Las carreras seleccionadas comparten la característica de ser consideradas de gran competitividad en el mercado laboral. En la investigación participaron autoridades universitarias, docentes, estudiantes, profesionales en servicio, representantes de entidades empleadoras, colegios profesionales y asociaciones profesionales. Los objetivos de la investigación se cumplieron a cabalidad. 
+</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">FORMACIÓN PROFESIONAL</subfield>
+    <subfield code="9">498</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+    <subfield code="9">8</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">CURRÍCULO (EDUCACIÓN)</subfield>
+    <subfield code="9">342</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">PERFIL PROFESIONAL</subfield>
+    <subfield code="9">1698</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">INVESTIGACIÓN EDUCATIVA</subfield>
+    <subfield code="9">326</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="a">Cedeño Suárez, María Agustina</subfield>
+    <subfield code="9">1512</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="a">Herrera Peña, María Eugenia</subfield>
+    <subfield code="9">177</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

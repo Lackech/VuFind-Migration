@@ -1,0 +1,48 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>     nam a22        4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">3468</subfield>
+    <subfield code="d">3468</subfield>
+  </datafield>
+  <controlfield tag="008">180221b2010    u  ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="020">
+    <subfield code="a">9780829756715</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">14.02.04</subfield>
+    <subfield code="b">2444</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">3357</subfield>
+    <subfield code="a">Hancock, Jim</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Padres a prueba de crisis: una guía para prevenir y curar los problemas de nuestros hijos /</subfield>
+    <subfield code="b">Jim Hancock y Rich Van Pelt</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">;iami, Florida :</subfield>
+    <subfield code="b">Editorial Vida,</subfield>
+    <subfield code="c">2010</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">286 páginas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">404</subfield>
+    <subfield code="a">FAMILIA</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">544</subfield>
+    <subfield code="a">PROBLEMAS SOCIALES</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">3358</subfield>
+    <subfield code="a">Van Pelt, Rich</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

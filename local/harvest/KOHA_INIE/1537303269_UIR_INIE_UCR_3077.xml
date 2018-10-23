@@ -1,0 +1,53 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00806nam a2200193   4500</leader>
+  <controlfield tag="008">160205b2014    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">CD # 246 </subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">745</subfield>
+    <subfield code="a">Sánchez Fallas, Marilyn</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Mediatización de la violencia escolar en Costa Rica: dos casos de estudio en colegios de la provincia de San José /</subfield>
+    <subfield code="c">Marilyn Sánchez Fallas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">[San José, Costa Rica] </subfield>
+    <subfield code="c">2014</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">1 disco de computadora; archivo PDF</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Tesis # 51</subfield>
+  </datafield>
+  <datafield ind2=" " tag="502" ind1=" ">
+    <subfield code="a">Tesis (Licenciatura en antropología social) -- Universidad de Costa Rica. Facultad de Ciencias Sociales. Escuela de Antropología, 2014</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">71</subfield>
+    <subfield code="a">VIOLENCIA</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">484</subfield>
+    <subfield code="a">TECNOLOGÍA DE LA INFORMACIÓN </subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">925</subfield>
+    <subfield code="a">TECNOLOGÍA DE LAS COMUNICACIONES</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">02</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">3077</subfield>
+    <subfield code="d">3077</subfield>
+  </datafield>
+</record>

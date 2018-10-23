@@ -1,0 +1,48 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01976nab a2200169   4500</leader>
+  <controlfield tag="005">20160317163621.0</controlfield>
+  <controlfield tag="008">150706b2001    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">161</subfield>
+    <subfield code="a">Stupp Kupiec, Roxana</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Universidades accesibles para todos /</subfield>
+    <subfield code="c">Roxana Stupp Kupiec</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2001</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">páginas 137-145</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">Este trabajo pretende hacer conciencia sobre los factores que inciden en la construcción  colectiva de universidades dispuestas a innovar y transformar su ideología, sus políticas, el currículum, los servicios estudiantiles, la infraestructura física y administrativa y las estrategias de comunicación e información, bajo el paradigma de la accesibilidad en el entorno. Se hace referencia al marco legal internacional y nacional que orienta las acciones que deben planificarse e implementarse en las instituciones de Educación Superior.
+En la construcción de universidades accesibles para todos se requiere de un cambio en la concepción curricular. Se analizan conceptos como la flexibilidad en la formación y el acceso a los planes de estudio para responder a las necesidades educativas de todos los estudiantes.
+Para promover estas transformaciones se proponen principios y prácticas tales como la interdisciplinariedad y la inclusión del tema de la discapacidad en todas las carreras. Además, se presentan ejemplos de aplicación en diferentes áreas del perfil profesional, en la formación del docente universitario y en actividades de proyección social, vida estudiantil e investigación. En el ámbito estudiantil, se describen algunos servicios y procesos que se han desarrollado en la Universidad de Costa Rica</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0189</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.25, no.2  (2001)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">2735</subfield>
+    <subfield code="d">2735</subfield>
+  </datafield>
+</record>

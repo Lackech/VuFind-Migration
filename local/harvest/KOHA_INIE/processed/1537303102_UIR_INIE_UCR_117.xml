@@ -1,0 +1,62 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00740nam a2200217Ia 4500</leader>
+  <controlfield tag="008">150727b2002    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="022" ind2=" " ind1=" ">
+    <subfield code="a">1409-0198</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">18.04.01 </subfield>
+    <subfield code="b">1694</subfield>
+  </datafield>
+  <datafield ind2=" " tag="110" ind1="1">
+    <subfield code="a">Costa Rica. Instituto Nacional de Estadística y Censos</subfield>
+    <subfield code="9">546</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Encuesta de hogares de propósitos múltiples Julio 2002</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">Costa Rica : </subfield>
+    <subfield code="b">Instituto Nacional de Estadística y Censos, </subfield>
+    <subfield code="c">2002</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">103 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">El Instituto también cuenta con la encuesta de hogares de propósitos múltiples julio 2007</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">CENSOS</subfield>
+    <subfield code="9">547</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">EMPLEO </subfield>
+    <subfield code="9">548</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">ESTADÍSTICA </subfield>
+    <subfield code="9">549</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">ENCUESTAS</subfield>
+    <subfield code="9">550</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">DESEMPLEO</subfield>
+    <subfield code="9">551</subfield>
+  </datafield>
+  <datafield ind1=" " tag="651" ind2="4">
+    <subfield code="9">47</subfield>
+    <subfield code="a">COSTA RICA</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">117</subfield>
+    <subfield code="d">117</subfield>
+  </datafield>
+</record>

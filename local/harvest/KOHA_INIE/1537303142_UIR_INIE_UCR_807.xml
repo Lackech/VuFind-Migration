@@ -1,0 +1,79 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01116nam a2200265Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">807</subfield>
+    <subfield code="d">807</subfield>
+  </datafield>
+  <controlfield tag="008">170719b2005    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="020">
+    <subfield code="a">9968314579</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">09.05.02 </subfield>
+    <subfield code="b">1148</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">3013</subfield>
+    <subfield code="a">Antillón Salazar, Alvar</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Informe Final de Carácter General no Vinculante al Presidente de la República sobre el Tratado de Libre Comercio entre Centroamérica, República Dominicana y Estados Unidos de América / </subfield>
+    <subfield code="c">Alvar Antillón Salazar; Franklin Chang Díaz; Rodrigo Gámez Lobo; Gabriel Macaya Trejos; Guido Villalta Loaiza</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">EUNED, </subfield>
+    <subfield code="c">2005</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">128 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="500" ind2=" ">
+    <subfield code="a">Informe de la Comisión de Notables</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">NEGOCIACIONES INTERNACIONALES</subfield>
+    <subfield code="9">3014</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">TRATADO DE LIBRE COMERCIO </subfield>
+    <subfield code="9">2810</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="4">
+    <subfield code="a">COSTA RICA</subfield>
+    <subfield code="9">47</subfield>
+  </datafield>
+  <datafield ind2="4" tag="651" ind1=" ">
+    <subfield code="a">ESTADOS UNIDOS</subfield>
+    <subfield code="9">372</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="4">
+    <subfield code="a">REPÚBLICA DOMINICANA</subfield>
+    <subfield code="9">458</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="4">
+    <subfield code="a">AMÉRICA CENTRAL</subfield>
+    <subfield code="9">457</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Chang Díaz, Franklin</subfield>
+    <subfield code="9">3015</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="a">Gámez Lobo, Rodrigo</subfield>
+    <subfield code="9">3016</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Macaya Trejos, Gabriel</subfield>
+    <subfield code="9">3017</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Villalta Loaiza, Guido</subfield>
+    <subfield code="9">3018</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

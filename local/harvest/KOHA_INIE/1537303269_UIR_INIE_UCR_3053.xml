@@ -1,0 +1,57 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00962nam a2200193   4500</leader>
+  <controlfield tag="008">160128b2015    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">06.03.07</subfield>
+    <subfield code="b">2289</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">1314</subfield>
+    <subfield code="a">Quesada Pacheco, Allen</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Diseño de recursos didácticos en entornos virtuales (EVA) para apoyar el Programa en la maestría en la enseñanza del inglés como lengua extranjera y bachillerato en ingés de la UCR y cursos de posgrado en educación de KU: estándares académicos para orientar el diseño instruccional, desarrollo e impartición de cursos en línea /</subfield>
+    <subfield code="c">Allen Quesada Pacheco</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">[San José, Costa Rica] :</subfield>
+    <subfield code="b">INIE,</subfield>
+    <subfield code="c">2015</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">1 volumen sin paginar;</subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Informe final de proyecto Nº 724-B4-507</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">387</subfield>
+    <subfield code="a">APRENDIZAJE </subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1318</subfield>
+    <subfield code="a">PLATAFORMAS VIRTUALES</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1373</subfield>
+    <subfield code="a">RECURSOS EDUCACIONALES</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1317</subfield>
+    <subfield code="a">ENSEÑANZA DE IDIOMAS</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1374</subfield>
+    <subfield code="a">ENSEÑANZA A DISTANCIA</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">3053</subfield>
+    <subfield code="d">3053</subfield>
+  </datafield>
+</record>

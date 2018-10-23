@@ -1,0 +1,65 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01112nam a2200217   4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">3351</subfield>
+    <subfield code="d">3351</subfield>
+  </datafield>
+  <controlfield tag="008">161107b2015    xxua|||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="020">
+    <subfield code="a">9788460830863</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">06.04.05</subfield>
+    <subfield code="b">2394</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">2143</subfield>
+    <subfield code="a">Gairín Sallán, Joaquín</subfield>
+    <subfield code="e">Coordinador/a</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Acceso, permanencia y éxito académico de colectivos vulnerables en la educación superior: estrategias para la intervención /</subfield>
+    <subfield code="c">Editores: Joaquín Gairin (coodinador), Diego Castro, David Rodríguez-Gómez y Aleix Barrera-Corominas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">[Lugar de publicación no identificado] :</subfield>
+    <subfield code="b">EDO-SERVEIS,</subfield>
+    <subfield code="c">2015</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">61 páginas;</subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="500">
+    <subfield code="a">El proyecto "ACCEDES - El acceso y el éxito académico de colectivos vulnerables en entornos de reiesgo en Latinoamérica", coordinado por el Equipo de Desarrollo Organizacional de la Universidad Autónoma de Barcelona.</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">16</subfield>
+    <subfield code="a">UNIVERSIDADES </subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">8</subfield>
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">2147</subfield>
+    <subfield code="a">PROYECTO ACCEDES</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="9">2149</subfield>
+    <subfield code="a">Rodríguez Gómez, David</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="700">
+    <subfield code="9">2191</subfield>
+    <subfield code="a">Castro Ceacero, Diego</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">2150</subfield>
+    <subfield code="a">Barrera Corominas, Aleix</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

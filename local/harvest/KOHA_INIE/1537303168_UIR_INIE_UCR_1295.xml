@@ -1,0 +1,51 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02966nam a2200181Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">1295</subfield>
+    <subfield code="d">1295</subfield>
+  </datafield>
+  <controlfield tag="008">170601b2008    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">04.02.03 </subfield>
+    <subfield code="b">1593</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="a">Araya Umaña, Sandra</subfield>
+    <subfield code="9">944</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Contenidos y alcances de la equidad de género en las políticas educativas/ </subfield>
+    <subfield code="c">Sandra Araya Umaña</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">[San José, Costa Rica]: </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2008</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">106 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Proyecto Nº 724-A5-054. Informe final</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">El antecedente inmediato del actual proyecto de investigación es el proyecto 724-A2-181: políticas públicas en educación y equidad de género: un análisis desde Costa Rica.  De este proyecto surgieron diversos interrogantes que gravitaron alrededor de un eje central en el cual  sustentó el presente proyecto: ¿cuál es el prisma que permite valorar si las políticas educativas se diseñan y ejecutan desde la perspectiva de género en un contexto como el costarricense?  La investigación se planteó como un estudio analítico-cualitativo por medio del análisis de contenido del material discursivo de las personas entrevistadas y de la revisión de documentos.  Las personas entrevistadas incluyeron representantes del movimiento feminista y de la academia, funcionarias del INAMU y una funcionaria del MEP.  El trabajo investigativo se dividió en tres etapas. La primera se destinó al inventario de los documentos pertinentes.  La segunda, al análisis de esos documentos y posteriormente, se elaboraron temas de análisis e instrumentos estructurados para la entrevista de las y los agentes sociales previamente seleccionados y seleccionadas.  La tercera etapa fue la aplicación de las entrevistas y su respectivo análisis.  Entre las conclusiones del proyecto se indican las siguientes:"Si la política pública es conceptualizada como la acción del Estado para tranquilizar el conflicto social que se genera a partir de las problemáticas que viven las diferentes personas y grupos, sin procurar transformaciones reales en las condiciones que generan esas problemáticas, no es posible que un Estado Patriarcal promueva verdaderas políticas para la igualdad entre mujeres y hombres. "En Costa Rica, la creación de un mecanismo nacional (INAMU) así como la emisión de diferentes leyes y reglamentos, representan un avance significativo en materia de igualdad entre las mujeres y los hombres, sin embargo, la evidencia empírica muestra una serie de patrones que reflejan poca voluntad por parte del Estado hacia transformaciones sociales profundas. "El feminismo como acción política pretende socavar una de las distinciones más poderosas y profundas derivadas del pensamiento y sociedad occidental: la separación de lo público y lo privado, áreas que subsecuentemente se ligan, la primera con lo objetivo y la segunda con lo personal y lo subjetivo. </subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">956</subfield>
+    <subfield code="a">IGUALDAD DE GÉNERO </subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">POLÍTICA EDUCATIVA</subfield>
+    <subfield code="9">451</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">MUJERES</subfield>
+    <subfield code="9">55</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

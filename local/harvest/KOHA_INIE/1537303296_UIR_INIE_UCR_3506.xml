@@ -1,0 +1,44 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00502nam a2200157   4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">3506</subfield>
+    <subfield code="d">3506</subfield>
+  </datafield>
+  <controlfield tag="008">180615b2012    sp ||||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9788427718869</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">06.01.01</subfield>
+    <subfield code="b">2468</subfield>
+  </datafield>
+  <datafield ind1=" " tag="100" ind2=" ">
+    <subfield code="9">3781</subfield>
+    <subfield code="a">Rodríguez Jiménez, Rosa Ma.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="3">
+    <subfield code="a">La educación en valores en el ámbito universitario /</subfield>
+    <subfield code="c">Rosa Ma. Rodríguez Jiménez (Coord.)</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid :</subfield>
+    <subfield code="b">Narcea,</subfield>
+    <subfield code="c">2012</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">191 p{aginas</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="0">
+    <subfield code="a">EDUCACIÓN EN VALORES</subfield>
+    <subfield code="9">719</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">8</subfield>
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

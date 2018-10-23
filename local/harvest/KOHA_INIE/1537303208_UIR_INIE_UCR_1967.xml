@@ -1,0 +1,66 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03392nam a2200193Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">1967</subfield>
+    <subfield code="d">1967</subfield>
+  </datafield>
+  <controlfield tag="008">180702b2009    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">06.05.03 </subfield>
+    <subfield code="b">1716 CD #187</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">Obando A., Luis Gmo</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Educación virtual en prevención de desastres utilizando un sitio Web /</subfield>
+    <subfield code="c"> Luis Gmo. Obando A; Carmen Jiménez Araya</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, ECG, </subfield>
+    <subfield code="c">2009</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">30 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Informe final Proyecto N°724-A7-101 Instituto de Investigación en educación (INIE) y Escuela Centroamericana de Geología (ECG)</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">Durante un proceso de inventario de actividades y proyectos de investigación con el uso de TIC y otras tecnologías digitales, se valoró la necesidad de realizar un proyecto en prevención de desastres. El proyecto enfatizó sobre la prevención de deslizamientos rayos o tormentas eléctricas, inundaciones, huracanes, tsunamis, tornados y terremotos. Asimismo, los programas de prevención, han sido orientados sistemáticamente hacia los adultos, por lo tanto, se hace necesaria la orientación de los programas de prevención de desastres hacia la población infantil. Dado que anteriormente el Ministerio de Salud había detectado que los escolares son más receptivos y efectivos en la prevención del dengue, se ha considerado oportuno, orientar la prevención de desastres hacia esta población. La población meta contará con información aplicable y práctica sobre prevención de desastres. El proyecto tiene como objetivos: 
+" Crear un sitio web, con tres páginas, orientado a la educación de la prevención de desastres para población escolar. 
+" Divulgar en los medios de comunicación colectiva y en sistema educativo nacional la existencia del sitio web. 
+" Elaborar un texto educativo y un artículo técnico respecto a la metodología de la enseñanza en prevención de desastres para niños y niñas escolares. 
+El informe presenta las siguientes conclusiones: 
+" Sitio web 100% funcional, que contiene 90 páginas entre descriptivas e interactivas. Es importante destacar que la propuesta inicial eran 3 páginas, con lo que se ha superado la meta ampliamente. 
+Se han realizado las siguientes actividades de divulgación: 
+" Se creó el borrador de la publicación, respecto al modelo conceptual y a la guía didáctica. 
+" Se ha informado a los medios de Comunicación, de la existencia del sitio web. 
+" Se ha informado a la Escuela de Geología de la Universidad de Costa Rica, al Centro de Investigaciones de Ciencias Geológicas (CICG) y al Instituto de Investigación en Educación (INIE). 
+" Presentación en el Congreso Geológico de América Central IX Congreso Geológico de América Central, 6º Congreso Geológico Nacional, 2008. 
+" Envío de correo electrónico a las y los participantes del curso: Procesos geológicos como causa de desastres naturales. Prevención y mitigación, consistente en profesionales de entidades dedicadas a esta temática, en diferentes países de Iberoamérica. 
+" Es de resaltar que el sitio web fue puesto al aire en noviembre del 2008 y a la fecha del informe, el índice de popularidad es de alrededor de 46% de acuerdo a las estadísticas de Google.</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">MEDIOS DE ENSEÑANZA</subfield>
+    <subfield code="9">29</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">DESASTRES NATURALES</subfield>
+    <subfield code="9">2553</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">PREVENCIÓN</subfield>
+    <subfield code="9">554</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1=" ">
+    <subfield code="a">Jiménez Araya, Carmen Enid</subfield>
+    <subfield code="9">2735</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

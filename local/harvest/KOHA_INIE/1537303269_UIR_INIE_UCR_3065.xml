@@ -1,0 +1,119 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02844nam a2200385   4500</leader>
+  <controlfield tag="008">160129b2015    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">18.09.01</subfield>
+    <subfield code="b">2296</subfield>
+  </datafield>
+  <datafield ind2=" " tag="110" ind1="2">
+    <subfield code="9">1392</subfield>
+    <subfield code="a">Instituto Nacional para la Evaluación de la Educación (México)</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Enfoques, métodos e instrumentos: ¿qué y cómo evaluar en el marco de la reforma educativa?</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">México :</subfield>
+    <subfield code="b">Instituto Nacional para la Evaluación de la Educación,</subfield>
+    <subfield code="c">2015</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">109 páginas;</subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Gaceta de la política nacional de evaluación educativa en México, año I, no.2 (julio-octubre, 2015).</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="505">
+    <subfield code="t">Evaluación autónoma: los retos de la autonomía constitucional del INEE /</subfield>
+    <subfield code="r">Juan Carlos Romero Hicks</subfield>
+  </datafield>
+  <datafield tag="505" ind2=" " ind1=" ">
+    <subfield code="t">La evaluación el el marco de la reforma educativa /</subfield>
+    <subfield code="r">Javier Treviño Cantú</subfield>
+  </datafield>
+  <datafield ind2=" " tag="505" ind1=" ">
+    <subfield code="t">El rol de la evaluación para la mejora educativa /</subfield>
+    <subfield code="r">Alberto Curi Naime</subfield>
+  </datafield>
+  <datafield ind1=" " tag="505" ind2=" ">
+    <subfield code="t">Evaluación integral en Campeche: más allá de la aplicación y difusión /</subfield>
+    <subfield code="r">José Martín Farías Maldonado</subfield>
+  </datafield>
+  <datafield tag="505" ind2=" " ind1=" ">
+    <subfield code="t">Evaluación educativa y la estrategia de la regionalización /</subfield>
+    <subfield code="r">Miguel Ángel Cuatepotzo Costeira</subfield>
+  </datafield>
+  <datafield tag="505" ind2=" " ind1=" ">
+    <subfield code="t">El reto de los usos de la información producto de las evaluaciones educativas en México /</subfield>
+    <subfield code="r">Teresa Bracho González</subfield>
+  </datafield>
+  <datafield ind1=" " tag="505" ind2=" ">
+    <subfield code="t">El desafío de la reforma en la educación: observación de la práctica docente en el aula /</subfield>
+    <subfield code="r">Margarita Zorrilla Fierro</subfield>
+  </datafield>
+  <datafield ind2=" " tag="505" ind1=" ">
+    <subfield code="t">PLANEA: participación de diferentes actores educativos en la evaluación de los resultados /</subfield>
+    <subfield code="r">Andrés Sánchez Moguel</subfield>
+  </datafield>
+  <datafield tag="505" ind2=" " ind1=" ">
+    <subfield code="t">La evaluación del currículo /</subfield>
+    <subfield code="r">Rebeca Reynoso Angulo y Raquel Ahuja Sánchez</subfield>
+  </datafield>
+  <datafield tag="505" ind2=" " ind1=" ">
+    <subfield code="t">Difusión y fomento de la cultura de la evaluación /</subfield>
+    <subfield code="r">José Luis Gutiérrez Espíndola y Annette Santos del Real</subfield>
+  </datafield>
+  <datafield tag="505" ind2=" " ind1=" ">
+    <subfield code="t">La evaluación de políticas educativas /</subfield>
+    <subfield code="r">Giulianna Mendieta Melgar</subfield>
+  </datafield>
+  <datafield tag="505" ind2=" " ind1=" ">
+    <subfield code="t">El reto de la calidad educativa en América Latina y las implicaciones para el sistema de evaluación en México / </subfield>
+    <subfield code="r">Nuria Sanz Gallego</subfield>
+  </datafield>
+  <datafield ind2=" " tag="505" ind1=" ">
+    <subfield code="t">Veracruz: la evaluación frente a los retos de la reforma educativa /</subfield>
+    <subfield code="r">José A. Ojeda Rodríguez</subfield>
+  </datafield>
+  <datafield ind1=" " tag="505" ind2=" ">
+    <subfield code="t">Monitoreo del derecho a la educación en Brasil /</subfield>
+    <subfield code="r">José Francisco Soares y Helber Ricardo Vieira</subfield>
+  </datafield>
+  <datafield ind1=" " tag="505" ind2=" ">
+    <subfield code="t">Evaluación y política pública en los países latinoamericanos: ¿qué pueden hacer los titulares educativos con las evidencias del informe PISA?  /Entrevista a Andreas Schleicher</subfield>
+  </datafield>
+  <datafield ind1=" " tag="505" ind2=" ">
+    <subfield code="t">Evaluación de reformas y políticas educativas: reflexiones a partir de la experiencia chilena /</subfield>
+    <subfield code="r">Dagmar Raczynski</subfield>
+  </datafield>
+  <datafield tag="505" ind2=" " ind1=" ">
+    <subfield code="t">Cajas Negras y hoyos negros: evaluación y valoración de la reforma educativa en México /</subfield>
+    <subfield code="r">Adrián Acosta Silva</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">287</subfield>
+    <subfield code="a">EVALUACIÓN </subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">7</subfield>
+    <subfield code="a">REFORMA DE LA EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">451</subfield>
+    <subfield code="a">POLÍTICA EDUCATIVA</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="4" tag="651">
+    <subfield code="9">19</subfield>
+    <subfield code="a">MÉXICO</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">3065</subfield>
+    <subfield code="d">3065</subfield>
+  </datafield>
+</record>

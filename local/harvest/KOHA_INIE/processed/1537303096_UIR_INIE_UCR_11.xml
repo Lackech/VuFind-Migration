@@ -1,0 +1,58 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00673nam a2200205Ia 4500</leader>
+  <controlfield tag="008">150506b2003    us ||||| |||| 00| 0 eng d</controlfield>
+  <datafield ind1=" " tag="020" ind2=" ">
+    <subfield code="a">0130484032</subfield>
+  </datafield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">12.06.01 1985</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="a">Jonassen, David H.</subfield>
+    <subfield code="9">27</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Learning to solve problems with technology: a constructivist perspective / </subfield>
+    <subfield code="c">David H. Jonassen; Jane Howland; Joi Moore; Rose M. Marra</subfield>
+  </datafield>
+  <datafield ind1=" " tag="250" ind2=" ">
+    <subfield code="a">2 edición</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">Upper Saddle River : </subfield>
+    <subfield code="b">Merril Prentice Hall, </subfield>
+    <subfield code="c">2003</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">256 páginas</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">TECNOLOGÍA</subfield>
+    <subfield code="9">28</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">MEDIOS DE ENSEÑANZA</subfield>
+    <subfield code="9">29</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">MANEJO DE PROBLEMAS</subfield>
+    <subfield code="9">30</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="a">Howland, Jane</subfield>
+    <subfield code="9">31</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="a">Moore, Joi</subfield>
+    <subfield code="9">32</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">11</subfield>
+    <subfield code="d">11</subfield>
+  </datafield>
+</record>

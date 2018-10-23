@@ -1,0 +1,92 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02594nam a2200325Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2113</subfield>
+    <subfield code="d">2113</subfield>
+  </datafield>
+  <controlfield tag="008">180822b2009    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">14.02.02 </subfield>
+    <subfield code="b">1467 CD #7</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="100">
+    <subfield code="a">Gutiérrez Rojas, Marisol</subfield>
+    <subfield code="9">3291</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Consumos culturales de adolescentes escolarizados urbanos/ </subfield>
+    <subfield code="c">Marisol Gutiérrez Rojas, Alexandra Miranda Bao</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2009</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">100 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="500">
+    <subfield code="a">Incluye varios discos compactos CD #7 con los siguientes temas: La creatividad en otros formatos audiovisuales; Dimensiones psicosociales asociadas al uso de tecnologías de la información y la comunicación en estudiantes de secundaria; Tres video clip </subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">El proyecto analiza la pertinencia del estudio de consumos culturales mediáticos de adolescentes, como medio de conocimiento de este segmento de la población, y como puente y soporte entre la cotidianidad y la oferta escolar. Con este propósito, se planificó un proyecto de investigación cualitativa de carácter exploratorio, qu supone la articulación entre dos prácticas polisémicas: la educación y la comunicación. En este marco, valora el potencial educativo de las telenovelas, los videoclips y el animé, a partir de las percepciones de un segmento de población adolescente escolarizada urbana, con el propósito de formular una propuesta de apropiación educativa válida para los procesos educativos formales. En los dos años de su ejecución se desarrollaron tres componentes: uno de orden conceptual que apuntaba a la indagación, sistematización y registro documental sobre el tema de jóvenes y medios, y sobre especificidades de las tres propuestas mediáticas seleccionadas así como sus características comunes; otro de orden pragmático, que incluyó el diseñó, ejecución y evaluación de cuatro talleres: dos con estudiantes de secundaria y dos con docentes del mismo estrato; el último, una actividad de síntesis de lo conceptual y lo pragmático, que comprendió la ejecución de la Jornada de estudio: consumos y producciones culturales juveniles: un espacio de diálogo para la educación la comunicación.</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">ADOLESCENTES</subfield>
+    <subfield code="9">5</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">CONSUMO</subfield>
+    <subfield code="9">4126</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">ACULTURACIÓN</subfield>
+    <subfield code="9">4127</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">MEDIOS DE COMUNICACIÓN</subfield>
+    <subfield code="9">388</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">TECNOLOGÍA DE LA INFORMACIÓN </subfield>
+    <subfield code="9">484</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">ESTUDIANTES </subfield>
+    <subfield code="9">332</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">TELEVISIÓN</subfield>
+    <subfield code="9">4128</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="a">Miranda Bao, Alexandra </subfield>
+    <subfield code="9">4129</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+  </datafield>
+</record>

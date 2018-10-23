@@ -1,0 +1,46 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01661nab a2200169   4500</leader>
+  <controlfield tag="005">20160331132911.0</controlfield>
+  <controlfield tag="008">151028b2004    xxuf|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">1082</subfield>
+    <subfield code="a">Castro Bonilla, Julieta</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Lineamientos metodológicos para incorporar la expresión plástica en el planeamiento escolar /</subfield>
+    <subfield code="c">Julieta Castro Bonilla</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2004</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">páginas 221-232</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">El presente artículo se dirige especialmente a aquellos docentes que, sin poseer una formación idónea en el campo de la expresión plástica, desean incorporarla como parte de su metodología de trabajo. Conviene recordar que esta área no sólo se ofrece en algunas escuelas como una materia más dentro del currículum escolar, sino también como un recurso didáctico que el docente puede utilizar como parte de su planeamiento cotidiano, por ello es fundamental su conocimiento y su apreciación. Se espera que los lineamientos propuestos en el artículo ayuden al "maestro de  grado" a desarrollar su propia sensibilidad, de manera que sus estudiantes puedan entrar en contacto con los contenidos presentes en las diversas  áreas del curriculum escolar de manera lúdica, asimismo, le permita organizar y planificar lecciones agradables, de modo que los participantes en el proceso didáctico puedan disfrutar al máximo de la expresión plástica</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind2=" " ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0253</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.28, no.2 (2004)</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2921</subfield>
+    <subfield code="d">2921</subfield>
+  </datafield>
+</record>

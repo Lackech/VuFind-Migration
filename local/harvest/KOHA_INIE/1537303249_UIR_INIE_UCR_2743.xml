@@ -1,0 +1,46 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01760nab a2200169   4500</leader>
+  <controlfield tag="005">20160317163816.0</controlfield>
+  <controlfield tag="008">150730b2002    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">191</subfield>
+    <subfield code="a">Carballo Vargas, Sonia</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Educación de la expresión de la sexualidad humana /</subfield>
+    <subfield code="c"> Sonia Carballo Vargas</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2002</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">páginas. 29-46</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">En el presente artículo se parte de que la sexualidad humana es una dimensión de la personalidad impregnada desde la concepción por las mismas características biosicosociales y espirituales de la persona. Se expresa en la relación de ella consigo misma y en la convivencia con los otros a través de los vínculos emocionales, del papel sexual, de la respuesta sexual y erotismo, y de la reproducción . Así mismo se plantea que educar a las personas en la expresión de la sexualidad es un proceso desafiante y placentero, dinámico y nunca acabado, que permite construir y reconstruir sistemáticamente actitudes, valores, sentimientos, intereses, conocimientos y formas de comportamiento sanos racional y emocionalmente. Por tanto se afirma que la educación de la expresión de la sexualidad se da durante toda la vida para aprender a convivir juntos, para aprender a conocer, para aprender a hacer y para aprender a ser, en un marco de derechos humanos, con el objetivo de construir formas inteligentes cognitiva y emocionalmente  que lleven al disfrute pleno y voluntario de la sexualidad</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind2=" " ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0060</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.26, no.1  (2002)</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2743</subfield>
+    <subfield code="d">2743</subfield>
+  </datafield>
+</record>

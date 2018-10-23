@@ -1,0 +1,55 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00860nam a22001937a 4500</leader>
+  <controlfield tag="008">161003b2006    cr a|||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">05.03.01</subfield>
+    <subfield code="b">1329 CD #227</subfield>
+  </datafield>
+  <datafield ind2=" " tag="110" ind1="2">
+    <subfield code="9">2044</subfield>
+    <subfield code="a">Universidad de Costa Rica. Programa de la Sociedad de la Información y el Conocimiento en Costa Rica </subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Hacia la Sociedad de la Información y el Conocimiento en Costa Rica. Informe 2010</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">PROSIC,</subfield>
+    <subfield code="c">2006-</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">542 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="500" ind2=" ">
+    <subfield code="a">La Unidad posee Resumen ejecutivo 2006, informe 2006 (CD), informe 2009, informe 2010, Informe 2011, Informe 2013, Informe 2014 (en formato electrónico)</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">642</subfield>
+    <subfield code="a">SOCIEDAD DE LA INFORMACIÓN </subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">484</subfield>
+    <subfield code="a">TECNOLOGÍA DE LA INFORMACIÓN </subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">150</subfield>
+    <subfield code="a">COMUNICACIÓN</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">42</subfield>
+    <subfield code="a">CONOCIMIENTO</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">37</subfield>
+    <subfield code="a">CIENCIA Y TECNOLOGÍA </subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">3333</subfield>
+    <subfield code="d">3333</subfield>
+  </datafield>
+</record>

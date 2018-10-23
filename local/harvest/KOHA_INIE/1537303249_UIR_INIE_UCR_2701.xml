@@ -1,0 +1,57 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>04313nab a2200181   4500</leader>
+  <controlfield tag="005">20160317161139.0</controlfield>
+  <controlfield tag="008">150618b2000    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">218</subfield>
+    <subfield code="a">Carvajal Alvarado, Noé</subfield>
+  </datafield>
+  <datafield ind2="3" ind1="1" tag="245">
+    <subfield code="a">La formación de docentes de I y II ciclo para comunidades /</subfield>
+    <subfield code="c">Noé Carvajal Alvarado, José Solano Alpízar</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2000</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">páginas 99-104</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">Esta experiencia posibilitó el desarrollo de toda una serie de iniciativas encaminadas a dar una respuesta educativa a las comunidades indígenas de Costa Rica en el nivel de la Educación Superior; de manera que se logró un nivel de la Educación Superior; de manera que se logró un nivel de de concreción con el establecimiento de un Bachillerato en Ciencias de la Educación con concentración en Educación Indígena I y II ciclos.
+De tal manera que la preocupación por ofrecer una oferta educativa en el ámbito superior capaz de contemplar la particularidad y las necesidades de los grupos étnicos costarricenses se convirtió en un primer esfuerzo por dar respuestas a aquellos grupos que han venido  siendo excluidos de los procesos de desarrollo económico, social y cultural.
+En este sentido la Universidad Nacional, a travésde la División de Educación Rural del Centro de Investigación y Docencia en Educación (CIDE), no sólo brinda una respuesta formativa a los residentes de las zonas rurales de Costa Rica, sino que además enriquece su quehacer académico al desarrollar un proceso de formación docente para apoyar el desarrollo educativo de los grupos indígenas del país.
+Este compromiso por formar profesionales en el campo educativo se corresponde con la propia misión histórica de la Universida Nacional, la que en su estatuto orgánico plantea la necesidad de formar profesionales que.... contribuyan con su quehacer a la formación de la sociedad costarricense hacia planos superiores de bienestar social y libertad... (Estatuto Orgánico,1973). Siendo fieles a este compromis, la División de Educación Rural ha venido desarrollando diversos programas de formación y capacitación que buscan contribuir al mejoramiento de la calidad  de los procesos educativos en las zonas rurales del país.
+Dar respuestas educativas concretas a los grupos sociales y étnicos más vulnerables de nuestro país -en un contexto socio-culturalen el que una de las principales tendencias de la globalización es la de la homogeneización cultural- es una forma de contrarrestar los efectos de un proceso económico-social voraz que ha venido modificando violentamente la fisonomía de la sociedad costarricense de los últimso cincuenta años.
+Desde este horizonte de interpretación queremos patentizar el hecho de que no basta con reconocer la existencia de una propuesta educativa nacional que no contempla la diversidad cultural ni las particularidades de grupos específicos, pues es un imperativo realizar experiencias concretas que contribuyan no sólo al desarrollo colectivo de estos grupos sino a la toma de conciencia nacional acerca de la necesidad de construir un proyecto social que considere la pluriculturalidad, la tolerancia y la justicia social y económica como premisas básicas.
+Finalmente debemos destacar que a un paso de cruzar el umbral que nos separa de un nuevo siglo, los Centros de Educación Superior encargados de la formación docente están obligados a establecer mayores nexos entre sí, a fin de realizar experiencias conjuntas  que respondan de una manera satisfactoria a los requerimientos de la sociedad costarricense.
+Si esta experiencia educativa puede contribuir aunque sea en forma mínima a la comprensión y valoración de las culturas autóctonas de nuestro país, así como al desarrollo individual y colectivo de estos grupos étnicos, entonces la Universidad Nacional estará siendo consecuente con su compromiso de responder a las exigencias y necesidades de los grupos que más lo necesiten</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">239</subfield>
+    <subfield code="a">Solano Alpízar, José </subfield>
+  </datafield>
+  <datafield ind2=" " ind1="0" tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0032</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.24, no.especial (2000)</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2701</subfield>
+    <subfield code="d">2701</subfield>
+  </datafield>
+</record>

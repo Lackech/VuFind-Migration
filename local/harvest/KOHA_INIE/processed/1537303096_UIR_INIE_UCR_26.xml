@@ -1,0 +1,48 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00528nam a2200169Ia 4500</leader>
+  <controlfield tag="008">150714b1999    us ||||| |||| 00| | eng d</controlfield>
+  <datafield ind1=" " tag="020" ind2=" ">
+    <subfield code="a">0761990429</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">05.01.01 </subfield>
+    <subfield code="b">1139</subfield>
+  </datafield>
+  <datafield ind1=" " tag="100" ind2=" ">
+    <subfield code="a">LeCompte, Margaret D.</subfield>
+    <subfield code="9">283</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Researcher Roles and researcher partnerships / </subfield>
+    <subfield code="c">Margaret D, LeCompte, Jean J. Schensul</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">USA : </subfield>
+    <subfield code="b">Altamira Press, </subfield>
+    <subfield code="c">1999</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">175 páginas</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">MÉTODOS DE INVESTIGACIÓN </subfield>
+    <subfield code="9">288</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">ETNOGRAFÍA</subfield>
+    <subfield code="9">286</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">293</subfield>
+    <subfield code="a">Schensul, Jean J. </subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">26</subfield>
+    <subfield code="d">26</subfield>
+  </datafield>
+</record>

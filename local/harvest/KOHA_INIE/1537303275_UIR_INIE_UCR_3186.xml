@@ -1,0 +1,62 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00810nam a2200205   4500</leader>
+  <controlfield tag="008">160502b2011    a  ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="020" ind2=" " ind1=" ">
+    <subfield code="a">9789871785094</subfield>
+  </datafield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">06.02.01</subfield>
+    <subfield code="b">2320</subfield>
+  </datafield>
+  <datafield tag="245" ind2="3" ind1="1">
+    <subfield code="a">El saber de la experiencia: narrativa, investigación y formación docente /</subfield>
+    <subfield code="c">Andrea Alliaud y Daniel H. Suárez</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">Buenos Aires, República Argentina :</subfield>
+    <subfield code="b"> Editorial de la Facultad de Filosofía y Letras Universidad de Buenos Aires, </subfield>
+    <subfield code="c">2011</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">250 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="490">
+    <subfield code="a">Colección narrativas, autobiografías y educación,</subfield>
+    <subfield code="v">3</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">163</subfield>
+    <subfield code="a">INVESTIGACIÓN</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">498</subfield>
+    <subfield code="a">FORMACIÓN PROFESIONAL</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">506</subfield>
+    <subfield code="a">CONFERENCIA</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">1673</subfield>
+    <subfield code="a">Alliaud, Andrea</subfield>
+    <subfield code="e">coordinador/a</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">1674</subfield>
+    <subfield code="a">Suárez, Daniel H.</subfield>
+    <subfield code="e">coordinador/a</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">3186</subfield>
+    <subfield code="d">3186</subfield>
+  </datafield>
+</record>

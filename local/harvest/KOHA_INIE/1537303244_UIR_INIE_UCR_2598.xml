@@ -1,0 +1,48 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01519nab a22001577a 4500</leader>
+  <controlfield tag="008">150528b1998    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">115</subfield>
+    <subfield code="a">Mojica Sánchez, Elías</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Historia y visión prospectiva de la sección de educación de la sede de Guanacaste /</subfield>
+    <subfield code="c">Elías Mojica Sánchez </subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">1998</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">páginas 141 - 150</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">El propósito fundamental de este artículo es describir el proceso histórico de lo que ha sido y lo que debe ser la Sección de Educación de la Sede de Guanacaste.
+Para lograr lo propuesto, primero se hace referencia a la importancia de la educación superior costarricense, se centra la atención en el análisis de algunos principios, propósitos y funciones de la Universidad de Costa Rica, por ser ésta la primera institución de educación superior en el país.
+Luego se explica el origen y la importancia de la Regionalización, como medio para que la educación universitaria llegue a las zonas más alejadas del país.
+Finalmente se describen los logros de la Sección de Educación  de la Sede de Guanacaste, en cuanto al porcentaje de estudiantes que ha graduado y se dan algunas ideas preliminares en cuanto a su visión prospectiva.</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " tag="773" ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0020</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.22, no.1 (1998)</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2598</subfield>
+    <subfield code="d">2598</subfield>
+  </datafield>
+</record>

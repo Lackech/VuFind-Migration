@@ -1,0 +1,50 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00838nam a2200169Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">1905</subfield>
+    <subfield code="d">1905</subfield>
+  </datafield>
+  <controlfield tag="008">180518b2000    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">06.03.07</subfield>
+    <subfield code="b"> 900</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="a">García Fallas, Jacqueline</subfield>
+    <subfield code="9">759</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Construcción de procesos de aprendizaje individuales y colectivos en ambientes informatizados:  el papel de la metacognición</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">2000</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">100 páginas aproximadamente.</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Informe Final del Proyecto de Investigación N°724-99-343</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">La investigación se propone construir una aproximación sobre un ambiente de aprendizaje informatizado, promover la construcción y expresión de diversos intereses y posibilidades cognoscitivo-afectivas en niños desde la experiencia estudiada y determinar los componentes pedagógicos del ambiente de aprendizaje informatizado. Se eligió una metodología cualitativa para la recolección de información sobre la tutora de laboratorio de una escuela urbano-marginal de Hatillo, tres grupos de quinto grado (de aproximadamente 30 alumnos por grupo), tres maestras de grado y dos parejas de estudiantes por grupo. El informe presenta varios cuadros con la descripción de los criterios para la selección de los grupos y el formato para la observación de parejas, entre otros procedimientos de recolección de datos. Entre las observaciones se encuentra el uso de la demostración y la ejemplificación como dispositivos pedagógicos por parte de la tutora, quien además recurre a una dinámica participativa centrada en cuestionamientos y la proposición de valores para la constitución de formas de relación entre sus estudiantes, la verificación de que los estudiantes participan activamente en el proceso de las actividades propuestas y señalan que han aprendido a compartir en el laboratorio de informática educativa. Se evidencia en la información recopilada que el ambiente de aprendizaje observado permite la expresión de intereses propios y de posibilidades cognoscitivo-afectivas de los niños participantes. Asimismo, la autora aclara que el estudio de los procesos metacognoscitivos ofrece una visión más integral de los aprendizajes construidos o en construcción por parte de los estudiantes.</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">APRENDIZAJE </subfield>
+    <subfield code="9">387</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">METACOGNICIÓN </subfield>
+    <subfield code="9">3658</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">INFORMÁTICA EDUCATIVA</subfield>
+    <subfield code="9">3407</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

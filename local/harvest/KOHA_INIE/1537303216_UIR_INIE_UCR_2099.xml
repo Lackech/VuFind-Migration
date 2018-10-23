@@ -1,0 +1,63 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02608nam a2200217Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2099</subfield>
+    <subfield code="d">2099</subfield>
+  </datafield>
+  <controlfield tag="008">180828b2002    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">13.09.09 </subfield>
+    <subfield code="b">312 CD #27</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1=" ">
+    <subfield code="a">Venegas Renauld, María Eugenia</subfield>
+    <subfield code="9">560</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Conceptualización de la docencia en las sedes de la Universidad de Costa Rica (disco compacto) / </subfield>
+    <subfield code="c">María Eugenia Venegas Renauld,  Ana Cecilia Hernández Rodriguez, Kemly Jiménez Fallas y Edgar Chavarría Solano</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">DEDUN, </subfield>
+    <subfield code="c">2002</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">75 páginas/ </subfield>
+    <subfield code="c">12 cm de diámetro</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Informe Final  del Proyecto N° 724-99-201 se presenta en disco compacto y un documento  impreso con el informe de la Sede de Limón.Incluye CD Nº 27</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">El documento recoge el informe maestro del proyecto de investigación “Conceptualizacion de la docencia en las sedes regionales de la Universidad de Costa Rica”. Tanto en el proceso de investigación, como en la elaboración del presente informe, se presentan resultados de trabajos compartidos, pero también de trabajos asumidos individualmente. Ello es así, no sólo por las características complejas que asumió la investigación, por las enormes dificultades que se hubo de afrontar, pero también por la necesidad de respetar los enfoques de los investigadores que constituyeron el equipo. El propósito del proyecto es caracterizar la docencia desde las Sedes para ampliar, profundizar e interpretar sus significados en las prácticas pedagógicas de la Universidad de Costa Rica y así acercarse a la construcción de una pedagogía universitaria. La investigación no pretende homogenizar la función docente en la Universidad de Costa Rica, sino rescatar las particularidades en cada una de las sedes, incorporando las demandas del contexto regional y su relación con las exigencias y necesidades del contexto nacional e internacional. El Proyecto se planteó para ser desarrollado desde una perspectiva cualitativa. Bajo este tipo de aproximación, se tuvo claro en todo momento, el interés por conocer desde los propios actores, las formas mediante las cuales se asume y concreta la docencia y derivar desde el análisis y la reflexión, los constructos con los cuales se conceptualiza. El documento presenta introducción, conclusiones y recomendaciones generales y un informe de cada sede por separado.</subfield>
+  </datafield>
+  <datafield tag="610" ind1=" " ind2="0">
+    <subfield code="a">UNIVERSIDAD DE COSTA RICA</subfield>
+    <subfield code="9">714</subfield>
+  </datafield>
+  <datafield tag="650" ind2="0" ind1=" ">
+    <subfield code="a">DOCENCIA</subfield>
+    <subfield code="9">1841</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="700">
+    <subfield code="9">173</subfield>
+    <subfield code="a">Hernández Rodríguez, Ana Cecilia</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2="4">
+    <subfield code="9">4134</subfield>
+    <subfield code="a">Jiménez Fallas, Kemly </subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="700">
+    <subfield code="9">3002</subfield>
+    <subfield code="a">Chavarria Solano, Edgar</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+  </datafield>
+</record>

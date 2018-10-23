@@ -1,0 +1,67 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00854nam a2200229Ia 4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">1904</subfield>
+    <subfield code="d">1904</subfield>
+  </datafield>
+  <controlfield tag="008">180518b1991    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">06.03.07 </subfield>
+    <subfield code="b">86</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="a">Pereira Pérez, Zulay</subfield>
+    <subfield code="9">2902</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Aprendizaje operatorio para niños de tercer año con bajo rendimiento en matemática</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1991</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">paginación irregular</subfield>
+  </datafield>
+  <datafield ind1=" " tag="500" ind2=" ">
+    <subfield code="a">Existe un item presentado como informe de investigación # 724-87-006 con clasificación 06.03.07 86. 
+Tesis (Magister Scientiae en Psicología)-- Universidad de Costa Rica. Sistema de Estudios de Posgrado, 1990.</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">La investigación es de tipo cualitativo y responde a lineamientos piagetianos, los cuales buscan la creación de situaciones de aprendizaje en que el alumno use sus instrumentos intelectuales y pueda ir construyendo su desarrollo. Para este estudio se elaboraron dos pruebas pedagógicas para evaluar a los niños y determinar su rendimiento en matemática. Se demostró que estos niños presentan promedios superiores en el postest en comparación con el pretest, especialmente en el grupo de niños que vivenció actividades de aprendizaje operatorio, lo que hace pensar que este tipo de ejercicios propician la construcción de conocimiento. Los niños con bajo rendimiento en matemática presentaron en las pruebas piagetianas niveles de desarrollo muy iniciales, lo que refuerza la idea de que estos no habían construido instrumentos intelectuales que les permitieran enfrentarse adecuadamente a las situaciones de aprendizaje, razón de su bajo rendimiento en la materia. También, se comprobó la necesidad del niño de contar con apoyos concretos y el gusto que siente ante situaciones similares al juego, por lo que al final del la investigación, se ofrece toda una serie de actividades sugeridas que cumplen con este propósito.</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">APRENDIZAJE </subfield>
+    <subfield code="9">387</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">PEDAGOGÍA</subfield>
+    <subfield code="9">1770</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">ESTUDIANTES </subfield>
+    <subfield code="9">332</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">RENDIMIENTO ACADÉMICO</subfield>
+    <subfield code="9">1095</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">EDUCACIÓN PRIMARIA</subfield>
+    <subfield code="9">367</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">MATEMÁTICAS  </subfield>
+    <subfield code="9">482</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

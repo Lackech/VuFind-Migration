@@ -1,0 +1,45 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00637nam a22001577a 4500</leader>
+  <controlfield tag="008">160511b2013    cr a|||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">DOC # 121</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">1733</subfield>
+    <subfield code="a">Quesada Alvarado, Ana Virginia</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="1" tag="245">
+    <subfield code="a">¿Cómo nos damos cuenta que nuestro proyecto de integración de tecnologías digitales avanza del modo que deseamos?: Guía de autoevaluación institucional /</subfield>
+    <subfield code="c">Ana Virginia Quesada</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">MEP,</subfield>
+    <subfield code="c">2013</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">11 páginas;</subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">483</subfield>
+    <subfield code="a">TECNOLOGÍA EDUCATIVA </subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">287</subfield>
+    <subfield code="a">EVALUACIÓN </subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1734</subfield>
+    <subfield code="a">PROGRAMA CONECTANDONOS (COSTA RICA)</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">05</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">3218</subfield>
+    <subfield code="d">3218</subfield>
+  </datafield>
+</record>

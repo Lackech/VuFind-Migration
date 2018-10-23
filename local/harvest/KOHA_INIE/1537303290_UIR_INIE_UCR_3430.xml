@@ -1,0 +1,39 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00503nab a22001337a 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">3430</subfield>
+    <subfield code="d">3430</subfield>
+  </datafield>
+  <controlfield tag="008">170824b2012    cr ||||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">REVIS</subfield>
+    <subfield code="b">06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">3101</subfield>
+    <subfield code="a">Vásquez, Jorge Daniel</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Pedagogía de la praxis decolonial / </subfield>
+    <subfield code="c">Jorge Daniel Vásquez</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">pp. 48-57</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1770</subfield>
+    <subfield code="a">PEDAGOGÍA</subfield>
+  </datafield>
+  <datafield tag="773" ind2=" " ind1="0">
+    <subfield code="d">Costa Rica : Departamento de Investigaciones, Universidad De La Salle, 2012-</subfield>
+    <subfield code="o">R0642</subfield>
+    <subfield code="t">Revista Redpensar</subfield>
+    <subfield code="x">2215-2938</subfield>
+    <subfield code="g">Vol.1, no, 2 (diciembre, 2012)</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+</record>

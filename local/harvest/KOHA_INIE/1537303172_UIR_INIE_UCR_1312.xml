@@ -1,0 +1,37 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00406nam a2200133Ia 4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">1312</subfield>
+    <subfield code="d">1312</subfield>
+  </datafield>
+  <controlfield tag="008">170606b1965    ag ||||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">05.01.01 </subfield>
+    <subfield code="b">1195</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="a">Viet, Jean</subfield>
+    <subfield code="9">2903</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="4">
+    <subfield code="a">Los métodos estructuralistas en las ciencias sociales / </subfield>
+    <subfield code="c">Jean Viet</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">Buenos Aires: </subfield>
+    <subfield code="b">Amorrortu Editores, </subfield>
+    <subfield code="c">1965</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">284 páginas</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">CIENCIAS SOCIALES </subfield>
+    <subfield code="9">276</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

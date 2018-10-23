@@ -1,0 +1,64 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00738nam a2200217Ia 4500</leader>
+  <controlfield tag="008">150916b1993    SP ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="020" ind1=" ">
+    <subfield code="a">8475099246</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">05.01.02 </subfield>
+    <subfield code="b">2141</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="a">Pearson, Judy C.</subfield>
+    <subfield code="9">1027</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Comunicación y género / </subfield>
+    <subfield code="c">Judy C. Pearson, Lynn H. Turner y W. Todd-Mancillas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">Barcelona; Buenos Aires : </subfield>
+    <subfield code="b">Ediciones Paidós Ibérica; Editorial Paidós, </subfield>
+    <subfield code="c">1993</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">440 páginas</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1028</subfield>
+    <subfield code="a">ANÁLISIS DE GÉNERO </subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">COMUNICACIÓN</subfield>
+    <subfield code="9">150</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">RELACIONES DE GÉNERO</subfield>
+    <subfield code="9">797</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">COMUNICACIÓN DE MASAS </subfield>
+    <subfield code="9">1029</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">ROLES DE LOS GÉNEROS</subfield>
+    <subfield code="9">1030</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="a">Turner, Lynn H. </subfield>
+    <subfield code="9">1031</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="a">Todd-Mancillas, W.</subfield>
+    <subfield code="9">1032</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">259</subfield>
+    <subfield code="d">259</subfield>
+  </datafield>
+</record>

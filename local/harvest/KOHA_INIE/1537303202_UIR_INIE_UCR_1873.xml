@@ -1,0 +1,73 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01054nam a2200229Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">1873</subfield>
+    <subfield code="d">1873</subfield>
+  </datafield>
+  <controlfield tag="008">180516b200     cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">06.03.07 </subfield>
+    <subfield code="b">1833</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="a">Fonseca Rodríguez, Ana Victoria</subfield>
+    <subfield code="9">1907</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="3" tag="245">
+    <subfield code="a">El logro de aprendizaje significativo mediante software libre en enseñanza de la matemática en secundaria / </subfield>
+    <subfield code="c">Ana Victoria Fonseca Rodríguez, Annia Espeleta Sibaja, Carmen Enid Jiménez Araya</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica :  </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2009</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">47 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Informe final Proyecto No.724-A9-055</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">El objetivo general del proyecto es analizar la relación entre el uso del software matemático Geogebra y el logro de aprendizaje significativo. Se toma como punto de partida los objetivos y contenidos de los planes de estudio vigentes del MEP en el área de la matemática que se puede desarrollar con este software y docentes que actualmente están utilizando el software Geogebra, como herramienta en las lecciones de matemáticas. 
+Se determinó que el software idóneo para realizar la investigación es el Geogebra, ya que es uno de los más se está utilizando en Costa Rica, el cual goza de prestigio en el ámbito internacional. Se hizo una exploración de cuáles serían las instituciones y docentes idóneos para participar en la investigación, se determinó que en los lugares donde más se está utilizando Geogebra, es la zona de Mora y Puriscal, específicamente se recomendó las siguientes instituciones: Liceo de Puriscal, Liceo de Tabarcia y Liceo de Barbacoas. Se acordó aplicar los instrumentos de recolección de información a los grupos de estudiantes que los docentes consideraron que habían utilizado el Geogebra en más lecciones. Se utilizaron tres tipos de poblaciones, con el fin de ampliar los criterios de expertos, acerca del uso de Geogebra: 69 estudiantes procedentes de las tres instituciones; 3 docentes que tienen a su cargo estos grupos de estudiantes, 17 asesores y docentes de matemática de Pérez Zeledón y zonas aledañas y 16 estudiantes de Licenciatura en Enseñanza de la Matemática. Se realizaron entrevistas estructuradas a los y las docentes para conocer sus percepciones acerca del uso del software Geogebra en las lecciones de matemática. Con las y los estudiantes, también se realizaron entrevistas estructuradas, con un instrumento diseñado para tal efecto. Al final de esta experiencia se pueden hacer algunas conclusiones como las siguientes: 
+" La incorporación de software en las lecciones de matemática, requiere analizar técnicas didácticas apropiadas, las formas de trabajo (individual e interactivo con la profesora o profesor y entre compañeros). Este enfoque evidencia un aprendizaje centrado en la y el estudiante, en el cual cada quien avanza a su propio ritmo. 
+" La información recopilada, permite contar con un marco de referencia para determinar la importancia de incorporar la internet y el software en la educación matemática, así como los beneficios que esto trae. 
+" Todos los docentes valoran que el Geogebra permite profundizar en el conocimiento de funciones, el conocimiento de geometría y permite formular conjeturas. 
+" La construcción del conocimiento se enriquece con la diversidad de animación de objetos matemáticos, ya que permite que los conceptos, situaciones y procedimientos matemáticos que se desarrollan sean más dinámicos, porque se puede gratificar desde un rango mayor de posibilidades en los valores, con lo que se logra mayor exploración, y abstracción desde situaciones particulares a más generales. Por ejemplo, un o una docente puede con tiza y pizarra representar algunas gráficas y figuras en una sola posición que lucen estáticas, por lo cual, las posibilidades de exploración son mínimas. 
+" Mediante esta investigación se comprueba que efectivamente hay una percepción muy positiva acerca del uso de Geogebra en las lecciones de matemática, valorado por estudiantes y docentes. Se ha manifestado como un recurso sumamente valioso para el desarrollo de los temas contemplados en los planes de estudio vigentes, del Ministerio de Educación Pública, principalmente en los temas de geometría, algebra y funciones. </subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">APRENDIZAJE </subfield>
+    <subfield code="9">387</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">APRENDIZAJE SIGNIFICATIVO</subfield>
+    <subfield code="9">1247</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">ENSEÑANZA</subfield>
+    <subfield code="9">14</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">MATEMÁTICAS  </subfield>
+    <subfield code="9">482</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">EDUCACIÓN SECUNDARIA</subfield>
+    <subfield code="9">456</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="a">Espeleta sibaja, Annia</subfield>
+    <subfield code="9">1906</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="a">Jiménez Araya, Carmen Enid</subfield>
+    <subfield code="9">2735</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

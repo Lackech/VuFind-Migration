@@ -1,0 +1,56 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00747nam a2200193Ia 4500</leader>
+  <controlfield tag="008">151104b1984    dk ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="020">
+    <subfield code="a">8798154907</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">06.01.01 </subfield>
+    <subfield code="b">1017</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="a">Hedegaard, Mariane</subfield>
+    <subfield code="9">1162</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Learning and teaching on a scientific basis: Methodological and Epistemological aspects of the activity theory of learning and teaching / </subfield>
+    <subfield code="c">Mariane Hedegaard, Pentti Hakkarainen, Yrijo Engestrom</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">Dinamarca : </subfield>
+    <subfield code="b">Psykologisk Institut, </subfield>
+    <subfield code="c">1984</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">460 páginas</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">INVESTIGACIÓN EDUCATIVA</subfield>
+    <subfield code="9">326</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">TEORÍA DE LA EDUCACIÓN</subfield>
+    <subfield code="9">661</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">FILOSOFÍA DE LA EDUCACIÓN </subfield>
+    <subfield code="9">21</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Hakkarainen, Pentti</subfield>
+    <subfield code="9">1163</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="a">Engestrom, Yrijo</subfield>
+    <subfield code="9">1164</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">298</subfield>
+    <subfield code="d">298</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,42 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00553nam a2200157Ia 4500</leader>
+  <datafield ind2=" " tag="020" ind1=" ">
+    <subfield code="a">9968-903-29-9</subfield>
+  </datafield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">06.05.03 </subfield>
+    <subfield code="b">2017</subfield>
+  </datafield>
+  <datafield ind1=" " tag="100" ind2=" ">
+    <subfield code="a">Prieto Castillo, Daniel</subfield>
+  </datafield>
+  <datafield ind1=" " tag="245" ind2=" ">
+    <subfield code="a">E-learning, comunicación y educación: el diálogo continúa en el ciberespacio / </subfield>
+    <subfield code="c">Daniel Prieto Castillo; Peter van de Pol</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, C.R. : </subfield>
+    <subfield code="b">Radio Nederland Training Centre, </subfield>
+    <subfield code="c">002392 </subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">245 páginas</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">ENSEÑANZA CON AYUDA DE COMPUTADORAS</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="650">
+    <subfield code="a">EDUCACION</subfield>
+  </datafield>
+  <datafield ind2=" " tag="650" ind1=" ">
+    <subfield code="a">TECNOLOGIA EDUCATIVA</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1=" ">
+    <subfield code="a">Van de Pol, Peter</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">896</subfield>
+    <subfield code="d">896</subfield>
+  </datafield>
+</record>

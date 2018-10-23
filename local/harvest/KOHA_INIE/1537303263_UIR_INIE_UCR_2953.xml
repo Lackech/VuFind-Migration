@@ -1,0 +1,56 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00904nam a22001937a 4500</leader>
+  <controlfield tag="008">151209b2013    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">19.01.02 </subfield>
+    <subfield code="b">2146</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">1198</subfield>
+    <subfield code="a">Echeverría Sáenz, Ana Cristina</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Modelo de capacitación: la incorporación de las TIC como herramientas tecnológicas de uso formativo en la preparación académica del profesorado de Educación Especial y de Orientación /</subfield>
+    <subfield code="c">Ana Cristina Echeverría Sáenz</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">INIE,</subfield>
+    <subfield code="c">2013</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">100 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Informe final Proyecto de Investigación N°724-B2-333</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="2" tag="610">
+    <subfield code="9">1199</subfield>
+    <subfield code="a">ESCUELA DE ORIENTACIÓN Y EDUCACIÓN ESPECIAL DE LA UNIVERSIDAD DE COSTA RICA </subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">484</subfield>
+    <subfield code="a">TECNOLOGÍA DE LA INFORMACIÓN </subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">925</subfield>
+    <subfield code="a">TECNOLOGÍA DE LAS COMUNICACIONES</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">920</subfield>
+    <subfield code="a">DOCENCIA UNIVERSITARIA</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">9</subfield>
+    <subfield code="a">FORMACIÓN DE DOCENTES</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2953</subfield>
+    <subfield code="d">2953</subfield>
+  </datafield>
+</record>

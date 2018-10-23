@@ -1,0 +1,55 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00660nam a2200193   4500</leader>
+  <controlfield tag="008">150803b2011    s  ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="020" ind2=" ">
+    <subfield code="a">9788427717329</subfield>
+  </datafield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">06.02.01</subfield>
+    <subfield code="b"> 2153 </subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">687</subfield>
+    <subfield code="a">Pérez Serrano, Gloria </subfield>
+  </datafield>
+  <datafield ind2=" " tag="245" ind1=" ">
+    <subfield code="a">Aprender a convivir: el conflicto como oportunidad de crecimiento /</subfield>
+    <subfield code="c">Gloria Pérez Serrano, Ma. Victoria Pérez de Guzmán Puya</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">Madrid :</subfield>
+    <subfield code="b">Narcea S.A. de Ediciones,</subfield>
+    <subfield code="c">2011</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">128 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="490">
+    <subfield code="a">Educación Hoy</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">553</subfield>
+    <subfield code="a">VIOLENCIA ESCOLAR</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">688</subfield>
+    <subfield code="a">MEDIACIÓN</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">689</subfield>
+    <subfield code="a">Pérez de Guzmán Puya, María Victoria</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">2757</subfield>
+    <subfield code="d">2757</subfield>
+  </datafield>
+</record>

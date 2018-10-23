@@ -1,0 +1,48 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00593nam a2200169Ia 4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">1063</subfield>
+    <subfield code="d">1063</subfield>
+  </datafield>
+  <controlfield tag="008">180529b1998    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="020">
+    <subfield code="a">9977-67-484-1</subfield>
+  </datafield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">05.05.02 </subfield>
+    <subfield code="b">1965</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1=" ">
+    <subfield code="a">Barrionuevo Chen-Apuy, Floria A.</subfield>
+    <subfield code="9">3678</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Teodorico Quirós / </subfield>
+    <subfield code="c">Floria A. Barrionuevo, María Enriqueta Guardia Y.</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, C.R. : </subfield>
+    <subfield code="b">Editorial de la Univerisdad de Costa Rica, </subfield>
+    <subfield code="c">1998</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">164 páginas</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="600">
+    <subfield code="9">3679</subfield>
+    <subfield code="a">QUIROS ALVAREZ, TEODORICO 1897-1977</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">ARTE   </subfield>
+    <subfield code="9">421</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="700">
+    <subfield code="9">3680</subfield>
+    <subfield code="a">Guardia Yglesias, María Enriqueta</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

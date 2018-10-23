@@ -1,0 +1,53 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00573nam a2200193   4500</leader>
+  <controlfield tag="008">150805b2006    mx ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9706889388</subfield>
+  </datafield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">06.04.08 </subfield>
+    <subfield code="b">2161 </subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">717</subfield>
+    <subfield code="a">Mora Solís, Claudia de la </subfield>
+  </datafield>
+  <datafield ind2=" " tag="245" ind1=" ">
+    <subfield code="a">Disciplina en el aula /</subfield>
+    <subfield code="c">Claudia de la Mora Solís</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="250">
+    <subfield code="a">2 edición</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">México :</subfield>
+    <subfield code="b">SM de Ediciones, S.A. de C.V.,</subfield>
+    <subfield code="c">2006</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">132 páginas</subfield>
+  </datafield>
+  <datafield tag="490" ind1=" " ind2=" ">
+    <subfield code="a">Aula nueva</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">reimpresión de 2011</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">709</subfield>
+    <subfield code="a">DISCIPLINA ESCOLAR</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">692</subfield>
+    <subfield code="a">SOLUCIÓN DE CONFLICTOS</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">2767</subfield>
+    <subfield code="d">2767</subfield>
+  </datafield>
+</record>

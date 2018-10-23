@@ -1,0 +1,50 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01693nab a2200181   4500</leader>
+  <controlfield tag="005">20160428151721.0</controlfield>
+  <controlfield tag="008">160428b2012    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">1640</subfield>
+    <subfield code="a">Salgado Vega, Jesús</subfield>
+  </datafield>
+  <datafield ind2="3" ind1="1" tag="245">
+    <subfield code="a">La desigualdad en Educación en México por Entidad Federativa 1995-2005 /</subfield>
+    <subfield code="c">Jesús Salgado Vega, Karla Gisel Rodríguez Guerra</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2012</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">páginas 25-43</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">En este artículo se utiliza el coeficiente de Gini para medir la desigualdad en la educación que tienen actualmente los ciudadanos mexicanos en las diferentes entidades del país, la hipótesis principal es que la desigualdad en la educación medida a través del índice de Gini está negativamente asociada con el promedio de años de escolaridad, esto es, que los Estados que han logrado un alto nivel de educación es más probable que logren una mejor igualdad educativa que aquellos que tienen niveles bajos de educación. Según kutznets, si el nivel de escolaridad se incrementa, después llega a un máximo y posteriormente declina. Encontramos que cuando el promedio de los años de estudio en una Entidad Federativa es bajo, típicamente una pequeña parte de la población tiene todos los años de escolaridad concluidos, y además hay una gran desigualdad educativa entre las entidades o regiones del país.</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">1641</subfield>
+    <subfield code="a">Rodríguez Guerra, Karla Gisel </subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0625</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.36, no.1 (ene.-jun., 2012)</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3170</subfield>
+    <subfield code="d">3170</subfield>
+  </datafield>
+</record>

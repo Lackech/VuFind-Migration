@@ -1,0 +1,46 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01769nab a22001697a 4500</leader>
+  <controlfield tag="005">20160328163055.0</controlfield>
+  <controlfield tag="008">150903b2003    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">959</subfield>
+    <subfield code="a">Contreras Montes de Oca, Ileana</subfield>
+  </datafield>
+  <datafield ind2="3" ind1="1" tag="245">
+    <subfield code="a">El papel de las pruebas nacionales en la problemática de la educación matemática: análisis de las perspectivas de los grupos responsables de su conducción /</subfield>
+    <subfield code="c">Ileana Contreras Montes de Oca</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2003</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">páginas 115-133</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">En el artículo se analizan las perspectivas de los grupos responsables de la conducción de la educación de las matemáticas del país, en el nivel secundario, respecto al papel que han tenido las pruebas nacionales en su problemática actual. La identificación de tales perspectivas se obtuvo como producto de un trabajo de investigación cuyo objetivo inicial no incluyó a las pruebas nacionales como categoria de estudio, pero en el que el papel de éstas aparece como un factor relacionado con la problemática analizada. Se describe brevemente el trabajo de investigación que  generó los resultados objeto de examen. El análisis se realiza utilizando como referente los estudios y posiciones emitidas en otros contextos, respecto a la utilización de pruebas nacionales y al empleo de modelos de evaluación similares al nuestro. Se señalan algunas fortalezas y debilidades del uso de las pruebas nacionales y se anotan algunas recomendaciones que se derivan del trabajo</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " tag="773" ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0190</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.27, no.1  (2003)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2843</subfield>
+    <subfield code="d">2843</subfield>
+  </datafield>
+</record>

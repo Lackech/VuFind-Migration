@@ -1,0 +1,72 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01117nam a2200241Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">1449</subfield>
+    <subfield code="d">1449</subfield>
+  </datafield>
+  <controlfield tag="008">171024b2006    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">06.02.01  </subfield>
+    <subfield code="b">1512</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="a">Castro Bonilla, Julieta</subfield>
+    <subfield code="9">1082</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Procesos de capacitación en diversas áreas del conocimiento, una oferta académica para el Ministerio de Educación Pública /  </subfield>
+    <subfield code="c">Julieta Castro Bonilla, Rafael Arce Mesén, Francisco Javier Solano Mata, Carmela Velásquez Bonilla, Virginia Solís Alvarado, Carmen Frías Quesada, Victoria González García, María Marta Camacho Álvarez</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">[San José, Costa Rica] : </subfield>
+    <subfield code="b">INIE,  </subfield>
+    <subfield code="c">2006</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">180 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="500">
+    <subfield code="a">Proyecto de Acción Social ED-1941</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">CAPACITACIÓN</subfield>
+    <subfield code="9">729</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">CONOCIMIENTO</subfield>
+    <subfield code="9">42</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="9">3251</subfield>
+    <subfield code="a">Arce Mesén, Rafael</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="9">3252</subfield>
+    <subfield code="a">Solano Mata, Francisco Javier</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">3253</subfield>
+    <subfield code="a">Velásquez Bonilla, Carmela</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">3254</subfield>
+    <subfield code="a">Solís Alvarado, Virginia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2=" ">
+    <subfield code="a">Frías Quesada, Carmen María</subfield>
+    <subfield code="9">2158</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="9">1890</subfield>
+    <subfield code="a">González García, Victoria</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">3255</subfield>
+    <subfield code="a">Camacho Álvarez, María Marta</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

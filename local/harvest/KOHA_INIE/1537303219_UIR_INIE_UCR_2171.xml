@@ -1,0 +1,45 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00640nam a2200157Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2171</subfield>
+    <subfield code="d">2171</subfield>
+  </datafield>
+  <controlfield tag="008">180713b1999    ck ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">14.06.01 </subfield>
+    <subfield code="b">1686</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="110">
+    <subfield code="a">Fondo de las Naciones Unidas para la Infancia (UNICEF)</subfield>
+    <subfield code="9">4026</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Mortalidad Materna: estrategia para su reducción en América Latina y el Caribe. Análisis y recomendaciones para la región / </subfield>
+    <subfield code="c">Fondo de las Naciones Unidas para la Infancia (UNICEF)</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">Colombia : </subfield>
+    <subfield code="b">UNICEF, </subfield>
+    <subfield code="c">1999</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">47 páginas</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">MORTALIDAD MATERNA</subfield>
+    <subfield code="9">4046</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">DERECHOS HUMANOS</subfield>
+    <subfield code="9">588</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="651">
+    <subfield code="9">4013</subfield>
+    <subfield code="a">AMÉRICA LATINA Y EL CARIBE </subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

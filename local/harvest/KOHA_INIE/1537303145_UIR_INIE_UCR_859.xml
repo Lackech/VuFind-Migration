@@ -1,0 +1,84 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01114nam a2200277Ia 4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">859</subfield>
+    <subfield code="d">859</subfield>
+  </datafield>
+  <controlfield tag="008">170125b1999    cr a|||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="020" ind2=" ">
+    <subfield code="a">9968786152</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">04.02.03 </subfield>
+    <subfield code="b">2000</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="a">Rodríguez, Guiselle</subfield>
+    <subfield code="9">2318</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Tomándole el pulso al género: sistemas de monitoreo y evaluación sensibles a género / </subfield>
+    <subfield code="c">Guiselle Rodríguez; Narda Meléndez; Emma Velázquez; María Alcia Fuentes con la colaboración de Lorena Aguilar; Francisco Azofeifa; Dina Rosales y Lizette Montoya</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Unión Mundial para la Naturaleza, </subfield>
+    <subfield code="c">1999</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">48 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="490" ind1=" ">
+    <subfield code="a">Serie hacia la equidad, </subfield>
+    <subfield code="v">4</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a"> IGUALDAD DE OPORTUNIDADES</subfield>
+    <subfield code="9">952</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">EVALUACIÓN DE PROYECTOS</subfield>
+    <subfield code="9">950</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">DESARROLLO  SOSTENIBLE</subfield>
+    <subfield code="9">443</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">EQUIDAD DE GÉNERO</subfield>
+    <subfield code="9">420</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="a">Meléndez, Narda</subfield>
+    <subfield code="9">2319</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="a">Aguilar, Lorena</subfield>
+    <subfield code="9">2293</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="a">Velázquez, Emma</subfield>
+    <subfield code="9">2320</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="a">Fuentes, María Alcia</subfield>
+    <subfield code="9">2321</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="a">Azofeifa, Francisco</subfield>
+    <subfield code="9">2324</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="a">Rosales, Dina</subfield>
+    <subfield code="9">2325</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="a">Montoya, Lizette</subfield>
+    <subfield code="9">2326</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

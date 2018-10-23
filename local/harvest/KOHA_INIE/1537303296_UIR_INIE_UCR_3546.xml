@@ -1,0 +1,55 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00723nam a2200193   4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">3546</subfield>
+    <subfield code="d">3546</subfield>
+  </datafield>
+  <controlfield tag="008">180716b2017    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9789972841279</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">13.09.09</subfield>
+    <subfield code="b">2488</subfield>
+  </datafield>
+  <datafield ind2=" " tag="110" ind1=" ">
+    <subfield code="9">4067</subfield>
+    <subfield code="a">Perú. Ministerio de Educación</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Necesidades formativas y condiciones institucionales en un grupo de docentes y directivos en el Perú /</subfield>
+    <subfield code="c">Ministerio de Educación</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">Lima, Perú :</subfield>
+    <subfield code="b">Ministerio de Educación, UNESCO,</subfield>
+    <subfield code="c">2017</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">79 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="490" ind2=" ">
+    <subfield code="a">Aportes para la reflexión y construcción de políticas docentes /</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">331</subfield>
+    <subfield code="a">DOCENTES</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">778</subfield>
+    <subfield code="a">CONDICIONES DE TRABAJO</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1928</subfield>
+    <subfield code="a">SITUACIÓN DE LOS DOCENTES</subfield>
+  </datafield>
+  <datafield ind1=" " tag="651" ind2="4">
+    <subfield code="9">1736</subfield>
+    <subfield code="a">PERÚ</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

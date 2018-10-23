@@ -1,0 +1,61 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02671nab a2200205   4500</leader>
+  <controlfield tag="005">20160422144741.0</controlfield>
+  <controlfield tag="008">160422b2011    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">1606</subfield>
+    <subfield code="a">Serrano- Guzmán, María E.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="3">
+    <subfield code="a">La investigación como estrategia pedagógica del proceso de aprendizaje para ingeniería civil /</subfield>
+    <subfield code="c">María E. Serrano- Guzmán,  Norma C. Solarte- Vanegas, Diego Darío Pérez-Ruíz, Álvaro Pérez- Ruiz</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2011</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">páginas 13 - 31</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">Los avances tecnológicos y científicos han generado cambios en los modelos de enseñanza al interior de las instituciones de educación superior (IES). Las IES, manteniendo su autonomía y siguiendo los estándares establecidos por el Ministerio de Educación Nacional en Colombia, están incorporando técnicas y procesos de enseñanza que mejoran el aprendizaje y permiten el fortalecimiento de competencias, las cuales, aunque están implícitas en los distintos programas, en ocasiones no se potencializan y dificultan que el profesional formado responda a las necesidades del mercado.
+Atendiendo el requerimiento de cambio en el proceso de formación, el Sistema Nacional Universitario de la Universidad Pontificia Bolivariana he definido un Modelo Pedagógico Integrado (MPI) con el cual se establece una pedagogía participativa centrada en el estudiante y en la autonomía en el aprendizaje, aprovechando las posibilidades para la formación de valores.
+  En este artículo se presentan los resultados obtenidos luego de implementar el MPI para la asignatura de Materiales de Construcción de la Facultad de Ingeniería Civil de la Universidad Pontificia Bolivariana, para lo cual se requirio incorporar nuevas estrategias de enseñanza, rompiendo con los esquemas tradicionales de tres quinquenios del programa.
+La muestra evaluada mostró como resultado el afianzamiento y apropiación de los conocimientos teóricos y permitió a los estudiantes responder de manera acertada en la solución de problemas reales, propios del ejercicio profesional. Adicionalmente, los estudiantes involucrados en el MPI han mostrado una mayor capacidad de análisis y un mejoramiento en las destrezas comunicativas oral y escrita.</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="9">1607</subfield>
+    <subfield code="a">Solarte- Vanegas, Norma C</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">1609</subfield>
+    <subfield code="a">Pérez- Ruiz, Álvaro</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">1608</subfield>
+    <subfield code="a">Pérez-Ruíz, Diego Darío</subfield>
+  </datafield>
+  <datafield tag="773" ind1="0" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0624</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.35, no.2 (jul.-dic.,2011)</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3150</subfield>
+    <subfield code="d">3150</subfield>
+  </datafield>
+</record>

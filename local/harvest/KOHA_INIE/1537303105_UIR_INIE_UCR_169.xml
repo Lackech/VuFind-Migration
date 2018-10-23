@@ -1,0 +1,58 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00635nam a2200193Ia 4500</leader>
+  <controlfield tag="008">150803b1999    sp ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="020" ind2=" " ind1=" ">
+    <subfield code="a">8427712715</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">371.822 </subfield>
+    <subfield code="b">N717n </subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Niñas, mujeres y superdotación : un desafío a la discriminación educativa de las mujeres / </subfield>
+    <subfield code="c">Julie Ellis, ed.; John Willinsky, ed.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid :</subfield>
+    <subfield code="b">NARCEA, </subfield>
+    <subfield code="c">[1999]</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">253 páginas</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">EDUCACIÓN DE LA MUJER </subfield>
+    <subfield code="9">390</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">DISCRIMINACIÓN </subfield>
+    <subfield code="9">667</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">NIÑAS</subfield>
+    <subfield code="9">60</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">TALENTO</subfield>
+    <subfield code="9">668</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Ellis, Julie</subfield>
+    <subfield code="9">669</subfield>
+    <subfield code="e">Editor</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Willinsky, John</subfield>
+    <subfield code="9">670</subfield>
+    <subfield code="e">Editor</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">169</subfield>
+    <subfield code="d">169</subfield>
+  </datafield>
+</record>

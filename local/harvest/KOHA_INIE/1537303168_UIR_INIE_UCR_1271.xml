@@ -1,0 +1,51 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02537nam a2200181Ia 4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">1271</subfield>
+    <subfield code="d">1271</subfield>
+  </datafield>
+  <controlfield tag="008">170222b2001    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">04.01.02 </subfield>
+    <subfield code="b">987</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="a">Aguilar Cruz, Vera</subfield>
+    <subfield code="9">2479</subfield>
+  </datafield>
+  <datafield ind2="3" ind1="1" tag="245">
+    <subfield code="a">La violencia simbólica entretejida en la enseñanza del derecho penal en la Universidad de Costa Rica / </subfield>
+    <subfield code="c">Vera Aguilar Cruz, Alicia Gurdián Fernández</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">2001</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">84 página</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="500">
+    <subfield code="a">Informe Final del Proyecto de Investigación N° 724-99-328</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">Investigación que propone como objetivo central  la construcción del concepto violencia simbólica ejercida sobre el género femenino (vsgf), con el fin de "visibilizar" la práctica de subordinación-dominio dirigida hacia la mujer, específicamente en el proceso enseñanza-aprendizaje del Derecho Penal en la Universidad de Costa Rica.  Esto para evidenciar el problema y para fomentar una política educativa universitaria fundamentada en la equidad de los géneros. Para conseguir el objetivo central, la investigadora realizó un análisis de los antecedentes históricos del Derecho en los que se basa el ordenamiento jurídico occidental (Código de Hammurabi, las Leyes de Manú, las de los Patriarcas Hebreos y las de la época feudal hasta el siglo XIX), para determinar cómo estos códigos legales se fundamentaron en una lógica patriarcal (justificada por la normalidad) que subordina lo femenino. De igual forma, realiza un estudio sobre los inicios del pensamiento filosófico en la Antigüedad y la construcción del logos o discurso (instrumento racional interpretativo del acontecer en la realidad), creado por los hombres desde la perspectiva de la superioridad masculina, el cual produce y reproduce la estructura de dominación masculina con respecto de la subordinación femenina. Lo anterior para plantear que el discurso jurídico penal obedece a una historia y a una serie de parámetros creados por una lógica racional del dominio masculino (andro-logocentrista) que discrimina y excluye lo femenino de la construcción de los distintos órdenes simbólicos. Esta práctica se extiende hasta nuestros días por medio del aparato escolar (espacio que establece las normas de comunicación) y el lenguaje, pues ambos reproducen el conjunto de representaciones simbólico socioculturales que legitiman la dominación masculina y  constituyen la vsgf.</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">406</subfield>
+    <subfield code="a">DERECHO PENAL</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">ENSEÑANZA</subfield>
+    <subfield code="9">14</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="a">Gurdián Fernández, Alicia</subfield>
+    <subfield code="9">169</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

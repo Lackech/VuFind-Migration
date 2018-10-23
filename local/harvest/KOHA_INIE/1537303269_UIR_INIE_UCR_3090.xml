@@ -1,0 +1,57 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01102nam a22002177a 4500</leader>
+  <controlfield tag="008">160229bs.f.cr  xxu||||| |||| |0| 0 spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">CD #264</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Nosotras en la ciencia y la tecnología</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">[San Jose, Costa Rica] :</subfield>
+    <subfield code="b">Canal 15 UCR. Vicerrectoriá de Acción Social, Universidad de Costa Rica,</subfield>
+    <subfield code="c">s.f.</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">3 Videodiscos;</subfield>
+    <subfield code="b">sonoro</subfield>
+  </datafield>
+  <datafield tag="505" ind2=" " ind1=" ">
+    <subfield code="a">Gabriela Calvo Vargas, Máster en geología.</subfield>
+  </datafield>
+  <datafield ind1=" " tag="505" ind2=" ">
+    <subfield code="a">Paola Vega Castillo, Doctora en microelectrónica.</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="505">
+    <subfield code="a">Henriette Raventós Vorst, Doctora en psiquiatría.</subfield>
+  </datafield>
+  <datafield ind2=" " tag="505" ind1=" ">
+    <subfield code="a">Lizbeth Salazar Sánchez, Doctora en ciencias médicas.</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="505">
+    <subfield code="a">Arys Indira Carrasquilla Batista, Máster en computación.</subfield>
+  </datafield>
+  <datafield ind1=" " tag="505" ind2=" ">
+    <subfield code="a">Linda Marie Sjöbohm Castillo, Bachiller en geología.</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">Mujeres originarias, que desde la prehistoria fueron creadoras de ciencia y tecnología.  Comprendieron la naturaleza y desarrollaron conocimientos sobre química, física y botánica.  De ellas también heredamos esta sabiduría.</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">55</subfield>
+    <subfield code="a">MUJERES</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">37</subfield>
+    <subfield code="a">CIENCIA Y TECNOLOGÍA </subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">08</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">3090</subfield>
+    <subfield code="d">3090</subfield>
+  </datafield>
+</record>

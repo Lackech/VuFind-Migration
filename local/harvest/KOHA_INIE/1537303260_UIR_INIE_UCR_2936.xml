@@ -1,0 +1,47 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01941nab a22001697a 4500</leader>
+  <controlfield tag="005">20160331133847.0</controlfield>
+  <controlfield tag="008">151105b2005    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">1179</subfield>
+    <subfield code="a">Roldán Santamaría, Leda María</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Elementos para evaluar planes de estudio en la educación superior /</subfield>
+    <subfield code="c">Leda María Roldán Santamaría</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2005</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">páginas 111-123</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">Este artículo presenta los lineamientos para generar una propuesta de evaluación curricular de un plan de estudios en el ámbito de la educación universitaria. Identifica la importancia que tiene este proceso para la institución con el fin de analizar las debilidades y fortalezas, con miras a la toma de desiciones para su actualización. En la propuesta se responde el por qué y para qué se debe evaluar; los beneficios que los usuarios recibirán de esa actualización; la concreción de elementos del plan de estudios por evaluar; la definición de las variables que se aplicarán en la evaluación de los elementos externos e internos. Se proponen cuáles son los sectores sociales que deben involucrarse en dicha evaluación; se analiza el momento adecuado para realizar la evaluación y cada cuanto debe aplicarse, se establece un plan estratégico para aplicar la evaluación y se presentan las sugerencias de los usos que se le pueda dar a la información recopilada con la evaluación.
+Evaluar un plan de estudios permite descubrir las necesidades de cambio de los planes de estudio; el establecimiento de los lineamientos para su actualización y el tiempo en que se debe cumplir con la misma para que el plan no pierda vigencia</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " tag="773" ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0300</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.29, no.1 (2005)</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2936</subfield>
+    <subfield code="d">2936</subfield>
+  </datafield>
+</record>

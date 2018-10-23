@@ -1,0 +1,66 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01547nam a2200229   4500</leader>
+  <controlfield tag="008">150811b2006    m  ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="022" ind1=" ">
+    <subfield code="a">0185-2698</subfield>
+  </datafield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">06.02.01 </subfield>
+    <subfield code="b">1909</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Perfiles educativos. Tercera época</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">México :</subfield>
+    <subfield code="b">Instituto de Investigaciones sobre la Universidad y la Educación,</subfield>
+    <subfield code="c">2006</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">198 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Vol.28, no.114, 2006</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="505">
+    <subfield code="r">Antonio Luzón; Mónica Torres</subfield>
+    <subfield code="t">La historia de la educación en los estudios de educación en Europa: una visión comparada </subfield>
+  </datafield>
+  <datafield ind1=" " tag="505" ind2=" ">
+    <subfield code="r">Antonio Padilla Arroyo</subfield>
+    <subfield code="t">Academias de preceptores en el Estado de México: espacios de construcción del saber pedagógico en el Porfiriato </subfield>
+  </datafield>
+  <datafield ind2=" " tag="505" ind1=" ">
+    <subfield code="r">Mayra García-Ruiz; Beatriz Sánchez Hernández</subfield>
+    <subfield code="t">Las actitudes relacionadas con las ciencias naturales y sus repercusiones en la práctica docente de profesores de primaria </subfield>
+  </datafield>
+  <datafield ind2=" " tag="505" ind1=" ">
+    <subfield code="r">Juan Carlos Silas Casillas</subfield>
+    <subfield code="t">Aportaciones de la teoría de la autopoiesis al análisis organizacional de las instituciones de educación superior </subfield>
+  </datafield>
+  <datafield ind2=" " tag="505" ind1=" ">
+    <subfield code="r">Carmen Peme-Aranega; Ana Lía de Longhi; María Elena Baquero; Vicente Mellado; Constantino Ruiz</subfield>
+    <subfield code="t">Creencias explícitas e implícitas, sobre la ciencia y su enseñanza y aprendizaje, de una profesora de química de secundaria </subfield>
+  </datafield>
+  <datafield tag="505" ind1=" " ind2=" ">
+    <subfield code="r">Marta García Lastra</subfield>
+    <subfield code="t">Política y mundo universitario: algunos datos sobre la cultura política del alumnado de la Universidad de Cantabria (España) </subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">8</subfield>
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">3</subfield>
+    <subfield code="a">PUBLICACIONES PERIÓDICAS</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">03</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">2799</subfield>
+    <subfield code="d">2799</subfield>
+  </datafield>
+</record>

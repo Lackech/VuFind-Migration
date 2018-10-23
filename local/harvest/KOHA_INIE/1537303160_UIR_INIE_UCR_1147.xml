@@ -1,0 +1,51 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02689nam a2200181Ia 4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">1147</subfield>
+    <subfield code="d">1147</subfield>
+  </datafield>
+  <controlfield tag="008">170313b2004    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">06.06.02 </subfield>
+    <subfield code="b">992</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="a">Venegas Renauld, María Eugenia</subfield>
+    <subfield code="9">560</subfield>
+  </datafield>
+  <datafield ind2="3" ind1="1" tag="245">
+    <subfield code="a">El concepto formación en la Ley Fundamental de Educación de Costa Rica y en sus raíces en el pensamiento pedagógico de Occidente / </subfield>
+    <subfield code="c">Ma. Eugenia Venegas Renauld</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2004</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">326 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="500" ind2=" ">
+    <subfield code="a">Informe final del Proyecto de Investigación: 724-A2-185</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">A mediados del siglo XX, Costa Rica asume uno de los cambios más significativos de su historia educativa y social. Su desarrollo económico y demográfico, la evolución política y la expansión del sistema institucional indujeron la creación de la Ley Fundamental de Educación de Costa Rica durante 1957 y 1958. El propósito de este informe es presentar una investigación crítico-epistémica de los referentes filosóficos, pedagógicos, sociales, metodológicos, políticos y antropológicos del concepto "formación" que se encuentra en esta Ley. Dicha legislación expone el concepto y las raíces pedagógicas de Occidente y las analiza de acuerdo con el pensamiento educativo costarricense. Asimismo desarrolla el marco filosófico y político de la educación junto con el marco axiológico y epistemológico del sistema educativo. Esta memoria desarrolla diez capítulos que comprenden las lógicas discursivas, conceptuales, antropológicas y la dimensión cultural y sociológica de los procesos de formación en el marco de las estructuras de pensamiento. Además, se exponen los términos, la evolución, los principios teóricos y los orígenes educativos en relación con el término "formación". Su metodología describe la naturaleza, el carácter científico y los problemas de la investigación, y se analiza el avance de la formación en el pensamiento pedagógico de Occidente. Otro tema de investigación observa el desarrollo del concepto "formación" en el ámbito educativo costarricense de la primera mitad del siglo XX: la capacitación docente y el pensamiento educativo que representan las influencias de la psicología conductista. Finalmente, se manifiesta que esta ley no realiza la elaboración de la individualidad; aunque la idea de formación personal sí estuvo en sus objetivos, no desarrolla plenamente la noción de personalidad. Por lo tanto, este informe plantea la necesidad de la formación humana y su soporte cultural para elaborar una nueva ley de educación costarricense. </subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">FORMACIÓN DE DOCENTES</subfield>
+    <subfield code="9">9</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">LEGISLACIÓN</subfield>
+    <subfield code="9">45</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

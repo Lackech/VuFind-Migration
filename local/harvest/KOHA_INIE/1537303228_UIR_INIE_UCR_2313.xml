@@ -1,0 +1,54 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01987nam a2200193Ia 4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">2313</subfield>
+    <subfield code="d">2313</subfield>
+  </datafield>
+  <controlfield tag="008">180905b1999    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">18.09.01 </subfield>
+    <subfield code="b">60</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="100">
+    <subfield code="a">Vindas Lara, Andrea</subfield>
+    <subfield code="9">2830</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Elaboración de una propuesta metodológica para la selección de estudiantes para las pruebas a nivel nacional de los diferentes proyectos que contiene el  programa de pruebas del IIMEC /</subfield>
+    <subfield code="c">Andrea Vindas Lara</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1999</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">51 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="500">
+    <subfield code="a">Informe final proyecto de investigación  #724-95-535</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">Este informe de investigación presenta una propuesta metodológica, cuyo fin es normalizar no sólo el diseño muestral, sino también la selección de marcos muestrales (grupos de estudiantes) que realizarán las pruebas nacionales que se llevan a cabo en los diferentes proyectos del I.I.M.EC. La propuesta consiste en dotar al I.I.M.E.C. con programas de cómputo que lean y organicen la base de datos (tomados de información oficial suministrada por el Ministerio de Educación Pública) sobre la matrícula de todas y cada una de las instituciones públicas, privadas y subvencionadas de primaria y secundaria del país, así como sobre las distintas regiones educativas (provincia, cantón, distrito o poblado). En la elaboración del proyecto trabajaron expertos en estadística y expertos en el área sustantiva del estudio, y se puso en marcha en marzo del año 1995 con la prueba diagnóstico de conocimientos para estudiantes de primer ingreso a la Educación General Básica y con la prueba diagnóstico de conocimientos en el nivel nacional en las cuatro materias básicas para tercero, sexto y noveno años, así como con sus respectivas pruebas de seguimiento en el mismo año. El mismo procedimiento se revisó y aplicó para las pruebas del año 1996.</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">PRUEBAS</subfield>
+    <subfield code="9">629</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">SELECCIÓN DE ALUMNOS</subfield>
+    <subfield code="9">4197</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+  </datafield>
+</record>

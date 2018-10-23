@@ -1,0 +1,50 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02028nab a2200181   4500</leader>
+  <controlfield tag="005">20160331155144.0</controlfield>
+  <controlfield tag="008">160126b2009    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">1324</subfield>
+    <subfield code="a">Alvarado Hernández, Victor Manuel</subfield>
+  </datafield>
+  <datafield ind2="3" ind1="1" tag="245">
+    <subfield code="a">La conformación de la antropoética a través de la tutoría académica en educación superior (el caso del posgrado) /</subfield>
+    <subfield code="c">Victor Manuel Alvarado Hernández, Martín Manjarrez Betancourt</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2009</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">páginas 167-176</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">Actualmente hablar de violencia, guerra, terrorismo, cambios climáticos, daño ecológicos y deterioro social, es hablar de una crisis generalizada de la humanidad. Con la Globalización ocurrió la pérdida de valores humanos, debido a la hegemonía del mercado, la tecnología y la informatica.  En la actualidad, se deben conciliar la materia y el espíritu, la naturaleza y la cultura, la ciencia y las humanidades, para propiciar un reencuentro entre la tecnología y el ser humano, integrando la memoria y el proyecto histórico, así como el futuro. En esto consiste el reto de la educación contemporánea, por ello, es necesario articular un nuevo paradigma para la educación: la antropóetica. En este trabajo se expone el proceso de conformación de la antropoética, sus conceptos y las nociones de conformación, complejidad, tutoría académica y capital cultural. Se selecciona la estrategía institucional de la tutoría académica y el escenario de la educación superior, especificamente el posgrado, porque en ese nivel de la formación se generan diversas líneas de investigación y conocimiento que derivan en prácticas de aprendizaje para los demás niveles educativos</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">1325</subfield>
+    <subfield code="a">Manjarrez Betancourt, Martín</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0311</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.33, no.1 (2009)</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3032</subfield>
+    <subfield code="d">3032</subfield>
+  </datafield>
+</record>

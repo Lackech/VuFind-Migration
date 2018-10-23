@@ -1,0 +1,51 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02044nab a22001937a 4500</leader>
+  <controlfield tag="003">cru INIE</controlfield>
+  <controlfield tag="005">20170826062551.0</controlfield>
+  <controlfield tag="008">150521b1997    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">98</subfield>
+    <subfield code="a">Sandí Esquivel, Luis</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Comportamiento general y consumo de drogas en estudiantes de alto riesgo /</subfield>
+    <subfield code="c">Luis Sandí Esquivel, Alicia Díaz A.</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Universidad de Costa Rica,</subfield>
+    <subfield code="c">1997</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">páginas 73-80</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">Con el objeto de estudiar el comportamiento general de adolescentes de alto riesgo para el consumo de drogas se evaluaron 162 estudiantes con problemas académicos y de conducta, según criterio de los docentes, para establecer comparaciones con respecto a los estudiantes sin esos problemas. Sus edades estaban comprendidas entre 12 y 19 años, con un promedio de 14,6 (D.E.=1,5). Para obtener la información se utilizó el Drug Use Screening Inventory en su versión latinoamericana, el cual permite evaluar el consumo de drogas y las áreas de funcionamiento del sujeto. Con base en las mismas preguntas del instrumento se elaboraron cuatro escalas para medir rebeldía, depresión, psicosis y ansiedad. Se encontró un mayor consumo de drogas en los estudiantes de alto riesgo, tanto de alcohol y tabaco como de las drogas ilícitas en general. La droga preferida fue la marihuana. Todas las áreas de funcionamiento estaban afectadas en los estudiantes de alto riesgo y la mayoría presentaba transtornos psicopatológicos. Esto se presentó con más frecuencia en las mujeres que en los varones. Se concluye la importancia de detectar e intervenir tempranamente a la población de alto riesgo estudiantil, así como redoblar los esfuerzos en las estrategias preventivas dirigidas a esta población.</subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2="0">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="700">
+    <subfield code="9">99</subfield>
+    <subfield code="a">Díaz A., Alicia</subfield>
+  </datafield>
+  <datafield ind1="0" tag="773" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0019</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.21, no.2 (1997)</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2583</subfield>
+    <subfield code="d">2583</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,65 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00882nam a2200217   4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">3533</subfield>
+    <subfield code="d">3533</subfield>
+  </datafield>
+  <controlfield tag="008">180702b2014    a  a|||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="020" ind2=" ">
+    <subfield code="a">9789500010481</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">06.03.07</subfield>
+    <subfield code="b">2459</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1=" ">
+    <subfield code="9">3876</subfield>
+    <subfield code="a">Díaz, Laura Gabriela</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Alimentos: Historia, presente y futuro /</subfield>
+    <subfield code="c">Laura Gabriela Díaz, Patricia Graciela Tarifa, Susana Oliveira, Flavia Lorena Gerje, María Belén Benítez, Patricia Haydeé Ercoli</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">[Buenos Aires, Argentina] :</subfield>
+    <subfield code="b">Ministerio de Educación de la Nación,</subfield>
+    <subfield code="c">[2014]</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">199 páginas;</subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield ind2=" " tag="490" ind1=" ">
+    <subfield code="a">Escritura en ciencias,</subfield>
+    <subfield code="v">16</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">996</subfield>
+    <subfield code="a">ENSEÑANZA DE LAS CIENCIAS </subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1=" ">
+    <subfield code="9">3877</subfield>
+    <subfield code="a">Tarifa, Patricia Graciela</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="700">
+    <subfield code="9">3878</subfield>
+    <subfield code="a">Oliveira, Susana </subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2=" ">
+    <subfield code="9">3879</subfield>
+    <subfield code="a">Gerje, Flavia Lorena </subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1=" ">
+    <subfield code="9">3880</subfield>
+    <subfield code="a">Benítez, María Belén </subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="700">
+    <subfield code="9">3881</subfield>
+    <subfield code="a">Ercoli, Patricia Haydeé </subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,71 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02295nam a2200241Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2257</subfield>
+    <subfield code="d">2257</subfield>
+  </datafield>
+  <controlfield tag="008">180706b1983    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">18.08.00 </subfield>
+    <subfield code="b">39</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="a">Esquivel Alfaro, Juan Manuel</subfield>
+    <subfield code="9">157</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Diagnóstico evaluativo de la enseñanza de la matemática en la educación general básica y educación diversificada / </subfield>
+    <subfield code="c">Juan Manuel Esquivel Alfaro,  Vilma Delgado Estrada, Teresita Peralta Monge</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica. : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1983</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">391 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Informe final de proyecto</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">En esta investigación se plantea un modelo de diagnóstico evaluativo que integra, principalmente, las concepciones de modelos de evaluación de Stuffeabeam, Alkin y Gurdián. El propósito de estos modelos es facilitar la información a los responsables de tomar decisiones, pues se determinan las áreas que mayor problema presentan. En el proceso evaluativo que se da en este estudio están incluidos sujetos que se relacionan con el proceso de enseñanza – aprendizaje. El estudio pretende identificar y visualizar la realidad de la enseñanza de la matemática tomando como elementos del mismo: la situación laboral y académica de los maestros y profesores de matemática; la actitud hacia la matemática y su enseñanza por parte de alumnos, maestros y profesores; el tipo de asesoramiento que se da, las características de la metodología y la evaluación que se aplica en la enseñanza de la matemática. Así mismo, se determinan las características curriculares de los planes de formación de los docentes. Se presenta la influencia de los recursos administrativos y de la contribución de los padres de familia, a través de la Junta Administrativa y Asociaciones, en la enseñanza de la matemática. También se estudia la relación del currículo con la realidad nacional. Además de las variables mencionadas se determina diferencias entre algunas variables por región y tipo de escuela y colegio.</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">MATEMÁTICAS  </subfield>
+    <subfield code="9">482</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">ENSEÑANZA</subfield>
+    <subfield code="9">14</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">DIAGNÓSTICO</subfield>
+    <subfield code="9">632</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">EVALUACIÓN </subfield>
+    <subfield code="9">287</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">EDUCACION GENERAL</subfield>
+    <subfield code="9">3913</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">EDUCACIÓN SECUNDARIA</subfield>
+    <subfield code="9">456</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1=" ">
+    <subfield code="a">Delgado Estrada, Vilma</subfield>
+    <subfield code="9">1569</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="a">Peralta Monge, Teresita</subfield>
+    <subfield code="9">121</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

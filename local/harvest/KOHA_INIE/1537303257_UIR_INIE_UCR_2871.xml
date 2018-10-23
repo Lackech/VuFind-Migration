@@ -1,0 +1,78 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01688nam a2200265   4500</leader>
+  <controlfield tag="008">150914b2010    MX ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="022" ind1=" ">
+    <subfield code="a">0185-2698</subfield>
+  </datafield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">06.02.01</subfield>
+    <subfield code="b">1909</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Perfiles educativos. Tercera época</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">México :</subfield>
+    <subfield code="b">Instituto de Investigaciones sobre la Universidad y la Educación. UNAM,</subfield>
+    <subfield code="c">2010</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">volúmenes</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Vol.32, no.129, 2010</subfield>
+  </datafield>
+  <datafield ind2=" " tag="505" ind1=" ">
+    <subfield code="r">Imanol Ordorika; Roberto Rodríguez Gómez</subfield>
+    <subfield code="t">El ranking times en el mercado del prestigio universitario /</subfield>
+  </datafield>
+  <datafield ind1=" " tag="505" ind2=" ">
+    <subfield code="r">María Leonor Conejeros S.; Jorge Rojas H.; Teresa Segure M.</subfield>
+    <subfield code="t">Confianza: un valor necesario y ausente en la educación chilena /</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="505">
+    <subfield code="r">Noah W. Sobe</subfield>
+    <subfield code="t">Movilidad, modernización y relaciones eslavas: la educación yuguslava durante las décadas de 1920 y 1930 /</subfield>
+  </datafield>
+  <datafield tag="505" ind2=" " ind1=" ">
+    <subfield code="r">Josefina Granja Castro</subfield>
+    <subfield code="t">Procesos de escolarización en los inicios del siglo XX: la instrucción rudimentaria en México /</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="505">
+    <subfield code="r">Ernesto Villanueva</subfield>
+    <subfield code="t">Perspectivas de la educacións uperior en América Latina: construyendo futuros /</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="505">
+    <subfield code="r">Porfirio Morán Oviedo</subfield>
+    <subfield code="t">Aproximaciones teórico-metodológicas en torno al uso del portafolio como estrategia de evaluación del alumno en la práctica docente: experiencia en un curso de laboratorio de didáctica en la docencia universitaria /</subfield>
+  </datafield>
+  <datafield ind1=" " tag="505" ind2=" ">
+    <subfield code="r">Célica Esther Cánovas Marmo</subfield>
+    <subfield code="t">Sugerencias teóricas para una tesis doctoral sobre un taller virtual de creación literaria /</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="505">
+    <subfield code="r">María Esther Aguirre Lora</subfield>
+    <subfield code="t">Pedagogías en movimiento: viajes en tres tiempos /</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">7</subfield>
+    <subfield code="a">REFORMA DE LA EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">3</subfield>
+    <subfield code="a">PUBLICACIONES PERIÓDICAS</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">03</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2871</subfield>
+    <subfield code="d">2871</subfield>
+  </datafield>
+</record>

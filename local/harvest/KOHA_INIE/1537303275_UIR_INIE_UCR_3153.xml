@@ -1,0 +1,46 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01336nab a2200169   4500</leader>
+  <controlfield tag="005">20180612062618.0</controlfield>
+  <controlfield tag="008">160422b2011    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="a">Araya Ramírez , Jéssica</subfield>
+    <subfield code="9">1610</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Pautas metodológicas en el abordaje de la oralidad en la escuela primaria costarricense /</subfield>
+    <subfield code="c">Jéssica Ramírez Araya </subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2011</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">páginas 33 - 49</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">En el presente artículo se describen una serie de pautas metodológicas para el aprendizaje graduado y sistematizado de la expresión oral en escolares, las cuales se plantean a partir de los resultados obtenidos por Araya (2011) en el desarrollo de la investigación denominada "La competencia en la expresión oral de escolares en Costa Rica. El componente léxico". En esta se describe el vocabulario en cuanto a diversidad y precisión en relación con la producción de textos orales narrativos y explicativos en el plano oral, en el cual se presentó un comportamiento poco evolutivo sobre el desarrollo del léxico.</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind2=" " ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0624</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.35, no.2 (jul.-dic.,2011)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">3153</subfield>
+    <subfield code="d">3153</subfield>
+  </datafield>
+</record>

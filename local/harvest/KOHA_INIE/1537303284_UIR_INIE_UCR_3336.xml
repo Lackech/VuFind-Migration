@@ -1,0 +1,50 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00563nam a2200169   4500</leader>
+  <controlfield tag="008">161011bsf      cr a|||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">05.02.02</subfield>
+    <subfield code="b">2389</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="2" tag="110">
+    <subfield code="9">545</subfield>
+    <subfield code="a">Costa Rica. Ministerio de Educación Pública</subfield>
+  </datafield>
+  <datafield ind2="3" tag="245" ind1="1">
+    <subfield code="a">La unidad de lo diverso</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">[San José, Costa Rica ] :</subfield>
+    <subfield code="b">MEP,</subfield>
+    <subfield code="c">[Fecha de publicación no identificada]</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">64 páginas;</subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">480</subfield>
+    <subfield code="a">IDENTIDAD CULTURAL</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">829</subfield>
+    <subfield code="a">DIVERSIDAD CULTURAL</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="4">
+    <subfield code="9">47</subfield>
+    <subfield code="a">COSTA RICA</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="700">
+    <subfield code="9">2066</subfield>
+    <subfield code="a">Muñoz, Dilcia</subfield>
+    <subfield code="e">ilustrador/a</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">3336</subfield>
+    <subfield code="d">3336</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,47 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01254nab a22001697a 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2715</subfield>
+    <subfield code="d">2715</subfield>
+  </datafield>
+  <controlfield tag="005">20170826062624.0</controlfield>
+  <controlfield tag="008">150701b2001    xxuf|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">104</subfield>
+    <subfield code="a">Tabash Blanco, Nayibe</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="3" tag="245">
+    <subfield code="a">La adecuación curricular en matemática /</subfield>
+    <subfield code="c">Nayibe Tabash Blanco</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2001</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">páginas 67-80</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">La temática acerca de la adecuación curricular es de gran interés para los profesionales de la Educación. El reto de lograr aprendizajes que atiendan la individualidad en los estudiantes, pone de manifiesto la necesidad de que dichos aprendizajes sean significativos, lo cual implica necesariamente procesos de contextualización y docentes capaces de desarrollar un currículo de manera creativa y asumiendo el rol de investigadores en su accionar  cotidiano.
+El presente artículo trata de dar a conocer la forma en que la adecuación curricular puede verse desde una óptica institucional e individual</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind2=" " ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0054</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.25, no.1  (2001)</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+</record>

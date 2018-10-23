@@ -1,0 +1,35 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00362nam a2200133Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">1182</subfield>
+    <subfield code="d">1182</subfield>
+  </datafield>
+  <controlfield tag="008">170403b1985    us ||||| |||| 00| | e   d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">461 </subfield>
+    <subfield code="b">A257a</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Afflerbach, Peter</subfield>
+    <subfield code="9">2653</subfield>
+  </datafield>
+  <datafield ind2="4" tag="245" ind1="1">
+    <subfield code="a">The statewide assessment of writing</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">Nueva Jersey, Estados Unidos : </subfield>
+    <subfield code="c">1985</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">39 páginas</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">ESCRITURA</subfield>
+    <subfield code="9">1189</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

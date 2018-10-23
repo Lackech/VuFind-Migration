@@ -1,0 +1,47 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02205nab a2200169   4500</leader>
+  <controlfield tag="005">20160317155753.0</controlfield>
+  <controlfield tag="008">150617b2000    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">196</subfield>
+    <subfield code="a">Delgado Chinchilla, María del Carmen</subfield>
+  </datafield>
+  <datafield tag="245" ind2="3" ind1="1">
+    <subfield code="a">El impacto del docente en el proceso de aprendizaje de los estudiantes /</subfield>
+    <subfield code="c">María del Carmen Delgado Chinchilla</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2000</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">páginas 45-59</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">El proceso de aprendizaje del estudiante universitario está influenciado por varios factores tales como la personalidad del docente, el nivel de conocimiento que este tenga de su materia, la metodología  y su talento natural para enseñar.
+Pero hay un factor al que no siempre se le da la importancia requerida. Nos referimos al impacto que causa en el desarrollo profesional y académico del estudiante una sana relación con sus profesores en la cual se propicie un intercambio de ideas pro medio de la discusión de temas de interés para ambos. El presente estudio analiza tres aspectos relacionados con este factor los cuales son: la relación entre el profesor y el alumno, los beneficios derivados de dicha relación y la actitud del docente dentro y fuera del aula. Para recolectar la información sobre los aspectos citados, se preparó un cuestionario y se entregó a 96 estudiantes de la Escuela de Lenguas Modernas  de la Universidad de Costa Rica. Se recogieron sus apreciaciones acerca de su desenvolvimiento y grado de participación en el aula, al actitud del docente para propiciar un ambiente de sana discusión dentro y fuera del aula y los posibles beneficios que se derivan de una sana relación con sus profesores. Se concluye de la información obtenida que el proceso enseñanza/aprendizaje no es exclusivamente una transferencia de conocimiento sino que también se trata de crear lazos duraderos que aseguren el crecimiento profesional y personal de profesores y alumnos</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind2=" " ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0026</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.24, no.2 (2000)</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2679</subfield>
+    <subfield code="d">2679</subfield>
+  </datafield>
+</record>

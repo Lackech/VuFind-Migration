@@ -1,0 +1,69 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00747nam a2200229Ia 4500</leader>
+  <controlfield tag="008">150727b2006    us ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="020">
+    <subfield code="a">9789280640526</subfield>
+  </datafield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">14.02.02 </subfield>
+    <subfield code="b">1428</subfield>
+  </datafield>
+  <datafield ind1="2" tag="110" ind2=" ">
+    <subfield code="a">United Nation's International Children's Emergency Fund</subfield>
+    <subfield code="9">532</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Progreso para la infancia: un balance sobre agua y saneamiento / </subfield>
+    <subfield code="c">United Nation's International Children's Emergency Fund</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">New York  : </subfield>
+    <subfield code="b">UNICEF, </subfield>
+    <subfield code="c">2006</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">33 páginas; </subfield>
+    <subfield code="b">ilustrado</subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2="0">
+    <subfield code="a">INFANCIA</subfield>
+    <subfield code="9">533</subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2="0">
+    <subfield code="a">HIGIENE</subfield>
+    <subfield code="9">540</subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2="0">
+    <subfield code="a">SUPERVIVENCIA INFANTIL</subfield>
+    <subfield code="9">535</subfield>
+  </datafield>
+  <datafield ind2="0" tag="651" ind1=" ">
+    <subfield code="a">AFRICA</subfield>
+    <subfield code="9">537</subfield>
+  </datafield>
+  <datafield ind1=" " tag="651" ind2="0">
+    <subfield code="a">ASIA</subfield>
+    <subfield code="9">538</subfield>
+  </datafield>
+  <datafield tag="651" ind2="0" ind1=" ">
+    <subfield code="a">ORIENTE MEDIO</subfield>
+    <subfield code="9">541</subfield>
+  </datafield>
+  <datafield tag="651" ind2="0" ind1=" ">
+    <subfield code="a">AMÉRICA LATINA</subfield>
+    <subfield code="9">273</subfield>
+  </datafield>
+  <datafield ind2="0" tag="651" ind1=" ">
+    <subfield code="a">CARIBE</subfield>
+    <subfield code="9">539</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">115</subfield>
+    <subfield code="d">115</subfield>
+  </datafield>
+</record>

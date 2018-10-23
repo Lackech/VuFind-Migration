@@ -1,0 +1,57 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01913nam a2200181Ia 4500</leader>
+  <controlfield tag="008">161018b2003    c  ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">06.05.03 </subfield>
+    <subfield code="b">330 </subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">759</subfield>
+    <subfield code="a">García Fallas, Jacqueline</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Desarrollo de herramientas educativas con formato tecnológico para la difusión y construcción de conocimiento en el campo de la Filosofía /</subfield>
+    <subfield code="c">Jacqueline García Fallas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">2003</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">46 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">El informe incluye un disco compacto titulado "Astronomía.  Historia de la ciencia:  Revolución astronómica del siglo XVI"</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">CD #71</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">Este proyecto responde a la necesidad de integrar las tecnologías de la información y la comunicación con los contenidos curriculares de historia de la Ciencia de la Escuela de Filosofía, situación que promueve la construcción de procesos de enseñanza y aprendizaje novedoso para la enseñanza de la Filosofía en el contexto de la educación superior. 
+Los objetivos más importantes presentados en la investigación son: 
+- Analizar los aspectos que fundamentan la producción de herramientas educativas con formato tecnológico. 
+- Determinar los aspectos que caracterizan la producción de herramientas educativas tecnológicas con características lúdicas e interactivos. 
+- Diseñar herramientas educativas con formato tecnológico para ser aplicadas en la Educación Superior en el campo de la Filosofía. 
+Los resultados obtenidos fueron: 
+- Se desarrolla una pagina web como medio de difusión y construcción del conocimiento filosófico en relación con la filosofía e historia de la ciencia. 
+- La pagina web se convierte en una estrategia didáctica para propiciar procesos de aprendizaje en el área de filosofía y en escenarios universitarios.-</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">TECNOLOGÍA EDUCATIVA </subfield>
+    <subfield code="9">483</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">FILOSOFÍA</subfield>
+    <subfield code="9">336</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">1971</subfield>
+    <subfield code="d">1971</subfield>
+  </datafield>
+</record>

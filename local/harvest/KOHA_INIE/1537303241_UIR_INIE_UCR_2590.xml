@@ -1,0 +1,52 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02090nam a2200169   4500</leader>
+  <controlfield tag="008">150527b1998    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">107</subfield>
+    <subfield code="a">García Lizano, Nidia</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="3">
+    <subfield code="a">La capacitación del maestro desde la perspectiva etnográfica: una experiencia a partir de la investigación en el aula /</subfield>
+    <subfield code="c">Nidia García Lizano, Marta Rojas Porras</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">1998</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">páginas 33 - 44</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">Hablar de las prácticas y las experiencias educativas en las aulas escolares conduce, necesariamente, a considerar la formación de los docentes.
+Al  respecto, el análisis de los programas, tanto de formación como de capacitación de maestros ha estado caracterizado por una crítica constante acerca de la desvinculación que existe entre dicha formación y la realidad escolar.
+Aunque parece muy simple reconocer que el trabajo del maestro se realiza dentro de un contexto social específico que es la institución escolar, no es tan simple establecer una relación profunda, entre programas formadores o capacitadores y la situación educativa concreta que se enfrenta.
+En este artículo se da cuenta de esa experiencia de investigación en el aula que tuvo como propósito generar, a partir del dato etnográfico y de un trabajo participativo con los docentes, una propuesta o modelo de capacitacitación  para maestros con las siguientes características: centrado en el aula y sus procesos, reconstructor de la realidad, generador de currículum, participativo, integrado a la actividad docente, con convergencia entre lo personal y profesional, renovador, ejecutado como un proceso de educación permanente, traducido en beneficio directo para los alumnos con los cuales el docente trabaja y modificador del rol docente</subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2="0">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2=" ">
+    <subfield code="9">108</subfield>
+    <subfield code="a">Rojas Porras, Marta</subfield>
+  </datafield>
+  <datafield ind1="0" tag="773" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0020</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.22, no.1 (1998)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2590</subfield>
+    <subfield code="d">2590</subfield>
+  </datafield>
+</record>

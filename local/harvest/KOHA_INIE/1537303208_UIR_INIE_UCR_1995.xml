@@ -1,0 +1,56 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02366nam a2200193Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">1995</subfield>
+    <subfield code="d">1995</subfield>
+  </datafield>
+  <controlfield tag="008">180704b1995    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">06.06.01 </subfield>
+    <subfield code="b">87</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="100">
+    <subfield code="a">Vindas Lara, Andrea</subfield>
+    <subfield code="9">2830</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Situación académica de los estudiantes no ubicados / </subfield>
+    <subfield code="c">Andrea Vindas Lara, Sharon Kuhlmann Berezon</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1995</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">93 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Informe final Proyecto de investigación N° 724-94-265</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">En este estudio se trabajó con la totalidad de los estudiantes solicitantes de las carreras de economía y administración de negocios, con el objetivo de determinar la situación académica de estos estudiantes no ubicados en relación con las materias matriculadas hasta el tercer ciclo de 1994 inclusive. La información se recogió mediante entrevistas y la revisión de los expedientes académicos respectivos. En el análisis se incluye a todos los estudiantes de la población que hubieran cursado por lo menos los dos semestres de 1994 para aprobar los requisitos de ingreso a carrera. En el informe se presentan los resultados del cálculo estadístico para cada una de las carreras por separado. En economía, los estudiantes que se encontraban para ese entonces en el padrón de solicitantes eran 436, de los cuales solamente el 3% tiene aprobadas todas las materias requisito. Se hace evidente, asimismo, la gran cantidad de estudiantes que deben repetir algunos cursos (microeconomía: un promedio de dos veces, macroeconomía: 1,73 veces, matemática: 1,63 veces). En administración de negocios, el padrón de solicitantes asciende a 1373 estudiantes, de los cuales únicamente el 2,8% ha completado todos los requisitos de ingreso. En este caso, el estudio revela que la mayoría de estos solicitantes ni siquiera había matriculado las materias requisito. Las investigadoras comentan que los porcentajes tan altos de estudiantes inactivos y las intenciones de estos respecto a sus estudios en la universidad, así como el alto índice de retiros injustificados y la determinación de la demanda real de los solicitantes a carrera con cuestiones que merecen ser estudiadas con mayor profundidad. 
+</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">ESTUDIANTES </subfield>
+    <subfield code="9">332</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+    <subfield code="9">8</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">CIENCIAS SOCIALES </subfield>
+    <subfield code="9">276</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="700">
+    <subfield code="9">3905</subfield>
+    <subfield code="a">Kuhlmann Berezon, Sharon </subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,57 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00741nam a22001937a 4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3524</subfield>
+    <subfield code="d">3524</subfield>
+  </datafield>
+  <controlfield tag="008">180629b2013    ag a|||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="020" ind2=" ">
+    <subfield code="a">9789500009867</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">06.03.07</subfield>
+    <subfield code="b">2459</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="9">3838</subfield>
+    <subfield code="a">Mendoza, Eduardo Agustín</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Ecosistemas terrestres /</subfield>
+    <subfield code="c">Eduardo Agustín Mendoza, Silvia Noemí Passarino, Carlos Raúl Quiroga, Francis María Suárez</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">[Buenos Aires, Argentina] :</subfield>
+    <subfield code="b">Ministerio de Educación de la Nación,</subfield>
+    <subfield code="c">[2013]</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">148 páginas;</subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield tag="490" ind1=" " ind2=" ">
+    <subfield code="a">Escritura en ciencias,</subfield>
+    <subfield code="v">7</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">996</subfield>
+    <subfield code="a">ENSEÑANZA DE LAS CIENCIAS </subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="700">
+    <subfield code="9">3839</subfield>
+    <subfield code="a">Passarino, Silvia Noemí</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1=" ">
+    <subfield code="9">3840</subfield>
+    <subfield code="a">Quiroga, Carlos Raúl</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="700">
+    <subfield code="9">3841</subfield>
+    <subfield code="a">Suárez, Francis María</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

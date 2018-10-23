@@ -1,0 +1,46 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02065nab a22001697a 4500</leader>
+  <controlfield tag="005">20160331134344.0</controlfield>
+  <controlfield tag="008">151120b2005    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">1184</subfield>
+    <subfield code="a">Delgado Montoya , William</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="4">
+    <subfield code="a">Una perspectiva curricular del enfoque de los sistemas simbólicos en la educación costarricense /</subfield>
+    <subfield code="c">William Delgado Montoya </subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2005</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">páginas 157-180</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">Este artículo propone un acercamiento a la educación desde  la perspectiva de la teoría de las inteligencias múltiples y la inteligencia emocional. Entendida inteligencia como la capacidad para resolver problemas, o para elaborar productos que son de valor para determinado contexco comunitario o cultural. Por lo tanto, el éxito o fracaso escolar se podrá predecir, dependiendo de la capacidad que demuestre el niño para resolver diferentes situaciones problemáticas y la adaptación u ajuste entre un ser huamno activo en crecimiento y los escenarios naturales y sociales.  Es decir, plantea  la educación como una estructuar social que favorece los mecanismos de acomodación al explicar, predecir, interpretar, transmitir la cultura y la práctica social, configurando los escenarios donde se efectuan los procesos de  enseñanza aprendizaje, de esta manera el aula escolar se transforma en un espacio de interacciones entre los individuos (profesores y a lumnos). En consecuencia, el enfoque simbólico en la educación es una oportunidad para realizar investigaciones que valoren la diversidad cultural, el contexto de aprendizaje de los alumnos, el estímulo de las inteligencias de cada indivduo, las interaciones humanas que constantemente  se modifican, para generar una búsqueda de soluciones a los problemas de una manera altruista</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" tag="773" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0304</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.29, no.2 (2005)</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2943</subfield>
+    <subfield code="d">2943</subfield>
+  </datafield>
+</record>

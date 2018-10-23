@@ -1,0 +1,57 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02013nam a2200193Ia 4500</leader>
+  <controlfield tag="008">150811b2008    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">06.06.02 </subfield>
+    <subfield code="b">1284</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Rodríguez Soto, Sonia</subfield>
+    <subfield code="9">774</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Sin fronteras, programa de capacitación para profesores de matemática en la enseñanza secundaria / Sonia Rodríguez Soto ...[et al.]</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2008</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">aproximadamente 80 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Informe final Proyecto N° 724-A4-505. 
+La Unidad posee informe parcial de 2005
+</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">El mayor problema de la educación media costarricense es la enseñanza de la matemática. Así lo demuestran los resultados de las pruebas del examen de Bachillerato: la materia que consistentemente ha obtenido las promociones más bajas es matemática, hasta el punto de haber sido llamada "Una piedra en el zapato…". Esta realidad se ha convertido en motivo de frustración no solo para estudiantes y padres de familia, sino para los mismos docentes y el gobierno. 
+El proyecto Sin Fronteras surge como una alternativa para mejorar la enseñanza de las matemáticas en secundaria mediante la capacitación profesional de sus docentes. Entre las causas del bajo rendimiento es esta materia podemos citar: insuficiente formación teórica, y didáctica de los profesores, malos hábitos de estudio entre los colegiales, miedo y aversión a la matemática, ausencia de innovación en las clases. Esta variedad de problemas requiere soluciones novedosas e integrales. Sin Fronteras tiene como objetivo la capacitación del docente tanto en temas propios de la matemática, como en la aplicación novedosa de técnicas didácticas y en el uso de las nuevas tecnologías de la comunicación y la información tanto para su formación como para el enriquecimiento de la práctica docente</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">FORMACIÓN DE DOCENTES</subfield>
+    <subfield code="9">9</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">CAPACITACIÓN</subfield>
+    <subfield code="9">729</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">MATEMÁTICAS  </subfield>
+    <subfield code="9">482</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">EDUCACIÓN SECUNDARIA</subfield>
+    <subfield code="9">456</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2001</subfield>
+    <subfield code="d">2001</subfield>
+  </datafield>
+</record>

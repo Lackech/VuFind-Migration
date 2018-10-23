@@ -1,0 +1,49 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00555nam a22001697a 4500</leader>
+  <controlfield tag="008">160809b2010    pr ||||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="020">
+    <subfield code="a">188174082X</subfield>
+  </datafield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">14.02.02</subfield>
+    <subfield code="b">2361</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="9">1929</subfield>
+    <subfield code="a">Nina Estrella, Ruth</subfield>
+    <subfield code="e">Editora/a</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Acercamiento multidisciplinario sobre la adolescencia en el Caribe /</subfield>
+    <subfield code="c">Ruth Nina Estrella, editora</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San Juan, Puerto Rico :</subfield>
+    <subfield code="b">Publicaciones Gaviota,</subfield>
+    <subfield code="c">2008</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">293 páginas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">5</subfield>
+    <subfield code="a">ADOLESCENTES</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">1681</subfield>
+    <subfield code="a">CONDICIONES SOCIALES</subfield>
+  </datafield>
+  <datafield ind2="4" ind1=" " tag="651">
+    <subfield code="9">539</subfield>
+    <subfield code="a">CARIBE</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">3299</subfield>
+    <subfield code="d">3299</subfield>
+  </datafield>
+</record>

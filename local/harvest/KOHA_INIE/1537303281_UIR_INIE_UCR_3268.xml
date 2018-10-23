@@ -1,0 +1,59 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01039nam a2200205   4500</leader>
+  <controlfield tag="008">160704b2013    a  ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="020" ind2=" " ind1=" ">
+    <subfield code="a">9789876301565</subfield>
+  </datafield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">04.04.01 </subfield>
+    <subfield code="b">2225 </subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">1865</subfield>
+    <subfield code="a">Aboy Carlés, Gerardo </subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="245">
+    <subfield code="a">Las brechas del pueblo: reflexiones sobre identidades populares y populismo /</subfield>
+    <subfield code="c">Gerardo Aboy Carlés, Sebastián Barros, Julián Melo</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">Los Polvorines, Buenos Aires :  </subfield>
+    <subfield code="b">Universidad Nacional de General Sarmiento UNDAV Ediciones,</subfield>
+    <subfield code="c">2013</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">99 páginas</subfield>
+  </datafield>
+  <datafield tag="490" ind1=" " ind2=" ">
+    <subfield code="a">Gramáticas Plebeyas,</subfield>
+    <subfield code="v">1</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">Los textos que componen este libro tienen como base las ponencias presentadas en el panel "El populismo y las identidades populares" del VI Congreso Latinoamericano de Ciencia Política, organizado por la Asociación Latinoamericana de Ciencia Política (ALACIP) en Quito, del 12 al 14 de junio de 2012</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">1866</subfield>
+    <subfield code="a">TEORÍA POLÍTICA</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1044</subfield>
+    <subfield code="a">IDENTIDAD</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">1867</subfield>
+    <subfield code="a">Barros, Sebastián </subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="9">1868</subfield>
+    <subfield code="a">Melo, Julián </subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">3268</subfield>
+    <subfield code="d">3268</subfield>
+  </datafield>
+</record>

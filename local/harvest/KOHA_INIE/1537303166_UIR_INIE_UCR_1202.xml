@@ -1,0 +1,62 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>04513nam a2200193Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">1202</subfield>
+    <subfield code="d">1202</subfield>
+  </datafield>
+  <controlfield tag="008">170717b2016    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">06.03.06</subfield>
+    <subfield code="b">2419</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Muñoz Varela, Luis</subfield>
+    <subfield code="9">763</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Capacidades y estrategias de internacionalización del posgrado en la Universidad de Costa Rica /</subfield>
+    <subfield code="c">Luis  Muñoz Varela</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">[San José, Costa Rica] :</subfield>
+    <subfield code="b">INIE,</subfield>
+    <subfield code="c">2016</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">147 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="500" ind2=" ">
+    <subfield code="a">Informe final proyecto de investigación Nº 724-B5-A57</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">El estudio tuvo como objetivo investigar sobre la internacionalización del posgrado en la Universidad de Costa Rica, para identificar cuál es la perspectiva que se tiene al respecto y cuáles son las capacidades y estrategias que han sido adoptadas y en las que se expresan las prácticas y las acciones desarrolladas. Se llevó a cabo por medio de un cuestionario en línea aplicado entre noviembre de 2015 y octubre de 2016.  
+La primera acción consistió en el diseño y validación, este último proceso generó recomendaciones y propuestas de modificación respecto de algunos de los ítems de preguntas formulados en el cuestionario.  Una vez validado, el siguiente paso fue realizar su colocación en el programa en línea “LimeSurvey”, para proceder a remitirlo a las personas informantes: las directoras y directores de los 66 programas de posgrado del SEP de la UCR.  El plazo dado para responderlo se fijó en 2 meses.
+En el transcurso de estos 2 meses, el cuestionario fue reenviado periódicamente cada 2 semanas, como un recordatorio para las personas que todavía no lo hubieran contestado.  Las respuestas obtenidas se procedió a trasladarlas a un archivo digital, en formato “Excel”.
+Seguidamente se sistematizó las respuestas obtenidas, según los diferentes apartados y aspectos contenidos en el cuestionario.  Como  consideraciones finales se mencionan las siguientes: 
+La UCR dispone con una política institucional definida en el ámbito de la movilidad para la formación de alto nivel de su planta académica en universidades del exterior, lo mismo que para dar sustentación a la movilidad estudiantil en los niveles de grado y el posgrado.  Dicha política se encuentra respaldada con la existencia de programas específicos para desarrollarla y cuya gestión se encuentra a cargo de la Oficina de Asuntos Internacionales y Cooperación Externa (OAICE).  En el caso de la movilidad para realizar estudios de posgrado en el exterior, la universidad ha desarrollado también instrumentos y establecido condiciones para asegurar el retorno a la institución de quienes obtienen apoyo de los programas de becas de la OAICE. Se busca con ello, no solo asegurar que se efectúe la recuperación de la inversión realizada por la universidad, sino que, además,  el esfuerzo institucional por apoyar la movilidad y la formación de alto nivel en el exterior se traduzca, en efecto, en un fortalecimiento y elevación de la excelencia académica en todas las distintas áreas disciplinares que constituyen el cuadriculado académico de la institución.
+Es pertinente subrayar, al respecto, la importancia  que puede tener, en esta dimensión de la movilidad académica y también en la movilidad estudiantil, el análisis acerca de la conveniencia de diversificar y equilibrar las acciones en razón de las rutas de destino.  La universidad puede reorientar la política institucional y hacer los ajustes que sean necesarios  en los mecanismos de ejecución de los programas, a fin de buscar los equilibrios y, a la vez, en tanto se diversifican las rutas de destino, dar impulso a la apertura de opciones alternativas que permitan diferir la dinámica tradicional de destino Sur/Norte.
+La movilidad académica, en sus distintas modalidades, requiere ser colocada en una perspectiva institucional y en una estrategia de articulación programática con acciones y proyectos que contribuyan a fortalecer el tejido de las capacidades académicas de la universidad, de tal manera que eso repercuta  en generar mayores niveles de solidez académica, no solo al respecto de la mejora de los perfiles profesionales y científicos de la planta académica, sino también a propósito de abrir otras diversas relaciones interinstitucionales a escala internacional. 
+</subfield>
+  </datafield>
+  <datafield ind2="4" tag="610" ind1="2">
+    <subfield code="9">3000</subfield>
+    <subfield code="a">UNIVERSIDAD DE COSTA RICA. SISTEMA DE ESTUDIOS DE POSGRADO</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">8</subfield>
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">MOVILIDAD PROFESIONAL</subfield>
+    <subfield code="9">1384</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">EDUCACIÓN INTERNACIONAL</subfield>
+    <subfield code="9">1549</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

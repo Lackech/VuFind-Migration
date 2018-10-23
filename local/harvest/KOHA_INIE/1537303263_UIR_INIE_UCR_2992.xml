@@ -1,0 +1,52 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01324nab a2200181   4500</leader>
+  <controlfield tag="005">20160331140258.0</controlfield>
+  <controlfield tag="008">151216b2007    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">1117</subfield>
+    <subfield code="a">Cabezas Pizarro, Hannia </subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Maltrato entre iguales en la escuela costarricense /</subfield>
+    <subfield code="c">Hannia Cabezas Pizarro</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2007</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">páginas 135-144</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">Este es un estudio llevado a cabo con  una muestra de estudiantes costarricenses, que se encuentran entre 6º y 8º año de estudios, que pretende medir las condiciones generales de las personas a quienes se victimiza, la frecuencia con que  son acosados, los sitios, cómo se dan las agresiones y a quienes acuden.
+Tanto las víctimas como los agresores, sufren del fenómeno de "Bullying" en presencia de otros quienes permanecen al margen de la situación, y estas conductas no son castigadas, fomentándose dentro de los centros educativos, socavando la autoestima y rendimiento de quienes  las padecen</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">1232</subfield>
+    <subfield code="a">Monge Jiménez, Irene</subfield>
+    <subfield code="c">coautoras</subfield>
+  </datafield>
+  <datafield tag="773" ind1="0" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0308</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.31, no.1 (2007)</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2992</subfield>
+    <subfield code="d">2992</subfield>
+  </datafield>
+</record>

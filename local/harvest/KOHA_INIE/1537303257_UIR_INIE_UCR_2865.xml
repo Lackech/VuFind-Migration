@@ -1,0 +1,42 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02349nab a2200157   4500</leader>
+  <controlfield tag="005">20150917154254.0</controlfield>
+  <controlfield tag="008">150910b2003    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">986</subfield>
+    <subfield code="a">Albarrán Santiago, Alba</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Análisis de las estrategias pedagógicas utilizadas por los docentes del II Ciclo para la enseñanza de Estudios  Sociales en la Escuela  José Figueres Ferrer /</subfield>
+    <subfield code="c">Alba Albarrán Santiago</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">páginas 121-141</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">Esta investigación tuvo como objetivo indagar las estrategias empleadas por las educadoras y los educadores al enseñar la asignatura de Estudios Sociales. Para ello se analizaron las características de estas, la coherencia de las estrategias con lo planteado por el MEP y el logro de aprendizajes significativos. De esta manera, el proposito fundamental es que los alumnos aprehendan el conocimiento requerido, una formación integral, la cual les ayude y afiance en el logro de un mejor desarrollo en el medio que los rodea. Para el estudio se realizaron, en el aula de clase, observaciones participantes, entrevistas en profundidad a docentes y estudiantes y análisis del Programa de Estudios Sociales del II Ciclo del Ministerio de Educación Pública. Igualmente se llevaron a cabo enuestas al 10% de los alumnos y alumnas. En este análisis se describen los aspectos didácticos fundamentales que emplean los docentes para impartir las lecciones de la asignatura de Estudios Sociales.
+La investigación demuestra el empleo de diversas estrategias en el desarrollo de las actividades didácticas, al igual que existe coherencia entre los planeamientos de las profesoras con el Programa de Estudios Sociales, lo cual genera en los niños y niñas un aprendizaje significativo. A la vez, se aprecia que no se emplean algunos recursos valiosos para el aprendizaje como lo son: el periódico, la lectura de cuentos, mitos, leyendas, canciones y poesía. Estos permitirían una mayor diversidad de recursos para el aprendizaje. La investigación se realizó en la Escuela José Figueres Ferrer, ubicada en el Distrito Sabanilla del Cantón de Montes de Oca</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" tag="773" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0202</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.27, no.2  (2003)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">03</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2865</subfield>
+    <subfield code="d">2865</subfield>
+  </datafield>
+</record>

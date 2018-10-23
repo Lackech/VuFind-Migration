@@ -1,0 +1,66 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03057nam a2200229Ia 4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">2303</subfield>
+    <subfield code="d">2303</subfield>
+  </datafield>
+  <controlfield tag="008">180904b1995    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">18.09.01 </subfield>
+    <subfield code="b">24</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Esquivel Alfaro, Juan Manuel</subfield>
+    <subfield code="9">157</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Informe ejecutivo de la administración de las pruebas de diagnóstico de español y matemáticas abril-mayo, 1995 / </subfield>
+    <subfield code="c">Juan Manuel Esquivel Alfaro</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1995</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">48 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Programa de mejoramiento de la calidad de la educación general básica</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Este informe describe, en forma resumida, el proceso de constitución y aplicación de las pruebas de conocimientos de Español y de Matemáticas para los niveles de 3°, 6° y 9° años, administradas en abril y mayo de 1995 a niños y jóvenes de 4°, 7° y 10° años. La muestra representó el 10% del marco muestral (la lista de la matrícula inicial del año 1994) y se escogió aleatoriamente, tomando en cuenta la región educativa, las modalidades pública y privado-subvencionada, la ubicación (rural/urbana) y el tamaño de la dirección. Las pruebas fueron construidas con ítemes y objetivos de un banco de datos, elaborado y sometido a validación en el periodo 1986-1988 para las Pruebas Nacionales de esos años. Sin embargo, en lo concerniente a los objetivos, estos fueron sometidos a una revisión con el fin de que se ajustaran a los de los curricula vigentes -de Español y de Matemáticas- entre 1990 y 1994. Se siguió este procedimiento para facilitar un estudio comparativo entre los resultados del periodo 1986-1988 con los de 1995. Los resultados del estudio se exponen en dos formas; en primer lugar, se presentan las calificaciones obtenidas en ambas materias, en una escala de 1 a 100, tomando en cuenta el nivel, el sexo, la ubicación, sector (cuadros 2 a 9) y la región educativa (cuadros 10 a 11) y, en segundo lugar, se expone el puntaje para cada uno de los objetivos medidos en las pruebas de Matemáticas (las cuales se elaboraron según las Pruebas con Referencia a Criterios) para la muestra nacional por sexo y sector (cuadros 12 a 14). De manera general, se concluye que los resultados de estas pruebas de 1995 fueron deficientes; inclusive, en Matemáticas, el resultado del dominio por objetivos se califica de alarmante. Además, se establece que a mayor escolaridad de los estudiantes, menor es su rendimiento académico. En lo que respecta a la comparación de los resultados de las pruebas del periodo 1986-1988 (los cuales se pueden consultar en el proyecto de investigación Medición de la Calidad de la Enseñanza: Costa Rica) con los de 1995, se puede afirmar, de manera general, que los resultados de l995 evidencian una mejoría tanto en el rendimiento general como en el dominio de conocimientos específicos.</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">DIAGNÓSTICO</subfield>
+    <subfield code="9">632</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">PRUEBAS</subfield>
+    <subfield code="9">629</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">MATEMÁTICAS  </subfield>
+    <subfield code="9">482</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">ESPAÑOL</subfield>
+    <subfield code="9">36</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">EDUCACIÓN PRIMARIA</subfield>
+    <subfield code="9">367</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">EDUCACIÓN SECUNDARIA</subfield>
+    <subfield code="9">456</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+  </datafield>
+</record>

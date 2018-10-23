@@ -1,0 +1,60 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01050nam a2200217Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">1870</subfield>
+    <subfield code="d">1870</subfield>
+  </datafield>
+  <controlfield tag="008">180515b2009    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">06.03.07 </subfield>
+    <subfield code="b">1771 CD #174</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="a">Camacho Brown, Lolita </subfield>
+    <subfield code="9">1099</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Caracterización de las escuelas unidocentes en los cantones de Turrialba y Paraíso. Una propuesta para fortalecer su desarrollo educativo.</subfield>
+    <subfield code="c">/ Lolita Camacho Brown; Wilfredo Gonzaga Martínez; Hannia Watson Soto</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2009</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">145 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Informe final Proyecto NÂ°724 A7-159\CD # 174</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">El proyecto pretende caracterizar las escuelas unidocentes en los cantones de Turrialba y Paraíso, y elaborar una propuesta de desarrollo para mejorar su funcionamiento, que sirva de insumo al Ministerio de Educación Pública y a las Universidades para la formación de docentes de educación primaria. Es importante aclarar que el proyecto no se pudo desarrollar en el cantón de Paraíso puesto que las personas que dirigen las instituciones educativas unidocentes no facilitaron la información. El universo de este estudio está compuesto por un total de 93 escuelas unidocentes del cantón de Turrialba. Utilizando el muestreo casual o incidental la muestra queda conformada por 14 escuelas que corresponden al 15% de la totalidad de instituciones unidocentes del cantón de Turrialba lo que representa una muestra significativa. Para la recopilación de la información pertinente del estudio se realizó una visita a cada institución seleccionada en la muestra y se emplearon las siguientes técnicas: cuestionario, observación y registro fotográfico. Se efectúa un análisis estadístico descriptivo complementando con las observaciones realizadas por el equipo investigador y con referencias teóricas. Se elaboró la propuesta de desarrollo, la cual se planteó desde la investigación acción considerando que el conocimiento para impulsar estas instituciones debe originarse en los propios contextos educativos pues solamente así será pertinente. Las escuelas unidocentes ubicadas en su mayoría en comunidades y contextos rurales, constituyen una instancia fundamental para que el sistema educativo costarricense genere acciones concretas que le permitan dar respuesta a las necesidades de desarrollo humano sostenible para incidir en las transformaciones de esos contextos y de la sociedad en general. 
+</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">EDUCACIÓN SOBRE EL DESARROLLO</subfield>
+    <subfield code="9">3409</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">INVESTIGACIÓN</subfield>
+    <subfield code="9">163</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">INSTITUCIONES DE ENSEÑANZA</subfield>
+    <subfield code="9">1380</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="a">Gonzaga Martínez, Wilfredo</subfield>
+    <subfield code="9">1819</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="a">Watson Soto, Hannia </subfield>
+    <subfield code="9">1104</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,47 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01644nab a22001577a 4500</leader>
+  <controlfield tag="008">150528b1998    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">118</subfield>
+    <subfield code="a">Méndez Vega, Norma</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="3" tag="245">
+    <subfield code="a">La supervisión y el proceso de enseñanza-aprendizaje en primaria /</subfield>
+    <subfield code="c">Norma Méndez Vega</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">1998</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">páginas 25 - 34</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">Este artículo brinda algunos elementos sobre la supervisión en el proceso de enseñanza-aprendizaje, en el contexto de educación primaria.
+Se parte para lo anterior un concepto de supervisión que trasciende el simple control que realizan los directores o las directoras, sobre el trabajo que ejecutan los y las  docentes. No se trata de vigilarlos, sino más bien de promover un proceso democrático de intercambio de experiencias, expectativas, logros y dificultades, que mejore la enseñanza mediante una formación continua.
+Esta formación continua y conjunta involucra también a estudiantes y padres de familia, por lo que se habla de tipos de supervisión y se hace una propuesta para llevar a cabo este proceso con los diferentes participantes. Finalmente se comenta la necesidad de tomar conciencia de este proceso diferente para ejercer la supervisión, la importancia de la capacitación y la voluntad para ejercerlo y propiciar así, una educación dispuesta a la innovación y el cambio</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " tag="773" ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0021</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.22, no.2 (1998)</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2601</subfield>
+    <subfield code="d">2601</subfield>
+  </datafield>
+</record>

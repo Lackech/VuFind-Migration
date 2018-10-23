@@ -1,0 +1,50 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00641nam a22001937a 4500</leader>
+  <controlfield tag="003">cru INIE</controlfield>
+  <controlfield tag="005">20170826062542.0</controlfield>
+  <controlfield tag="008">150408b1997    CL ||||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="040">
+    <subfield code="c">cru INIE</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">REVIS 15.04.04</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">6</subfield>
+    <subfield code="a">Arroba, Ana</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Adolescencia, sexualidad y cuerpo /</subfield>
+    <subfield code="c">Ana Arroba</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Chile :</subfield>
+    <subfield code="b"> Red de Salud de las mujeres latinoamericanas y del caribe, </subfield>
+    <subfield code="c">1997</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">páginas 3-6</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">5</subfield>
+    <subfield code="a">ADOLESCENTES</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">48</subfield>
+    <subfield code="a">SEXUALIDAD</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="0" tag="773">
+    <subfield code="d">Chile : Red de Salud de las Mujeres Lationamericanas 1997</subfield>
+    <subfield code="t">Revista Mujer Salud</subfield>
+    <subfield code="g">No.4 (octubre- diciembre, 1997)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2559</subfield>
+    <subfield code="d">2559</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,48 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01976nab a2200169   4500</leader>
+  <controlfield tag="005">20160831161923.0</controlfield>
+  <controlfield tag="008">160429b2012    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">1652</subfield>
+    <subfield code="a">Martínez Jaikel, Tatiana</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Mapas conceptuales como herramienta para la presentación y búsqueda de relaciones entre artículos científicos /</subfield>
+    <subfield code="c">Tatiana Martínez Jaikel</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2012</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">páginas 91-98</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">El propósito de este artículo es analizar críticamente la implementación de una estrategia didáctica, que por su naturaleza histórica y su estructura, tiene un carácter innovador dentro del curso Práctia IV de la Carrera de Nutrición de la Universidad de Costa Rica. Durate el curso se ejecuta un proyecto, el cual había sido planificado el semestre anterior.
+La estrategia consistió en realizar una revisión bibliográfica individual relacionada con el tema del proyecto que se estaba desarrollando, Para su presentación oral a los compañeros, se realizó un trabajo grupal durante el cual se agruparon por temática los artículos de diferentes personas y, como forma de buscar relaciones entre estos, se utilizó la técnica de los mapas conceptuales.
+La actividad fue considerada como buena por la maypría (70%) de los estudiantes, pero además al 97% le parece que los mapas conceptuales les permitieron establecer relaciones entre los artículos y al 93% que le es posible aplicar la técnica a su propio proyecto , por lo cual se considera que la actividad cumplió su objetivo. Es necesario, eso sí, hacer ajustes principalmente de tiempo y de materiales utilizados para futuros cursos en los cuales se implemente</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="0" tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0626</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.36, no.2 (jul.-dic., 2012)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">3181</subfield>
+    <subfield code="d">3181</subfield>
+  </datafield>
+</record>

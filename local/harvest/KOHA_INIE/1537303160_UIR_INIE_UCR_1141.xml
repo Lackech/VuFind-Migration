@@ -1,0 +1,47 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02687nam a2200169Ia 4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">1141</subfield>
+    <subfield code="d">1141</subfield>
+  </datafield>
+  <controlfield tag="008">170307b2004    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">05.03.01 </subfield>
+    <subfield code="b">859 CD #112</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="a">Jiménez Segura, Flor </subfield>
+    <subfield code="9">160</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Rasgos de sentido de vida en el enfoque de resiliencia en personas adultas mayores de 65 a 75 años / </subfield>
+    <subfield code="c">Flor Jiménez Segura; Irma Arguedas Negrini</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2004</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">57 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="500" ind2=" ">
+    <subfield code="a">Informe Final del Proyecto de Investigación Nº 724-AO-063. \ Incluye disco compacto Nº 112\ Informe impreso (Material perdido)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">En este informe se planteó el problema a investigar con la siguiente pregunta:  ¿Cuáles rasgos de sentido de vida propuestos por el enfoque de resiliencia han tenido durante sus vidas las personas mayores de 65 a 75 años?  A partir de ahí se buscó cumplir los siguientes objetivos: - Identificar en las personas mayores de 65 a 75 años los rasgos de sentido de vida, propuestos por el enfoque de resiliencia, que han tenido durante sus vidas para relacionarlos con los que presentan en la actualidad. - Con base en los hallazgos, elaborar un manual dirigido a profesionales de Orientación, que incluya herramientas para favorecer la clarificación del significado de vida de las personas con quienes trabajan. Participaron ocho personas en el estudio, cuatro varones y cuatro mujeres, de edades entre 65 y 73 años, fueron personas funcionales e independientes. Los principios teórico-metodológicos que guiaron esta investigación son los del paradigma cualitativo.  Se deseaba conocer detalladamente la vivencia de la persona mayor en relación con los rasgos de sentido de vida del enfoque de resiliencia.  Se tomó como fundamento, con pequeñas modificaciones, el modelo que presenta Antón de Schutter para la investigación cualitativa, organizado en cuatro etapas. Como conclusiones se describen los rasgos de sentido de vida de las personas participantes en las siguientes motivaciones: Intereses especiales, metas, motivación para el logro, aspiraciones educativas, optimismo, persistencia, fe y espiritualidad y sentido de propósito. Las investigadoras recomiendan, desde la disciplina de Orientación la necesidad de diseñar, ejecutar y evaluar estrategias de orientación sobre los rasgos de sentido de vida del enfoque de resiliencia dirigidas a diferentes poblaciones, que permitan promover en las personas la clarificación de la intencionalidad de sus vidas, para que así puedan llegar a las etapas posteriores con condiciones optimizadas para un adecuado bienestar.</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">67</subfield>
+    <subfield code="a">CALIDAD DE VIDA</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">1516</subfield>
+    <subfield code="a">Arguedas Negrini, Irma</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

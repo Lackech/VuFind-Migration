@@ -1,0 +1,69 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02745nam a22002297a 4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3391</subfield>
+    <subfield code="d">3391</subfield>
+  </datafield>
+  <controlfield tag="008">170213b2016    cr a|||| |||| 00| | spa d</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9789968527378</subfield>
+  </datafield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">06.03.06</subfield>
+    <subfield code="b">2401</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">110</subfield>
+    <subfield code="a">González Zúñiga, Marianela</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Guía para el seguimiento a las personas beneficiarias de Avancemos /</subfield>
+    <subfield code="c">Marianela González Zúñiga, Yensi Vargas Sandoval y Silvia Camacho Calvo</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">INIE;</subfield>
+    <subfield code="c">Impresión de 2016</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">40 páginas; </subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield ind1=" " tag="490" ind2=" ">
+    <subfield code="a">Colección Yigüirro</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Esta guía se deriva del Proyecto de Investigación Nº724-B3-312: Modelos de seguimiento a estudiantes que se benefician con el Programa Avancemos, del Instituto de Investigación en Educación (INIE, Universidad de Costa Rica.</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">Desde el gobierno de la Presidenta Laura Chinchilla Miranda, se potencia el Programa Avancemos como instrumento para poner en marcha la política de combate a la pobreza.  El propósito último del Programa se dirige a la reducción de la pobreza, por medio de la asignación de una Transferencia Monetaria Condicionada (TMC) que busca asegurar la permanencia en el sistema educativo de la población estudiantil con dificultades económicas para hacerlo.
+El Instituto de Investigación en Educación (INIE) de la Universidad de Costa Rica ha desarrollado procesos de investigación durante el período 2010-2014 relacionados con este tema.  Con estos, ha detectado la necesidad de generar un producto concreto que contribuya al mejoramiento de esta política educativa que impacta directamente a la población juvenil y que se instala en la cotidianidad de los centros educativos.
+Como producto de la labor de investigación, se elabora la Guía y procedimientos para el seguimiento que se realiza desde los centros educativos a las personas beneficiarias de Avancemos que se relaciona con la potenciación de los procesos educativos (permanencia y éxito de diversos actores que convergen en los centros educativos y que se relacionan estrechamente con el funcionamiento del Programa Avancemos.
+El propósito fundamental de la guía es contribuir con los diversos actores involucrados en el proceso de otorgar y brindar seguimiento a los beneficiarios del Programa Avancemos, con el fin de lograr la meta original: detener el círculo intergeneracional de transmisión de la pobreza, que se ha convertido en una reproducción intergeneracional de la desigualdad social estructural existente en la sociedad.</subfield>
+  </datafield>
+  <datafield ind1="1" tag="610" ind2="4">
+    <subfield code="9">2097</subfield>
+    <subfield code="a">INSTITUTO MIXTO DE AYUDA SOCIAL</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">456</subfield>
+    <subfield code="a">EDUCACIÓN SECUNDARIA</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">82</subfield>
+    <subfield code="a">SERVICIO SOCIAL</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">746</subfield>
+    <subfield code="a">Vargas Sandoval, Yensi</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">1387</subfield>
+    <subfield code="a">Camacho Calvo, Silvia</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,46 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02405nab a2200169   4500</leader>
+  <controlfield tag="005">20160422112023.0</controlfield>
+  <controlfield tag="008">160422b2010    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">1594</subfield>
+    <subfield code="a">Romero Barquero, Cecilia Enith</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Propuesta organizacional del área de recreación para la Universidad Estatal a Distancia /</subfield>
+    <subfield code="c">Cecilia Enith Romero Barquero</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2010</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">páginas 197-230</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">El resumen consistió en realizar primero una investigación de diagnóstico del área de recreación de la Universidad Estatal a Distancia (UNED), mediante la aplicación de entrevistas al personal encargado del Programa Cultura y Deporte de la institución. A partir de los resultados de dicho diagnóstico, se diseña y presenta una propuesta organizacional, que incluye aspectos administrativos básicos como son: la misión, la visión, objetivos, estructura dentro de la Institución (organigrama), así como el respectivo reglamento orientado a darle funcionalidad al área de recreación. Es importante destacar que la población estudiantil será la que se beneficie de forma directa con los proyectos que realize el área de recreación, por lo cual esta población se considera en el desarrollo de este proyecto. Para estos efectos, se aplicó un cuestionario al alumnado del Centro Universitario de San José de la UNED, con el objetivo de obtener diferentes criterios y opiniones acerca de las actividades recreativas. Las respuestas que de ahí surgen y de acuerdo con el interés mostrado sirven, por un lado, como base para futuros proyectos recreativos que se deseen poner en práctica es este centro de estudio, específicamente en la sede de San José; por otro lado, son de utilidad para generar mayor evidencia acerca de la necesidad de un área de recreación en la Universidad, lo cual fortalece la justificación de la propuesta y las recomendaciones del presente proyecto. El trabajo establece un precedente de importancia para todas aquellas instituciones que deseen fortalecer o crear un área de recreación, ya que orienta el proceso de cómo hacerlo</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" tag="773" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0361</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.34, no.2 (jul.-dic., 2010)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3139</subfield>
+    <subfield code="d">3139</subfield>
+  </datafield>
+</record>

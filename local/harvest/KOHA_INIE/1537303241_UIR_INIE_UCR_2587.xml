@@ -1,0 +1,51 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01954nab a22001577a 4500</leader>
+  <controlfield tag="008">150527b1997    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">104</subfield>
+    <subfield code="a">Tabash Blanco, Nayibe</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Modelos que describen la organización /</subfield>
+    <subfield code="c">Nayibe Tabash Blanco</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica,</subfield>
+    <subfield code="b">Editorial Unievrsidad de Costa Rica,</subfield>
+    <subfield code="c">1997</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">páginas 121 - 134</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">En la bibliografía existe una serie de modelos teóricos que sirven para describir y analizar el conjunto o las partes de la organización universitaria. Se han encontrado en estos modelos una serie de características particulares y una percepción muy diversa de cada uno de los grupos que intentan representarla.
+Algunos de los modelos que explican la estructura y el funcionamiento de las universidades son los siguientes:
+a. Modelo burocrático: Este modelo es apto para describir y aplicar las estructuras formales de autoridad en la universidad moderna, pero los procesos informales se dejan de lado, además la Universidad aparece como una verdadera burocrácia.
+b. Modelo colegial: En éste se insiste en la necesidad de impedir que el proceso de toma de decisiones en una Universidad esté en manos de una jerarquía burocrática.
+c. Modelo político: Este modelo ayuda a identificar los procesos de cambio de recursos políticos necesarios para el progreso de una causa.
+d. Modelo de la burocracia u organización profesional: Las universidades son burocracias profesionales, no son estructuras para resolver problemas y crear nuevos programas para necesidades no previstas.
+e. Modelo de control externo: Este modelo está fundado sobre una perspectiva centrada en la necesidad de recursos externos de las organizaciones</subfield>
+  </datafield>
+  <datafield ind2="0" ind1=" " tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="0" tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0019</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.21, no.2 (1997)</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2587</subfield>
+    <subfield code="d">2587</subfield>
+  </datafield>
+</record>

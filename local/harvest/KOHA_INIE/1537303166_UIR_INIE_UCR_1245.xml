@@ -1,0 +1,61 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00746nam a2200205Ia 4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">1245</subfield>
+    <subfield code="d">1245</subfield>
+  </datafield>
+  <controlfield tag="008">170523b1997    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">02.04.02 </subfield>
+    <subfield code="b">2124</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Quirós Rodríguez, Edda</subfield>
+    <subfield code="9">2827</subfield>
+  </datafield>
+  <datafield tag="245" ind2="9" ind1="1">
+    <subfield code="a">... y no viví feliz para siempre... / </subfield>
+    <subfield code="c">Edda Quirós Rodríguez</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Centro Nacional para el Desarrollo de la Mujer y la Familia, </subfield>
+    <subfield code="c">1997</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">135 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="490" ind2=" ">
+    <subfield code="a">Colección metodologías,  </subfield>
+    <subfield code="v">7</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="490">
+    <subfield code="a">Sentir, pensar y enfrentar la violencia intrafamiliar,</subfield>
+    <subfield code="v">1</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">VIOLENCIA</subfield>
+    <subfield code="9">71</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1063</subfield>
+    <subfield code="a">VIOLENCIA DOMÉSTICA</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">VIOLENCIA CONTRA LAS MUJERES</subfield>
+    <subfield code="9">85</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">CAPACITACIÓN</subfield>
+    <subfield code="9">729</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">MEDIOS DE ENSEÑANZA</subfield>
+    <subfield code="9">29</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

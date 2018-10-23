@@ -1,0 +1,55 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03046nam a2200193Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2147</subfield>
+    <subfield code="d">2147</subfield>
+  </datafield>
+  <controlfield tag="008">180717b1998    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">14.02.03 </subfield>
+    <subfield code="b">613</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="a">Bonilla Gamboa, Flory Stella</subfield>
+    <subfield code="9">1069</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Situación de la mujer mayor en Costa Rica : sobrecargas ignoradas / </subfield>
+    <subfield code="c">Flory Stella Bonilla Gamboa</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1998</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">71 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Informe final del proyecto N° 724-97-304</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">Partiendo de que las mujeres presentan desigualdades en los campos educativo, económico, social, de salud y político, tanto en Costa Rica como en el resto del mundo, el estudio se propone estudiar la situación de las mujeres mayores que no han tenido un reconocimiento salarial pues no trabajaron en labores remuneradas. Entre los objetivos de esta investigación se encuentran identificar las labores que desempeñan estas mujeres, la importancia que se le otorga a estas, la definición de la ancianidad, los cambios de funcionalidad y el listado de las actividades recreativas que realizan las madres ancianas del estudio. Esta investigación sobre la funcionalidad percibida y su relación con la edad es de tipo cualitativo, por lo que se utilizaron la observación y las técnicas participativas de cuestionario retrospectivo y entrevista, además de diarios de actividades. Se seleccionaron 10 amas de casa de zona rural, con edades entre 70 y 80 años, que viven sin esposo ni compañero y que no son profesionales ni reciben un salario formal, y 10 hijas que conviven con ellas. El estudio aclara que el proceso de envejecimiento de las ancianas envuelve un movimiento paulatino de restricción de actividades realizadas en el exterior del hogar en el ambiente comunal, hacia tareas en el ámbito casero (preparación de alimentos, limpieza), con lo que su contacto social se limita también. Para las madres, la importancia de sus labores reside en que siguen sintiéndose útiles, capaces de velar por sí mismas y de ayudar a sus seres queridos. Para las hijas, en cambio, el trabajo que realiza la madre es un asunto práctico y de beneficio personal que las ayuda y aligera sus tareas domésticas. Un grupo familiar numeroso y demandante de cuidados parece alargar la capacidad de la mujer mayor para realizar labores domésticas pesadas, lo cual, sumado a la necesidad de enfrentar los retos de la vida sin compañero, podría incidir en el alargamiento del período funcional de las mujeres mayores del estudio. En cuanto al origen del cambio funcional, las ancianas se lo asignan a causas sociales y psicológicas (viudez, casamiento de los hijos, abandono del trabajo), más a que biológicas (edad). Hay asimismo una gran ausencia de diversión en la vida de estas mujeres, pues las actividades que mencionan pertenecen principalmente al área contemplativa o de descanso (actividades religiosas y solitarias).</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">MUJERES</subfield>
+    <subfield code="9">55</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">ADULTOS </subfield>
+    <subfield code="9">821</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">CALIDAD DE LA VIDA</subfield>
+    <subfield code="9">3974</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="651">
+    <subfield code="a">COSTA RICA</subfield>
+    <subfield code="9">47</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,44 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>     nam a22        4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">3475</subfield>
+    <subfield code="d">3475</subfield>
+  </datafield>
+  <controlfield tag="008">180222b2017    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">02.01.02</subfield>
+    <subfield code="b">2446</subfield>
+  </datafield>
+  <datafield tag="110" ind2=" " ind1="2">
+    <subfield code="9">3367</subfield>
+    <subfield code="a">Universidad de Costa Rica. Facultad de Educación. Decanato</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Plan estratégico Facultad de Educación  2017-2021 /</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">[San José, Costa Rica] :</subfield>
+    <subfield code="b">Facultad de Educación. Decanato,</subfield>
+    <subfield code="c">2017</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">15 páginas;</subfield>
+    <subfield code="e">1 folleto</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Aprobado en Asamblea de FGacultad sesión ordinaria número 03-2017</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="2" tag="610">
+    <subfield code="9">3218</subfield>
+    <subfield code="a">UNIVERSIDAD DE COSTA RICA. FACULTAD DE EDUCACION</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">762</subfield>
+    <subfield code="a">PLANIFICACIÓN ESTRATÉGICA</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

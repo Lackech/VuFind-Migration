@@ -1,0 +1,46 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02003nab a2200169   4500</leader>
+  <controlfield tag="005">20160331141125.0</controlfield>
+  <controlfield tag="008">160112b           f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">1286</subfield>
+    <subfield code="a">Salas Soto, Silvia Elena</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Diseño del curso en línea: trabajo interdisciplinario /</subfield>
+    <subfield code="c">Silvia Elena Salas Soto</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2008</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">páginas 99-122</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">El propósito de este artículo es ofrecer a los diseñadores de cursos en línea elementos a considerar en la elaboración de este tipo de cursos, dado que ésta es una tarea, la cual involucra aportes en tres dimensiones: la programación de la plataforma que asume funciones tecnológicas; la confección del curso en línea que requiere de fundamentos educativos y curriculares y la puesta en práctica del curso, la cual es mediada por un tutor o facilitador. El trabajo se organiza en cuatro apartados: el primero se relaciona con la temática del campus virtual, sus funciones y características; especial mención merece el concepto de campus virtual y el uso dado a esta herramienta. Un segundo apartado corresponde al diseño del curso en línea, el cual presenta información acerca de los ambientes virtuales de aprendizaje. El tercer punto describe elementos de la programación de la plataforma en correspondencia con el diseño del curso en línea y por último, el cuarto tema ofrece lineamientos al tutor para mediar el curso en línea. La información se sustenta desde la perspectiva teórica de estudios en este campo como Area et al. (2001); Herrera (s.f. a,b); Cenich et al (2005); Kanuka (2005); Juárez et al (2003); Picciano (2002); Anderson (2001); Barberà et al. (2001); Cabero et al. (2000) y Dorado (1996)</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0396</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.32, no.1 (2008) </subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3013</subfield>
+    <subfield code="d">3013</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,76 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00942nam a2200253Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">1076</subfield>
+    <subfield code="d">1076</subfield>
+  </datafield>
+  <controlfield tag="008">180530b2004    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="020" ind2=" ">
+    <subfield code="a">9977-67-906-1</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">13.09.09 </subfield>
+    <subfield code="b">2090</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="100">
+    <subfield code="a">Mora Burgos, Gerardo</subfield>
+    <subfield code="9">3690</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Grandes maestros costarricenses / </subfield>
+    <subfield code="c">Gerardo Mora Burgos, Claudio Monge Pereira, Carlos Rubio Torres, Jacinto Ordóñez Peñalonzo, Gerardo Cordero Cordero</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, C.R. : </subfield>
+    <subfield code="b">Editorial de la Universidad de Costa Rica, </subfield>
+    <subfield code="c">2004</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">76 páginas</subfield>
+  </datafield>
+  <datafield tag="490" ind2=" " ind1=" ">
+    <subfield code="a">Cuadernos pedagógicos,</subfield>
+    <subfield code="v">1</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="4" tag="600">
+    <subfield code="9">3691</subfield>
+    <subfield code="a">BRENES MESÉN, ROBERTO</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="4" tag="600">
+    <subfield code="9">3692</subfield>
+    <subfield code="a"> LYRA, CARMEN</subfield>
+  </datafield>
+  <datafield ind2="4" tag="600" ind1=" ">
+    <subfield code="9">3693</subfield>
+    <subfield code="a">GARCIA MONGE, JOAQUIN</subfield>
+  </datafield>
+  <datafield tag="600" ind2="4" ind1=" ">
+    <subfield code="9">3694</subfield>
+    <subfield code="a">DENGO GUERRERO, OMAR</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">DOCENTES</subfield>
+    <subfield code="9">331</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="a">Monge Pereira, Claudio</subfield>
+    <subfield code="9">260</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="a">Rubio Torres, Carlos</subfield>
+    <subfield code="9">227</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="a">Ordoñez Peñalonzo, Jacinto</subfield>
+    <subfield code="9">214</subfield>
+  </datafield>
+  <datafield ind1=" " tag="700" ind2=" ">
+    <subfield code="a">Cordero Cordero, Gerardo</subfield>
+    <subfield code="9">3695</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,54 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00695nam a2200193   4500</leader>
+  <controlfield tag="008">150910b2010    mx ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="020" ind2=" ">
+    <subfield code="a">9786070215605 (UNAM)</subfield>
+  </datafield>
+  <datafield tag="020" ind2=" " ind1=" ">
+    <subfield code="a">9786074022360 (Plaza y Valdés)</subfield>
+  </datafield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">18.01.01</subfield>
+    <subfield code="b">2272</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">978</subfield>
+    <subfield code="a">Sánchez Puentes, Ricardo</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Enseñar a investigar: una didáctica nueva de la investigación en ciencias sociales y humana /</subfield>
+    <subfield code="c">Ricardo Sánchez Puentes</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">México :</subfield>
+    <subfield code="b">Universidad Nacional Autónoma de México,</subfield>
+    <subfield code="c">2010</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">188 páginas</subfield>
+  </datafield>
+  <datafield tag="490" ind2=" " ind1=" ">
+    <subfield code="a">Educación superior contemporánea</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">276</subfield>
+    <subfield code="a">CIENCIAS SOCIALES </subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">163</subfield>
+    <subfield code="a">INVESTIGACIÓN</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">400</subfield>
+    <subfield code="a">HUMANIDADES</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2862</subfield>
+    <subfield code="d">2862</subfield>
+  </datafield>
+</record>

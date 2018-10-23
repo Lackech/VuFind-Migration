@@ -1,0 +1,47 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00798nam a2200157Ia 4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">1757</subfield>
+    <subfield code="d">1757</subfield>
+  </datafield>
+  <controlfield tag="008">141002s2006    CR            000 | und d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">06.03.06 </subfield>
+    <subfield code="b">1454</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="a">Mora Vargas, Ana Isabel</subfield>
+    <subfield code="9">129</subfield>
+  </datafield>
+  <datafield ind2="3" tag="245" ind1="1">
+    <subfield code="a">La educación abierta: Una alternativa para la educación secundaria/ </subfield>
+    <subfield code="c">Ana Isabel Mora Vargas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica: </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2006.</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">180 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="500" ind2=" ">
+    <subfield code="a">Informe Final del Proyecto de Investigación N° 724-A2-172</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">	Esta investigación tuvo como objetivo general analizar la educación secundaria abierta desde las perspectivas del desarrollo histórico y la relación entre los factores de deserción de la Educación Secundaria Formal y los factores de inserción en la Educación Secundaria Abierta. El proyecto se enmarca en un tipo de investigación descriptiva, dado que permite indagar acerca del cómo es y cómo se manifiesta la educación secundaria abierta y sus componentes. En el estudio se describe la recolección de datos obtenidos en entrevistas y la aplicación de un cuestionario a la población estudiantil. La estrategia cualitativa se apoya en el método inductivo. A través del proceso de triangulación se llega a contrastar y validad la información obtenida mediante diversas fuentes: opinión de personas encargadas de los programas de educación abierta, usuarios del servicio y documentos oficiales. Entre los resultados obtenidos están la elaboración de tres documentos productos de la investigación: • Antecedentes de la educación abierta • Hacia la construcción del marco conceptual de la educación abierta • La deserción en la educación secundaria formal e inserción en la educación abierta Se presentan consideraciones finales acerca de los resultados obtenidos y se puntualizan las conclusiones relevantes en relación con los objetivos planteados en el proyecto.</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">EDUCACIÓN SECUNDARIA</subfield>
+    <subfield code="9">456</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">SISTEMAS DE ENSEÑANZA</subfield>
+    <subfield code="9">401</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

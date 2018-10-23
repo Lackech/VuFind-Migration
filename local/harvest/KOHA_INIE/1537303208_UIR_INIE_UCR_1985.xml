@@ -1,0 +1,51 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02859nam a2200169Ia 4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">1985</subfield>
+    <subfield code="d">1985</subfield>
+  </datafield>
+  <controlfield tag="008">180704b2005    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">06.06.01 </subfield>
+    <subfield code="b">1035</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">Vindas Lara, Andrea</subfield>
+    <subfield code="9">2830</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Tendencias de graduación de la Universidad de Costa Rica 1980-1998 y 2000-2001/Andrea Vindas Lara</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2005</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">90 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Informe Final del Proyecto de Investigación N° 724-91-226</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">Este informe refleja el proceso seguido por la investigadora mediante la cual se obtuvo información de gran relevancia para la universidad y va permitir continuar con una nueva propuesta de investigación que modifique el formulario de Encuesta de Graduados de acuerdo a las necesidades actuales de la Universidad de Costa Rica. 
+Este proyecto fue elaborado en dos etapas, la primera fue realizada por Alicia Gurdián, Alicia Vargas y Olga Marta Coto para el período 1980-1990 con base en la encuesta de graduados de la Universidad de Costa Rica; la segunda etapa inicia con las tres investigadoras antes citada, sin embargo por diferentes motivos tuvieron que retirarse del proyecto. 
+Los objetivos fueron generar estadísticas descriptivas (medidas de posición, variabilidad y gráficos) para los tiempos de duración para bachillerato y licenciatura para cada una de las escuelas. Esta información se procesó con el programa SPSS y Excel; primero se dio una larga y ardua tarea de depuración de la base de datos, tarea bastante compleja y problemática. 
+Se utilizaron dos enfoques metodológicos entrelazados: el descriptivo y el interpretativo, dentro de una perspectiva macro-sociológica. Se utilizaron los siguientes instrumentos para la recopilación de la información: Datos obtenidos de la "Encuesta de nuevos graduados"; Solicitud a las unidades académicas de análisis de la información; Reunión con los consejos asesores de las diferentes Facultades de la Universidad de Costa Rica para exponer los resultados obtenidos y conocer sus opiniones al respecto. 
+Se listan los datos más importantes de las 31 unidades académicas que respondieron la encuesta. La actitud de las escuelas ante el documento fue variada, desde lo positivo y favorable hasta la no respuesta. 
+Como consideraciones finales, la autora ofrece una lista de aspectos necesarios a reflexionar y tomar las medidas correctivas necesarias en caso de que se presenten en la unidad académica o en el plan de estudios y que afecten entre otras cosas el tiempo de duración para obtener el título. Ofrece una lista de recomendaciones para valorar. Como anexos se incluyen los instrumentos utilizados durante la investigación, así como cuadros y gráficos con datos de las unidades académicas.</subfield>
+  </datafield>
+  <datafield ind2="0" ind1=" " tag="610">
+    <subfield code="9">714</subfield>
+    <subfield code="a">UNIVERSIDAD DE COSTA RICA</subfield>
+  </datafield>
+  <datafield ind2="0" ind1=" " tag="650">
+    <subfield code="a">GRADUADOS</subfield>
+    <subfield code="9">779</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

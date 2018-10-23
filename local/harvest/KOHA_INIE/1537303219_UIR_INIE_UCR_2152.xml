@@ -1,0 +1,59 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02719nam a2200205 a 4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">2152</subfield>
+    <subfield code="d">2152</subfield>
+  </datafield>
+  <controlfield tag="008">150806b2000    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">14.02.03 </subfield>
+    <subfield code="b">984 </subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Villarreal Montoya, Cecilia</subfield>
+    <subfield code="9">254</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Percepciones sobre la femineidad y sus implicaciones vocacionales en mujeres adolescentes / </subfield>
+    <subfield code="c">Cecilia Villarreal Montoya, Laura Mora Zúñiga, Gabriela Muñoz Porras</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC,</subfield>
+    <subfield code="c">2000</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">73 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Informe Final del Proyecto 724-98-433</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">En este trabajo, se presentan definiciones de feminidad y masculinidad, y las implicaciones que tales principios involucran en el ámbito sociocultural costarricense; especialmente, en lo que tiene que ver con la elección vocacional. El estudio se realizó con la participación de nueve adolescentes que estudiaban en tres colegios técnicos de San José, las cuales, optaron por especialidades que tradicionalmente son profesiones masculinas. A través del estudio, se presentan detalles, opiniones y sucesos que muestran cómo se perciben a sí mismas estas jóvenes y cómo las ven sus compañeros y familiares. Según la investigación, las adolescentes participantes en el estudio, manifiestan que existen limitaciones y controles, normalmente aplicados a las mujeres, que interfieren con su desarrollo y con seguir la profesión de su agrado. Además, el papel femenino tradicional y el machismo, hacen que se dificulten aún más las cosas; entre estas percepciones, está el ideal de "mujer bella", la mujer vista como un objeto sexual, la mujer-madre y la idea de que los hombres pueden realizar trabajos más pesados porque son más fuertes. Por lo tanto, para las adolescentes que ingresan a una carrera que normalmente es concebida para hombres, afrontan, además de la problemática de esta edad, la integración de dos dimensiones femeninas contrapuestas entre sí. Al parecer, la buena relación de estas muchachas con la figura paterna, y el haber tenido una infancia bastante libre, repercute en la elección vocacional que han realizado. Por otra parte, la educación técnica es visualizada por estas jóvenes, como una posibilidad de certificarse en una institución prestigiosa y asumir un trabajo que les permita costearse sus estudios universitarios. Además, especializarse en oficios identificados como masculinos, les permite obtener reconocimiento y prestigio como mujeres no tradicionales y la posibilidad de una mejor remuneración futura.</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">MUJERES</subfield>
+    <subfield code="9">55</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">ADOLESCENTES</subfield>
+    <subfield code="9">5</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">ELECCIÓN DE UNA OCUPACIÓN</subfield>
+    <subfield code="9">1161</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="a">Muñoz Porras, Gabriela</subfield>
+    <subfield code="9">616</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Villarreal Montoya, Cecilia</subfield>
+    <subfield code="9">254</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,60 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00926nam a2200181Ia 4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">1419</subfield>
+    <subfield code="d">1419</subfield>
+  </datafield>
+  <controlfield tag="008">170928b1985    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">06.02.01 </subfield>
+    <subfield code="b">100</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="a">Rojas Porras, Marta</subfield>
+    <subfield code="9">108</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Diagnóstico evaluativo de la enseñanza del español en la Educación General Básica y Educación Diversificada : rendimiento académico / </subfield>
+    <subfield code="c">Marta Rojas Porras, Nidia García Lizano, Damaris Fajardo Salas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José,Costa Rica. : </subfield>
+    <subfield code="b"> IIMEC, </subfield>
+    <subfield code="c">1985</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">310 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">El Objetivo general de este estudio es determinar el aprovechamiento de los alumnos en Español al finalizar cada uno de los ciclos, en el quinto año de la Educación General Básica y el décimo año de la Educación Diversificada. En el informe se reconoce que la enseñanza de la lengua materna debe ser un proceso integrador y coherente, no obstante, para efectos de evaluar el rendimiento académico que obtienen los alumnos en Español, fue necesario dividir los contenidos que se enseñan en esta asignatura de la siguiente manera: lectura-literatura, escucha, expresión escrita, gramática y ortografía. Se presentan informes separados de cada área evaluada, en ellos se analizan los resultados de las pruebas de conocimientos mínimos de español, aplicadas a alumnos de cuarto, sexto, sétimo, décimo y undécimo años. Cada informe consta de introducción, procedimientos y métodos de trabajo, análisis de resultados, conclusiones y recomendaciones. En cada área el análisis es normativo e incluye puntajes, medias aritméticas, análisis de varianza y pruebas de contraste de medias a posteriori. En las áreas en las que se estableció dominio por objetivos, se hace un análisis con referencia criterios. La población de este estudio la constituyen todas las instituciones oficiales de la Educación General Básica y Educación Diversificada, según la división territorial del Plan de Regionalización del Sistema Educativo Costarricense, vigente hasta diciembre de 1983. La muestra fue escogida mediante un proceso aleatorio y estratificado por región, trabajando con un total de 43 colegios y 127 escuelas</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">RENDIMIENTO ACADÉMICO</subfield>
+    <subfield code="9">1095</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">ESPAÑOL</subfield>
+    <subfield code="9">36</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">EDUCACIÓN PRIMARIA</subfield>
+    <subfield code="9">367</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">EDUCACIÓN SECUNDARIA</subfield>
+    <subfield code="9">456</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="a">García Lizano, Nidia</subfield>
+    <subfield code="9">107</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="a">Fajardo Salas, Damaris</subfield>
+    <subfield code="9">3209</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

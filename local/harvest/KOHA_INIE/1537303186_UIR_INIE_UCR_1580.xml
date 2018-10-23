@@ -1,0 +1,55 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00645nam a2200181Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">1580</subfield>
+    <subfield code="d">1580</subfield>
+  </datafield>
+  <controlfield tag="008">180228b2009    c  ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">06.02.02 </subfield>
+    <subfield code="b">2026</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Redondo Rojo, Jesús M.</subfield>
+    <subfield code="9">1668</subfield>
+    <subfield code="e">Editor/a</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Juventud y enseñanza media en Chile del bicentenario: antecedentes de la revolución pingüina / </subfield>
+    <subfield code="c">Jesús Redondo; Lorena Muñoz, editores</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Chile : </subfield>
+    <subfield code="b">Observatorio Chileno de Políticas Educativas, </subfield>
+    <subfield code="c">[2009?] </subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">456 páginas</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">DERECHO A LA EDUCACIÓN</subfield>
+    <subfield code="9">599</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">JUVENTUD</subfield>
+    <subfield code="9">476</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">CALIDAD DE LA EDUCACIÓN</subfield>
+    <subfield code="9">11</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">CONVIVENCIA ESCOLAR</subfield>
+    <subfield code="9">691</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Muñoz Muñoz, Lorena</subfield>
+    <subfield code="9">3431</subfield>
+    <subfield code="e">Editor/a</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

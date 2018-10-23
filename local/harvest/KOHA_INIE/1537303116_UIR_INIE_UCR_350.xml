@@ -1,0 +1,70 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00739nam a2200229Ia 4500</leader>
+  <controlfield tag="008">160204b2000    AG ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="020" ind1=" ">
+    <subfield code="a">9507862501</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">06.03.06 </subfield>
+    <subfield code="b">1474</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="0">
+    <subfield code="a">Educación Superior en el Siglo XXI. Desafío Global y Respuesta Nacional / </subfield>
+    <subfield code="c">Philip G Altbach (ed.), Patti McGill Peterson (ed.)</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">Buenos Aires, Argentina : </subfield>
+    <subfield code="b">Biblos, </subfield>
+    <subfield code="c">2000</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">126 páginas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">8</subfield>
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">TRABAJO</subfield>
+    <subfield code="9">886</subfield>
+  </datafield>
+  <datafield ind1=" " tag="651" ind2="4">
+    <subfield code="a">CHINA</subfield>
+    <subfield code="9">415</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="4">
+    <subfield code="a">INDIA</subfield>
+    <subfield code="9">1421</subfield>
+  </datafield>
+  <datafield ind2="4" tag="651" ind1=" ">
+    <subfield code="a">AFRICA</subfield>
+    <subfield code="9">537</subfield>
+  </datafield>
+  <datafield ind1=" " tag="651" ind2="4">
+    <subfield code="a">AMÉRICA LATINA</subfield>
+    <subfield code="9">273</subfield>
+  </datafield>
+  <datafield ind2="4" tag="651" ind1=" ">
+    <subfield code="a">EUROPA</subfield>
+    <subfield code="9">1005</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="a">Altbach, Philip G.  </subfield>
+    <subfield code="9">1422</subfield>
+    <subfield code="e">Editor</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="a">Patti McGill Peterson</subfield>
+    <subfield code="9">1423</subfield>
+    <subfield code="e">Editor</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">350</subfield>
+    <subfield code="d">350</subfield>
+  </datafield>
+</record>

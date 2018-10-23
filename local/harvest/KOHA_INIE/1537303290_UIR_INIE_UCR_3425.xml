@@ -1,0 +1,74 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00929nam a22002657a 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">3425</subfield>
+    <subfield code="d">3425</subfield>
+  </datafield>
+  <controlfield tag="003">cru INIE</controlfield>
+  <controlfield tag="005">20180424160100.0</controlfield>
+  <controlfield tag="008">170712b2007    cr a|||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="020">
+    <subfield code="a">9968250856</subfield>
+  </datafield>
+  <datafield tag="040" ind2=" " ind1=" ">
+    <subfield code="c">cru inie</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">04.02.03</subfield>
+    <subfield code="b">1587</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">1702</subfield>
+    <subfield code="a">Ramírez Villegas, Suiyen</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Aprendo, juego y celebro fechas importantes de mi país /</subfield>
+    <subfield code="c">Suiyen Ramírez Villegas, Instituto Nacional de las mujeres</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">INAMU,</subfield>
+    <subfield code="c">2007</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">29 páginas;</subfield>
+    <subfield code="b">Ilustraciones,</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="490">
+    <subfield code="a">Colección Metodologías,</subfield>
+    <subfield code="v">13</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">952</subfield>
+    <subfield code="a"> IGUALDAD DE OPORTUNIDADES</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">896</subfield>
+    <subfield code="a">DISCRIMINACIÓN BASADA EN EL GÉNERO </subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">830</subfield>
+    <subfield code="a">MODELO EDUCACIONAL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1364</subfield>
+    <subfield code="a">PROGRAMA DE ESTUDIOS</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">367</subfield>
+    <subfield code="a">EDUCACIÓN PRIMARIA</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="9">1766</subfield>
+    <subfield code="a">Instituto Nacional de las Mujeres</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

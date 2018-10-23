@@ -1,0 +1,67 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03736nam a2200229Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2154</subfield>
+    <subfield code="d">2154</subfield>
+  </datafield>
+  <controlfield tag="008">180717b1991    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">14.02.04 </subfield>
+    <subfield code="b">103</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="a">Stupp Kupiec, Roxana</subfield>
+    <subfield code="9">161</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Investigación evaluativa de la participación de la familia en la atención de individuos con necesidades especiales y la utilización de recursos disponibles en un contexto comunitario costarricense / </subfield>
+    <subfield code="c">Roxana Stupp Kupiec, Soledad Chavarría Navas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1991</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">99 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Informe final del proyecto de investigación</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">Estudio cualitativo que emplea la entrevista semiestructurada y la observación participativa como técnicas etnográficas en la recolección de los datos necesarios para evaluar, entre otros aspectos, las necesidades y la participación del grupo familiar en el proceso educativo de los individuos con necesidades especiales, así como también la utilización, que las familias en estudio, hacen de los recursos disponibles en la comunidad a la cual pertenecen. Para esta investigación se trabajó con treinta y seis familias que residían en el distrito de San Rafael de Oreamuno, en Cartago. Su localización no fue un procedimiento realizado al azar, sino que obedeció a los objetivos específicos de la investigación. Los datos pertinentes fueron recogidos entre noviembre de 1988 y abril de 1990. La revisión de la literatura sobre el tema, permitió establecer que en Costa Rica los servicios de educación especial se han ofrecido en tres fases. La primera corresponde al modelo existente antes de los años sesenta, en el cual la familia no tenía una participación activa en la educación de los individuos con discapacidades. La segunda fase se inicia en los años setenta, durante los cuales se brinda a los padres más información sobre los problemas y entrenamiento para la atención de estos niños. La tercera fase se inicia en la década de los ochenta, cuando se empieza a establecer una relación más cercana entre los profesionales de Educación Especial y los padres de niños con discapacidades. En esta investigación se plantea el concepto de familia como ecosistema, pues permite percibirla dentro de un amplio espectro que abarca a todos sus miembros y a los agentes externos que podrían tener algún efecto en la interacción familiar. También se establecen las necesidades y funciones de la familia del individuo con necesidades especiales. El análisis de la información comprendió dos etapas: el análisis émico y el análisis ético. Los resultados se estructuran en tres ejes: la familia, la educación y la salud. Las conclusiones se exponen de acuerdo con los objetivos planteados. De manera general, se concluye que las familias que se han beneficiado de los servicios educativos consideran la escuela como la entidad que los ha orientado en la etapa de estimulación temprana. Sin embargo, se requiere que asuma un rol más activo en el campo de la orientación familiar y en la prevención de la rehabilitación. Se afirma, además, que tanto la escuela como las familias y la comunidad funcionan en sistemas paralelos, sin ningún grado de convergencia. Finalmente, se aclara que los padres necesitan conocer la existencia y funcionamiento de los servicios de salud y de educación presentes en la comunidad, pues solo los utilizan en la medida en que los conozcan y de acuerdo con las posibilidades de acceso a ellos.</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">FAMILIA</subfield>
+    <subfield code="9">404</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">SALUD</subfield>
+    <subfield code="9">268</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">DERECHO</subfield>
+    <subfield code="9">823</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">PADRES</subfield>
+    <subfield code="9">405</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">EDUCACIÓN ESPECIAL</subfield>
+    <subfield code="9">817</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">INVESTIGACIÓN</subfield>
+    <subfield code="9">163</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Chavarría Navas, Soledad</subfield>
+    <subfield code="9">146</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

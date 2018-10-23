@@ -1,0 +1,59 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02425nab a2200205   4500</leader>
+  <controlfield tag="005">20160831161019.0</controlfield>
+  <controlfield tag="008">160126b           f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">1327</subfield>
+    <subfield code="a">Torres Narváez, Martha Rocío</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Hábitos de estudio vs fracaso académico /</subfield>
+    <subfield code="c">Martha Rocío Torres Narváez, Angélica María Monsalve Robayo, María del Carmen Urrea González, Ingrid Tolosa Guzmán, </subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2009</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">páginas 15-24</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">El objetivo del artículo es exponer algunas estrategias de apoyo pedagógico que, articuladas con la estructura curricular del Programa de Fisioterapia de la Universidad de Rosario, apoyan el proceso de aprendizaje de los estudiantes a partir de las categorías analizadas con la aplicación del instrumento "Inventario de hábitos de estudio" a los estudiantes que cursaron una de las asignaturas de mayor fracaso académico.  Los hábitos de estudio tienen una implicación en el rendimiento académico y esto influye en cómo se enfrenta el reto de asumir las responsabilidades de ser universitario.  Como parte de la metodología, se realizó un análisis de los resultados de la aplicación del inventario antes nombrado, en aras de identificar y replantear las estrategias pedagógicas.
+Para esto se revisaron los planes de asignaturas y se determinaron las actividades extracurriculares que se diseñaron para abordar la problemática de la deserción estudiantil relacionada con el fracaso académico.  El estudio realizado determinó la importancia del desarollo de habilidades o hábitos de estudio apropiados para el buen desempeño del estudiante Universitario.  Además, comprobó que deben considerarse en el entorno universitario la cultura de aprendizaje en el proceso de formación, las habilidades de trabajo en equipo, la apropiación y el desarrollo de conocimiento, así como las buenas relaciones interpersonales, para disminuir el fracaso académico y mejorar los hábitos de estudio</subfield>
+  </datafield>
+  <datafield ind1="4" ind2="1" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">1333</subfield>
+    <subfield code="a">Urrea González, María del Carmen</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">1334</subfield>
+    <subfield code="a">Tolosa Guzmán, Ingrid</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">1336</subfield>
+    <subfield code="a">Monsalve Robayo, Angélica María</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="0" tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0312</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.33, no.2 (2009)</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">3033</subfield>
+    <subfield code="d">3033</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,46 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01545nab a2200169   4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">2725</subfield>
+    <subfield code="d">2725</subfield>
+  </datafield>
+  <controlfield tag="005">20170201142240.0</controlfield>
+  <controlfield tag="008">150702b2001    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">1229</subfield>
+    <subfield code="a">Garbanzo Vargas, Guiselle María</subfield>
+  </datafield>
+  <datafield tag="245" ind2="3" ind1="1">
+    <subfield code="a">La administración curricular en la educación superior caso de la Universidad de Costa Rica /</subfield>
+    <subfield code="c">Guiselle M. Garbanzo Vargas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2001</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">páginas 25-39</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">Esta investigación analiza la administración curricular en la educación superior pública, concretamente el caso de la Universidad de Costa Rica, en su sede central. En ella se revisan los procedimientos administrativos que emplean las unidades académicas en la gestión curricular, así como sus principales obstáculos y fortalezas en dicha área. Se complementa el estudio con la determinación de cómo se preparan  estas unidades académicas en materia curricular ante las demandas de la modernidad. Reúne el criterio de directores y directoras de las unidades académicas de distintas áreas de esta casa de estudios.  Se enfatiza en la necesidad de que la administración universitaria, en sus políticas de desarrollo institucional, contribuya  a fortalecer el compromiso docente en los replanteamientos curriculares</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind1="0" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0189</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.25, no.2  (2001)</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+</record>

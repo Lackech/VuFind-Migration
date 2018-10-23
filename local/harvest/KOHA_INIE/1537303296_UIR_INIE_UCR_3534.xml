@@ -1,0 +1,65 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00865nam a2200217   4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">3534</subfield>
+    <subfield code="d">3534</subfield>
+  </datafield>
+  <controlfield tag="008">180702b2014    ag a|||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="020">
+    <subfield code="a">9789500010467</subfield>
+  </datafield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">06.03.07</subfield>
+    <subfield code="b">2459</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="9">3882</subfield>
+    <subfield code="a">Cortez, Gerónimo Leonardo</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Radiaciones: Una mirada multidimensional /</subfield>
+    <subfield code="c">Gerónimo Leonardo Cortez, Néstor Camino, Liliana Lacolla, María Laura Melchiorre, María Eugenia Huaranca, Miguel Curell</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">[Buenos Aires, Argentina] :</subfield>
+    <subfield code="b">Ministerio de Educación de la Nación,</subfield>
+    <subfield code="c">[2014]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">192 p{aginas;</subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield ind2=" " tag="490" ind1=" ">
+    <subfield code="a">Escritura en ciencias,</subfield>
+    <subfield code="v">17</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">996</subfield>
+    <subfield code="a">ENSEÑANZA DE LAS CIENCIAS </subfield>
+  </datafield>
+  <datafield ind1=" " tag="700" ind2=" ">
+    <subfield code="9">3883</subfield>
+    <subfield code="a">Camino, Néstor </subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="700">
+    <subfield code="9">3884</subfield>
+    <subfield code="a">Lacolla, Liliana </subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1=" ">
+    <subfield code="9">3885</subfield>
+    <subfield code="a">Melchiorre, María Laura </subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="700">
+    <subfield code="9">3886</subfield>
+    <subfield code="a">Huaranca, María Eugenia </subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1=" ">
+    <subfield code="9">3887</subfield>
+    <subfield code="a"> Curell, Miguel</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

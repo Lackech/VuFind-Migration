@@ -1,0 +1,51 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01211nab a2200181   4500</leader>
+  <controlfield tag="005">20160328162341.0</controlfield>
+  <controlfield tag="008">150813b2002    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">858</subfield>
+    <subfield code="a">Lira Valdivia, Rosa Inés</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="3">
+    <subfield code="a">El aprendizaje en-línea: Una experiencia en el Instituto Tecnológico de Costa Rica /</subfield>
+    <subfield code="c">Rosa Inés Lira Valdivia, Andrei Fëdorov Fëdorov.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2002</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">páginas 197-212</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">La ponencia pretende compartir una experiencia significativa en el ámbito  de los cursos virtuales o de la comunicación mediada por computadora. Se enmarca en el contexto de la experiencia generada en el Instituto Tecnológico de Costa Rica, a través del TEC-Virtual cuyo objetivo es producir y poner a disposición de la comunidad cursos universitarios de alta calidad tecnológica y pedagógica en la modalidad asincrónica</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">859</subfield>
+    <subfield code="a">Fëdorov Fëdorov, Andrei </subfield>
+    <subfield code="c">coautor</subfield>
+  </datafield>
+  <datafield tag="773" ind1="0" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0059</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.26, no.2  (2002)</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2815</subfield>
+    <subfield code="d">2815</subfield>
+  </datafield>
+</record>

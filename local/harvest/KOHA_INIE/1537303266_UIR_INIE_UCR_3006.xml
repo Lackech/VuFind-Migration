@@ -1,0 +1,46 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01588nab a2200169   4500</leader>
+  <controlfield tag="005">20160331140834.0</controlfield>
+  <controlfield tag="008">160107b2008    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">1274</subfield>
+    <subfield code="a">Arce Navarro, María Gabriela</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="3">
+    <subfield code="a">La profesionalización del recurso humano policial. Aspectos curriculares que se deben contemplar /</subfield>
+    <subfield code="c">María Gabriela Arce Navarro</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2008</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">páginas 27-44</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">Este artículo desarrolla una propuesta de organización curricular que garantice el alcance de los objetivos, metas y funciones encomendadas a la Escuela Nacionalde Policía, entidad a la que le ha sido conferida la potestad para formar y capacitar a las personas encargadas de velar por la seguridad ciudadana de nuestro país. La propuesta considera elementos aún no establecidos por este centro educativo, aportando avances curriculares significativos para la futura implementación del currículo. Por otro lado, describe los componentes que caracterizan el actual currículo de la Escuela, develando aspectos relevantes para la formación y capacitación policial, así como la apertura de esta Institución a los enfoques por competencias laborales, campo en el que incursionó con la implementación del actual Curso Básico Policial por Competencias Laborales</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="0" tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0396</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.32, no.1 (2008)</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">3006</subfield>
+    <subfield code="d">3006</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,59 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00655nam a2200205Ia 4500</leader>
+  <controlfield tag="008">150716b1992    u  ||||| |||| 00| | en  d</controlfield>
+  <datafield tag="020" ind2=" " ind1=" ">
+    <subfield code="a">087367457</subfield>
+  </datafield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">06.02.05 </subfield>
+    <subfield code="b">1200</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1=" ">
+    <subfield code="a">Jordan, K. Forbis</subfield>
+    <subfield code="9">360</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Financing Public Education in an Era of Change / </subfield>
+    <subfield code="c">K. Forbis Jordan, Teresa S. Lyon</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">Indiana : </subfield>
+    <subfield code="b">Phi Delta Kappa, </subfield>
+    <subfield code="c">1992 </subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">121 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Material en idioma inglés</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">FINANCIAMIENTO DE LA EDUCACIÓN </subfield>
+    <subfield code="9">338</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">ESCUELAS </subfield>
+    <subfield code="9">300</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">RECURSOS ECONÓMICOS</subfield>
+    <subfield code="9">361</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">ASPECTOS DEMOGRÁFICOS</subfield>
+    <subfield code="9">362</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">363</subfield>
+    <subfield code="a">Lyon, Teresa S. </subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">48</subfield>
+    <subfield code="d">48</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,73 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00936nam a2200241Ia 4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">792</subfield>
+    <subfield code="d">792</subfield>
+  </datafield>
+  <controlfield tag="008">170712b2005    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9968250716</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">04.02.03  </subfield>
+    <subfield code="b">1585</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">2993</subfield>
+    <subfield code="a">Ramírez, Suiyen</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Promoviendo la igualdad de oportunidades y la equidad de género para las niñas en edad escolar / </subfield>
+    <subfield code="c">Suiyen Ramírez, Isabel Cascante, Christiane Eppelin R, Gabriela Espinoza, Lorena Flores</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica. : </subfield>
+    <subfield code="b">INAMU, </subfield>
+    <subfield code="c">2005</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">42 páginas</subfield>
+  </datafield>
+  <datafield tag="490" ind1=" " ind2=" ">
+    <subfield code="a">Colección temática, </subfield>
+    <subfield code="v">7</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a"> IGUALDAD DE OPORTUNIDADES</subfield>
+    <subfield code="9">952</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">956</subfield>
+    <subfield code="a">IGUALDAD DE GÉNERO </subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">DISCRIMINACIÓN BASADA EN EL GÉNERO </subfield>
+    <subfield code="9">896</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="9">2994</subfield>
+    <subfield code="a">Cascante, Isabel</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="9">2995</subfield>
+    <subfield code="a">Eppelin R., Chistiane</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="9">2996</subfield>
+    <subfield code="a">Espinoza, Gabriela</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">2997</subfield>
+    <subfield code="a">Espinoza, Gabriela</subfield>
+    <subfield code="e">Coordinación General y Edición</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

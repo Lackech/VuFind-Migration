@@ -1,0 +1,47 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01736nab a2200169   4500</leader>
+  <controlfield tag="005">20160328164002.0</controlfield>
+  <controlfield tag="008">150924b2004    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">1082</subfield>
+    <subfield code="a">Castro Bonilla, Julieta</subfield>
+  </datafield>
+  <datafield tag="245" ind2="3" ind1="1">
+    <subfield code="a">La apropiación de conocimientos a partir de la expresión plástica /</subfield>
+    <subfield code="c"> Julieta Castro Bonilla</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2004</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">páginas 99-109</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">En el presente artículo se reflexiona y se expone parte de los resultados de un trabajo investigativo referido a la apropiación de conocimientos mediante la expresión plástica, actividad en la que participaron docentes y estudiantes escolares pertenecientes a la modalidad educativa denominada "Aula Abierta". 
+Concluída la investigación, queda manifiesto que el estudio, la indagación, la reflexión y la búsqueda sistemática de conocimientos y formas de aprender y enseñar de parte del docente, son elementos fundamentales que propician cambios cualitativos en la formación académica de éste, lo que le permite llevar al aula formas innovadoras para lograr aprendizajes significativos en sus estudiantes. El diseño de situaciones de aprendizaje desde una perspectiva constructivista, holísta y lúdica, así como el aprovechamiento de contextos, permitieron el logro de aprendizajes cognitivos, afectivos y psicomotores mediante la expresión de actividades plásticas, lo que posibilita al joven el desarrollo de una personalidad integral</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind2=" " ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0215</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.28, no.1 (2004)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2893</subfield>
+    <subfield code="d">2893</subfield>
+  </datafield>
+</record>

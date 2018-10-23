@@ -1,0 +1,53 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00568nam a2200181Ia 4500</leader>
+  <controlfield tag="008">150714b1993    u  ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="020" ind2=" ">
+    <subfield code="a">0195208838</subfield>
+  </datafield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">03.02.01 </subfield>
+    <subfield code="b">979</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Costa Rica and Uruguay / </subfield>
+    <subfield code="c">Simon Rottenberg, editor</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">Washington D.C., Estados Unidos : </subfield>
+    <subfield code="c">Oxford University Press, Inc., </subfield>
+    <subfield code="c">1993</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">183 páginas</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">CONDICIONES ECONÓMICAS</subfield>
+    <subfield code="9">269</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">DISTRIBUCIÓN DEL INGRESO</subfield>
+    <subfield code="9">270</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="4">
+    <subfield code="a">COSTA RICA</subfield>
+    <subfield code="9">47</subfield>
+  </datafield>
+  <datafield ind2="4" tag="651" ind1=" ">
+    <subfield code="a">URUGUAY</subfield>
+    <subfield code="9">271</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2=" ">
+    <subfield code="a">Rottenberg, Simon</subfield>
+    <subfield code="9">272</subfield>
+    <subfield code="e">Editor</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">15</subfield>
+    <subfield code="d">15</subfield>
+  </datafield>
+</record>

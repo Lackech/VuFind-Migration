@@ -1,0 +1,55 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00671nab a2200181   4500</leader>
+  <controlfield tag="008">150518b1998    CL ||||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">REVIS 15.04.04</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">68</subfield>
+    <subfield code="a">Meacham, Deborah</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Niñas y jóvenes luchando por sus derechos /</subfield>
+    <subfield code="c">Deborah  Meacham</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Chile :</subfield>
+    <subfield code="b">Red de Salud de las mujeres latinoamericanas y del caribe,</subfield>
+    <subfield code="c">1998</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">páginas 33-56</subfield>
+  </datafield>
+  <datafield ind2="0" ind1=" " tag="650">
+    <subfield code="9">5</subfield>
+    <subfield code="a">ADOLESCENTES</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">84</subfield>
+    <subfield code="a">DERECHOS DE LA MUJER</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">60</subfield>
+    <subfield code="a">NIÑAS</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">71</subfield>
+    <subfield code="a">VIOLENCIA</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="0" tag="773">
+    <subfield code="d">Chile : Red de Salud de las Mujeres Lationamericanas 1997-</subfield>
+    <subfield code="o">R0031</subfield>
+    <subfield code="t">Revista Mujer Salud</subfield>
+    <subfield code="x">0716-8381</subfield>
+    <subfield code="g">No.3 (julio-setiembre, 1998)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2573</subfield>
+    <subfield code="d">2573</subfield>
+  </datafield>
+</record>

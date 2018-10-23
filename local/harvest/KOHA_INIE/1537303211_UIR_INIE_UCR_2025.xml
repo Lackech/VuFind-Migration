@@ -1,0 +1,63 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03003nam a2200217Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2025</subfield>
+    <subfield code="d">2025</subfield>
+  </datafield>
+  <controlfield tag="008">180706b1994    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">06.06.02 </subfield>
+    <subfield code="b">82</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="100">
+    <subfield code="a">Urpí Mora, Hilda</subfield>
+    <subfield code="9">3954</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Necesidades y alternativas de capacitación en salud y nutrición para docentes de preescolar y primaria de la Dirección General de Enseñanza de San Ramón y Subregión Occidental de Salud / </subfield>
+    <subfield code="c">Hilda Urpi Mora, Mariana Chávez Araya</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1994</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">98 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Informe final investigación No. 724-91-591</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">Según las investigadoras, el estudio permitió determinar una serie de indicadores sobre necesidades de capacitación de los docentes de preescolar y primaria de la Región de Occidente, específicamente en el área de salud y nutrición. La investigación se llevó a cabo mediante una encuesta que contestaron 41 educadores de preescolar y 79 de primaria, además de la observación directa por parte de las encargadas del estudio. El informe incluye algunas conclusiones de mucha relevancia para la toma de decisiones al respecto: la mayor concentración de centros de educación preescolar se encuentran en zonas urbanas, y de estos los que más se han desarrollado son los jardines infantiles. Los educadores recurren a tres fuentes (libros, revistas y la prensa) para integrar la temática de salud y nutrición en sus clases, pues es poco el asesoramiento que ofrecen el MEP y el Ministerio de Salud. El 66% de los educadores de preescolar no han recibido capacitación en el área de salud y nutrición, en general no cuentan con conocimientos básicos sobre el tema y pueden ser el origen del desarrollo de ciertas conductas y actitudes negativas hacia esta área (por ejemplo, considerar que el consumo de grasas y sal en exceso es recomendable para la buena nutrición), desconocen la implicación que tiene la nutrición poco satisfactoria en alteraciones significativas de mortalidad en Costa Rica (cáncer de colon, problemas cardiacos y renales, diverticulosis) y están influidos por creencias falsas con respecto a los alimentos (como el considerar el consumo de remolacha y caldo de frijol bueno para la sangre, y creer que la gelatina es muy nutritiva). Este mismo patrón se repite en relación con los docentes de primaria. Ambos grupos están conscientes de la importancia de retomar estos temas en los programas de estudio, pero no cuentan con los conocimientos que les permitan llevarlo a cabo. Finalmente, el informe reseña los resultados de cinco talleres que se realizaron para determinar el perfil profesional de los docentes en las áreas de salud y nutrición, y da algunas recomendaciones sobre la solución del problema estudiado.</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">FORMACIÓN DE DOCENTES</subfield>
+    <subfield code="9">9</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">SALUD</subfield>
+    <subfield code="9">268</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">NUTRICIÓN</subfield>
+    <subfield code="9">534</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">EDUCACIÓN PRIMARIA</subfield>
+    <subfield code="9">367</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">EDUCACIÓN PREESCOLAR</subfield>
+    <subfield code="9">455</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="700">
+    <subfield code="a">Chávez Araya, Mariana</subfield>
+    <subfield code="9">3955</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

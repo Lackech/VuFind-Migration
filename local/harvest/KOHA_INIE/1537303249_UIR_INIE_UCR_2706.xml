@@ -1,0 +1,54 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>04412nab a22001577a 4500</leader>
+  <controlfield tag="008">150624b2000    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">227</subfield>
+    <subfield code="a">Rubio Torres, Carlos</subfield>
+  </datafield>
+  <datafield ind2="2" ind1="1" tag="245">
+    <subfield code="a">¿Existe una literatura para la infancia? /</subfield>
+    <subfield code="c"> Carlos Rubio Torres</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2000</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">páginas 155-159</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">¿Existe la literatura infatil? Son múltiples las respuestas que ofrecen escritores, investigadores literarios, educadores, padres de familia, psicólogos, psicoanalistas y un sinfin de personas cuyo común denominador es el de ser adultos. Rara vez se toma en cuenta la percepción de los propios niños acerca de los que ellos leen -o lo que desean leer-.
+Resulta pertinente retomar este tema acá y enfrentar el concepto de literatura infantil con algunos postulados del psicoanálisis, el cual podríamos concebir como un saber, un arte o una ética. Poca injerencia ha tenido el discurso psicoanalítico en el campo educativo costarricense. Por este motivo, sirvan estas reflexiones para intentar desentrañar la relación texto-niño a partir de algunos postulados freudianos.
+Resulta curioso que la mayoría de los estudiosos de temas relacionados con la literatura infantil mantenemos alguna relación con la educación. Las únicas facultades que ofrecen cursos de literatura infantil, son las de Educación. -Sería de particular interés estudiar por qué los centros formadores de filólogos, lingüistas y estudiosos de la literatura no se ocupan, salvo raras excepciones, de esta área-. Es paradójico  que ese matrimonio entre literatura y educación no siempre sea el más afortunado. Más parece una unión forzada , donde cada uno de los miembros lucha por mantener su esencia. Donde cada uno corre el riesgo de anularse y perderse entre las redes del otro.
+Lo preocupante es... ¿Por qué la literatura infantil no se estudia por sí misma  en el contexto universitario? ¿Es esa dependencia de la educación un factor en su contra o a su favor?
+En este trabajo se señala que la educación, en su búsqueda  de construcción de conocimiento, hace especial énfasis en la inserción exitosa en sociedad. Tal inserción nos conduce al ideal de la completud. Aquél, amo y dueño del dato se encuentra por encima de  los demás. Es el exitoso, el completo, detiene dentro de sí ese conocimiento que les falta a los otros. Pertenece a su espacio y a su tiempo, por lo tanto, conoce  los aspectos propios de lo real -no necesariamente de la realidad-. Reproduce, sí, pero reproduce datos. Uno tras otro, los datos se van acumulando hasta formar pirámides de conocimiento. El que logra penetrar los umbrales de esos edificios de datos, es el dueño de la verdad.
+La educación se encuentra del lado del producto, aunque  las epistemologías contemporáneas, como el constructivismo, enfatizan  el proceso. No en vano, los sistemas educativos insisten en la producción de una prueba que sirva para medir o evaluar el nivel de conocimiento. Ésta puede ser el examen, el trabajo escrito, la conferencia, la defensa de una tesis... El profesor necesita dar fe del aprendizaje y, sólo puede lograrlo, por medio del juicio emitido sobre el proceso o el producto elaborado por el estudiante.
+Bien podría decir que existe una literatura que los niños aprovechan. Un libro que se transita, de renglón en renglón, con la misma facilidad con que se salta la cuerda. Y es el libro en que se vierte el saber y no el conocimiento.
+Es el texto en que un autor, sin atender las demandas pedagógicas o psicológicas  del momento, se vierte en el texto por medio de una pérdida, por que el escritor pierde saber en cada palabra que imprime. El niño dialoga con el texto enque otro niño ha escrito. No importa si el niño-autor sea, en términos cronológicos, un adulto o un anciano.
+Sólo así se podría explicar que los libros, no exclusivamente didácticos, se conviertan en clásicos de la literatura infantil.
+Literatura infantil... literatura para hablantes. Literatura para los niños de cualquier edad, que desean asumir el reto de adueñarse de las palabras</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="0" tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0032</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.24, no.especial (2000)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2706</subfield>
+    <subfield code="d">2706</subfield>
+  </datafield>
+</record>

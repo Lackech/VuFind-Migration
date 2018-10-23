@@ -1,0 +1,68 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01288nam a2200253Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">1889</subfield>
+    <subfield code="d">1889</subfield>
+  </datafield>
+  <controlfield tag="008">180517b1994    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">06.03.07</subfield>
+    <subfield code="b"> 41</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="a">García Fallas, Jacqueline</subfield>
+    <subfield code="9">759</subfield>
+  </datafield>
+  <datafield ind2="4" tag="245" ind1="1">
+    <subfield code="a">Los procesos de aprendizaje y el desarrollo de talento de los niños en su ambiente logo / </subfield>
+    <subfield code="c">Jacqueline García Fallas, Kemly Jiménez Tabash, María Cecilia Dobles Yzaguirre</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC; Fundación Omar Dengo, </subfield>
+    <subfield code="c">1994</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">32 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Proyecto de Investigación N° 724-93-328. I Informe Parcial "Logo y desarrollo del talento" II Informe Parcial "Significación de procesos construidos en niños, niñas y facilitadoras durante la experiencia. III Informe Parcial "Evaluación de los aprendizajes desde el paradigma constructivista: Un estudio de casos" Ultimo Informe "Apreciaciones sobre talento y propuesta pedagógica para la puesta en práctica de experiencias de trabajo en un ambiente construccionista con niños y niñas talentosos" </subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">PRIMER INFORME PARCIAL. 1994. El proyecto sobre "Logo y desarrollo del talento" consta de dos partes. La primera se inició en 1993 y tenía como objetivo construir y sistematizar las apreciaciones sobre el tema del talento por parte de maestras de aula y encargados de laboratorio de informática. La segunda parte propone la realización de un estudio de casos. La actividad se caracterizó por incorporar en el ambiente de aprendizaje el equipo computacional como una herramienta para aprender. Los objetivos principales incluyen dicha sistematización de las apreciaciones sobre el talento y la construcción de propuestas de atención para niños talentosos dentro del Programa de Informática Educativa. El estudio es de naturaleza etnográfica y de estudio de casos. Se trabajó con diez participantes (6 niños y 4 niñas), identificados como talentosos, en la zona de Pérez Zeledón. El marco de referencia de este primer informe parte de la consideración teórica del ambiente Logo y el papel del facilitador. El ambiente Logo se caracteriza por conformar diferentes contextos o situaciones de aprendizaje significativos para el sujeto que aprende y pone en práctica tres postulados: la apreciación activa de la informática por el sujeto, la función de ludicidad y el profesor como posibilitador del aprendizaje, y se fundamenta epistemológicamente en la psicología y epistemología genética de Piaget. El papel del error es constructivo dentro de la adquisición del conocimiento. En cuanto a la metodología, la información se recopiló por medio de un portafolio de evaluación dinámica y la observación participativa. Los resultados parciales incluidos en el informe llaman la atención sobre la diferencia considerable entre el número de niños y niñas reportados como talentosos por el ambiente escolar (81 frente a 37), e incluye una lista semántica, con la cual los encargados de laboratorio y los maestros de grado identificaron a los niños como talentosos, según las variables: actitudes (de personalidad y cognoscitivas), estilos de trabajo (personales, con logo) y aspectos relacionados con el trabajo en el laboratorio. Los niños utilizan con frecuencia como principales estrategias en la resolución de problemas, de acuerdo con las observaciones de las investigadoras sobre dos parejas de niños, la reversibilidad, la generalización y la depuración. SEGUNDO INFORME PARCIAL: SIGNIFICACIÓN DE PROCESOS CONSTRUIDOS EN NIÑOS, NIÑAS Y FACILITADORAS DURANTE LA EXPERIENCIA. 1995. Este segundo informe parcial evalúa la experiencia de trabajo con niños talentosos en el período que va de agosto a diciembre de 1994. Los objetivos específicos de esta parte incluyen dicho proceso de evaluación y la caracterización del ambiente de aprendizaje generado durante la puesta en práctica de esta experiencia. El marco teórico de este informe se centra en la significación de las interacciones en los procesos de construcción del conocimiento, partiendo de la dinámica de trabajo como eje central. Las categorías analíticas se dividen en macroambiente (contextos significativos facilitados por las interrelaciones e interacciones grupales durante la experiencia) y microambiente (contextos de aprendizaje constituidos por la dinámica de trabajo de las parejas y la interacción entre ellos y con las facilitadoras). Este planteamiento pedagógico es congruente con el construccionismo de Papert y el constructivismo de Piaget. De acuerdo con Piaget, el papel de las interacciones en la construcción del conocimiento se analiza en dos vertientes: lo social y lo cognoscitivo. El elemento integrador entre ambos se resume en el concepto de cooperación. Para que la cooperación y las interacciones incidan en el desarrollo cognoscitivo, es necesario que existan tres condiciones: una escala común de valores entre los participantes, reciprocidad (intercambio de ideas) y conservación (lealtad hacia lo dicho y acordado). Los niños llevaron a cabo una presentación de un proyecto sobre la problemática de los manglares en Pérez Zeledón y una compaña de concienciación sobre esta en un nivel regional y nacional. En cuanto a los resultados, los niños conciben la experiencia como eje multiplicador y posibilitador de otros aprendizajes. Además, consideran que la experiencia significó principalmente una posibilidad de compartir con otros niños, pues lo fundamental fue la participación e interacción con participantes cuyas características eran heterogéneas entre sí (edades, niveles y experiencias de vida). Por último, consideraron significativo dentro de la dinámica de trabajo el lugar que asumieron como protagonistas en los procesos de aprendizaje. La concepción del trabajo cambió de ser un quehacer individual hacia la comprensión de este como trabajo en equipo, entendido como construcción interactiva y colectiva de los trabajos elaborados. TERCER INFORME PARCIAL: EVALUACIÓN DE LOS APRENDIZAJES DESDE EL PARADIGMA CONSTRUCTIVISTA: UN ESTUDIO DE CASOS.1995. En este tercer informe se retoma el aspecto de la evaluación que se gesta en el interior de la experiencia, a partir de la utilización del portafolio de evaluación dinámica. El objetivo es fundamentar la evaluación de los aprendizajes según el paradigma constructivista. El paradigma constructivista constituye un marco epistemológico y pedagógico, que se caracteriza por las siguientes premisas conceptuales: el conocimiento se construye; el sujeto es constructor de su conocimiento; la realidad es una construcción social y humana; la verdad es humana, relativa e histórica; los sujetos construyen su conocimiento mediante mecanismos o estrategias que pueden ser biológicos, sociales, culturales e históricos. En este sentido, se hace indispensable replantear la evaluación desde una visión dinámica, flexible e integradora de los procesos de aprendizaje. La evaluación de la experiencia se llevó a cabo por medio de portafolios, técnica que provoca reflexiones y cambios de actitud en los participantes. El portafolio les permite a los participantes tener conciencia de sus propios procesos cognoscitivos, de aprendizaje, de significación de sus experiencias y de las reflexiones surgidas. Al inicio, algunos niños consideraban la evaluación desde la concepción tradicional, es decir, como sinónimo de cuantificación y competencia entre ellos en una forma individualista de considerar el trabajo conjunto con su compañero en la computadora. La posibilidad de participar en la organización y definición de la evaluación les proporcionó a los niños un compromiso con la experiencia. Así, fueron construyendo un nuevo concepto de evaluación mediante la discusión, el análisis y la participación en las actividades, y no centrado en la búsqueda y penalización de los errores, sino en su utilización creativa y potencializadora. ÚLTIMO INFORME: APRECIACIONES SOBRE TALENTO Y PROPUESTA PEDAGÓGICA PARA LA PUESTA EN PRÁCTICA DE EXPERIENCIAS DE TRABAJO EN UN AMBIENTE CONSTRUCCIONISTA CON NIÑOS Y NIÑAS TALENTOSOS. 1996. Este informe final es una síntesis que retoma los objetivos generales del proyecto, mediante el análisis de las apreciaciones sobre talento y la sistematización de ejes pedagógicos que posibiliten un ambiente de aprendizaje construccionista. El objetivo de construir y sistematizar las apreciaciones sobre talento presentó dos fases: la elaboración de la lista semántica y la reflexión conceptual sobre el tema. Las perspectivas que enmarcan la denominación de un sujeto como talentoso son de dos tipos: perspectivas míticas (superdotado, genio, talentoso, prodigio) y perspectivas cognoscitivistas en sentido estricto (resuelve en forma creativa los problemas) y en sentido amplio (comprende otros factores sociales y culturales). Ambas se encuentran en la lista semántica proporcionada por los maestros y los encargados de los laboratorios de informática. El segundo objetivo es proporcionar propuestas de atención para niños talentosos dentro del Programa de Informática Educativa, fundamentadas en ejes pedagógicos construidos mediante dos categorías: microambiente y macroambiente. Estas categorías permiten considerar el ambiente de aprendizaje desde una perspectiva que expresa la multiplicidad y complejidad de las relaciones, interacciones y procesos de aprendizaje inherentes al contexto. Los ejes pedagógicos que constituyen criterios para propiciar un ambiente de aprendizaje lúdico, informatizado y construccionista son: flexibilidad de la dinámica de trabajo, facilitación de aprendizajes significativos, trabajo cooperativo, la heterogeneidad como propiciadora de procesos significativos de aprendizaje, significación de las situaciones de aprendizaje, utilización de herramientas de evaluación que permitan registrar y analizar los procesos de aprendizaje, construcción de una propia forma de organización, exploración y construcción de soluciones propias, consideración del trabajo como eje generador de múltiples y variados retos, construcción de estrategias de organización, solución y reflexión sobre el trabajo propio, construcción de formas de comunicación que faciliten un intercambio fluido, presencia de un educador que fomente un ambiente de aprendizaje. 
+</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">APRENDIZAJE </subfield>
+    <subfield code="9">387</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">INVESTIGACIÓN</subfield>
+    <subfield code="9">163</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">PROGRAMAS DE COMPUTADORA</subfield>
+    <subfield code="9">1302</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">TALENTO</subfield>
+    <subfield code="9">668</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">EVALUACIÓN </subfield>
+    <subfield code="9">287</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="a">Jiménez Tabash, Kemly</subfield>
+    <subfield code="9">3651</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Dobles Yzaguirre, María Cecilia</subfield>
+    <subfield code="9">3158</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

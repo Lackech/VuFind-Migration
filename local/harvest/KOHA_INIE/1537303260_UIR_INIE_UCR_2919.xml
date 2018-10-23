@@ -1,0 +1,53 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01905nab a2200181   4500</leader>
+  <controlfield tag="005">20160331132824.0</controlfield>
+  <controlfield tag="008">151028b2004    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">205</subfield>
+    <subfield code="a">Soto Calderón, Ronald</subfield>
+  </datafield>
+  <datafield ind2="3" tag="245" ind1="1">
+    <subfield code="a">La colaboración entre maestros/maestras y padres/madres para atender a la diversidad en las instituciones educativas /</subfield>
+    <subfield code="c">Ronald Soto Calderón, Francisco Javier Hinojo Lucena</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2004</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">páginas 185-201</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">En este artículo se resalta la importancia de un trabajo conjunto entre los padres y madres de familia de personas con necesidades educativas especiales y los docentes, y las diferentes formas en que esta labor se pueda realizar.
+También se comentan los diferentes planos en los que se puede llevar a cabo un trabajo cooperativo, de tal manera que lo importante siempre se enfoque a la atención educativa de los estudiantes con NEE, se mencionan también algunos puntos que pueden ser tomados en cuenta para evitar las diferencias en las actuaciones, tanto de los padres y madres de familia como de los docentes, de los estudiantes con NEE en las situaciones que les competen a las instituciones.
+Se considera por parte de los autores, que un trabajo coordinado, colaborativo y consciente de todas las partes que participan en el desarrollo del proceso aprendizaje de personas con NEE, siempre se verá reflejado en el éxito y realización de las potencialidades de todas las personas, y el derecho a la participación de las personas en igualdad y equiparación de oportunidades</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">1129</subfield>
+    <subfield code="a">Hinojo Lucena, Francisco Javier</subfield>
+    <subfield code="c">coautor</subfield>
+  </datafield>
+  <datafield ind1="0" tag="773" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0253</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.28, no.2 (2004)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2919</subfield>
+    <subfield code="d">2919</subfield>
+  </datafield>
+</record>

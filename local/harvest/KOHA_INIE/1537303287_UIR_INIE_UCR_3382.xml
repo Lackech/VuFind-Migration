@@ -1,0 +1,49 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00724nam a22001697a 4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">3382</subfield>
+    <subfield code="d">3382</subfield>
+  </datafield>
+  <controlfield tag="008">170131b2010    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">06.04.11 </subfield>
+    <subfield code="b">2258 </subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="9">2352</subfield>
+    <subfield code="a">Universidad de Costa Rica. Oficina de Becas y Atención Socioeconómica </subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Estadísticas : Oficina de Becas y Atención Socioeconómica I y II ciclo 2010 / </subfield>
+    <subfield code="c">Oficina de Becas y Atención Socioeconómica</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">[San José, Costa Rica] : </subfield>
+    <subfield code="b">La Oficina, </subfield>
+    <subfield code="c">2010</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">100 páginas; </subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield ind1=" " tag="500" ind2=" ">
+    <subfield code="a">La Unidad posee estadísticas de I y II ciclo 2010, I y II ciclo 2011, I y II ciclo 2012</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="2" tag="610">
+    <subfield code="9">714</subfield>
+    <subfield code="a">UNIVERSIDAD DE COSTA RICA</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">549</subfield>
+    <subfield code="a">ESTADÍSTICA </subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">2353</subfield>
+    <subfield code="a">BECAS</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

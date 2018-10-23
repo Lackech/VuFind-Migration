@@ -1,0 +1,55 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02187nam a2200193Ia 4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">1344</subfield>
+    <subfield code="d">1344</subfield>
+  </datafield>
+  <controlfield tag="008">170613b2010    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">05.03.03 </subfield>
+    <subfield code="b">1915</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">2020</subfield>
+    <subfield code="a">Alvarado Calderón, Kathia</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Clima familiar y comportamiento prosocial en niños y niñas de edad escolar / </subfield>
+    <subfield code="c">Kathia Alvarado Calderón</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">[San José, Costa Rica] : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2010</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">54 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Informe final proyecto No. 724-A8-331</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">Esta investigación se realizó con una muestra de 444 niños y niñas de escuelas públicas del cantón de Montes de Oca. El propósito de este trabajo fue establecer si existe relación entre el índice de respuesta empática y la percepción del clima familiar. El índice de empatía es medido con el cuestionario para niños(as) y adolescentes de Bryant (1982), una adaptación española (1999) para población infantil y adolescente tomada de la escala para adultos de Mehrabian y Epstein de 1972. Para evaluar la percepción sobre el clima familiar (Baumrind, 1966), se elaboró una adaptación del cuestionario de autoridad parental de J.R. Buri (1991) dirigida a población infantil. Los instrumentos fueron adaptados y validados, se determinó su confiabilidad mediante el alfa de Cronbach. Los principales resultados indican diferencias entre hombres y mujeres en cuanto a la tendencia de manifestar respuesta empática. En cuanto a la percepción del clima familiar se observan algunas diferencias por género. Para el estilo autoritativo las mujeres presentan un promedio mayor que los varones en su percepción del uso de esta configuración disciplinaria por parte de sus padres (madres o encargados). Los resultados sugieren diferencias en la crianza si se trata de niños o niñas. Por tanto, es importante la reflexión acerca de los patrones de crianza autoritativos tanto para hombres como mujeres, así como se sugiere la necesidad de incorporar en esta reflexión el papel de la escuela y del grupo de pares en el desarrollo de respuesta empática.   </subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">COMPORTAMIENTO SOCIAL</subfield>
+    <subfield code="9">985</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">NIÑOS</subfield>
+    <subfield code="9">59</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">NIÑAS</subfield>
+    <subfield code="9">60</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">FAMILIA</subfield>
+    <subfield code="9">404</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

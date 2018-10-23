@@ -1,0 +1,45 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00593nam a22001577a 4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">3356</subfield>
+    <subfield code="d">3356</subfield>
+  </datafield>
+  <controlfield tag="008">161213b2002    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">18.01.01</subfield>
+    <subfield code="b">426</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">250</subfield>
+    <subfield code="a">Vargas Bolaños, Rebecca</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Aporte científico: una década de investigación en el IIMEC (1991-2000) /</subfield>
+    <subfield code="c">Rebecca Vargas Bolaños</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">[San José, Costa Rica] :</subfield>
+    <subfield code="b">IIMEC,</subfield>
+    <subfield code="c">2002</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">90 páginas</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+    <subfield code="9">2218</subfield>
+    <subfield code="a">INSTITUTO DE INVESTIGACIÓN PARA EL MEJORAMIENTO DE LA EDUCACIÓN COSTARRICENSE</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">163</subfield>
+    <subfield code="a">INVESTIGACIÓN</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">2217</subfield>
+    <subfield code="a">PRODUCCIÓN DE CONOCIMIENTO</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

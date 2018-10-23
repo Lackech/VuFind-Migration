@@ -1,0 +1,50 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01361nab a2200169   4500</leader>
+  <controlfield tag="008">150611b2000    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">185</subfield>
+    <subfield code="a">Delgado Quesada, Sonia</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Uso de los deshechos domiciliarios para la obtención de abono orgánico: una experiencia con estudiantes de I y II ciclo de la educación general básica / </subfield>
+    <subfield code="c">Sonia Delgado Quesada, María del Carmen Hernández Rodríguez</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2000</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">páginas 113-130</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">El presente artículo ofrece una experiencia sobre la obtención de abono orgánico, realizada por estudiantes de I y II ciclo de la Educación General  Básica.
+Esta actividad le permitió a las autoras comprobar la evolución de las ideas de los niños con respecto al proceso de descomposición  de la materia orgánica, la función de los microorganismos y otros organismos presentes en este proceso; asi como la construcción de composteras y el manejo de los desechos domiciliarios en la obtención de abono orgánico</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="9">194</subfield>
+    <subfield code="a">Hernández Rodríguez, María del Carmen</subfield>
+  </datafield>
+  <datafield tag="773" ind2=" " ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0025</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.24, no.1 (2000)</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2673</subfield>
+    <subfield code="d">2673</subfield>
+  </datafield>
+</record>

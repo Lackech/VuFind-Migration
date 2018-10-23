@@ -1,0 +1,87 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03376nam a2200289Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2326</subfield>
+    <subfield code="d">2326</subfield>
+  </datafield>
+  <controlfield tag="008">150811b1993    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">18.09.01 </subfield>
+    <subfield code="b">94</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="9">769</subfield>
+    <subfield code="a">Boraschi González, Gloria</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Informe de resultados de las pruebas finales de bachillerato diciembre de 1992 / </subfield>
+    <subfield code="c">Gloria Boraschi, Angel Calderón Gómez, Sofía María Díaz Solís, Olga González Dobles, Lilliana Hernández Mata, Yolanda Mora Jiménez, Lloreth Rojas Rojas, Yadira Varela Martínez, Eiliana Montero Rojas, Juan Manuel Esquivel Alfaro</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1993</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">136 hojas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="500">
+    <subfield code="a">Informe de investigación del proyecto N° 724-89-557.  La Unidad posee informes de los años 1993-1995-1997.  El resumen corresponde al informe nacional de 1997</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">En este Informe Nacional se exponen los resultados de las Pruebas de Bachillerato realizadas entre setiembre y octubre de 1997, cuyo estudio se llevó a cabo con la finalidad de determinar el nivel de desempeño de los estudiantes en relación con los objetivos propuestos en los Temarios Unificados. Con este propósito se explicitan, en primera instancia, los lineamientos establecidos por el Consejo Superior de Educación para las Pruebas Nacionales Para Acreditación. Seguidamente, se propone un marco teórico que sustenta la construcción y la utilización de los instrumentos de medición empleados en estas pruebas, así como el establecimiento de los criterios para evaluar y para acreditar. Entre los conceptos que se definen se encuentran el de Currículum Básico, el de Sistema Nacional de Evaluación y Titulación (Kirk: I986) y los de validez y confiabilidad con respecto a pruebas con referencia a objetivos, ya que este fue el modelo escogido por ser considerado el mejor para la elaboración de pruebas que midan el nivel de logro de un grupo de aprendizajes establecidos en un currículum básico. Los resultados de la experiencia se exponen en 19 cuadros, los cuales se elaboraron tomando en cuenta la variables de modalidad, región y asignatura. El análisis de cada uno de ellos y las conclusiones aparecen en el apartado "Discusión y Recomendaciones". La información obtenida evidencia diferentes niveles de aprendizaje según la región, la modalidad y la asignatura. Por ejemplo, se revela un alto grado de fracaso en la Modalidad Nocturna y en la Técnica opción 2. También se hace hincapié en que el promedio de nota de Bachillerato es muy superior al promedio de nota de examen, lo cual se puede atribuir a que las notas de presentación generalmente son muy altas. Los resultados de este análisis pueden considerarse como indicadores importantes para propiciar la renovación de técnicas pedagógicas, para valorar aprendizajes y para conocer la mediación docente-educando. </subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">PRUEBAS</subfield>
+    <subfield code="9">629</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">ANÁLISIS DE LA INFORMACIÓN</subfield>
+    <subfield code="9">768</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">EDUCACIÓN SECUNDARIA</subfield>
+    <subfield code="9">456</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1=" ">
+    <subfield code="a">Calderón Gómez, Angel</subfield>
+    <subfield code="9">4203</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1=" ">
+    <subfield code="a">Díaz Solís, Sofía María</subfield>
+    <subfield code="9">4195</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2=" ">
+    <subfield code="a">González Dobles, Olga</subfield>
+    <subfield code="9">3661</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1=" ">
+    <subfield code="a">Hernández Mata, Lilliana</subfield>
+    <subfield code="9">4204</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2=" ">
+    <subfield code="a">Mora Jiménez, Yolanda</subfield>
+    <subfield code="9">4205</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="700">
+    <subfield code="a">Rojas Rojas, Lloreth</subfield>
+    <subfield code="9">4206</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="700">
+    <subfield code="a">Varela Martínez, Yadira</subfield>
+    <subfield code="9">4207</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2=" ">
+    <subfield code="a">Montero Rojas, Eiliana</subfield>
+    <subfield code="9">2509</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Esquivel Alfaro, Juan Manuel</subfield>
+    <subfield code="9">157</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

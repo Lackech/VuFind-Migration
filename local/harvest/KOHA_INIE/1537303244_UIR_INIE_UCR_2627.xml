@@ -1,0 +1,52 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01546nab a2200169   4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2627</subfield>
+    <subfield code="d">2627</subfield>
+  </datafield>
+  <controlfield tag="008">150604b1999    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">1069</subfield>
+    <subfield code="a">Bonilla Gamboa, Flory Stella</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Oportunidad para aprendizajes entre jubilados y sus nietos adolescentes /</subfield>
+    <subfield code="c">Flory Stella Bonilla, Flor Jiménez Segura</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">1999</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">páginas 43-50</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">La jubilación produce cambios a nivel individual, que además repercuten en la vida económica y social de la familia.  Estos desajustes se conocen como "el síndrome del retiro".
+Los estereotipos existentes sobre las personas mayores tienden a ser negativos y asocian vejez con jubilación, lo que vuelve este período del retiro laboral, una transición muy difícil para los adultos mayores.
+A su vez, el período adolescente ha sido considerado crítico, donde el joven tiende a alejarse de su familia creando la brecha generacional, al mismo tiempo que necesita mucha guía y apoyo tolerante.
+Este artículo analiza la posibilidad de lograr una relación de aprendizaje entre estas dos generaciones, que permita una fuerza sanadora de cariño, reconocimiento y aceptación entre jubilados y adolescentes de la familia</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">160</subfield>
+    <subfield code="a">Jiménez Segura, Flor </subfield>
+  </datafield>
+  <datafield tag="773" ind2=" " ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0023</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.23, no.2 (1999)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+</record>

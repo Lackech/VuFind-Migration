@@ -1,0 +1,91 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01059nam a2200301Ia 4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">558</subfield>
+    <subfield code="d">558</subfield>
+  </datafield>
+  <controlfield tag="008">170208b2007    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="020">
+    <subfield code="a">9789968411271</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">05.05.03 </subfield>
+    <subfield code="b">1477</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="a">González Villanueva, Gustavo </subfield>
+    <subfield code="9">2411</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Escritores Latinoamericanos: estudio y comentarios: leo-pienso-opino / </subfield>
+    <subfield code="c">dirigido por Gustavo González Villanueva</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Promesa, </subfield>
+    <subfield code="c">2007</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">112 páginas</subfield>
+  </datafield>
+  <datafield tag="490" ind1=" " ind2=" ">
+    <subfield code="a">Escritores Latinoamericanos, Vol.4</subfield>
+  </datafield>
+  <datafield ind2=" " tag="505" ind1=" ">
+    <subfield code="t">El reino de este mundo /</subfield>
+    <subfield code="r">Alejo Carpentier</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="505">
+    <subfield code="t">Autobiografía /</subfield>
+    <subfield code="r">Victoria Ocampo</subfield>
+  </datafield>
+  <datafield tag="505" ind1=" " ind2=" ">
+    <subfield code="t">Sobre héroes y tumbas /</subfield>
+    <subfield code="r">Ernesto Sábato</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="600">
+    <subfield code="9">2425</subfield>
+    <subfield code="a">CARPENTIER, ALEJO</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="4">
+    <subfield code="9">2426</subfield>
+    <subfield code="a">OCAMPO, VICTORIA</subfield>
+  </datafield>
+  <datafield ind1="1" tag="600" ind2="4">
+    <subfield code="9">2415</subfield>
+    <subfield code="a">SÁBATO, ERNESTO</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">LITERATURA </subfield>
+    <subfield code="9">655</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">AUTORES</subfield>
+    <subfield code="9">2412</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">BIOGRAFÍAS</subfield>
+    <subfield code="9">968</subfield>
+  </datafield>
+  <datafield ind2="4" ind1=" " tag="651">
+    <subfield code="a">AMÉRICA LATINA</subfield>
+    <subfield code="9">273</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">2210</subfield>
+    <subfield code="a">Ortega Figueroa, Humberto</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">1253</subfield>
+    <subfield code="a">Viñuela, Cristina</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="a">Kazmierczak, Marcin</subfield>
+    <subfield code="9">2417</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

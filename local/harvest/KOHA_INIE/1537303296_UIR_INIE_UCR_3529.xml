@@ -1,0 +1,61 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00760nam a2200205   4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3529</subfield>
+    <subfield code="d">3529</subfield>
+  </datafield>
+  <controlfield tag="008">180629b2013    ag a|||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="020" ind1=" ">
+    <subfield code="a">9789500009904</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">06.03.07</subfield>
+    <subfield code="b">2459</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1=" ">
+    <subfield code="9">3860</subfield>
+    <subfield code="a">Ramírez, Adelaida Isabel</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Epidemias y salud pública /</subfield>
+    <subfield code="c">Adelaida Isabel Ramírez, Pablo Torres, Griselda Fabro, Lucía Tosolini, Marcelo Ferreira</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">[Buenos Aires, Argentina] :</subfield>
+    <subfield code="b">Ministerio de Educación de la Nación,</subfield>
+    <subfield code="c">[2013]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">174 páginas;</subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="490">
+    <subfield code="a">Escritura en ciencias, </subfield>
+    <subfield code="v">12</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">996</subfield>
+    <subfield code="a">ENSEÑANZA DE LAS CIENCIAS </subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1=" ">
+    <subfield code="9">3854</subfield>
+    <subfield code="a">Torres, Pablo</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1=" ">
+    <subfield code="9">3861</subfield>
+    <subfield code="a">Fabro, Griselda </subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2=" ">
+    <subfield code="9">3862</subfield>
+    <subfield code="a">Tosolini, Lucía </subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1=" ">
+    <subfield code="9">3863</subfield>
+    <subfield code="a">Ferreira, Marcelo </subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

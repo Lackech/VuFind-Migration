@@ -1,0 +1,47 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02055nab a22001697a 4500</leader>
+  <controlfield tag="005">20160328162602.0</controlfield>
+  <controlfield tag="008">150827b2002    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">131</subfield>
+    <subfield code="a">Vargas Porras, Alicia</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="3">
+    <subfield code="a">La acreditación: Una forma de estandarizar la educación /</subfield>
+    <subfield code="c">Alicia Vargas Porras</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2002</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">páginas 245-254</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">La acreditación surge en los países latinoamericanos bajo intereses claramente marcados por la coyuntura socioeconómica y política que se empieza a gestar en los años ochenta, en donde la mundialización de las actividades exige respuestas globales a las diversas acciones humanas. La educación superior, en ese contexto empieza a enfrentar una serie de demandas que resignifican su quehacer y una de ellas es la necesidad de realizar procesos de autoevaluación y  autorregulación conducentes a la acreditación.
+En la presente ponencia se analizan los orígenes, intenciones e intereses que impulsan procesos conducentes a la acreditación, en los sistemas de educación superior en los países latinoamericanos. Como proceso político educativo, la evaluación está marcada por intensiones e intereses que señalan un determinado camino para la acción educativa y, en ese sentido, se apuntan también algunos rasgos hegemónicos  tendientes a homogenizar la educación superior  de los países latinoamericanos. Así mismo se analiza tanto el discurso de la calidad como los criterios de genealogía fabril que de ahí se derivan y que se encuentran orientando algunos procesos evaluativos. Se concluye con una reflexión entorno a un concepto de calidad por construir, considerando para ello nuestro deber hacia el fortalecimiento del desarrollo integral de nuestras sociedades</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " tag="773" ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0059</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.26, no.2  (2002)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2827</subfield>
+    <subfield code="d">2827</subfield>
+  </datafield>
+</record>

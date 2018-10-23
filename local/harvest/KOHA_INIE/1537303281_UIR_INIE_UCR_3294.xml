@@ -1,0 +1,56 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00795nam a2200169   4500</leader>
+  <controlfield tag="008">160729b2015    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">06.02.01</subfield>
+    <subfield code="b">2357</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">1910</subfield>
+    <subfield code="a">Aquino Sterling, Cristian R.</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Metalinguistic knowledge at play: using common core en español to develop teaching specific spanish competencies in bilingual teacher education in the U.S.A. / Cristian R. Aquino Sterling</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">Cartago, Costa Rica :</subfield>
+    <subfield code="b">Instituto Tecnológico de Costa Rica,</subfield>
+    <subfield code="c">2015</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">pp. 47-57</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1534</subfield>
+    <subfield code="a">EDUCACIÓN BILINGÜE</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">9</subfield>
+    <subfield code="a">FORMACIÓN DE DOCENTES</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1317</subfield>
+    <subfield code="a">ENSEÑANZA DE IDIOMAS</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="0" tag="773">
+    <subfield code="0">3292</subfield>
+    <subfield code="9">3368</subfield>
+    <subfield code="a"/>
+    <subfield code="b"/>
+    <subfield code="d">Cartago, Costa Rica : Instituto Tecnológico de Costa Rica, 2015</subfield>
+    <subfield code="o">004209</subfield>
+    <subfield code="t">Revista comunicación</subfield>
+    <subfield code="w"/>
+    <subfield code="x">03793974</subfield>
+    <subfield code="z"/>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3294</subfield>
+    <subfield code="d">3294</subfield>
+  </datafield>
+</record>

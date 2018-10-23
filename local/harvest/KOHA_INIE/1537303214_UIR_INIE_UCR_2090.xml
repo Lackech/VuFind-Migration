@@ -1,0 +1,51 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02793nam a2200181Ia 4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2090</subfield>
+    <subfield code="d">2090</subfield>
+  </datafield>
+  <controlfield tag="008">180828b2008    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">13.09.09 </subfield>
+    <subfield code="b">1717</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="a">Acevedo Álvarez, Raziel</subfield>
+    <subfield code="9">1125</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="3" tag="245">
+    <subfield code="a">Un modelo causal explicatorio de los factores utilizados en la evaluación docente universitaria / </subfield>
+    <subfield code="c">Raizel Acevedo Alvarez</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica. :  </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2008</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">98 págianas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="500" ind2=" ">
+    <subfield code="a">Informe final Proyecto No.720-A7-054</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">El cuestionario utilizado para conocer la opinión de los (las) estudiantes respecto de la acción docente, es comúnmente empleado de acuerdo con diferentes intereses de los involucrados, llámese administradores (as), profesores (as) y estudiantes (as). Por ejemplo: 1) la administración los tienen en cuenta, como parte del proceso de toma de decisiones relacionadas con la selección de su personal, los incentivos de promoción económicos o académicos y con la permanencia de sus docentes dentro del sistema universitario; 2) a los instructores (as), le ssuministra información actualizada acerca de la visión que tienen sus estudiantes de la forma y estructura de sus cursos, de los elementos a mejorar y de la calidad de su enseñanza: 3) a los (as) estudiantes les proporciona herramientas que les permite seleccionar los cursos y las personas de su interés; 4) a los investigadores (as) les es vital, para indagar sobre la eficacia de la enseñanza y el aprendizaje en la universidad. En fin, los resultados aportados por los cuestionarios han sido utilizados para una gran variedad de fines, por tanto es necesario tener la certeza de que estos instrumentos son totalmente fiables y válidos. El Centro de Evaluación Académica ha identificado factores sobre los cuales se erige la estructura del cuestionario de evaluación docente. Estos son: evaluación y temática, (factores exógenos), y tres factores mediadores endógenas, trato, reglamento y didáctica, las cuales influyen directamente sobre el criterio u opinión general del estudiante. Cada uno de estos ha sido plenamente identificado en la literatura internacional sobre el tema, eso quiere decir que nuestra universidad utiliza factores que se han utilizado en otras universidades. Estos factores constituyen un modelo teórico que puede ser representado gráficamente para su estimación empírica. Este modelo propone que la evaluación y la temática, covarian conjuntamente y que influyen directamente sobre el trato, la reglamentación y la didáctica. A su vez, estos tres factores, ejercen influencia directa sobre el criterio general que el estudiante tiene acerca de la labor de su profesor (a).</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">DOCENTES</subfield>
+    <subfield code="9">331</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">EVALUACIÓN </subfield>
+    <subfield code="9">287</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+    <subfield code="9">8</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

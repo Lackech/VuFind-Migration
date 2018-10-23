@@ -1,0 +1,52 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00691nam a2200181Ia 4500</leader>
+  <controlfield tag="008">160210b2000    ck ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9586980626</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">18.01.01 </subfield>
+    <subfield code="b">1003</subfield>
+  </datafield>
+  <datafield ind1="0" tag="245" ind2="0">
+    <subfield code="a">Ciencia y tecnología en los currículos para la educación media en los países del Convenio Andrés Bello / </subfield>
+    <subfield code="c">Alvaro Campo Cabal, Víctor Hugo Valencia, compiladores</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">Bogotá, Colombia : </subfield>
+    <subfield code="b">Convenio Andrés Bello, </subfield>
+    <subfield code="c">2000</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">235 páginas</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">CIENCIA Y TECNOLOGÍA </subfield>
+    <subfield code="9">37</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">CURRÍCULO (EDUCACIÓN)</subfield>
+    <subfield code="9">342</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">ENSEÑANZA DE LAS CIENCIAS </subfield>
+    <subfield code="9">996</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="a">Campo Cabal, Alvaro</subfield>
+    <subfield code="9">1477</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="a">Valencia, Víctor Hugo</subfield>
+    <subfield code="9">1478</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">374</subfield>
+    <subfield code="d">374</subfield>
+  </datafield>
+</record>

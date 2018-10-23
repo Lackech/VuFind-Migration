@@ -1,0 +1,44 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00740nam a2200157Ia 4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">2366</subfield>
+    <subfield code="d">2366</subfield>
+  </datafield>
+  <controlfield tag="008">180911b        cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">19.02.08 </subfield>
+    <subfield code="b">1514</subfield>
+  </datafield>
+  <datafield ind1="2" tag="110" ind2=" ">
+    <subfield code="a">Fundación de la Universidad de Costa Rica para la Investigación (FUNDEVI)  </subfield>
+    <subfield code="9">4226</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Fundación de la Universidad de Costa Rica para la Investigación: Memoria 2003-2006  / </subfield>
+    <subfield code="c">FUNDEVI</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">FUNDEVI, </subfield>
+    <subfield code="c">[Fecha de publicación no identificada] </subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">7 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="500" ind2=" ">
+    <subfield code="a">Informe FUNDEVI para rendir cuentas sobre el desempeño del periodo del 2003 hasta el 2006. Se plasma los objetivos planteados, logros alcanzados y tareas por realizar.</subfield>
+  </datafield>
+  <datafield ind2="4" ind1=" " tag="610">
+    <subfield code="9">4227</subfield>
+    <subfield code="a">FUNDEVI</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">INFORMES</subfield>
+    <subfield code="9">267</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

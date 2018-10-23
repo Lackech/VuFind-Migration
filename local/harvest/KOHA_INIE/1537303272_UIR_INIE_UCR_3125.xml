@@ -1,0 +1,46 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01485nab a2200169   4500</leader>
+  <controlfield tag="005">20160420135816.0</controlfield>
+  <controlfield tag="008">160420b2010    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">1293</subfield>
+    <subfield code="a">Campos López, Ronald</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Lexías utilizadas por los estudiantes de noveno año del período lectivo 2009 del Instituto de Educación Integral para referirse a personas homosexuales /</subfield>
+    <subfield code="c"> Ronald Campos López</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2010</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">páginas 35-60</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">Se identifican las lexías utilizadas para referirse a las personas homosexuales por los estudiantes de noveno del período lectivo 2009 del Instituto de Educación Integral de Las Nubes, Coronado, Costa Rica; esto con el fin de determinar la frecuencia de uso, situaciones comunicativas y carácter semántico de estas palabras, según la conceptualización constructivista de esta retícula social  cerrada (los adolescentes). A partir de estos datos, se analiza el nivel ideológico de aceptación y rechazo de estos jóvenes hacia la comunidad homosexual en general. Al final, se brindan criterios y recomendaciones a los docentes para el aprovechamiento y discusión sobre el uso de estas palabras en el aula</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="0" tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0361</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.34, no.2 (jul.-dic., 2010)</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3125</subfield>
+    <subfield code="d">3125</subfield>
+  </datafield>
+</record>

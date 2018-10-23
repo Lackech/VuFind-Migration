@@ -1,0 +1,79 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01804nam a2200265Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2308</subfield>
+    <subfield code="d">2308</subfield>
+  </datafield>
+  <controlfield tag="008">180905b1991    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">18.09.01 </subfield>
+    <subfield code="b">314</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="110">
+    <subfield code="9">760</subfield>
+    <subfield code="a">Instituto de Investigación en Educación</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Taller sobre análisis y construcción de itemes/</subfield>
+    <subfield code="c">Instituto de Invesigaciones en Educación</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1991</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">[79] hojas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="500">
+    <subfield code="a">Proyecto Pruebas de Bachillerato</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">A través de este manual, se les ofrece a los profesores y funcionarios de las Direcciones Regionales del Ministerio de Educación Pública, la oportunidad de analizar y construir ítemes que contribuyan con el enriquecimiento académico de los alumnos, sobre todo en lo que tiene que ver con las pruebas nacionales de Bachillerato en Enseñanza Media. El documento consta de dos partes: Una, clasificación de los ítemes según el criterio de los jueces y la proporción de estudiantes que los respondieron en forma acertada, la respuesta correcta a estos y algunas observaciones sobre cada uno; y otra, en la que se da una serie de ítemes de práctica, correspondientes a distintas asignaturas. Se recuerda que las pruebas de Bachillerato son sumativas, y con ellas, se pretende obtener una descripción general del rendimiento académico de los estudiantes en cada asignatura. Los ítemes de las pruebas son elaborados por especialistas del IIMEC y los asesores nacionales de cada asignatura.</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">CENTROS DE CAPACITACIÓN</subfield>
+    <subfield code="9">4191</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">PRUEBAS</subfield>
+    <subfield code="9">629</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">ESPAÑOL</subfield>
+    <subfield code="9">36</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">ESTUDIOS SOCIALES</subfield>
+    <subfield code="9">675</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">INGLÉS</subfield>
+    <subfield code="9">35</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">FRANCÉS</subfield>
+    <subfield code="9">604</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">QUÍMICA</subfield>
+    <subfield code="9">992</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">BIOLOGÍA</subfield>
+    <subfield code="9">40</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">FÍSICA</subfield>
+    <subfield code="9">673</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">MATEMÁTICAS  </subfield>
+    <subfield code="9">482</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

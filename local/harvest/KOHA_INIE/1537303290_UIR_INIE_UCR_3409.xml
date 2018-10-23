@@ -1,0 +1,44 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00482nas a2200169   4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">3409</subfield>
+    <subfield code="d">3409</subfield>
+  </datafield>
+  <controlfield tag="005">20170823162844.0</controlfield>
+  <controlfield tag="008">170320b2012    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="022" ind2=" " ind1=" ">
+    <subfield code="a">2215-2938</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">REVIS</subfield>
+    <subfield code="b">06.02.01</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Revista Redpensar</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">Costa Rica :</subfield>
+    <subfield code="b">Departamento de Investigaciones, Universidad De La Salle,</subfield>
+    <subfield code="c">2012-</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Volúmenes</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">163</subfield>
+    <subfield code="a">INVESTIGACIÓN</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">3</subfield>
+    <subfield code="a">PUBLICACIONES PERIÓDICAS</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">03</subfield>
+  </datafield>
+</record>

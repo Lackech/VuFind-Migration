@@ -1,0 +1,47 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01968nab a22001697a 4500</leader>
+  <controlfield tag="005">20160328162840.0</controlfield>
+  <controlfield tag="008">150827b2003    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">944</subfield>
+    <subfield code="a">Araya Umaña, Sandra</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Relaciones sexistas en la educación / </subfield>
+    <subfield code="c">Sandra Araya Umaña</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2003</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">páginas 41-52</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">La igualdad formal de las mujeres tanto dentro del sistema educativo como fuera de él no significa la erradicación de las relaciones sexistas. La paridad entre los sexos en la matrícula escolar y el repunte de la presencia femenina en carreras técnicas no ha tenido un correlato en la transformación de los roles masculinos y femeninos. Es por eso que paridad y transformación genérica son dos aspectos que se ubican en dimensiones de diferente naturaleza, por cuanto la visibilización de las mujeres es una condición necesaria pero insuficiente para la creación de condiciones que posibiliten el surgimiento de nuevas expectativas, cambios de mentalidades y nuevas normas sociales.
+Cuatro condiciones societarias prevalecientes en la sociedad costarricense y seis expresiones sexistas en la institución escolar constituyen una clara evidencia que aun falta un largo camino por recorrer. Sin embargo, el protagonismo docente a partir de su capacitación en los temas relacionados con el género puede ser la base a partir  de la cual se inicien cambios en el sistema social y cultural. Es un proceso dialéctico: la institución escolar se transorma a partir de la resignificación de la práctica docente y, a la vez, su acción transformadora contribuye con la superación de las relaciones sexistas en la sociedad</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="0" tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0190</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.27, no.1  (2003)</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2833</subfield>
+    <subfield code="d">2833</subfield>
+  </datafield>
+</record>

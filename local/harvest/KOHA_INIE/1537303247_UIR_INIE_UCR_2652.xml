@@ -1,0 +1,45 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01695nab a2200157   4500</leader>
+  <controlfield tag="008">150611b1999    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">180</subfield>
+    <subfield code="a">Romero Estrada, Francisco A.</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Elección de carrera en la Universidad de Costa Rica: las mujeres y los hombres. Sus fundamentos. Períodos 1991-1994 y 1995-1998 /</subfield>
+    <subfield code="c">Francisco A. Romero Estrada</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">1999</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">páginas 195-212</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Analiza algunos componentes que involucran: Género y Educación, a saber, la coeducación, el sexismo en la educación y el androcentrismo en el curriculum.  Hace uso de cifras y datos para analizar las condiciones de la mujer analfabeta que ha llegado a constituir la feminización de la probreza y la mujer en los diversos niveles del sistema educativo costarricense, concluyendo con algunos datos sobre la situación de la mujer y los varones en las universidades públicas costarricenses. Enfoca las diversas teorías que fundamentan la elección vocacional hacia las carreras universitarias y describe los dos sistemas de admisión e ingreso a las carreras en la Universidad de Costa Rica; para luego presentar las cifras que fundamentan la investigación realizada en torno a los factores que condicionan el acceso y los espacios de las mujeres y los varones en algunas carreras universitarias consideradas femeninas y masculinas en la Universidad de Costa Rica</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" tag="773" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0024</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.23, no.especial (1999)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2652</subfield>
+    <subfield code="d">2652</subfield>
+  </datafield>
+</record>

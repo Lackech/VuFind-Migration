@@ -1,0 +1,69 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03537nab a22002177a 4500</leader>
+  <controlfield tag="005">20180222062600.0</controlfield>
+  <controlfield tag="008">150624b2000    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">232</subfield>
+    <subfield code="a">Charpentier Esquivel, Claudia</subfield>
+  </datafield>
+  <datafield ind2="3" ind1="1" tag="245">
+    <subfield code="a">La dimensión ambiental como un eje transversal, un reto para las universidades estatales costarricenses: el caso de la formación docente  de primaria /</subfield>
+    <subfield code="c">Claudia Charpentier, Lidia Hernández, Gilbert Vargas, María E Zúñiga, Claudia Zúñiga</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">páginas 161-170</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">La Comisión Interuniversitaria de Educación Ambiental del Consejo Nacional de Rectores tiene como una de sus principales metas, que en los currículos de las universidades estatales se incluya la educación ambiental como una dimensión, es decir como un eje transversal. Por esa razón ha realizado investigaciones tendientes a elaborar una estrategia que permita la incorporación de esa dimensión ambiental. El estudio que aquí se reporta, analizó, si la formación que se está dando a los maestros en las universidades estatales está acorde con las responsabilidades que conlleva ser docente de las asignaturas básicas en primaria y la responsabilidad en la educación ambiental.
+La revisión de los programas vigentes del Ministerio de Educación Pública de matemática, español, ciencias y estudios sociales mostró que estan planteados desde la disciplina. Por lo tanto, si una de las características de la educación ambiental es la interdisciplinariedad, es necesario hacer cambios para que los estudiantes reciban la formación relativa al ambiente de manera holística; eso en gran medida contribuirá a que analicen integralmente los problemas ambientales, sus posibles soluciones y participen en la reducción o mitigación de estos.
+El análisis de los programas de matemática, español, ciencias y estudios sociales reflejó que, en todos se incluye la formación de valores ambientales. Y en algunas materias se plantean objetivos que buscan promover cambios de conductas para que los niños y niñas sean ciudadanos conscientes de su responsabilidad con el ambiente.
+Por otra parte, de la revisión de los planes de estudio para formación de docentes de primaria que ofrecen las universidades estatales, se encontró que incluyen en los contenidos -conocimientos- requeridos para enseñar en el aula; pero no ofrecen los espacios para que el estudiante se apropie o desarrolle entre otros: valores, actitudes, destrezas, aptitudes, capacidad de prevención y solución de problemas de su entorno, capacidad de trabajo interdisciplinario, ni los elementos para que pueda definir la conducta que considere más responsable. Sin embargo, en su trabajo es obligatorio emplearlos, por lo que se hace necesario que las universidades revisen la formación que se está ofreciendo a los maestros, para que ellos tengan acceso, al menos a las experiencias, conocimientos y valores, que les permitirán cumplir con su tarea de formación de una niñez ambientalmente concientizada</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">233</subfield>
+    <subfield code="a">Hernández Rojas, Lidia</subfield>
+    <subfield code="c">Coautor</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">235</subfield>
+    <subfield code="a">Zúñiga, María E.</subfield>
+    <subfield code="c">Coautor</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="9">236</subfield>
+    <subfield code="a">Zúñiga, Claudia</subfield>
+    <subfield code="c">Coautor</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">234</subfield>
+    <subfield code="a">Vargas, Gilbert</subfield>
+    <subfield code="c">Coautor</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0032</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.24, no.especial (2000)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2708</subfield>
+    <subfield code="d">2708</subfield>
+  </datafield>
+</record>

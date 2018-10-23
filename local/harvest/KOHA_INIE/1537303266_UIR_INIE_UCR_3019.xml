@@ -1,0 +1,47 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01970nab a2200169   4500</leader>
+  <controlfield tag="005">20160331141656.0</controlfield>
+  <controlfield tag="008">160119b2008    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">1290</subfield>
+    <subfield code="a">Cardona Andújar, José</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Aprendizajes acumulativo y generativo de las organizaciones educativas /</subfield>
+    <subfield code="c">José Cardona Andújar</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2008</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">páginas 73-84</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">En el presente ensayo se construye conocimiento, en primer lugar, acerca del concepto  de las organizaciones en general, y de la escuela como organización específica.La escuela y otras instituciones educativas pueden considerarse como seres vivos y, desde esta premisa, son suceptibles de transformación y sujetas a un aprendizaje permanente. No obstante lo anterior, se profundiza  en las características que presentan aquéllas que, verdaderamente, realizan un auténtico cambio haia la mejora de la formación de su alumnado y al desarrollo profesional de sus docentes. 
+En un segundo momento, el autor aborda el tema del aprendizaje organizativo de las instituciones educativas analizando las diferencias que presentan los aprendizajes acumulativo y generativo, defiende la complementariedad entre ambos aprendizajes, subrayando la necesidad de buscar la dimensión científica del conocimiento organizativo. Finaliza el trabajo abordando la problemática de los denominados facilitadores del aprendizaje de las instituciones educativas, asi como un conjunto de indicadores de este aprendizaje. En este sentido, unos y otros constituyen verdaderos y valiosos criterios en los que fundamentar el desarrollo de los procesos de evaluación y de acreditación de los centros educativos</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="0" tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0310</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.32, no.2 (2008)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">3019</subfield>
+    <subfield code="d">3019</subfield>
+  </datafield>
+</record>

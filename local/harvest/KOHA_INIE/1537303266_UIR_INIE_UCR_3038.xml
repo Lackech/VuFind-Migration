@@ -1,0 +1,46 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01921nab a2200169   4500</leader>
+  <controlfield tag="005">20160331155402.0</controlfield>
+  <controlfield tag="008">160126b           f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">1339</subfield>
+    <subfield code="a">Jiménez González, Kenneth</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Propuesta estratégica y metodológica para la gestión en el trabajo colaborativo /</subfield>
+    <subfield code="c">Kenneth Jiménez González</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2009</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">páginas 95-107</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">El artículo expone una propuesta estratégica y metodológica para la gestion en el trabajo colaborativo. Esta es el resultado de una investigación en la que, desde la perspectiva docente y administrativa, se diagnosticó el trabajo colaborativo como una estrategia metodológica. Se realizó en una unidad pedagógica del sistema educativo costarricense. La propuesta recomienda un cambio en el sentido del trabajo en grupo en los centros de enseñanza para pasar del esquema de gestión de trabajo en grupo a un nivel superior, en el que la organización conciba que el trabajo en equipo propicia la conformación de un sistema colaborativo en el cual cada miembro es importante,  lo que se refleja directamente en en un clima orgnizacional armonioso y propenso al mejorameinto continuo, tanto por parte del centro educativo como del personal. La propuesta establece un parámetro estandarizado de trabajo colaborativo como estrategia metodológica. Con esta, las pesonas quienes administren insttituciones educativas tendran la posiblilidad de hacer transformaciones oportunas para  alcanzar la excelencia en los centros de enseñanza, en el marco de las demandas eductivas emergentes en la era de la globalización</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0312</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.33, no.2 (2009)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">3038</subfield>
+    <subfield code="d">3038</subfield>
+  </datafield>
+</record>

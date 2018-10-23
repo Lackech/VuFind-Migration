@@ -1,0 +1,49 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02049nab a2200169   4500</leader>
+  <controlfield tag="008">150527b1998    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">111</subfield>
+    <subfield code="a">Ortiz Torres, Emilio</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="4">
+    <subfield code="a">Los enfoques didáctico y personológico en el proceso de enseñanza-aprendizaje /</subfield>
+    <subfield code="b">Emilio Ortiz Torres </subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">1998</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">páginas 67-75</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">El trabajo valora la repercusión del enfoque didáctico y del enfoque personológico, que han predominado en la comprensión del proceso de enseñanza-aprendizaje en la Didáctica de Cuba, los cuales han dejado su impronta en aspectos medulares como el papel del maestro, la posición del alumno, el condicionamiento mutuo de la enseñanza y el aprendizaje, la unidad de lo instructivo y lo educativo, los aspectos motivacionales-afectivos, la personalización de este proceso pedagógico,entre otros. El análisis se inicia con concepciones didácticas tradicionales, a partir de determinadas obras que representaron fielmente el enfoque, de cada de ellas se realiza un resumen de las principales ideas que aportan. En el enfoque personológico se procede de igual forma con sus autores más representativos, asi como con sus aportes esenciales. En ambos casos se tienen en cuenta cubanos y extranjeros. Posteriormente se analiza la tendencia más actual que tiende a buscar una integración entre ambos enfoques, a partir de justipreciar lo mejor de cada uno, pues en realidad no constituyen enfoques excluyentes entre sí. En realidad, este predominio paulatino como tendencia en la didáctica contemporánea, se ha venido manifestando en Cuba y en otros países iberoamericanos dentro del quehacer docente-educativo de la escuela</subfield>
+  </datafield>
+  <datafield ind2="0" tag="650" ind1=" ">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">112</subfield>
+    <subfield code="a">Mariño Sanchez, María de los Ángeles</subfield>
+  </datafield>
+  <datafield ind2=" " tag="773" ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0020</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.22, no.1 (1998)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2593</subfield>
+    <subfield code="d">2593</subfield>
+  </datafield>
+</record>

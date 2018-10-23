@@ -1,0 +1,64 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00835nam a2200217   4500</leader>
+  <controlfield tag="008">160210b2015    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">19.02.08</subfield>
+    <subfield code="b">2056</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">987</subfield>
+    <subfield code="a">Murillo Sancho, Gabriela</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="4">
+    <subfield code="a">III Congreso Internacional de Investigación Educativa: educación y globalización</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">[San José, Costa Rica] :</subfield>
+    <subfield code="b">INIE,</subfield>
+    <subfield code="c">2015</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">26 hojas, 85 hojas; </subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Informe de Proyecto de Acción Social ED-1507</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="0" tag="611">
+    <subfield code="9">1467</subfield>
+    <subfield code="a">CONGRESO INTERNACIONAL DE INVESTIGACIÓN EDUCATIVA: EDUCACIÓN Y GLOBALIZACIÓN (3: 2015: SAN JOSÉ, COSTA RICA)</subfield>
+  </datafield>
+  <datafield ind2="0" tag="650" ind1=" ">
+    <subfield code="9">267</subfield>
+    <subfield code="a">INFORMES</subfield>
+  </datafield>
+  <datafield ind2="0" tag="650" ind1=" ">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="650" ind2="0" ind1=" ">
+    <subfield code="9">506</subfield>
+    <subfield code="a">CONFERENCIA</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="0" tag="650">
+    <subfield code="9">326</subfield>
+    <subfield code="a">INVESTIGACIÓN EDUCATIVA</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">1438</subfield>
+    <subfield code="a">Díaz Madrigal, María</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="9">154</subfield>
+    <subfield code="a"> Páez Cerdas, Wendy</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">3081</subfield>
+    <subfield code="d">3081</subfield>
+  </datafield>
+</record>

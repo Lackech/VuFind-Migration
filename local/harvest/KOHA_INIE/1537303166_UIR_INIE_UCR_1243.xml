@@ -1,0 +1,56 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00809nam a2200193Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">1243</subfield>
+    <subfield code="d">1243</subfield>
+  </datafield>
+  <controlfield tag="008">170522b2010    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">02.04.02 </subfield>
+    <subfield code="b">2003</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Castillo Carrillo, Siani</subfield>
+    <subfield code="9">2822</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Nuevos horizontes de esperanza / </subfield>
+    <subfield code="c">Siani Castillo Carrillo; Isabel Villalobos Castro; Georgina Marín Gálvez</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">UNED, </subfield>
+    <subfield code="c">2010</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">46 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">En la portada "Iniciativa: comunicación y recreación para la prevención del abuso y la explotación sexual en niños, niñas y adolescentes en la zona sur, 2007-2010"·</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">ABUSO SEXUAL</subfield>
+    <subfield code="9">58</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">PREVENCIÓN</subfield>
+    <subfield code="9">554</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="4" tag="651">
+    <subfield code="a">ZONA SUR (COSTA RICA)</subfield>
+    <subfield code="9">2823</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="a">Villalobos Castro, Isabel</subfield>
+    <subfield code="9">2824</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Marín Gálvez, Georgina</subfield>
+    <subfield code="9">2825</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,51 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01712nab a2200181   4500</leader>
+  <controlfield tag="005">20160831160120.0</controlfield>
+  <controlfield tag="008">150909b2002    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">86</subfield>
+    <subfield code="a">Alfaro Valverde, Alicia</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Uso de las fichas didácticas en V grado de la educación primaria: visión de los educadores en San Ramón /</subfield>
+    <subfield code="c">Alicia Alfaro Valverde, Gilberto Chavarría Chavarría</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2003</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">paginas 103-119</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">Este artículo es parte de una proceso de investigación desarrollado en el año 2001 en dos circuitos escolares de la Dirección Regional de Educación de San Ramón. Presenta los resultados obtenidos de los educadores de V grado en relación con el uso de las fichas didácticas en Educación Primaria. 
+La ficha didáctica es una técnica que se propone desde finales del siglo XIX, con el objetivo de individualizar la enseñanza y sigue manteniendo vigencia hasta el día de hoy. Por tal razón nos dimos a la tarea de investigar la concepción que manejan los educadores acerca de las fichas didácticas, las características, tipos, principios y valores que se pueden fortalecer, frecuencia con que se utilizan, razones de su uso, respuesta de los niños, ventajas, desventajas y sugerencias dadas por los educadores. Termina el artículo con algunas conclusiones en relación con la temática abordada</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">982</subfield>
+    <subfield code="a">Chavarría Chavarría, Gilberto</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0202</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.27, no.2  (2003) </subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2858</subfield>
+    <subfield code="d">2858</subfield>
+  </datafield>
+</record>

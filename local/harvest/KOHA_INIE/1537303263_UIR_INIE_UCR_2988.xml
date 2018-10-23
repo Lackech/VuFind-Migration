@@ -1,0 +1,51 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01545nab a2200181   4500</leader>
+  <controlfield tag="005">20160331140139.0</controlfield>
+  <controlfield tag="008">151216b2007    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">859</subfield>
+    <subfield code="a">Fëdorov Fëdorov, Andrei </subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Desarrollo e Innovación en el Currículum del Programa de la Licenciatura en Ingeniería  Agrícola del Instituto tecnológico de Costa Rica /</subfield>
+    <subfield code="c">Andrei Fëdorov Fëdorov, Isabel Guzmán Arias</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">San José, Costa Rica :</subfield>
+    <subfield code="c">2007</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">páginas 77-89</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">El presente artículo describe el panorama general del recién  concluido proceso de rediseño curricular del plan de estudios de licenciatura en Ingeniería Agrícola del Instituto Tecnológico de Costa Rica. A sus treinta años de existencia, este proyecto ha alcanzado su madurez; no obstante, ante las nuevas exigencias del desarrollo de la disciplina, del entorno productivo nacional e internacional y del contexto universitario y social, es necesario realizar su replanteamiento. El principal objetivo del proceso  consiste en actualizar el programa de una manera integral y así procurar una mayor calidad formativa en ésta área. Se describen los antecedentes, la metodología y los logros más destacados del rediseño</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">1231</subfield>
+    <subfield code="a">Guzmán Arias, Isabel</subfield>
+    <subfield code="c">coautora</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="0" tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0308</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.31, no.1 (2007)</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">2988</subfield>
+    <subfield code="d">2988</subfield>
+  </datafield>
+</record>

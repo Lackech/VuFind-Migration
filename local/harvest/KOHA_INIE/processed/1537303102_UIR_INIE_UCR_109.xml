@@ -1,0 +1,43 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00502nam a2200157Ia 4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">109</subfield>
+    <subfield code="d">109</subfield>
+  </datafield>
+  <controlfield tag="008">150727b200     u  ||||| |||| 00| | e   d</controlfield>
+  <datafield ind2=" " tag="020" ind1=" ">
+    <subfield code="a">9780321492005</subfield>
+  </datafield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">08.15.02 </subfield>
+    <subfield code="b">1533 CD #147</subfield>
+  </datafield>
+  <datafield ind1="2" tag="110" ind2=" ">
+    <subfield code="a">Adobe System Incorporated</subfield>
+    <subfield code="9">527</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Adobe Illustrator CS3: classroom in a book / </subfield>
+    <subfield code="c">Adobe System Incorporated</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">California, U.S. : </subfield>
+    <subfield code="b">Sdobe Press, </subfield>
+    <subfield code="c">2007</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">458 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="500" ind2=" ">
+    <subfield code="a">Incluye CD- ROM #147</subfield>
+  </datafield>
+  <datafield tag="650" ind2="0" ind1=" ">
+    <subfield code="9">1302</subfield>
+    <subfield code="a">PROGRAMAS DE COMPUTADORA</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

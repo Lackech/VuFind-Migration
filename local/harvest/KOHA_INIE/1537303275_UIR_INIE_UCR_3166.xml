@@ -1,0 +1,46 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01629nab a2200169   4500</leader>
+  <controlfield tag="005">20160426162024.0</controlfield>
+  <controlfield tag="008">160426b2011    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">1635</subfield>
+    <subfield code="a">Chuquilin Cubas, Jerson</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="3">
+    <subfield code="a">La educación en Perú y sus profesores: cambios y continuidades / </subfield>
+    <subfield code="c">Jerson Chuquilin Cubas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2011</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">páginas 95 - 117</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">Desde el momento en el que se constituyó el nuevo Estado peruano independiente del poder político español, el poder estatal se encargó de fundar y normar la organización y funcionamiento de las instituciones que conforman lo que hoy se conoce como sistema educativo. Dentro de este proceso, la educación secundaria ha experimentado desarrollos peculiares que la diferencian de los otros niveles educativos en lo que se refiere a las instituciones en las que se imparte, sus propósitos, la formación de sus profesores, las posiciones instituidas y el sentido asignado al quehacer docente y directivo. Así, la educación secundaria nació ligada a la educación superior universitaria  y al servicio de una minoría privilegiada. Sus profesores, de una élite privilegiada al servicio del proyecto homogeneizador del Estado, han transitado hacia una situación de deterioro de sus condiciones de vida y desvalorización de su trabajo.</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind1="0" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0624</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.35, no.2 (jul.-dic.,2011)</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">3166</subfield>
+    <subfield code="d">3166</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,74 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03257nam a2200253Ia 4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">1388</subfield>
+    <subfield code="d">1388</subfield>
+  </datafield>
+  <controlfield tag="008">170621b2009    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">06.01.01 </subfield>
+    <subfield code="b">1457</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="a">Vindas González, Adriana</subfield>
+    <subfield code="9">2970</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Gestión pedagógica para la atención de niños y niñas que asistan a centros infantiles / Adriana Vindas González, Yamileth Araya Garita, Jennifer Unfried Salazar (asesora), Alexandra Segura Ramírez</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">[ San José, Costa Rica ]: </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2009</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">1 volumen (sin numerar)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Proyecto N°. 724-A5-177El Instituto cuenta con informe pacial 2006 e informe final 2009</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">El objetivo general del proyecto  es recopilar la historia de las formas de trabajo implementadas en el Centro Infantil Laboratorio, con el fin de amalgamarlas en una propuesta pedagógica institucional, coherente con la filosofía holista, que promueva el bienestar inclusivo, el enfoque de derechos, la auto-construcción de la personalidad y la formación de personas interdependiente, en sintonía con el planeta.  El proyecto se desarrolla como una investigación cualitativa, que considera como herramienta metodológica básica la investigación acción.  La población participante estuvo constituida esencialmente por el personal del Centro Infantil Laboratorio de la Sede Rodrigo Facio, a saber 13 docentes, 2 cocineras, 1 secretaria, 1 encargada administrativa, 1 psicóloga, 1 trabajadora social, 1 coordinadora pedagógica y la directora del CIL.  Se elabora un diagnóstico de la situación educativa del CIL y de las necesidades y retos de innovación, por medio de un cuestionario.  Con base en los resultados del diagnóstico y como parte del proceso de la investigación, se logra sistematizar una reconstrucción histórica de las diferentes orientaciones pedagógicas e interdisciplinarias que se han aplicado en el CIL, desde sus inicios hasta el presente.   Como resultados de la investigación , cabe rescatar las siguientes conclusiones del equipo de trabajo del CIL: "Se destaca la necesidad de contar con una guía de lineamientos educativos más coherentes y creativos, con el fin de fortalecer las cuatro orientaciones pedagógicas del CIL. "Es fundamental que este proyecto, se comparta en una mayor cantidad de espacios, para lograr una mayor participación del personal. "Aparece la idea de reflexionar acerca de la posibilidad y pertinencia de construir alternativas pedagógicas diferentes a las existentes en este momento. "Un proyecto de investigación como este promueve conversatorios, charlas y talleres pedagógicos; todas actividades muy importantes para el quehacer cotidiano. "Además los resultados de este proyecto deben compartirse como experiencia educativa tanto dentro como fuera del CIL. "En el CIL es fundamental promover talleres innovadores y dinámicos, así como charlas de formación y actualización. </subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">CIENCIAS DE LA EDUCACIÓN</subfield>
+    <subfield code="9">330</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">ENSEÑANZA</subfield>
+    <subfield code="9">14</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">EDUCACIÓN PREESCOLAR</subfield>
+    <subfield code="9">455</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">NIÑOS</subfield>
+    <subfield code="9">59</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">NIÑAS</subfield>
+    <subfield code="9">60</subfield>
+  </datafield>
+  <datafield ind2="0" tag="650" ind1=" ">
+    <subfield code="a">APRENDIZAJE </subfield>
+    <subfield code="9">387</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="a">Unfried Salazar, Jennifer </subfield>
+    <subfield code="9">2971</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="a">Segura Ramírez, Alexandra</subfield>
+    <subfield code="9">2972</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="a">Araya Garita, Yamileth</subfield>
+    <subfield code="9">2973</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

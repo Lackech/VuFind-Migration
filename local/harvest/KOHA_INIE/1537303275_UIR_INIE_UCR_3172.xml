@@ -1,0 +1,50 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01564nab a2200181   4500</leader>
+  <controlfield tag="005">20160428154346.0</controlfield>
+  <controlfield tag="008">160428b2012    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">930</subfield>
+    <subfield code="a">Stiller González, Laura</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Accesibilidad en el proceso  de admisión a la Universidad de Costa Rica, de la población estudiantil con necesidades educativas especiales asociados o no a discapacidad /</subfield>
+    <subfield code="c">Laura Stiller González, Martha Gross Martínez</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2012</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">páginas 73-81</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">En el presente artículo se identifican aspectos conceptules y pragmáticos del acceso al proceso de administración a la Universidad de Costa Rica. Se rescata el marco legal y las acciones que fortalecen la inclusión de a la educación superior. Se visualiza el papel de la Universidad de Costa Rica, en sus esfuerzos por hacer efectiva una universidad inclusiva, con alternativas y propuestas acordes a los requerimientos de la población estudiantil con necesidades educativas especiales asociadas o no a discapacidad. Se realiza además, una vinculación entre el Informe del Estado de la Nación 2010 y los aportes de la Universidad de Costa Rica en la construcción de una universidad accesible.</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="700">
+    <subfield code="9">929</subfield>
+    <subfield code="a">Gross Martínez, Martha</subfield>
+  </datafield>
+  <datafield tag="773" ind2=" " ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0625</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.36, no.1 (ene.-jun., 2012) </subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">3172</subfield>
+    <subfield code="d">3172</subfield>
+  </datafield>
+</record>

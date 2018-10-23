@@ -1,0 +1,43 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00497nam a2200157Ia 4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">111</subfield>
+    <subfield code="d">111</subfield>
+  </datafield>
+  <controlfield tag="008">150727b2008    us ||||| |||| 00| | e   d</controlfield>
+  <datafield ind1=" " ind2=" " tag="020">
+    <subfield code="a">978-0-321-49978-3</subfield>
+  </datafield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">08.15.02 </subfield>
+    <subfield code="b">1534 CD #148</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="100">
+    <subfield code="a">Christiansen, Mark</subfield>
+    <subfield code="9">529</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Adobe after effects CS3 Professional: studio techniques /</subfield>
+    <subfield code="c">Mark Christiansen</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">Estados Unidos : </subfield>
+    <subfield code="b">Adobe Press, </subfield>
+    <subfield code="c">2008</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">456 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Incluye DVD #148</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1302</subfield>
+    <subfield code="a">PROGRAMAS DE COMPUTADORA</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

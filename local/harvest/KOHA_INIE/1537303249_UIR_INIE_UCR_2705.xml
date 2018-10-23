@@ -1,0 +1,49 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02040nab a2200169   4500</leader>
+  <controlfield tag="005">20160317161631.0</controlfield>
+  <controlfield tag="008">150624b2000    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">226</subfield>
+    <subfield code="a">Lorenzo, Enrique Gustavo</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Evaluación etnográfica en los procesos de lectura y  escritura en la formación de maestros: relato de una experiencia /</subfield>
+    <subfield code="c">Enrique Gustavo Lorenzo</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2000</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a"> páginas 145-154</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">La siguiente es una reseña de un trabajo de investigación desarrollado el pasado año, en el marco de la asignatura Lectura y Escritura en la formación de maestros.
+Las cuestiones de enseñanza, aprendizaje y evaluación desde siempre han preocupado tanto a docentes como a alumnos. En el ámbito de la formación profesional, los cuestionamientos adquieren una mayor dimensión en función de los actores y los contextos involucrados. 
+En este sentido es que en el desarrollo del curso Lectura y Escritura, asignatura curricular ubicada en el segundo año del plan de formación de maestros, consideramos que sería pertinente llevar adelante una reflexión sobre nuestras prácticas de evaluació, tanto en lo referido a las enseñanzas como a los aprendizajes.
+En función de nuestras concepciones de enseñanza, aprendizaje, planificación y a la pertinencia de la evaluación en la formación de docentes, optamos predominantemente por un paradigma cualitativo en el momento de enmarcar nuestro referente teórico y nuestro diseño metodológico. Preguntas vagamente formuladas constituyeron nuestros puntos de partida. La intención: recolectar datos para poder comprender mejor nuestros procesos de evaluación, nuestros supuestos sobre la evaluación, nuestros miedos acerca de la evaluación</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind2=" " ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0032</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.24, no.especial </subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2705</subfield>
+    <subfield code="d">2705</subfield>
+  </datafield>
+</record>

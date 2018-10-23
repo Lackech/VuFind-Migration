@@ -1,0 +1,43 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00798nam a2200157Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">1591</subfield>
+    <subfield code="d">1591</subfield>
+  </datafield>
+  <controlfield tag="008">180302bs       cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">06.02.03 </subfield>
+    <subfield code="b">1560</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Metodologías y técnicas específicas para la formulación y evaluación de proyectos en la esfera de la educación / </subfield>
+    <subfield code="c">UNESCO/CAP</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b"> UNESCO /CAP, </subfield>
+    <subfield code="c">sin fecha</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">volumenes </subfield>
+  </datafield>
+  <datafield tag="490" ind1=" " ind2=" ">
+    <subfield code="a">Serie B</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Módulo II: Los proyectos: concepto, clases, concepción y descripción\Módulo III: La redacción de un proyecto (formato PNUD)\Módulo IV: Formulación, ejecución y evaluación de proyectos educativos a nivel local</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">PROYECTOS DE EDUCACION </subfield>
+    <subfield code="9">152</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">PLANIFICACION</subfield>
+    <subfield code="9">2302</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

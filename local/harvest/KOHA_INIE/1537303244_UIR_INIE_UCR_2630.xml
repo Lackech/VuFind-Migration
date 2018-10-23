@@ -1,0 +1,50 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01362nab a2200169   4500</leader>
+  <controlfield tag="008">150604b1999    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">148</subfield>
+    <subfield code="a">Barrantes Araya, Trino</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="3" tag="245">
+    <subfield code="a">La antropología como instrumento teórico para el análisis de la educación como práctica social /</subfield>
+    <subfield code="c">Trino Barrantes Araya</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">1999</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">páginas 75-87</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">El trabajo consta de dos apartados: En el primero se dibuja de manera muy general el desarrollo de la pedagogía en el contexto histórico costarricense, en su doble variante: como aparato ideológico y la educación popular como instrumento de socialización. En el segundo tópico se procura ofrecer una lectura sistematizada de la antropología como ciencia, a fin  de dotar a los alumnos de algunos instrumentos teórico-conceptuales que sirvan de partida para la búsqueda y afirmación de su proceso cultural e identidad.
+Entre ambos temas subyace de manera tangencial la categoría de cultura, la cual se sugiere, pero no se desarrolla</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">162</subfield>
+    <subfield code="a">Guido Cruz, Francisco</subfield>
+  </datafield>
+  <datafield tag="773" ind2=" " ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0023</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.23, no.2 (1999)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2630</subfield>
+    <subfield code="d">2630</subfield>
+  </datafield>
+</record>

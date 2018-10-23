@@ -1,0 +1,47 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02281nab a2200157   4500</leader>
+  <controlfield tag="008">150604b1999    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">159</subfield>
+    <subfield code="a">Navarrete Gutiérrez, Lucía</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Dificultades de acceso y exclusión de estudiantes con discapacidad de la educación primaria /</subfield>
+    <subfield code="c">Lucía Navarrete Gutiérrez</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">1999</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">páginas 155-173</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">Este artículo analiza el fenómeno de la exclusión educativa de personas con discapacidad de las aulas de la Educación Primaria, a partir de una de las dimensiones en que se manifiesta en nuestro contexto: las dificultades que enfrentan estas personas para el acceso y la participación en este espacio de desarrollo, limitando su derecho como individuos de elegir la opción  educativa que mejor se ajuste a sus capacidades, aptitudes e intereses.
+En él se establece una reflexión  final de los hallazgos obtenidos en la investigación "Exclusión educativa de los estudiantes con discapacidad de las aulas regulares de la Educación Primaria en Costa Rica", realizada entre 1996 y 1999.
+Los resultados de la investigación permitieron confirmar que más  de la mitad de las personas con discapacidad en edad escolar están excluidas del sistema educativo o encuentran dificultades para accesar a las aulas regulares por la falta de apoyos y recursos de todo tipo que garanticen su adecuada atención y por ende, su permanencia y promoción dentro del sistema. El análisis de contenido aplicado a documentos oficiales indicó que los esfuerzos realizados para superar la exclusión educativa, entre los que destacan la promulgación de la Ley 7600 y la Normativa y el Manual de Procedimientos para su implementación en la esfera educativa, deben enfrentarse a dificultades derivadas tanto de las debilidades del sistema educativo y la propuesta de la Educación Primaria estatal actuales, como de las concepciones vigentes en el contexto educativo acerca de las personas con discapacidad</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0023</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.23, no.2 (1999)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2637</subfield>
+    <subfield code="d">2637</subfield>
+  </datafield>
+</record>

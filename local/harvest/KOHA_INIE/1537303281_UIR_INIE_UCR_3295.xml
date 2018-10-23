@@ -1,0 +1,70 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00922nam a2200205   4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3295</subfield>
+    <subfield code="d">3295</subfield>
+  </datafield>
+  <controlfield tag="003">cru INIE</controlfield>
+  <controlfield tag="005">20180223062601.0</controlfield>
+  <controlfield tag="008">160729b2015    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="040">
+    <subfield code="c">cru INIE</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">06.02.01</subfield>
+    <subfield code="b">2357</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">1911</subfield>
+    <subfield code="a">Meza Cascante, Luis Gerardo</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Resolución de problemas matemáticos en la educación media costarricense: un estudio acerca de la actitud /</subfield>
+    <subfield code="c">Luis Gerardo Meza Cascante, Zuleyka Suárez-Valdés Ayala y Evelyn Agüero Calvo</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">Cartago, Costa Rica :</subfield>
+    <subfield code="b">Instituto Tecnológico de Costa Rica,</subfield>
+    <subfield code="c">2015</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">pp. 58-69</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1590</subfield>
+    <subfield code="a">RESOLUCIÓN DE PROBLEMAS</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">482</subfield>
+    <subfield code="a">MATEMÁTICAS  </subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">611</subfield>
+    <subfield code="a">ACTITUDES</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">456</subfield>
+    <subfield code="a">EDUCACIÓN SECUNDARIA</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">1912</subfield>
+    <subfield code="a">Suárez-Valdés Ayala, Zuleyka</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">1913</subfield>
+    <subfield code="a">Agüero Calvo, Evelyn</subfield>
+  </datafield>
+  <datafield tag="773" ind1="0" ind2=" ">
+    <subfield code="0">3292</subfield>
+    <subfield code="9">3368</subfield>
+    <subfield code="d">Cartago, Costa Rica : Instituto Tecnológico de Costa Rica, 2015</subfield>
+    <subfield code="o">004209</subfield>
+    <subfield code="t">Revista comunicación</subfield>
+    <subfield code="x">03793974</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+</record>

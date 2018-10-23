@@ -1,0 +1,44 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00761nam a2200169Ia 4500</leader>
+  <datafield tag="020" ind2=" " ind1=" ">
+    <subfield code="a">9977-30-299--5</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">05.02.01 </subfield>
+    <subfield code="b">878</subfield>
+  </datafield>
+  <datafield ind1=" " tag="111" ind2=" ">
+    <subfield code="a">Encuentro Cultura tradicional hoy y las expresiones artísticas profesionales en centroamérica [1° : 1996 : Tela, Honduras] </subfield>
+  </datafield>
+  <datafield ind2=" " tag="245" ind1=" ">
+    <subfield code="a">I Encuentro Cultural tradicional hoy y las expresiones artísticas profesionales en centroamérica.</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">Consejo Superior Centroamericano : </subfield>
+    <subfield code="b">San Jose, Costa Rica CSUCA, </subfield>
+    <subfield code="1">997</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">143 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2=" ">
+    <subfield code="a">CULTURA TRADICIONAL</subfield>
+  </datafield>
+  <datafield ind2=" " tag="650" ind1=" ">
+    <subfield code="a">CULTURA POPULAR </subfield>
+  </datafield>
+  <datafield ind2=" " tag="650" ind1=" ">
+    <subfield code="a">CONFERENCIAS</subfield>
+  </datafield>
+  <datafield tag="650" ind2=" " ind1=" ">
+    <subfield code="a">COSTUMBRES</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="711">
+    <subfield code="a">Encuentro Cultura tradicional hoy y las expresiones artísticas profesionales en centroamérica [1° : 1997 : Atlántida, Honduras]</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">984</subfield>
+    <subfield code="d">984</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,48 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00578nam a2200169Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2137</subfield>
+    <subfield code="d">2137</subfield>
+  </datafield>
+  <controlfield tag="008">180719b1996    pn ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">14.02.03 </subfield>
+    <subfield code="b">1079</subfield>
+  </datafield>
+  <datafield tag="110" ind1=" " ind2=" ">
+    <subfield code="a">Fondo de las Naciones Unidas para la Infancia (UNICEF)</subfield>
+    <subfield code="9">4026</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Mujeres que cambiaron nuestra historia / Fondo de Naciones Unidas para la Infancia</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">Panamá: </subfield>
+    <subfield code="c">1996</subfield>
+    <subfield code="b">UNICEF, Universidad de Panamá, Fondo Canadá-Panamá, </subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">174 páginas</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">MUJERES</subfield>
+    <subfield code="9">55</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">HISTORIA</subfield>
+    <subfield code="9">22</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">ROL DE LA MUJER</subfield>
+    <subfield code="9">4078</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="651">
+    <subfield code="a">PANAMÁ</subfield>
+    <subfield code="9">491</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,64 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03188nam a2200217Ia 4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2290</subfield>
+    <subfield code="d">2290</subfield>
+  </datafield>
+  <controlfield tag="008">180705b1997    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">18.09.01 </subfield>
+    <subfield code="b">15</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="110">
+    <subfield code="a">Costa Rica. Ministerio de Educación Pública</subfield>
+    <subfield code="9">545</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Informe de la aplicación de las pruebas de diagnóstico de primer ingreso / </subfield>
+    <subfield code="c">Flor de María  Gutiérrez Jaén ...[et al.]</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">El Ministerio, </subfield>
+    <subfield code="c">1997</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">88 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">Este informe reporta los resultados de la evaluación de diagnóstico administrada en 1996 a los niños de primer ingreso de la Educación General Básica. Originalmente para este proyecto se plantearon tres objetivos, sin embargo en este informe solo se exponen los resultados que corresponden a los dos primeros; a saber, conocer las características demográficas, de desarrollo físico, de desarrollo cognitivo-lingüístico y de desarrollo socio-emocional con que llegan los niños costarricenses al primer año de la Educación General Básica, e identificar aquellos aspectos del desarrollo y del aprendizaje que presentan dificultades, con el fin de que la información obtenida permita la toma de decisiones educativas y curriculares pertinentes. En el marco teórico que se fundamenta esta investigación, se definen los conceptos de desarrollo y de aprendizaje a partir de la relación que existe entre ambos. Se establecen, además, las características generales en cuanto a habilidades, actitudes y valores que dominan los niños al ingresar al primer año. También se presentan rasgos comunes, en el desarrollo de los niños, que fueron diagnosticados en estudios previos y que merecen especial atención, por ejemplo, la necesidad de actividades que favorezcan la habilidad motora gruesa y las destrezas motoras finas. Se plantean también, según lo establece la NAEYC (1992), qué se consideran prácticas apropiadas y prácticas inapropiadas para el aprendizaje, así como las normas para evaluar la condición de estos niños. Otra consideración importante que se expone es el hecho de que el dominio de la lecto-escritura y las nociones matemáticas básicas requieren de habilidades previas, de manera que si no se han adquirido al momento de ingresar al primer año, puede haber problemas. La muestra escogida para la investigación representa el 6% de la población de niños que ingresaron a primer año en 1996. La recolección de datos se llevó a cabo por medio de una prueba gráfica, elaborada especialmente para los niños, y cuestionarios confeccionados para los maestros y los padres de familia. El análisis de los datos se presenta en 119 cuadros y de él se infiere que hay diferencias significativas, relacionadas con la edad, el sexo, la asistencia o no asistencia al Jardín de Niños y el nivel socioeconómico, que influyen directamente en el desarrollo y el aprendizaje de los niños.</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">EDUCACIÓN PRIMARIA</subfield>
+    <subfield code="9">367</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">PRUEBAS</subfield>
+    <subfield code="9">629</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">DIAGNÓSTICO</subfield>
+    <subfield code="9">632</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">DESARROLLO DE LA EDUCACIÓN</subfield>
+    <subfield code="9">24</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">EDUCACION GENERAL</subfield>
+    <subfield code="9">3913</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">EDUCACION BASICA</subfield>
+    <subfield code="9">2224</subfield>
+  </datafield>
+  <datafield ind1=" " tag="700" ind2=" ">
+    <subfield code="a">Gutiérrez Jaén, Flor de María</subfield>
+    <subfield code="9">3808</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

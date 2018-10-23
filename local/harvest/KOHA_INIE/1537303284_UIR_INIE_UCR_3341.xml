@@ -1,0 +1,39 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00616nam a2200145   4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">3341</subfield>
+    <subfield code="d">3341</subfield>
+  </datafield>
+  <controlfield tag="008">161018b2015    c  ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">Archivo #22 </subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="100">
+    <subfield code="9">1437</subfield>
+    <subfield code="a">Peña Bonilla, María</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="3">
+    <subfield code="a">La generación de conocimiento más allá de fines económicos / </subfield>
+    <subfield code="c">María Encarnación Peña Bonilla</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Universidad de Costa Rica, </subfield>
+    <subfield code="c">2015. </subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">1</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">En: Noticias UCR http://www.ucr.ac.cr/noticias/2015/03/06/la-generacion-de-conocimiento-mas-alla-de-fines-economicos.html.</subfield>
+  </datafield>
+  <datafield ind1="1" tag="610" ind2="0">
+    <subfield code="9">153</subfield>
+    <subfield code="a">INSTITUTO DE INVESTIGACIÓN EN EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">07</subfield>
+  </datafield>
+</record>

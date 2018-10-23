@@ -1,0 +1,54 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02944nam a2200193Ia 4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">1381</subfield>
+    <subfield code="d">1381</subfield>
+  </datafield>
+  <controlfield tag="008">170621b2007    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">06.01.01 </subfield>
+    <subfield code="b">1041</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="a">Chaves Salas, Ana Lupita</subfield>
+    <subfield code="9">255</subfield>
+  </datafield>
+  <datafield tag="245" ind2="3" ind1="1">
+    <subfield code="a">La investigación acción para transformar los procesos educativos que emergen de la cotidianidad de un centro educativo/Lupita Chaves Salas; Jacqueline García Fallas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">[San José, Costa Rica] : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2007</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">374 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="500" ind2=" ">
+    <subfield code="a">La Unidad posee informes parciales 2004, 2006 e informe final 2007 del proyecto de investigación No. 724-A4-030 .</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">El propósito de este proyecto fue facilitar la apropiación de estrategias de investigación-acción por parte del personal docente y administrativo de un centro escolar para transformar los procesos educativos que emergen de la cotidianidad del aula y de la institución.  El proyecto se ubica dentro del paradigma cualitativo. En el estudio, participan inicialmente ocho docentes y la directora de un centro escolar de educación primaria (Unidad Pedagógica José Ma. Zeledón).  Esta institución cumple con los requisitos de selección: área rural, personal participante en propiedad y disposición para la investigación. Se conforma un grupo de 9 docentes incluida la directora.  Durante el último período, tres docentes habían dejado la experiencia de investigación-acción por diversas razones: (salud, jubilación).  De esta manera, la experiencia de investigación-acción la realizan seis educadoras (incluyendo la directora del centro educativo).  La información se recolecta mediante el diario de campo, donde los participantes describen interacciones, movimientos, diálogos, el contexto escolar y además, anotan sus percepciones personales sobre lo que acontece en el salón de clase.  También se utiliza el video y al cámara fotográfica para captar los acontecimientos que acontecen en el aula y la institución.  En cuanto a resultados obtenidos, las metas propuestas se cumplieron en un 100%, éstas son:"Implementación de un proceso de formación/capacitación de investigación-acción para el mejoramiento de la práctica docente y la gestión educativa en un centro escolar de educación primaria. "Facilitación de estrategias de investigación-acción para el diseño y el desarrollo de proyectos de investigación en el personal docente y docente administrativo de una institución educativa. "Elaboración y ejecución de proyectos de investigación social en la institución educativa y en los salones de clase y por parte de cada gestor-participante. "Elaboración de un libro sobre el tema de la investigación-acción desde la cotidianidad de los procesos educativos, y de un informe final de labores. </subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">INVESTIGACIÓN CUALITATIVA</subfield>
+    <subfield code="9">317</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">INVESTIGACIÓN ACCIÓN</subfield>
+    <subfield code="9">1072</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">APRENDIZAJE </subfield>
+    <subfield code="9">387</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1=" ">
+    <subfield code="9">759</subfield>
+    <subfield code="a">García Fallas, Jacqueline</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

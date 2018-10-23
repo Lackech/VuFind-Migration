@@ -1,0 +1,49 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00613nam a2200169Ia 4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">911</subfield>
+    <subfield code="d">911</subfield>
+  </datafield>
+  <controlfield tag="008">170301b2006    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="020">
+    <subfield code="a">9968-9624-0-6</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">04.02.01 </subfield>
+    <subfield code="b">1747</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">2498</subfield>
+    <subfield code="a">Jiménez Sandoval, Rodrigo</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Derechos Humanos de las personas con discapacidad en Costa Rica /</subfield>
+    <subfield code="c">Rodrigo Sandoval, editor/a</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">Costa Rica : </subfield>
+    <subfield code="b">La Agencia, </subfield>
+    <subfield code="c">2006</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">58 páginas, </subfield>
+    <subfield code="c">21x14 centímetros</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">DERECHOS HUMANOS</subfield>
+    <subfield code="9">588</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">PERSONAS CON DISCAPACIDAD</subfield>
+    <subfield code="9">1369</subfield>
+  </datafield>
+  <datafield tag="710" ind2=" " ind1="2">
+    <subfield code="9">1368</subfield>
+    <subfield code="a">Consejo Nacional de Rehabilitación y Educación Especial</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

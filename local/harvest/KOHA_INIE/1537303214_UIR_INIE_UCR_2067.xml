@@ -1,0 +1,74 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01829nam a2200253Ia 4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2067</subfield>
+    <subfield code="d">2067</subfield>
+  </datafield>
+  <controlfield tag="008">180829b1985    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">13.02.01 </subfield>
+    <subfield code="b">52</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1=" ">
+    <subfield code="a">Abarca Molina, Angelina</subfield>
+    <subfield code="9">2645</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Estandarización de inventario de madurez vocacional de John O. Crites para estudiantes de IX año de la educación general básica y XI año de la educación diversificada de los centros educativos académicos diurnos de Costa Rica /</subfield>
+    <subfield code="c"> Angelina Abarca Molina, Juan Manuel Esquivel Alfaro</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica. : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1985</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">209 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Informe final.</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">En el ámbito nacional existen pocas pruebas que estandarizadas que sean útiles para orientar a los estudiantes de Educación Diversificada. Es por ello que un estudio tendiente a revisar estos aspectos es de gran importancia. A través de esta investigación, se vio que no existen diferencias importantes en la madurez vocacional entre hombres y mujeres, pero sí las hay entre jóvenes de áreas rurales y urbanas, favoreciendo al primer grupo. En cuanto a las regiones del país, se notó que es en la Atlántica donde existe el menor grado de madurez vocacional del país. En lo que respecta a edades, es mucho más fuerte la madurez vocacional alrededor de los 17 años, y según parece, por lo menos en los adolescentes, esa madurez incrementa con la edad. Se incluye en los anexos un formato para esta prueba.</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">ORIENTACIÓN PROFESIONAL</subfield>
+    <subfield code="9">2186</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">ELECCIÓN DE UNA OCUPACIÓN</subfield>
+    <subfield code="9">1161</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">FORMACIÓN PROFESIONAL</subfield>
+    <subfield code="9">498</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">DESARROLLO DE LA PERSONALIDAD</subfield>
+    <subfield code="9">907</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">INVENTARIOS</subfield>
+    <subfield code="9">4156</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">PSICOLOGÍA</subfield>
+    <subfield code="9">657</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">DATOS ESTADÍSTICOS</subfield>
+    <subfield code="9">452</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="a">Esquivel Alfaro, Juan Manuel</subfield>
+    <subfield code="9">157</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+  </datafield>
+</record>

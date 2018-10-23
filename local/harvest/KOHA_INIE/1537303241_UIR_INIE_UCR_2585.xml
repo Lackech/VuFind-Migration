@@ -1,0 +1,44 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02209nab a22001577a 4500</leader>
+  <controlfield tag="008">150527b1997    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">101</subfield>
+    <subfield code="a">Silicia Camacho, Alvaro</subfield>
+  </datafield>
+  <datafield ind2="3" tag="245" ind1="1">
+    <subfield code="a">Un estudio sobre las teorías implícitas de los profesores de educación primaria en la capital de Almería (España) /</subfield>
+    <subfield code="c">Alvaro Sicilia Camacho</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica:</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">1997</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">páginas 95-106</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">El estudio sobre el ámbito de la educación presentado, se centra en las teorías implicitas, dentro del denominado "paradigma mediacional centrado en el profesor". En este paradigma, se parte de la idea de que la conducta del docente está guiada por un sistema de creencias, valores y principios a los que denominaremos con el constructo de teorías implícitas. Ochenta y un profesores pertenecientes a la Enseñanza Primaria, repartidos entre 11 colegios de la capital de Almeria, fueron preguntados a través del cuestionario de teorías implícitas elaborado por Marrero Acosta (1988), con el objetivo de conocer sus creencias acerca de la enseñanza e intentar establecer alguna relación entre éstas y las variables de sexo, edad, años de experiencia docente, especialidad impartida y tipo de centro donde ejercen la profesión. El análisis se llevó a cabo a través de porcentaje de valoración que cada profesor asignó a cada teoría reflejada en el cuestionario, utilizando la función de tabulación cruzada (cross-tabulations), del paquete estadístico BMDP, para realizar el test de independencia de la Chi-cuadrado, relacionando así las teorías implicitas de los profesores con las variables presentadas. Los resultados muestran cómo la teoría expresiva es la más valorada por la totalidad de los profesores, asimismo sólo se encontraron una relación suficientemente significativa (&gt;0.05), entre la teoría productiva y la variable edad y la teoría expresiva con la variable tipo de centro.</subfield>
+  </datafield>
+  <datafield ind2="0" tag="650" ind1=" ">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="0" tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.21, no.2 (1997)</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2585</subfield>
+    <subfield code="d">2585</subfield>
+  </datafield>
+</record>

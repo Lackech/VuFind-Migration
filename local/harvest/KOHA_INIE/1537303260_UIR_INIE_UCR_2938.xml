@@ -1,0 +1,47 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01738nab a2200169   4500</leader>
+  <controlfield tag="005">20160331134151.0</controlfield>
+  <controlfield tag="008">151105b2005    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">1181</subfield>
+    <subfield code="a">Venegas Bonilla, Grace</subfield>
+  </datafield>
+  <datafield tag="245" ind2="3" ind1="1">
+    <subfield code="a">El programa de cursos libres de la dirección de extensión universitaria de la Universidad Estatal a Distancia (UNED) /</subfield>
+    <subfield code="c">Grace Venegas Bonilla</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2005</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">páginas 149-162</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">Este artículo presenta un recorrido teórico por los fundamentos de la Extensión Universitaria de la UNED, a partir de un análisis de los planteamientos sociofilosóficos que permiten argumentar la implementación del Programa de Cursos Libres, y la revisión de las propuestas de Villarini (1996) y Tinnermann (1999) para la Educación Superior, y de esta manera, articular posteriormente las acciones universitarias como respuestas a una realidad histórico, social y cultural de la sociedad costarricense.
+A partir de la información que se sistematiza en este artículo, se pretende generar una propuesta de fundamentos teóricos y filosóficos que permitan reflexionar sobre el quehacer universitario con miras a ofrecer una respuesta pertinente a las demandas de diferentes grupos, desde una perspectiva de educación no formal, en este caso desde el Programa de Cursos Libres de la Dirección de Extensión Universitaria de la Universidad Estatal a Distancia, a desarrollar en un artículo posterior</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " tag="773" ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0300</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.29, no.1 (2005) </subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2938</subfield>
+    <subfield code="d">2938</subfield>
+  </datafield>
+</record>

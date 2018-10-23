@@ -1,0 +1,58 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00760nam a2200181Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">1556</subfield>
+    <subfield code="d">1556</subfield>
+  </datafield>
+  <controlfield tag="008">180226b1993    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">06.02.01 </subfield>
+    <subfield code="b">45</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="a">Del Vecchio Ugalde, Janina</subfield>
+    <subfield code="9">170</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Igualdad y valoración de méritos en la Educación Costarricense</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1993</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">50 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Informe Final</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">	El objeto de análisis de esta investigación es la política educativa costarricense, entendida como la acción reguladora del quehacer académico escolar y colegial. Asimismo, el estudio pretende proponer lineamientos para una política educativa de alta calidad académica, acorde con las necesidades sociales del país. Para lograr esto último, la autora aborda la forma en que las diferencias individuales son tratadas por el modelo educativo costarricense. La educación se entiende en su contexto social e histórico y se emplean tres enfoques metodológicos integrados: el histórico, el descriptivo y el interpretativo. Se analizan los siguientes aspectos: el desarrollo histórico de Costa Rica durante la Colonia y la Independencia (la nación ordena sus prioridades de manera que la educación y la salud tengan preferencia sobre los gastos militares, sistema de minifundios para la posesión de la tierra, igualdad impuesta por las circunstancias económicas creadas por el cultivo del café), la educación en el período que va desde 1949 hasta 1990 (la concepción de que la educación es función esencial del Estado: la enseñanza primaria obligatoria y la preescolar y secundaria gratuitas y costeadas por la nación; en los años 70: elevación del nivel educativo promedio de la población; período 1978-1982: concepción de la educación como potencia del cambio y el progreso; período 1986-1990: se señalan los problemas del sistema: no logra satisfacer las demandas de educación, alto porcentaje de deserción, poca adecuación de los programas de la educación general básica), y de 1990 a 1994 (educación para la convivencia democrática y aceptación de las premisas de que los alumnos aprenden de modos diversos y con ritmos diferentes), análisis del modelo educativo nacional (principios curriculares, salidas laterales al currículo, análisis del trato de las particularidades individuales en el modelo educativo actual); problemas vigentes (formación pedagógica del profesor, formulación de los contenidos, alcahuetería evaluativa, facilismo institucionalizado, sentimentalismo institucionalizado). El trabajo concluye con la presentación de un nuevo paradigma educativo para una sociedad de oportunidades para todos (integración responsable y eficaz del ciudadano en la toma de decisiones, despolitización de la educación, orientación curricular hacia el trabajo productivo).</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">POLÍTICA EDUCATIVA</subfield>
+    <subfield code="9">451</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a"> CAMBIO SOCIAL </subfield>
+    <subfield code="9">470</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">DESARROLLO ECONÓMICO Y SOCIAL</subfield>
+    <subfield code="9">445</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">HISTORIA</subfield>
+    <subfield code="9">22</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,54 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01800nab a2200193   4500</leader>
+  <controlfield tag="003">cru INIE</controlfield>
+  <controlfield tag="005">20170826062552.0</controlfield>
+  <controlfield tag="008">150520b1997    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">88</subfield>
+    <subfield code="a">Gallardo Álvarez, Isabel</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Poemas, rimas, cuentos, ellos también van al aula /</subfield>
+    <subfield code="c">Isabel Gallardo</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">1997</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">páginas 19-24</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">El artículo "Poemas, rimas, cuentos, ellos también van al aula", es un ensayo en el cual se sugiere a los maestros, diversas actividades para desarrollar en el aula, utilizando como herramienta a la literatura infantil.
+Como es bien sabido, el lenguaje es no solo una materia que se ve en el aula, sino un instrumento de uso diario, por eso, es importante su conocimiento y aprecio, y una manera de fomentarlo es utilizando en las diferentes lecciones poemas, cuentos, trabalenguas y adivinanzas, que no solo agilizan el aprendizaje sino también que los hace más creativo.
+Hay poemas, adivinanzas, cuentos cortos que sirven para motivar o reforzar los conocimientos de una lección de Ciencias, de Estudios Sociales o de Matemática, ellos pueden hacer que la materia tome otro aspecto y para conseguirlos no se necesita mucho esfuerzo, libros infantiles siempre hay; de ellos se puede tomar todo lo necesario para ilustrar cualquier actividad.
+Así no solo se hará más agradable la clase, sino que será un forma más de enseñarle al niño el amor por la lengua, la literatura y la creatividad.</subfield>
+  </datafield>
+  <datafield ind2="0" ind1=" " tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2="0" ind1=" " tag="651">
+    <subfield code="9">47</subfield>
+    <subfield code="a">COSTA RICA</subfield>
+  </datafield>
+  <datafield ind2=" " tag="773" ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0019</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.21, no.2 (1997)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">2577</subfield>
+    <subfield code="d">2577</subfield>
+  </datafield>
+</record>

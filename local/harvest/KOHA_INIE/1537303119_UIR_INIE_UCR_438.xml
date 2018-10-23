@@ -1,0 +1,52 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00752nam a2200181Ia 4500</leader>
+  <controlfield tag="008">161025b1998    mx ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="020">
+    <subfield code="a">9688957984</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">06.03.04 </subfield>
+    <subfield code="b">59</subfield>
+  </datafield>
+  <datafield ind2=" " tag="110" ind1="1">
+    <subfield code="a">México.  Secretaría de Medio Ambiente, Recursos Naturales y Pesca</subfield>
+    <subfield code="9">2118</subfield>
+  </datafield>
+  <datafield ind2=" " tag="111" ind1="2">
+    <subfield code="a">Congreso Iberoamericano de Educación Ambiental Tras la Huella de Tbilisi [2° : 1998 : México]</subfield>
+    <subfield code="9">2119</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="1">
+    <subfield code="a">¿Quién es quién en educación ambiental en Iberoamérica? : Reporte de Investigación / </subfield>
+    <subfield code="c">Edgar González Gaudiano, coordinador</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">México : La Secretaría, </subfield>
+    <subfield code="c">1998</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">66 páginas</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">EDUCACIÓN AMBIENTAL </subfield>
+    <subfield code="9">439</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">DOCENTES</subfield>
+    <subfield code="9">331</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="a">González Gaudiano, Edgar</subfield>
+    <subfield code="9">2047</subfield>
+    <subfield code="e">Coordinador/a</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">438</subfield>
+    <subfield code="d">438</subfield>
+  </datafield>
+</record>

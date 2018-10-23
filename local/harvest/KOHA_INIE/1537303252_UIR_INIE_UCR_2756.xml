@@ -1,0 +1,54 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00776nam a2200181   4500</leader>
+  <controlfield tag="008">150803b2013    mx ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">14.02.03 </subfield>
+    <subfield code="b">2157 </subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">685</subfield>
+    <subfield code="a">Hunt, Flor </subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Evaluación de la implementación de la declaración ministerial Prevenir con Educación 2012 del acuerdo a la acción: avances en Latinoamérica y el Carible /</subfield>
+    <subfield code="c">Flor Hunt, Erick Monterrosas Castrejón</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">México :</subfield>
+    <subfield code="b">Federación Internacional de Planificación de la Familia. Región Hemisferio Occidental; Democracia y Sexualidad,</subfield>
+    <subfield code="c">2013</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">95 páginas</subfield>
+    <subfield code="b">tablas; gráficos</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">48</subfield>
+    <subfield code="a">SEXUALIDAD</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">70</subfield>
+    <subfield code="a">SIDA</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">5</subfield>
+    <subfield code="a">ADOLESCENTES</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="700">
+    <subfield code="9">686</subfield>
+    <subfield code="a">Monterrosas Castrejón, Erick</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2756</subfield>
+    <subfield code="d">2756</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,59 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00888nam a2200205   4500</leader>
+  <controlfield tag="008">150925b2013    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">Tesis # 48</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">1093</subfield>
+    <subfield code="a">González Coto, Marcela </subfield>
+  </datafield>
+  <datafield tag="245" ind2="3" ind1="1">
+    <subfield code="a">La niñez ciudadana desde la agencia social en la primera infancia: un estudio de un grupo de niñas y niños, que asisten al Centro de Educación y Nutrición (CEN) de Orosí de Paraíso de Cartago /</subfield>
+    <subfield code="c">Marcela González Coto</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica </subfield>
+    <subfield code="b">M. González C., </subfield>
+    <subfield code="c">2013</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">x, 166 páginas</subfield>
+  </datafield>
+  <datafield tag="502" ind2=" " ind1=" ">
+    <subfield code="a">Tesis (Maestría académica en Antropología Social)-- Universidad de Costa Rica. Sistema de Estudios de Posgrado</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">757</subfield>
+    <subfield code="a">PRIMERA INFANCIA</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">59</subfield>
+    <subfield code="a">NIÑOS</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">60</subfield>
+    <subfield code="a">NIÑAS</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">394</subfield>
+    <subfield code="a">EDUCACIÓN PÚBLICA </subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">534</subfield>
+    <subfield code="a">NUTRICIÓN</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">682</subfield>
+    <subfield code="a">ANTROPOLOGÍA SOCIAL Y CULTURAL</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">02</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2897</subfield>
+    <subfield code="d">2897</subfield>
+  </datafield>
+</record>

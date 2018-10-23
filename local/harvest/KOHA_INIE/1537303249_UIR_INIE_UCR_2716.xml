@@ -1,0 +1,46 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01388nab a22001697a 4500</leader>
+  <controlfield tag="005">20170826062552.0</controlfield>
+  <controlfield tag="008">150701b2001    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">88</subfield>
+    <subfield code="a">Gallardo Álvarez, Isabel</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="4">
+    <subfield code="a">Una aventura educativa: "El uso del libro de texto Hacia el Siglo XXI" / </subfield>
+    <subfield code="c">Isabel Gallardo</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2001</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a"> páginas 81-94</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">Los libros de texto son una ayuda para los profesores de secundaria del país, pero muchas veces no son bien utilizados, se les considera como el compedio de todos los conocimientos. Por eso, los libros de la Serie Hacia el siglo XXI, no han sido bien recibidos por los decentes del país, pues los obliga a ser creativos y a poner más de sí, para sacarles provecho. En este artículo, mediante un ejemplo, se desarrolla una lección en la que se usa tanto la información del libro de texto, como la creatividad de los estudiantes y la del profesor. Con el fin de sacar mayor provecho de la información que proporciona el libro de texto y de la construcción significativa del conocimiento por parte de los estudiantes</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0054</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.25, no.1  (2001)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">2716</subfield>
+    <subfield code="d">2716</subfield>
+  </datafield>
+</record>

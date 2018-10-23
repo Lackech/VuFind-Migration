@@ -1,0 +1,47 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02010nab a2200169   4500</leader>
+  <controlfield tag="005">20160317161102.0</controlfield>
+  <controlfield tag="008">150618b2000    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">217</subfield>
+    <subfield code="a">Arias Ochoa, Marcos Daniel</subfield>
+  </datafield>
+  <datafield tag="245" ind2="3" ind1="1">
+    <subfield code="a">Un programa innovador para la formación permanente del profesorado de educación primaria en servicio /</subfield>
+    <subfield code="c">Marcos Daniel Arias Ochoa</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2000</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">páginas 91-97</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">El programa Transformación de la Educación Básica desde la Escuela (TEBES) de la Universidad Pedagógica Nacional ubicada en la Ciudad de México, es un programa innovador para la transformación de las escuelas y formación permanente del profesorado en servicio, principalmente de las escuelas de Educación Primaria, aunque también se trabaja con educadoras de jardines de niños y profesores de Educación secundaria TEBES es un programa diferente de los que actualmente están en operación en México, busca la transformación de las escuelas a partir de la decisión e iniciativa de cambio de los mismos profesores, no es un programa que se imponga externamente, parte de la integración y organización de una RED Nacional de colectivos escolares que diseñan, aplican  y evalúan en la misma práctica docente su propio proyecto pedagógico de trasformación escolar, sobre la problemática más significativa que se les presenta en su quehacer cotidiano.
+La tesis que sostenemos es que al revalorar el papel del profesor en servicio y proporcionarle los apoyos que necesitan, ellos pueden desarrollar colectivamente sus proyectos pedagógicos de transformación desde sus escuelas, proyectos que les permitirán contribuir de manera más positiva en la vida de sus alumnos</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind2=" " ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0032</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.24, no.especial (2000)</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2700</subfield>
+    <subfield code="d">2700</subfield>
+  </datafield>
+</record>

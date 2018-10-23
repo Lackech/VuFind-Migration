@@ -1,0 +1,56 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00748nam a2200193Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">722</subfield>
+    <subfield code="d">722</subfield>
+  </datafield>
+  <controlfield tag="008">170518b2007    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9789977730233</subfield>
+  </datafield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">02.01.02 </subfield>
+    <subfield code="b">1537</subfield>
+  </datafield>
+  <datafield tag="110" ind2=" " ind1="1">
+    <subfield code="a">Costa Rica. Ministerio de Planificación Nacional y Política Económica</subfield>
+    <subfield code="9">2740</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Gobierno de Costa Rica: Plan Nacional de Desarollo Jorge Manuel Dengo Obregón / </subfield>
+    <subfield code="c">Costa Rica. Ministerio de Planificación Nacional y Política Económica</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">MIDEPLAN, </subfield>
+    <subfield code="c">2007</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">235 páginas</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">PLANES DE DESARROLLO</subfield>
+    <subfield code="9">2796</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">POLITICA SOCIAL</subfield>
+    <subfield code="9">2251</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">POLÍTICA AMBIENTAL</subfield>
+    <subfield code="9">2797</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">PLANIFICACIÓN ECONÓMICA</subfield>
+    <subfield code="9">2798</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">EVALUACIÓN </subfield>
+    <subfield code="9">287</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,56 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00914nam a2200181Ia 4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">1597</subfield>
+    <subfield code="d">1597</subfield>
+  </datafield>
+  <controlfield tag="008">180302b1990    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">06.02.03 </subfield>
+    <subfield code="b">205</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="a">Bogantes Porras, Aurora</subfield>
+    <subfield code="9">3443</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Estudio descriptivo del proyecto : Pagas por Tiempo y su influencia en el mejoramiento de la calidad educativa en la Dirección Regional de Enseñanza de San Carlos y la Zona Norte / </subfield>
+    <subfield code="c">Aurora Bogantes Porras, Rodrigo Bolaños Alpízar, Olman Ramírez Artavia</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Ministerio de Educación Pública, </subfield>
+    <subfield code="c">1990</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">69 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="500">
+    <subfield code="a">A la cabeza de la portada Ministerio de Educación Pública. División de Planeamiento y Desarrollo Educativo. Depto. de Investigación Educativa.</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">PROYECTOS DE EDUCACION </subfield>
+    <subfield code="9">152</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">EVALUACIÓN DE LA EDUCACIÓN</subfield>
+    <subfield code="9">308</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">PROGRAMAS DE ENSEÑANZA</subfield>
+    <subfield code="9">818</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Bolaños Alpízar, Rodrigo</subfield>
+    <subfield code="9">3444</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="a">Ramírez Artavia, Olman</subfield>
+    <subfield code="9">3445</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

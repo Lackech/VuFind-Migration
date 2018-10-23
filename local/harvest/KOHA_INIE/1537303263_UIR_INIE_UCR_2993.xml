@@ -1,0 +1,46 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01425nab a2200169   4500</leader>
+  <controlfield tag="005">20160331140319.0</controlfield>
+  <controlfield tag="008">151216b2007    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">1233</subfield>
+    <subfield code="a">Nuñez Rivas, Hilda Patricia</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="4">
+    <subfield code="a">Las creencias sobre obesidad de estudiantes de la educación general básica /</subfield>
+    <subfield code="c">Hilda Patricia Nuñez Rivas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2007</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">páginas 145-164</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">Se discuten las creencias acerca de la obesidad que poseen los niños y las niñas y sus familiares, producto de una investigación doctoral cualitativa y etnográfica que se desarrolló en un centro educativo público y urbano de San José, Costa Rica. Su propósito principal fue comprender en profundidad el desarrollo de la obesidad  en la niñez, para lo cual se consideraron tres escenarios: familia, escuela y comunidad. Se espera que este artículo brinde aportes teóricos y prácticos para mejorar  la comprensión del desarrollo de la obesidad en la población escolar y la praxis del personal de salud y docente, en relación con la prevención de ésta, mediante el desarrollo de intervenciones educativas adecuadas</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind1="0" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0308</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.31, no.1 (2007)</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2993</subfield>
+    <subfield code="d">2993</subfield>
+  </datafield>
+</record>

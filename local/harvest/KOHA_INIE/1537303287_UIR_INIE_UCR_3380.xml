@@ -1,0 +1,77 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01156nam a22002537a 4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3380</subfield>
+    <subfield code="d">3380</subfield>
+  </datafield>
+  <controlfield tag="008">170131b2013    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="020" ind1=" ">
+    <subfield code="a">9789977152554</subfield>
+  </datafield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">19.02.06 </subfield>
+    <subfield code="b">2255</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">623</subfield>
+    <subfield code="a">Jensen Pennington, Henning</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Informe sobre la producción científica de Costa Rica en revistas iberoamericanas de acceso abierto en redalyc.org, 2005-2011 / </subfield>
+    <subfield code="c">Henning Jensen-Pennington, Alice Pérez Sánchez, Saray Córdoba González, Jorge Polanco-Cortés, Eduardo Aguado-López, Rosario Rogel-Salazar, Arianna Becerril-García, Miguel Ángel Aguirre-Pitol</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica :  </subfield>
+    <subfield code="b">Universidad de Costa Rica,</subfield>
+    <subfield code="c">2013</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">98 páginas; </subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">2346</subfield>
+    <subfield code="a">BIBLIOMETRÍA</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">2217</subfield>
+    <subfield code="a">PRODUCCIÓN DE CONOCIMIENTO</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">3</subfield>
+    <subfield code="a">PUBLICACIONES PERIÓDICAS</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="4">
+    <subfield code="9">47</subfield>
+    <subfield code="a">COSTA RICA</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="9">2347</subfield>
+    <subfield code="a">Pérez Sánchez, Alice Lorena</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="9">2348</subfield>
+    <subfield code="a">Córdoba González, Saray</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">2349</subfield>
+    <subfield code="a">Polanco Cortés, Jorge</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">1556</subfield>
+    <subfield code="a">Rogel Salazar, Rosario</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="9">2350</subfield>
+    <subfield code="a">Becerril García, Arianna </subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">2351</subfield>
+    <subfield code="a">Aguirre Pitol, Miguel Angel</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

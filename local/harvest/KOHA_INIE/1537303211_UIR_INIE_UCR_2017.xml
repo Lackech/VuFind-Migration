@@ -1,0 +1,51 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02841nam a2200181Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2017</subfield>
+    <subfield code="d">2017</subfield>
+  </datafield>
+  <controlfield tag="008">180705b2012    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">06.06.02 </subfield>
+    <subfield code="b">2059</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">Solórzano Salas, Julieta</subfield>
+    <subfield code="9">1375</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="245">
+    <subfield code="a">Las actitudes hacia la atención educativa de la diversidad en estudiantes de primer ingreso de la Escuela de Formación Docente, Facultad de Educación, Universidad de Costa Rica / </subfield>
+    <subfield code="c">Julieta Solórzano Salas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="c">2012</subfield>
+    <subfield code="b">INIE,</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">164 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="500">
+    <subfield code="a">Informe final proyecto de investigación no.724-B0-122</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">	Esta investigación se realizó entre los años 2010 y 2011. Interesó conceptualizar el constructo atención a la diversidad escolar en la población estudiantil de primer ingreso de carrera de la Escuela de Formación Docente de la Facultad de Educación desde dos aristas La visión del profesorado formador en relación con el constructo y que conoce las características del estudiantado de las carreras. La medición de las actitudes presentes en el estudiantado del primer ingreso de la Escuela de Formación Docente. La revisión teórica permitió definir que la diversidad se conceptualiza desde la diferencia humana y no se presenta únicamente en la escuela, sino en la misma cotidianidad, en las relaciones que se dan con los otros quienes, a su vez, determinan la diferencia. En esta investigación la diversidad se valora desde las diferencias humanas de orden personal, cultural y cognitiva Con relación a los objetivos que orientan este informe de investigación se tiene que: al establecer con representantes del profesorado de la Escuela de Formación Docente un perfil de las características deseables a nivel cognitivo, emocional y conductual del grupo escolar inmerso en los contextos educativos desde su área disciplinar se concluye que: La revisión bibliográfica permitió acercarse al objeto de estudio (la diversidad escolar) y lograr una mayor comprensión del mismo. Además, se encontraron evidencias teóricas que explican la importancia de iniciar en la formación del profesorado una revisión de las actitudes hacia la diversidad que se han construido en la experiencia de vida. La participación de las personas entrevistadas fue comprometida. Aunque se dificultó explorar las actitudes hacia la diversidad escolar en el profesorado en formación de primer ingreso. Con el aporte de cada una de las personas participantes se estableció un perfil compuesto por indicadores cognitivos, emocionales y conductuales del profesorado en formación. Este perfil es amplio porque se construyó con las múltiples visiones de las personas participantes de las diferentes carreras de formación docente.</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">FORMACIÓN DE DOCENTES</subfield>
+    <subfield code="9">9</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">ACTITUDES</subfield>
+    <subfield code="9">611</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

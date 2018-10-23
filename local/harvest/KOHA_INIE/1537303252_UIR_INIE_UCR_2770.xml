@@ -1,0 +1,52 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00711nam a2200181   4500</leader>
+  <controlfield tag="008">150806b2001    mx ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9789688604250</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">06.04.08 </subfield>
+    <subfield code="b">922 </subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">722</subfield>
+    <subfield code="a">Verduzco Álvarez Icaza, María Angélica </subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Cómo poner límites a tus niños sin dañarlos: Respuesta a los problemas de disciplina más frecuentes practicando una educación positiva /</subfield>
+    <subfield code="c">Ma. Angélica Verduzco Álvarez Icaza; Esther Murow Troice</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">México :</subfield>
+    <subfield code="b">Editorial Pax México,</subfield>
+    <subfield code="c">2001</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">133 páginas</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">709</subfield>
+    <subfield code="a">DISCIPLINA ESCOLAR</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">723</subfield>
+    <subfield code="a">DESARROLLO DEL NIÑO</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">405</subfield>
+    <subfield code="a">PADRES</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="9">724</subfield>
+    <subfield code="a">Murow Troice, Esther </subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">2770</subfield>
+    <subfield code="d">2770</subfield>
+  </datafield>
+</record>

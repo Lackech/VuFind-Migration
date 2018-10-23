@@ -1,0 +1,62 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>04458nam a2200193Ia 4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2267</subfield>
+    <subfield code="d">2267</subfield>
+  </datafield>
+  <controlfield tag="008">180706b2007    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">18.08.01 </subfield>
+    <subfield code="b">1446</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Vargas Bolaños, Rebecca</subfield>
+    <subfield code="9">250</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Análisis Bibliométrico a la Revista Electrónica "Actualidades Investigativas en Educación" / </subfield>
+    <subfield code="c">Rebeca Vargas Bolaños, Yorlenny Madrigal Vargas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica.: </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2007</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">50 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="500" ind2=" ">
+    <subfield code="a">Informe Final del Proyecto de Investigación Nº 724- A5-057</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">	Este proyecto tuvo como objetivo general desarrollar un estudio bibliométrico del uso de las fuentes de información en los artículos presentados a la Revista Electrónica Actualidades Investigativas en Educación del INIE, del año 2001 al 2005, para determinar el impacto que obtienen los diferentes indicadores bibliométricos como autores, instituciones, países, antigüedad, idioma y tipología documental. El aporte de este estudio sobre el uso de información en los artículos de la revista electrónica, busca mostrar qué fuentes de información utilizan l@s autor@s-investigador@s en este periodo. La base del estudio son las referencias bibliográficas contenidas en éstos. A este estudio se le da un enfoque cuantitativo porque aplica técnicas bibliométricas que permiten por medio de la estadística describir las preferencias y necesidades de los autores e investigadores en el uso de la información para producir sus artículos científicos. Como resultados más significativos se identificó que las fuentes de información más utilizadas fueron monografías con un grado de envejecimiento de 9 años, escritos en español y producidos en el país. Se identificó un grado moderado de endogenismo, indicador que no se analizó profundamente en este estudio. Se indican las siguientes conclusiones: 
+• La revista electrónica inicialmente no contaba con políticas de presentación normalizadas internacionalmente, por lo que las referencias fueron elaboradas de forma libre por parte de los autores. • Los autores tuvieron dificultades para elaborar las referencias bibliográficas en los primeros años de edición. No seguían ningún modelo y tampoco las instrucciones dada por el Comité Editorial. A partir del 2004 se elaboró un instrumento para guiar a los autores en la elaboración de las referencias, sin embargo se han encontrado problemas de ajuste con algunas citas. 
+• Hubo un total de 2.167 citas en los 108 artículos analizados. 
+• Alguna de la documentación utilizada por los autores y las autoras data de hasta un siglo atrás, esto tiene fundamento porque es información histórica y de base para elaborar los artículos, de acuerdo con el tema abordado en los mismos. La edad promedio de la bibliografía utilizada es de 9 años, la cual se encuentra dentro de lo aceptado por los parámetros para las ciencias sociales. 
+• La mayoría de los autores utilizan información en su lengua materna. Esto está relacionado con una preferencia hacia la lectura en su propia lengua que en un idioma foráneo, o bien, que tienen dificultades para la lectura en otros idiomas.
+• Se utiliza una mayor cantidad de libros, que otro tipo de documentos, siendo en la comunidad científica las publicaciones periódicas el medio más inmediato para la divulgación del conocimiento. Sin embargo este es un comportamiento generalizado en las ciencias sociales. 
+• Utilizan “et al.” para referirse a otros colaboradores, invisibilizando a los coautores del material, por lo que no se refleja una verdadera producción científica. Esta indicación la hacen debido a los diferentes modelos existentes para elaborar referencias bibliográficas. A partir de esta investigación se ha solicitado en el instrumento que indiquen todos los nombres de los autores de los materiales utilizados.
+• La producción nacional y específicamente de la UCR y MEP fue la más utilizada, lo que refleja un ámbito local muy fuerte, esto debido a la especialidad de la revista, a la formación de los autores y al contexto local. Sin embargo podría ser beneficioso para las futuras contribuciones tomar en cuenta producción externa para realizar estudios comparativos, o con visiones más amplias.</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">INDICADORES</subfield>
+    <subfield code="9">2311</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">MEDIOS DE COMUNICACIÓN</subfield>
+    <subfield code="9">388</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">PUBLICACIONES PERIÓDICAS</subfield>
+    <subfield code="9">3</subfield>
+  </datafield>
+  <datafield ind1=" " tag="700" ind2=" ">
+    <subfield code="a">Madrigal Vargas, Yorleny</subfield>
+    <subfield code="9">1619</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

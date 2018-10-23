@@ -1,0 +1,66 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02024nam a2200229Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2106</subfield>
+    <subfield code="d">2106</subfield>
+  </datafield>
+  <controlfield tag="008">180828b1992    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">13.09.09 </subfield>
+    <subfield code="b">73</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1=" ">
+    <subfield code="a">Carvajal Guillén, Carlos Alberto</subfield>
+    <subfield code="9">3653</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Actitudes del personal docente de la Facultad de Educación de la Universidad de Costa Rica hacia un trabajo docente y los factores laborales condicionantes / </subfield>
+    <subfield code="c">Carlos Alberto Carvajal Guillén</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1992</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">157 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Primer informe parcial, 1991 e Informe Final, 1992 del proyecto de investigación No. 724-90-074</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">La investigación trata de develar actitudes de profesores de la UCR hacia el trabajo docente que desempeñan; además de otros datos interesantes que tienen que ver con la composición del profesorado. Por ejemplo, existe un predominio de profesoras (60%), y un mayor porcentaje de profesores jóvenes (menos de 40 años). Asimismo, solo un 34% de los docentes poseen un grado académico alto o especialización a profundidad. La mayoría de los profesores (73%), ha laborado en la enseñanza universitaria por más de seis años. Un 68% de los profesores tienen nombramientos interinos. Gracias a la investigación, se determinó que, en general, existe una actitud favorable de los docentes hacia su trabajo, y en especial, los de la Facultad de Educación, una muy favorable. Por otro lado, se mostró que las mujeres tienen una actitud más favorable hacia su trabajo que los hombres. Los profesores más jóvenes, mostraron actitudes más favorables que aquellos de más edad. No existe diferencia actitudinal entre los docentes con diferente grado académico, al igual que entre aquellos que tienen poca o mucha experiencia.</subfield>
+  </datafield>
+  <datafield tag="610" ind2="4" ind1=" ">
+    <subfield code="a">UNIVERSIDAD DE COSTA RICA. FACULTAD DE EDUCACION</subfield>
+    <subfield code="9">3218</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a"> EMPLEADOS</subfield>
+    <subfield code="9">4133</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">DOCENTES</subfield>
+    <subfield code="9">331</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">TRABAJO</subfield>
+    <subfield code="9">886</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">METODOLOGÍA</subfield>
+    <subfield code="9">285</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+    <subfield code="9">8</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+  </datafield>
+</record>

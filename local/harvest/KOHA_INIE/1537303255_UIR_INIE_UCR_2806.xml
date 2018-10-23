@@ -1,0 +1,47 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01757nab a2200169   4500</leader>
+  <controlfield tag="005">20160328160844.0</controlfield>
+  <controlfield tag="008">150813b2002    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">851</subfield>
+    <subfield code="a">Barberousse, Paulette</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Globalización y posmodernidad: Desafíos del aprendizaje humano /</subfield>
+    <subfield code="c">Paulette Barberousse</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2002</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">páginas 97-106</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">En el marco de las coordenadas de nuestra realidad nacional, ¿cómo ubicar la práctica pedagógica universitaria contemporánea en un mundo global y posmoderno?¿Qué valor otorgarle al saber  y al saber pedagógico en la era de la información, de la sociedad educativa y de la realidad virtual? ¿Cuáles son las demandas educativas de la civilización cognitiva y los desafíos que plantea la mundialización  al aprendizaje humano? ¿Qué influencias ejercen sobre nuestro discurso los planteamientos de Dakar 2000, las manifestaciones anti-neoliberales de Niza y  Seattle, el nuevo reconocimiento del alfabetismo y arte digital, las luchas sociales de ATTAC, el amor en tiempos de Internet y el debate mass-mediático entre el Foro Económico Mundial de Davos  y el Foro Social Mundial de Porto Alegre?
+Constituyen éstas las principales interrogantes que pretendemos plantear desde nuestra intervención a sabiendas que desde nuestra exclusión de Tercer Mundo reinvidicar  la educación equivale a reinvidicar que en este mundo todos tengamos alguna inserción. Tan solo alguna</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="0" tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0059</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.26, no.2  (2002)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2806</subfield>
+    <subfield code="d">2806</subfield>
+  </datafield>
+</record>

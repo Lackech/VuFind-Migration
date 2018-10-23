@@ -1,0 +1,52 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00789nam a2200181Ia 4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">1197</subfield>
+    <subfield code="d">1197</subfield>
+  </datafield>
+  <controlfield tag="008">170703b2016    CR ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">19.01.03</subfield>
+    <subfield code="b">2414</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">223</subfield>
+    <subfield code="a">Barquero Cerdas, Martha</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Vinculaciones nacionales y regionales: Centroamérica y República Dominicana, para fortalecer la recopilación de las producciones bibliográficas en educación /</subfield>
+    <subfield code="c">Martha Barquero Cerdas, Franklin Rodríguez Vargas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">[San José, Costa Rica]</subfield>
+    <subfield code="b">INIE,</subfield>
+    <subfield code="c">2016</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">27 páginas, 6 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="500" ind2=" ">
+    <subfield code="a">Informe final proyecto de investigación Nº 724-B5-703</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">PRODUCCIÓN DE CONOCIMIENTO</subfield>
+    <subfield code="9">2217</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">DIFUSIÓN DE LA INFORMACIÓN</subfield>
+    <subfield code="9">1561</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">BASES DE DATOS</subfield>
+    <subfield code="9">1560</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="a">Rodríguez Vargas, Franklin</subfield>
+    <subfield code="9">1562</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

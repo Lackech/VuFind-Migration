@@ -1,0 +1,46 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02368nab a2200169   4500</leader>
+  <controlfield tag="005">20160331155122.0</controlfield>
+  <controlfield tag="008">160126b           f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">106</subfield>
+    <subfield code="a">Vargas Cordero, Zoila Rosa</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="3" tag="245">
+    <subfield code="a">La investigacion aplicada: una forma de conocer las realidades con evidencia científica /</subfield>
+    <subfield code="c">Zoila Rosa Varga Cordero</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2009</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">páginas 155-165</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">En este ensayo se expone una interpretación sobre la investigación aplicada vigente en el Sistema de Estudios de Posgrado de la Universidad de Costa Rica (SEP), para el trabajo final de graduacción en las maestrías profesionales. Se discuten algunos criterios de la autora, discusiones académicas sobre el tema y otros razonamientos, con base en aportes de diferentes autores. Se fundamenta la necesidad de actualizar conocimientos acordes con la investigación y las posibilidades para realizarla, y se parte del supuesto de que la investigación es imprescindible en la formación profesional, ya que genera nuevos conocimientos que realimentan las disciplinas y el ejercicio profesional. La investigación requiere rigurosidad y excelencia; además , sostiene la plataforma para proponer y desarrollar nuevas investigaciones. Por ello, no se puede ignorar la importancia de la participación activa de estudiantes y docentes en los procesos de investigación, para favorecer la toma de conciencia de la realidad que se investiga, así como de los deberes y derechos de quienes investigan, lo que implica una nueva forma de pensar la práctica investigativa, de manera que se ofrezcan soluciones en función de los contextos, las acciones de las personas y los cambios filosóficos, ontológicos, epistemológicos y metodológicos en investigación. Al respecto, la investigación basada en el conocimiento y la comprensión de cómo perciben las personas su realidad y a sí mismas; es decir, aquella que se enfoca en el desarrollo de acciones para el mejoramiento de la realidad que se investiga en vista a lo largo del ensayo como una necesidad operativa</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind2=" " ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0311</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.33, no.1 (2009)</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3031</subfield>
+    <subfield code="d">3031</subfield>
+  </datafield>
+</record>

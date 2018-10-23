@@ -1,0 +1,65 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00929nab a2200217   4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3429</subfield>
+    <subfield code="d">3429</subfield>
+  </datafield>
+  <controlfield tag="005">20170823161120.0</controlfield>
+  <controlfield tag="008">170823b2012    cr ||||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">REVIS</subfield>
+    <subfield code="b">06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">3086</subfield>
+    <subfield code="a">Solano, Marcela</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Caracterización de las relaciones de discriminación y espiritualidad de mujeres migrantes en los barrios de Lomas de Pavas y Cristo Rey, San José, Costa Rica / </subfield>
+    <subfield code="c">Marcela Solano, Andrea García, Mónica Araya, Tirsa Ventura</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Universidad La Salle,</subfield>
+    <subfield code="c">2012</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">pp.49-63</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">667</subfield>
+    <subfield code="a">DISCRIMINACIÓN </subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">323</subfield>
+    <subfield code="a">MIGRACIÓN</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">69</subfield>
+    <subfield code="a">GÉNERO</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">3087</subfield>
+    <subfield code="a">García, Andrea</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">3088</subfield>
+    <subfield code="a">Araya, Mónica</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">3089</subfield>
+    <subfield code="a">Ventura, Tirsa</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="773">
+    <subfield code="d">Costa Rica : Departamento de Investigaciones, Universidad De La Salle, 2012</subfield>
+    <subfield code="o">R0641</subfield>
+    <subfield code="t">Revista Redpensar</subfield>
+    <subfield code="x">2215-2938</subfield>
+    <subfield code="g">Vol.1, no.1 (abril, 2012)</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">03</subfield>
+  </datafield>
+</record>

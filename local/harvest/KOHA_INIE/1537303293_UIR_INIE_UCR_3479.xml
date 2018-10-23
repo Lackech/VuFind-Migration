@@ -1,0 +1,83 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>     nam a22        4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">3479</subfield>
+    <subfield code="d">3479</subfield>
+  </datafield>
+  <controlfield tag="008">180222b2017    cr ||||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="020" ind2=" " ind1=" ">
+    <subfield code="a">9789968527446</subfield>
+  </datafield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">14.02.02</subfield>
+    <subfield code="b">2450</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">3372</subfield>
+    <subfield code="a">Cabrera Guillén, Verónica</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Funciones ejecutivas centrales: fundamentos para su desarrollo en la primera infancia /</subfield>
+    <subfield code="c">Verónica Cabrera Guillén, Viviana Carazo Vargas, Jéssica Corrales Calderón, Adriana Fernández Calderón, Esteban Gutiérrez Alfaro, Margarita Loaiza Nájera, Shirley Romero Bonilla</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">[San José, Costa Rica] :</subfield>
+    <subfield code="b">INIE,</subfield>
+    <subfield code="c">2017</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">204 páginas</subfield>
+  </datafield>
+  <datafield tag="490" ind2=" " ind1=" ">
+    <subfield code="a">Colección Yigüirro</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">757</subfield>
+    <subfield code="a">PRIMERA INFANCIA</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">723</subfield>
+    <subfield code="a">DESARROLLO DEL NIÑO</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">3373</subfield>
+    <subfield code="a">NEUROPSICOLOGÍA</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">2333</subfield>
+    <subfield code="a">NEUROCIENCIA</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">688</subfield>
+    <subfield code="a">MEDIACIÓN</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="9">2637</subfield>
+    <subfield code="a">Carazo Vargas, Viviana</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="9">3374</subfield>
+    <subfield code="a">Corrales Calderón, Jéssica</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">3375</subfield>
+    <subfield code="a">Fernández Calderón, Adriana</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">3376</subfield>
+    <subfield code="a">Gutiérrez Alfaro, Esteban</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">3377</subfield>
+    <subfield code="a">Loaiza Nájera, Margarita</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">3378</subfield>
+    <subfield code="a">Romero Bonilla, Shirley</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

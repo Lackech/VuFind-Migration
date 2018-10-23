@@ -1,0 +1,64 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01698nam a2200217Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">1839</subfield>
+    <subfield code="d">1839</subfield>
+  </datafield>
+  <controlfield tag="008">170313b1986    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">06.03.06 </subfield>
+    <subfield code="b">88</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Sandí Murillo, Manuel A.</subfield>
+    <subfield code="9">2524</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Protocolo de investigación para el análisis : un estudio complemento en la población de primer ingreso a la Universidad de Costa Rica / </subfield>
+    <subfield code="c">Manuel Sandí Murillo, Gabriel Mejía R.</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1986</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">96 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="500">
+    <subfield code="a">Informe final segunda etapa Proyecto de Investigación N° 724-84-059
+I etapa: "Conocimientos y opiniones sobre actitudes y prácticas relacionadas con las enfermedades de trasmisiòn sexual" investigación adscita a la Escuela de Adminsitración Educativa</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">A través de esta investigación, se identificó, entre los estudiantes de primer ingreso de la UCR, un significativo nivel de desconocimiento de aspectos epidemiológicos y sintomatológicos básicos de las enfermedades de transmisión sexual. En ambos sexos, se mostró una tendencia hacia niveles de alto riesgo (de contraer una enfermedad sexual). Se destaca un aceptable conocimiento sobre los mecanismos contaminantes y preventivos en los referente a agentes de transmisión sexual. Se mantiene el concepto erróneo de que las enfermedades venéreas son prototipo de los grupos sociales más pobres y marginados. Es importante el soporte educativo familiar en este sentido.</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">EDUCACIÓN SEXUAL</subfield>
+    <subfield code="9">1552</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">ESTUDIANTES UNIVERSITARIOS </subfield>
+    <subfield code="9">481</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">SALUD</subfield>
+    <subfield code="9">268</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1068</subfield>
+    <subfield code="a">EPIDEMIOLOGÍA </subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">8</subfield>
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="a">Mejía Ramírez, Gabriel</subfield>
+    <subfield code="9">2525</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

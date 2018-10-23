@@ -1,0 +1,68 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01819nam a2200229Ia 4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">2302</subfield>
+    <subfield code="d">2302</subfield>
+  </datafield>
+  <controlfield tag="008">180913b1987    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">18.09.01 </subfield>
+    <subfield code="b">22</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="a">Esquivel Alfaro, Juan Manuel</subfield>
+    <subfield code="9">157</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2=" ">
+    <subfield code="a">Resultados de las pruebas nacionales de conocimientos mínimos : matemática y español / </subfield>
+    <subfield code="c">Juan Manuel Esquivel A., Ilse Gutiérrez C., María Eugenia Vargas P.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1987</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">41 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">El Centro también posee Informe de febrero, 1987. Informe preliminar II. Colaboración del Ministerio de Educación Pública.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">El documento presenta información acerca de los procedimientos que se emplean en la elaboración de pruebas de conocimiento en español y matemática. Para ello, se procedió a seleccionar los conocimientos más importantes que debían medirse al finalizar cada ciclo de la Educación General Básica. Se seleccionó a 248 maestros de todo el país, 146 de español y otro tanto igual de matemática. A ellos, se les pidió que indicaran la prioridad asignada a los diferentes objetivos; esto para establecer la validez curricular de las pruebas. A continuación, se construyeron 12 ítemes por cada objetivo. Luego, cada ítem se sometió a congruencia y calidad técnica. Las pruebas que resultaron se aplicaron como prueba piloto a un grupo de estudiantes, pues así, se determinó si las indicaciones eran claras. Para concluir, aparece una serie de cuadros que ofrecen, en forma resumida, los resultados de las pruebas. 
+</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">PRUEBAS</subfield>
+    <subfield code="9">629</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">MATEMÁTICAS  </subfield>
+    <subfield code="9">482</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">ESPAÑOL</subfield>
+    <subfield code="9">36</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">EDUCACION GENERAL</subfield>
+    <subfield code="9">3913</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">ENSEÑANZA</subfield>
+    <subfield code="9">14</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="700">
+    <subfield code="a">Gutiérrez Coto, Ilse</subfield>
+    <subfield code="9">4237</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="700">
+    <subfield code="a">Vargas Pinaud, María Eugenia</subfield>
+    <subfield code="9">3548</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

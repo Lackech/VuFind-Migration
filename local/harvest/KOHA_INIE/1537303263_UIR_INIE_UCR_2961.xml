@@ -1,0 +1,48 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02199nab a2200169   4500</leader>
+  <controlfield tag="005">20160331135043.0</controlfield>
+  <controlfield tag="008">151211b2006    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">1117</subfield>
+    <subfield code="a">Cabezas Pizarro, Hannia </subfield>
+  </datafield>
+  <datafield ind2="3" ind1="1" tag="245">
+    <subfield code="a">Un medio para la enseñanza de la lectura: más allá de los rótulos diagnósticos /</subfield>
+    <subfield code="c">Hannia Cabezas Pizarro</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2006</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">páginas 127-139</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">El término retardo mental ha sido un estigma a través del tiempo para las personas  que han recibido este diagnóstico errado o no, que las califica como tales, y sinónimo de no poder aprender. En este artículo, se presentan los resultados obtenidos  al aplicar un programa de lectura y técnicas  de modificación de conducta a siete personas adultas con retardo mental, cuyas edades están entre 29 y 49  años, a quienes, el sistema educativo no les ofreció alternativas académicas en donde pudieran demostrar sus habilidades, una vez que entraron en esta categoría. Esta condición, está acompañada de restricciones considerables en las áreas de comunicación, cuidado de sí mismos, vida doméstica, habilidades sociales, autocontrol, y su etiología es variada. (DSMIV, 1997). En este trabajo, se presentan los resultados obtenidos en la identificación de sílabas, palabras, frases y oraciones al aplicar un diseño de sujeto único y criterio cambiante, en donde "el experimentador cambia sucesivamente el criterio para la obtención de la conducta,  usualmente en pasos graduados desde la línea base hasta el nivel terminal deseado". (Hall, 1973) p.23.
+El proceso de lectura se trabajó  con un libro, cuya filosofía se basa en el método fonético, el que se diseñó tomando en consideración las características y forma  de aprender de las personas con quienes se trabajaba,  incorporándose como áreas fuertes las visual auditiva y motora, lo que facilitó el aprendizaje  
+</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind1="0" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0306</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.30, no.1 (2006)</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2961</subfield>
+    <subfield code="d">2961</subfield>
+  </datafield>
+</record>

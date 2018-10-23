@@ -1,0 +1,45 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01464nab a2200157   4500</leader>
+  <controlfield tag="008">150611b1999    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">182</subfield>
+    <subfield code="a">Camacho Villalobos, María Elena</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Revistas de la Universidad de Costa Rica /</subfield>
+    <subfield code="c">María Elena Camacho Villalobos</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">1999</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">páginas 233-251</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">En este artículo, se da a conocer uno de los sistemas de información de la Universidad de Costa Rica, canalizado por medio de la publicación de sus revistas, las cuales difunden las distintas investigaciones y sus resultados.  El artículo presenta una etapa descriptiva, otra funcional y por último un balance general y personal de la autora.  El balance apunta a exponer, más bién aspectos débiles de las revistas, para concretar algunas mejoras.  También se indica como controlarlos y se sugiere una posible solución.  Se describen las características principales de las revistas y su forma con el fin de reflexionar sobre ellas.  Se ha propuesto un cuadro de acción general que puede servir como referencia inicial a quienes trabajan en esas áreas y que pueden tomar ese marco y concretarlo entre todos</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " tag="773" ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0024</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.23, no.especial (1999)</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2654</subfield>
+    <subfield code="d">2654</subfield>
+  </datafield>
+</record>

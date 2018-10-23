@@ -1,0 +1,45 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01980nab a2200157   4500</leader>
+  <controlfield tag="008">150611b2000    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">190</subfield>
+    <subfield code="a">Castro Lobo, Manuel</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="245">
+    <subfield code="a">Los derechos de autor y la educación /</subfield>
+    <subfield code="c">Manuel Castro Lobo</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2000</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">páginas 29-46</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">El presente artículo trata de brindar al lector información actualizada sobre los aspectos más importantes de la normativa sobre la propiedad intelectual y su aplicación en el campo educativo. Entre los contenidos estudiados están los siguientes: los derechos de autor, los derechos conexos, los derechos morales y patrimoniales, las limitaciones a dichos derechos, las utilizaciones gratuitas de las obras, las licencias de reproducción y traducción, la necesidad de establecer una cátedra libre para la enseñanza de esta legislación, los programas de computación y la INTERNET. Entre los aspectos más importantes de este artículo está el énfasis que hace en clarificar los peligros de la piratería y el fotocopiado de obras que, paradójicamente, es alarmante en nuestras universidades e instituciones educativas, en general. Eso va en detrimento de los autores, no solo extranjeros, sino, y muy en especial, de los nacionales. Señala que una mayor difusión de esta normatica redundará en una toma de conciencia de los daños que conlleva las violaciones a la misma y propone, como una medida concreta, el establecimiento de una cátedra interdisciplinaria, con sede en la Facultad de Derecho, donde todos los interesados, en forma libre, puedan estudiar los alcances de la Ley sobre esta materia, la Jurisprudencia, Doctrina y normativa internacional</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " tag="773" ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0025</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.24, no.1 (2000)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2666</subfield>
+    <subfield code="d">2666</subfield>
+  </datafield>
+</record>

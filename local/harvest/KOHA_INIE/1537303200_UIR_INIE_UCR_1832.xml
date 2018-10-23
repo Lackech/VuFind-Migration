@@ -1,0 +1,59 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00832nam a2200193Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">1832</subfield>
+    <subfield code="d">1832</subfield>
+  </datafield>
+  <controlfield tag="008">180427b1999    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">06.03.06 </subfield>
+    <subfield code="b">782</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="a">Chaves Salas, Ana Lupita</subfield>
+    <subfield code="9">255</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Develando la acción pedagógica para transformarla /</subfield>
+    <subfield code="c">Ana Lupita Chaves</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1999</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">volumen</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">La Unidad de Información contiene:  Primer informe parcial 1999, segundo informe parcial  2000 e Informe final 2001 del proyecto 724-99-346</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">Esta investigación nace con el propósito de develar la práctica pedagógica que se produce en un salón de clase de educación preescolar que se fundamenta en la filosofía del "Lenguaje Integral", se desea interpretar las interacciones que se dan en el contexto natural del aula: las actitudes del maestro, los procesos iniciales de lecto-escritura, las relaciones de poder, el papel que desempeña la maestra, los niños y las niñas en el proceso de enseñanza y aprendizaje, la organización del tiempo y del espacio, en fin analizar diversos factores que intervienen en la realidad natural, compleja y singular del aula. Este proyecto de investigación no propone objetivos sino plantea interrogantes. Estas interrogantes se fueron transformando en el transcurso del proceso investigativo, gracias a las observaciones que se hicieron en el salón de clase y a la lectura de textos sobre pedagogía crítica e investigación cualitativa. En un primer momento, este estudio tuvo un enfoque psicologista que daba énfasis a los procesos iniciales de lecto-escritura, posteriormente se incluyó la perspectiva sociopolítica de la educación se eliminaron unas preguntas, otras se fusionaron y se plantearon otras relacionadas con género y relaciones de poder en el aula. Es una investigación de tipo cualitativa. Para recolectar la información se utilizó técnicas directas como la observación participantes y las entrevistas, y también técnicas indirectas como el análisis e documentos oficiales y personales que fueron facilitados por la maestra del grupo. Como resultado más importante está el cambio que experimentaron las investigadoras, ya que al incluir la perspectiva política de la educación en el estudio, se observó la realidad del aula de manera diferente, como un espacio donde se producen las desigualdades de la sociedad, muchas veces de manera inconciente. </subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">APRENDIZAJE </subfield>
+    <subfield code="9">387</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">EDUCACIÓN PREESCOLAR</subfield>
+    <subfield code="9">455</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">GÉNERO</subfield>
+    <subfield code="9">69</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">INVESTIGACIÓN</subfield>
+    <subfield code="9">163</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">LECTOESCRITURA </subfield>
+    <subfield code="9">2133</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,37 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00574nam a2200133Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">1238</subfield>
+    <subfield code="d">1238</subfield>
+  </datafield>
+  <controlfield tag="008">170522bsf      cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">02.01.02 </subfield>
+    <subfield code="b">1685</subfield>
+  </datafield>
+  <datafield ind2=" " tag="110" ind1="2">
+    <subfield code="a">Colegio de Licenciados y Profesores en Letras, Filosofía, Ciencias y Artes</subfield>
+    <subfield code="9">2816</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="1">
+    <subfield code="a">[Planificación estratégica] / </subfield>
+    <subfield code="c">Colegio de Licenciados y Profesores en Letras, Filosofía, Ciencias y Artes</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">Costa Rica : </subfield>
+    <subfield code="b">Colegio de Licenciados y Profesores en Letras, Filosofía, Ciencias y Artes</subfield>
+    <subfield code="c">s.f.</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">96 páginas</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">PLANIFICACIÓN ESTRATÉGICA</subfield>
+    <subfield code="9">762</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

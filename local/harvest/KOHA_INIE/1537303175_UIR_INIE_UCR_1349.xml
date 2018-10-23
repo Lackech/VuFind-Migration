@@ -1,0 +1,58 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01202nam a2200193Ia 4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">1349</subfield>
+    <subfield code="d">1349</subfield>
+  </datafield>
+  <controlfield tag="008">170314b2002    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">05.03.05 </subfield>
+    <subfield code="b">1087</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">2538</subfield>
+    <subfield code="a">González, Pilar</subfield>
+    <subfield code="e">Editor/a</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Sistematización: Reconstrucción de liderazgos femeninos: experiencias desde lo cotidiano, personal y colectivo: Integración de cuatro experiencias: mujeres rurales, jóvenes, sindicalistas y universitarias / </subfield>
+    <subfield code="c">Edición Pilar González y Diana Fuster</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Asociación de Servicios de Promoción Laboral,</subfield>
+    <subfield code="c">2002</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">64 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a"> 	Coedición con: Centro de Estudios y Publicaciones Alforja, Centro de Investigación y Estudios de la Mujer-UCR, Centro Feminista Francisca Carrasco y Programa de Apoyo a la Representación y el Liderazgo de la Mujer PROLID, del Banco Interamericano de Desarrollo--("Integración de cuatro experiencias: mujeres rurales, jóvenes, sindicalistas y universitarias")--Editores tomados del reverso de portada </subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">LIDERAZGO</subfield>
+    <subfield code="9">301</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">FEMINISMO</subfield>
+    <subfield code="9">324</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">MUJERES</subfield>
+    <subfield code="9">55</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">EQUIDAD DE GÉNERO</subfield>
+    <subfield code="9">420</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1=" ">
+    <subfield code="9">2539</subfield>
+    <subfield code="a">Fuster, Diana</subfield>
+    <subfield code="e">Editor/a</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

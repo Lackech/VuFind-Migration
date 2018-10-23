@@ -1,0 +1,92 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01330nam a2200289   4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">3349</subfield>
+    <subfield code="d">3349</subfield>
+  </datafield>
+  <controlfield tag="008">161104b2014    m  a|||| |||| 00| | spa d</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9786078371341</subfield>
+  </datafield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">06.04.05</subfield>
+    <subfield code="b">2393</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">2143</subfield>
+    <subfield code="a">Gairín Sallán, Joaquín</subfield>
+    <subfield code="e">Coordinador/a</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Universidad y colectivos vulnerables /</subfield>
+    <subfield code="c">Joaquín Gairín Sallán, Guadalupe Palmeros y Ávila; Adoración Barrales Villegas (Coordinadores)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">Iztapalapa, México :</subfield>
+    <subfield code="b">Ediciones del lirio,</subfield>
+    <subfield code="c">2014</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">512 páginas;</subfield>
+    <subfield code="b">ilustraciones</subfield>
+    <subfield code="e">+ 1 Cd; archivo PDF</subfield>
+  </datafield>
+  <datafield ind1=" " tag="500" ind2=" ">
+    <subfield code="a">La presente aportación, complementaria a otras ya editadas anteriormente sobre la temática, recoge las aportaciones más significativas presentadas en el Congreso Universidad y Colectivos Vulnerables 2014, celebrado en Veracruz (México) el 29 y 30 de octubre de 2014.</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">16</subfield>
+    <subfield code="a">UNIVERSIDADES </subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">477</subfield>
+    <subfield code="a">DISCAPACIDAD </subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">77</subfield>
+    <subfield code="a">DESARROLLO HUMANO</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">427</subfield>
+    <subfield code="a">INDÍGENAS</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1665</subfield>
+    <subfield code="a">EDUCACIÓN RURAL</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">478</subfield>
+    <subfield code="a">INMIGRANTES </subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">2</subfield>
+    <subfield code="a">EDUCACIÓN INCLUSIVA</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">451</subfield>
+    <subfield code="a">POLÍTICA EDUCATIVA</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">8</subfield>
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+  </datafield>
+  <datafield ind1=" " tag="651" ind2="4">
+    <subfield code="9">273</subfield>
+    <subfield code="a">AMÉRICA LATINA</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">2144</subfield>
+    <subfield code="a">Palmeros y Ávila, Guadalupe</subfield>
+    <subfield code="e">Coordinador/a</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">2145</subfield>
+    <subfield code="a">Barrales Villegas, Adoración</subfield>
+    <subfield code="e">Coordinador/a</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

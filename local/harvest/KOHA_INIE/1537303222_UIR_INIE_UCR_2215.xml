@@ -1,0 +1,83 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>04000nam a2200277Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2215</subfield>
+    <subfield code="d">2215</subfield>
+  </datafield>
+  <controlfield tag="008">180711b2008    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">18.01.01 </subfield>
+    <subfield code="b">1257 CD #109</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1=" ">
+    <subfield code="a">Zeledón Ruiz, María del Pilar</subfield>
+    <subfield code="9">813</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="3" tag="245">
+    <subfield code="a">El modelo de aprendizaje ético dentro de la cultura escolar y familiar: su contextualización en Costa Rica / </subfield>
+    <subfield code="c">María del Pilar Zeledón Ruiz</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE </subfield>
+    <subfield code="c">2008</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">266 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="500">
+    <subfield code="a">Incluye disco compacto CD #109.\  Incluye video del Taller de Valores. La Unidad posee informe parcial y final Proyecto de Investigación N° 724-A5-324</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">Este proyecto intenta dar seguimiento a la investigación que inició su proponente desde el año 2002 en Barcelona (España), como parte de su trabajo de tesis doctoral “La cultura familiar en los procesos de configuración de la personalidad moral de los niños y niñas de 5-6 años: hacia la construcción de una ciudadanía democrática”; tiene como objetivo general favorecer la construcción de un modelo de aprendizaje ético moral dentro del contexto costarricense que tienda hacia la optimización de la persona humana, tanto en su dimensión personal como social. En el estudio participaron inicialmente, tres directores y 34 padres/madres de familia de tres centros educativos de educación preescolar: a) el nivel de transición de la Escuela Jacinto Ávila localizado en el distrito de Candelaria de Palmares; b) el nivel de Kinder del Colegio Bilingüe San Agustín del distrito central de Palmares y c) el nivel IV del Centro Infantil Laboratorio Ermelinda Mora (Sede de Occidente, Universidad de Costa Rica) Sin embargo, en el segundo y tercer año, esta última institución se retira del proceso por cambio de docente, esto implicó que se reemplazara con el tercer grado de la Escuela Jacinto Ávila y el nivel de transición del Jardín de niños Presbo. Ml. Bernardo Gómez ubicado también en el distrito de Palmares. La investigación tuvo una duración de dos años, aunque se amplió un año más, dado los ajustes que se requirieron del proceso inicial. Las técnicas utilizadas para recolectar información fueron la observación, entrevista y diálogos con el propósito de interpretar los significados y los símbolos que se generan en el aula y la institución escolar. La información se recogió mediante el diario de campo (bitácoras), donde los participantes describieron las interacciones, movimientos, diálogos, contexto escolar y familiar, así como anotaron sus percepciones personales sobre lo que acontece en el salón de clase o en la familia. Además, se ha utilizado, en algunos momentos, la cámara de vídeo y la fotografía para captar los acontecimientos significativos que surgen. Las conclusiones a las que llegó el proyecto son las siguientes: 
+ La formación ético moral del niño/a continúa siendo un terma de gran actualidad e importancia dentro de la cultura escolar y familiar. 
+ La necesidad de abrir espacios entre docentes y padres/madres de familia para compartir conocimientos y experiencias en torno a la formación ético moral de los niños/as. 
+ El modelo de la personalidad ético moral logró validarse de la cultura escolar y familiar. 
+ El proyecto contribuyó a una mejora sustantiva en la formación personal y profesional de las docentes coinvestigadoras, padres/madres de familia y, de manera especial en la construcción de valores, normas, hábitos y actitudes en los niños/as. 
+ Este trabajo permitió la articulación entre la investigación, la docencia y la acción social, como ámbitos sustantivos del quehacer universitario.</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">PROYECTO DE INVESTIGACION</subfield>
+    <subfield code="9">3951</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">APRENDIZAJE </subfield>
+    <subfield code="9">387</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">EDUCACIÓN PREESCOLAR</subfield>
+    <subfield code="9">455</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">VALORES CULTURALES</subfield>
+    <subfield code="9">593</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">ÉTICA</subfield>
+    <subfield code="9">563</subfield>
+  </datafield>
+  <datafield ind2="4" ind1=" " tag="651">
+    <subfield code="a">COSTA RICA</subfield>
+    <subfield code="9">47</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+  </datafield>
+</record>

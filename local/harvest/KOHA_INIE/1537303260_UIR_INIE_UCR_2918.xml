@@ -1,0 +1,53 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02212nab a2200181   4500</leader>
+  <controlfield tag="005">20160331132746.0</controlfield>
+  <controlfield tag="008">151028b2004    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">1127</subfield>
+    <subfield code="a">González de Galindo, Susana</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Análisis del diseño de instrumentos de evaluación implementados desde dos contextos curriculares /</subfield>
+    <subfield code="c">Susana González de Galindo, Leonor Colombo de Cudmani</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2004</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">páginas 167-183</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">Esta investigación forma parte de una más abarcativa sobre la problemática de resignificar la clase magistral del Cálculo para cursos superpoblados de primer año, de una Facultad de Ciencias, recurriendo en las calles al uso de una guía elaborada según principios sostenidos por Teorías cognitivas del aprendizaje sostenidas por Piaget, Ausubel, Vigotsky, entre otros.
+En este trabajo se investigó si existieron diferencias significativas en el diseño de los exámenes finales que rindieron los alumnos que habían cursado la asignatura en 2001 (año en el que se implementó la nueva metodología) y en 1999 (enseñanza tradicional). Se analizaron los tipos de actividades según los criterios derivados del marco teórico y de los Estándares de Evaluación para la Educación Matemática (NCTM, 1989).
+Se concluyó que en la enseñanza tradicional de 1999, las actividades de los exámenes pretendían verificar si los conocimientos transmitidos habían sido asimilados. Las de 2001, por el contrario, satisfacieron en buena medida, las pautas establecidas en los Estándares de evaluación seleccionados, lo que significa un importante avance en el proceso de evaluación que se venía implementando.
+Esta conclusión ratificaría las conclusiones obtenidas del análisis de otros instrumentos diseñados para evaluar la nueva estrategia metodológica estimulando a implementarla en otros contenidos</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">1128</subfield>
+    <subfield code="a">Colombo de Cudmani, Leonor</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0253</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.28, no.2 (2004)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2918</subfield>
+    <subfield code="d">2918</subfield>
+  </datafield>
+</record>

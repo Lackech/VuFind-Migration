@@ -1,0 +1,52 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02237nab a2200169   4500</leader>
+  <controlfield tag="005">20160317160637.0</controlfield>
+  <controlfield tag="008">150618b2000    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">211</subfield>
+    <subfield code="a">Restrepo, Luis Alberto</subfield>
+  </datafield>
+  <datafield tag="245" ind2="3" ind1="1">
+    <subfield code="a">La pedagogía de la ternura en la educación primaria /</subfield>
+    <subfield code="c">Luis Alberto Restrepo</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2000</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a"> páginas 11-23</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">El planeamiento de la ternura mira directamente al conflicto, esta propuesta surgió precisamente del trabajo con grupos, con jóvenes alzados en armas en Colombia, con educadores de zonas de conflicto, a través de un proyecto auspiciado por el Ministerio de Educación Nacional.
+La diferencia entre la máquina y el ser humano viene a representar una de las problemáticas del mundo contemporáneo, las máquinas pueden realizar operaciones admirables con mayor exactitud que nosotros, pero no pueden emocionarse como lo hacemos los seres humanos, por lo tanto no somos personas apáticas, predecibles, objetivas, estables, eficientes, por el solo hecho de sentir y expresar emociones.
+La ciencia maneja un modelo sin emociones, donde se aplana lo afectico de las personas y se esconde la emoción, por ello la modernidad implica una pérdida de sentimientos.
+Cuando se habla de emoción debemos pensar en el cuerpo, es decir la emoción es una relación del cuerpo con el espacio, las mismas estructuras cerebrales que coordinan nuestros movimientos en el espacio, son las mismas que modulan la emoción.
+El educador se relaciona con el niño básicamente a través de su vivencia corporal, por ello, la educación se trasmite por el cuerpo, por la actitud y con el uso de la palabra se viene a precisar lo que entregó o lo que no.
+La sabiduría es algo que debemos buscar y eso tiene que ser con el tacto, este perfecciona el conocimiento.
+La caricia es fundamental para el desarrollo del niño, todos necesitamos del tacto de la caricia, ella es humanizadora</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind2=" " ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0032</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.24, no.especial (2000)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2693</subfield>
+    <subfield code="d">2693</subfield>
+  </datafield>
+</record>

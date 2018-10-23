@@ -1,0 +1,63 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00821nam a2200217Ia 4500</leader>
+  <controlfield tag="008">160928b2011    mx ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="020" ind1=" ">
+    <subfield code="a">9786079165185</subfield>
+  </datafield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">05.02.01 </subfield>
+    <subfield code="b">1709</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Salas Luévano, Marco Antonio</subfield>
+    <subfield code="9">2027</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Tradiciones ancestrales de Zacatecas: remedios infalibles para alivio de enfermedades visibles e invisibles / </subfield>
+    <subfield code="c">Marco Antonio Salas Luévano; Raquel Cruz Hernández</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">México : </subfield>
+    <subfield code="b">Taberna libraria, editores, </subfield>
+    <subfield code="c">2011</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">172 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="490">
+    <subfield code="a">Cultura, políticas y procesos educativos</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">CULTURA TRADICIONAL </subfield>
+    <subfield code="9">1249</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">379</subfield>
+    <subfield code="a">TRADICIÓN</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">PRÁCTICAS TRADICIONALES</subfield>
+    <subfield code="9">2028</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">RELATOS PERSONALES</subfield>
+    <subfield code="9">422</subfield>
+  </datafield>
+  <datafield ind1=" " tag="651" ind2="4">
+    <subfield code="a">ZACATECAS (MÉXICO)</subfield>
+    <subfield code="9">2029</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="a">Cruz Hernández, Raquel</subfield>
+    <subfield code="9">2030</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">482</subfield>
+    <subfield code="d">482</subfield>
+  </datafield>
+</record>

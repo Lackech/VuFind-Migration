@@ -1,0 +1,95 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01347nam a2200313Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">523</subfield>
+    <subfield code="d">523</subfield>
+  </datafield>
+  <controlfield tag="008">170124b2012    ag ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="020">
+    <subfield code="a">9789871543878</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">01.02.01 </subfield>
+    <subfield code="b">833</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Contreras García, Ana Gabriela</subfield>
+    <subfield code="9">2265</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="245">
+    <subfield code="a">Las relaciones internacionales de la pobreza en América Latina y el Caribe / </subfield>
+    <subfield code="c">Ana Gabriela Contreras García, Lázaro I. Rodriguez Oliva, Hernán Moreano Origuen, Liz Ileana Rodríguez Gámez, Lenin Mondol-López, Diego Hernández, Leonardo de la Torre Avila, Jairzinho Francisco Panqueba Cifuentes, Mayarí Castillo Gallardo, Diana Marcela Córdoba</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Buenos Aires : </subfield>
+    <subfield code="b">Clacso, </subfield>
+    <subfield code="c">2012</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">396 páginas</subfield>
+  </datafield>
+  <datafield tag="490" ind1=" " ind2=" ">
+    <subfield code="a">Colección CLACSO-CROP</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">RELACIONES EXTERIORES </subfield>
+    <subfield code="9">2266</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">POBREZA</subfield>
+    <subfield code="9">263</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">POLÍTICA ECONÓMICA</subfield>
+    <subfield code="9">2059</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="4" tag="651">
+    <subfield code="a">AMÉRICA LATINA</subfield>
+    <subfield code="9">273</subfield>
+  </datafield>
+  <datafield ind2="4" ind1=" " tag="651">
+    <subfield code="a">CARIBE</subfield>
+    <subfield code="9">539</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="a">Rodriguez Oliva, Lázaro I</subfield>
+    <subfield code="9">2267</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="a">Moreano Origuen, Hernán</subfield>
+    <subfield code="9">2269</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Rodríguez Gámez, Liz Ileana</subfield>
+    <subfield code="9">2270</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Mondol-López, Lenin</subfield>
+    <subfield code="9">2271</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="a">Hernández, Diego</subfield>
+    <subfield code="9">2272</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="a">Torre Avila,  Leonardo de la </subfield>
+    <subfield code="9">2273</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Panqueba Cifuentes, Jairzinho Francisco</subfield>
+    <subfield code="9">2274</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="a">Castillo Gallardo, Mayarí</subfield>
+    <subfield code="9">2275</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="a">Córdoba, Diana Marcela</subfield>
+    <subfield code="9">2276</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

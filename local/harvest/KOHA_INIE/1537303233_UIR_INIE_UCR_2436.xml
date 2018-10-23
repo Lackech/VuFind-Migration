@@ -1,0 +1,52 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00960nam a2200205Ia 4500</leader>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">CD #115</subfield>
+  </datafield>
+  <datafield ind1=" " tag="100" ind2=" ">
+    <subfield code="a">Agencia Española de Cooperación Internacional, en la Antigua Guatemala, Instituto Geológico y Minero de España</subfield>
+  </datafield>
+  <datafield ind1=" " tag="245" ind2=" ">
+    <subfield code="a">Procesos geológicos como causa  de desastres naturales, prevención y mitigación/Agencia Española de Cooperación Internacional, en la Antigua Guatemala, Instituto Geológico y Minero de España.</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">España:  </subfield>
+    <subfield code="b">Agencia Española de Cooperación Internacional, en la Antigua Guatemala, </subfield>
+    <subfield code="c">2007</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Disco compacto</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="610">
+    <subfield code="a">Agencia Española de Cooperación Internacional, en la Antigua Guatemala \Instituto Geológico y Minero de España</subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2=" ">
+    <subfield code="a">GEOLOGÍA</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="650">
+    <subfield code="a">DEASASTRES NATURALES</subfield>
+  </datafield>
+  <datafield ind2=" " tag="650" ind1=" ">
+    <subfield code="a">DESASTRES CAUSADOS POR EL HOMBRE</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">PREVENCIÓN DE DESASTRES</subfield>
+  </datafield>
+  <datafield ind2=" " tag="650" ind1=" ">
+    <subfield code="a">DETERIORO AMBIENTAL</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="651">
+    <subfield code="a">GUATEMALA</subfield>
+  </datafield>
+  <datafield ind2=" " tag="651" ind1=" ">
+    <subfield code="a">COSTA RICA</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="p">003434 </subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">2436</subfield>
+    <subfield code="d">2436</subfield>
+  </datafield>
+</record>

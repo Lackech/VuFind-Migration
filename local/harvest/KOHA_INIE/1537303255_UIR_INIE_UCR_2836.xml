@@ -1,0 +1,47 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01716nab a2200169   4500</leader>
+  <controlfield tag="005">20160328163001.0</controlfield>
+  <controlfield tag="008">150827b2003    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">249</subfield>
+    <subfield code="a">Pacheco Urbina, Vivian María</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Experiencia en la vida universitaria de estudiantes de primeros promedios de admisión / </subfield>
+    <subfield code="c">Vivian María Pacheco Urbina</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2003</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">páginas 79-93</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">Con la finalidad de analizar los factores que intervienen en la excelencia académica de los estudiantes de primeros promedios de la Universidad de Costa Rica, se desarrolla una investigación etnográfica que utiliza la metodología cualitativa; la información se obtiene de las entrevistas en profundidad que se realizan a través de la construcción de las historias de vida de los estudiantes participantes. Asimismo, se aplica la observación directa y la recopilación de datos de fuentes documentales.
+Este artículo presenta las vivencias, percepciones y opiniones de los estudiantes en la etapa de estudios universitarios, a partir de su experiencia de vida en la prueba de aptitud académica. La información que se presenta constituye en sí misma, una fuente de ideas para la reflexión del quehacer de la Universidad de Costa Rica, con relación a los estudiantes talentosos que ingresan con altas expectativas de desarrollo personal y profesional a nuestro sistema de estudios universitarios</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " tag="773" ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0190</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.27, no.1  (2003) </subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">2836</subfield>
+    <subfield code="d">2836</subfield>
+  </datafield>
+</record>

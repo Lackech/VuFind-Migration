@@ -1,0 +1,64 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00885nam a22002177a 4500</leader>
+  <controlfield tag="008">160316b2006    xxu||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">06.05.04 </subfield>
+    <subfield code="b">2305</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">1508</subfield>
+    <subfield code="a">Landers, Cassie</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Desarrollo integral en la infancia: una prioridad para la salud. Manual de desarrollo temprano para profesionales de la salud /</subfield>
+    <subfield code="c">Cassie Landers, Raúl Mercer, Helia Molina, Mary Eming Young</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">s.n. :</subfield>
+    <subfield code="b">Johnson &amp; Johnson Pediatric Institute, OMS, OPS, Banco Mundial,</subfield>
+    <subfield code="c">2006?</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">271 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">La edición e impresión ha sido financiada por el Johnson and Johnson Pediatric Institute</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">723</subfield>
+    <subfield code="a">DESARROLLO DEL NIÑO</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">757</subfield>
+    <subfield code="a">PRIMERA INFANCIA</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">268</subfield>
+    <subfield code="a">SALUD</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">426</subfield>
+    <subfield code="a">MANUALES </subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="9">1509</subfield>
+    <subfield code="a">Mercer, Raúl</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">1510</subfield>
+    <subfield code="a">Molina, Helia</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="9">1511</subfield>
+    <subfield code="a">Young, Mary Eming</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">3100</subfield>
+    <subfield code="d">3100</subfield>
+  </datafield>
+</record>

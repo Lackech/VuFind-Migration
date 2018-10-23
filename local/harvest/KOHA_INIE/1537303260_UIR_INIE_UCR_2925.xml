@@ -1,0 +1,46 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02506nab a2200169   4500</leader>
+  <controlfield tag="005">20160331133213.0</controlfield>
+  <controlfield tag="008">151028b2004    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">183</subfield>
+    <subfield code="a">Moncada Jiménez, José</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Métodos estadísticos utilizados en las ciencias del moviemto humano /</subfield>
+    <subfield code="c">José Moncada Jiménez</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2004</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">páginas 279-287</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">El propósito de este estudio fue describir los métodos  estadísticos más utilizados en una revista del área de las ciencias del movimiento humano indexada en el Science Citation Index, la cual obtuvo en el año 1999 un factor de impacto 2.110. de los 305 artículos publicados durante el año 2001, se encontró que en la mayoría (45,2%) provenían de los Estados Unidos de América, principalmente en el área de la fisiología aplicada al deporte o al ejercicio (65,9%). Las técnicas de análisis estadístico más usadas fueron las de tipo paramétrico (72%): análisis de varianza en sus diversos modelos (57,7%), t student (34,8%) correlación (29,5%) y análisis de regresión (21%). Las técnicas de análisis no paramétrico (12,8%) más utilizadas fueron: chi cuadrado (7,9%) y Wilcoxon (4,9%). En el 12,8% de los estudios se reportaba el uso de combinado de técnicas paramétricas y no paramétricas. También se realizaron pruebas de seguimiento (post hoc), y otras para analizar supuestos teóricos en los que se basan las pruebas paramétricas. El 61,6%  de los investigadores no reportaron haber usado un paquete estadístico para analizar sus datos; mientras que aquellos que sí lo hicieron (38,4%), reportaron haber usado el programa  Statistical Package for the Social Sciences (13,4%). En resumen, se observó que la mayoría de los estudios publicados en una revista científica de alto índice de impacto, que a su vez refleja la calidad de los manuscritos, fueron elaborados tomando en consideración un apropiado diseño y el uso adecuado de técnicas estadísticas avanzadas. Se sugiere a los educadores físicos, científicos del movimiento humano, readecuar los cursos de metodología de la investigación y análisis estadísticos para que incluyan las técnicas descritas en este documento</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" tag="773" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0253</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.28, no.2 (2004)  </subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2925</subfield>
+    <subfield code="d">2925</subfield>
+  </datafield>
+</record>

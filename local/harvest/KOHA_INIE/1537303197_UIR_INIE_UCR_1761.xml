@@ -1,0 +1,68 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00896nam a2200193Ia 4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">1761</subfield>
+    <subfield code="d">1761</subfield>
+  </datafield>
+  <controlfield tag="008">141002s2010    cr            000 | und d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">06.03.06 </subfield>
+    <subfield code="b">1543</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="a">Murillo Rojas, Marielos</subfield>
+    <subfield code="9">90</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Test de vocabulario básico para niños costarricenses menores de seis años /  </subfield>
+    <subfield code="c">Marielos Murillo Rojas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2010</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">192 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Nº 724-A7-601\  La Unidad posee Informe parcial 2008, Informe Final y anexo 1 y 2,  2010</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">El propósito fundamental de la investigación es elaborar un instrumento de valoración del vocabulario de niños costarricenses, cuyas edades van de 3 a 6 años y 11 meses. Se trabajó con una población de 237 niños de 4 años a 6 años y 11 meses, que asistieron durante el año 2008 a seis instituciones de educación preescolar: dos públicas, dos privadas y dos CEN-CINAI. De ese total se seleccionó una muestra de 101 preescolares, que produjeron textos de 50 enunciados. No se consideró el rango de tres años, dada la dificultad de obtener producciones textuales de cincuenta enunciados durante una sesión de trabajo. Para el cumplimiento de este proyecto se realizaron las siguientes actividades: 
+I. Lectura e investigación bibliográfica. 
+II. Integración del corpus. 
+III. Definición de criterios y alcances del test de vocabulario para niños costarricenses de 3 a 6 años (TEVONIC) 
+IV. Selección de las unidades léxicas que formaron parte del test de vocabulario. 
+V. Consulta con expertos. 
+VI. Ilustración y definición de las unidades léxicas seleccionadas. 
+VII. Normalización del test de vocabulario para niños costarricenses de 3 a 6 años (TEVONIC). 
+VIII. Escritura del manual: fundamentos teóricos, administrativos y evaluación del test. 
+IX. Divulgación del test de vocabulario para niños costarricenses de 3 a 6 años (TEVONIC). 
+Dentro de los resultados más relevantes de este proyecto de investigación se destacan los siguientes: 
+" Conclusión del libro "Test de vocabulario para niños costarricenses de 3 a 6 años - TEVONIC", tomo I y tomo II. 
+" Artículo "Diversidad de vocabulario en los preescolares. Aportes para valorar su competencia léxica" 
+</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">EDUCACIÓN PREESCOLAR</subfield>
+    <subfield code="9">455</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">LEXICOGRAFÍA</subfield>
+    <subfield code="9">3536</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">NIÑOS</subfield>
+    <subfield code="9">59</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">NIÑAS</subfield>
+    <subfield code="9">60</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

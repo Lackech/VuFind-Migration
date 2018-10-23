@@ -1,0 +1,54 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03488nam a22001817a 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">3426</subfield>
+    <subfield code="d">3426</subfield>
+  </datafield>
+  <controlfield tag="008">170713b2017    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">06.02.01</subfield>
+    <subfield code="b">2418</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">2999</subfield>
+    <subfield code="a">Fernández Fernández, Daniel</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Diversidad sexual y diversidad funcional: la (re)producción de subalternidades en el sistema educativo costarricense /</subfield>
+    <subfield code="c">Daniel Fernández Fernández</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">[San José, Costa Rica] :</subfield>
+    <subfield code="b">INIE,</subfield>
+    <subfield code="c">2017</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">134 páginas,  7 páginas sin numerar</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Informe final proyecto de investigación Nº 724-B4-349</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">El objetivo general de esta  investigación fue analizar la producción y reproducción de los procesos de subalternización en materia de diversidad sexual y diversidad funcional en el sistema educativo costarricense.  Los métodos desarrollados son de carácter cualitativo y varían de acuerdo al tipo de información analizada.  Se plantearon tres actividades para la recolección de la información.  En primera instancia, la consulta de documentos de carácter histórico, observación no participante y entrevistas.  Se llevaron a cabo 4  entrevistas en  relación al proceso de historización y genealogía de los procesos de subalternización y 17 entrevistas en relación a la construcción de narrativas en torno a la corporalidad.  El proceso de observación sistemático se llevó a cabo en la Escuela México, ubicada en el centro de San José, durante un periodo de tres meses, con una duración de cuarenta horas.  Se observaron clases de materias básicas, así como la clase de educación física.  Dicho proceso fungió como una fase inicial que dio pie a la delimitación de las entrevistas, razón por lo que éstas se constituyeron en el principal insumo de investigación del trabajo presentado. Algunas de  las conclusiones a las que llegó el estudio son las siguientes:
+La ubicuidad del sujeto funcionalmente marcado y la valuación  de su importe económico para la sociedad productiva, está necesariamente relacionado con el rol bisagra que ejerce el sistema educativo.  De esta forma, la tesis fundamental que se desprende del proceso de investigación sobre este aspecto, consiste en señalar que hay una dialéctica del desempeño, que hace coincidir la realización de la vida con el trabajo, erigiéndose el último como moneda de cambio para el pacto social de la modernidad occidental.
+En el caso costarricense, el marcaje visual de la diversidad funcional que conlleva su cooptación como plusvalor, está atravesando tanto por una lógica caritativa como por el clivaje de la mirada médica.  Ambos elementos se conforman en operadores primordiales de la praxis educativa de las personas NFM, que al igual el respecto de aspectos que conforman la sociedad, mantiene un nexo recíproco e inextricable con el sistema económico.
+El personal docente constituye una pieza clave para hacer de las escuelas espacios más afables para la multiplicidad de subjetividades que en ellas confluyen, y por lo tanto, atender las particularidades de su mirada, y la forma en que aprehenden  dicha alteridad, se vuelve un aspecto indispensable para el cambio.  Por ello, resulta fundamental convertir el cuerpo docente en un cuerpo permeable a la abyección para procurar potenciar en el estudiantado otras vías de auto-reconocimiento en el lazo social con la alteridad.</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="0" tag="650">
+    <subfield code="9">1997</subfield>
+    <subfield code="a">IDENTIDAD SEXUAL</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">1369</subfield>
+    <subfield code="a">PERSONAS CON DISCAPACIDAD</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

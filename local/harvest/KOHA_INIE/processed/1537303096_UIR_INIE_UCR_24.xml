@@ -1,0 +1,59 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00668nam a2200205Ia 4500</leader>
+  <controlfield tag="008">150714b1999    us ||||| |||| 00| | eng d</controlfield>
+  <datafield ind2=" " ind1=" " tag="020">
+    <subfield code="a">0761990429</subfield>
+  </datafield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">05.01.01 </subfield>
+    <subfield code="b">1135</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="a">Schensul, Stephen L.</subfield>
+    <subfield code="9">291</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Essential Ethnographics methods / </subfield>
+    <subfield code="c">Stephen  L. Schensul, Margaret D. LeCompte, Jean J. Schensul</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">USA : </subfield>
+    <subfield code="c">1999</subfield>
+    <subfield code="b">Altamira Press, </subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">318 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">v.2 Observations, interviews, and questions</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">ETNOGRAFÍA</subfield>
+    <subfield code="9">286</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">MÉTODOS DE INVESTIGACIÓN </subfield>
+    <subfield code="9">288</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">TEORÍA</subfield>
+    <subfield code="9">292</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">283</subfield>
+    <subfield code="a">LeCompte, Margaret D.</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="0">
+    <subfield code="9">293</subfield>
+    <subfield code="a">Schensul, Jean J. </subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">24</subfield>
+    <subfield code="d">24</subfield>
+  </datafield>
+</record>

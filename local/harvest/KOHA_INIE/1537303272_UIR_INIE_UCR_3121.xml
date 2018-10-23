@@ -1,0 +1,51 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02197nab a2200181   4500</leader>
+  <controlfield tag="005">20160420121840.0</controlfield>
+  <controlfield tag="008">160420b2010    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">1564</subfield>
+    <subfield code="a">Salicetti Fonseca, Alejandro</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="3">
+    <subfield code="a">La plataforma de apoyo a la docencia como opción metodológica para el aprendizaje de competencias /</subfield>
+    <subfield code="c">Alejandro Salicetti Fonseca, Cipriano Romero Cerezo</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2010</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">páginas 83-100</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">El estudio tiene como objetivo comprobar el afecto sobre la aplicación de la Plataforma de Apoyo a la Docencia (SWAD) como metodología para el aprendizaje de competencias. Participaron dos grupos: GE (n:111) y GV (n:114), ambos de estudiantes de la Universidad de Granada (España). Se utilizó un cuestionario con preguntas cerradas, validado específicamente para el estudio y con alta fiabilidad. 
+Se obtuvieron datos cualitativos mediante el portafolio, construido mediante el curso como herramienta para el aprendizaje de competencias profesionales. El análisis descriptivo, tomando en consideración que los rangos de puntuación van de 1 a 5, presenta expectativas y valoraciones altas, 4.13 (0.88); y el análisis de contraste muestra diferencias significativas (p&lt;0.05) entre las expectativas iniciales y las valoraciones finales en todos los ítems del cuestionario, lo que indica una buena opinión por parte de los estudiantes ante este tipo de metodología y fortalece la idea de que este tipo de estrategia metodológica es válida para el desarrollo de competencias en la formación profesional. Los resultados cualitativos destacan que la metodología ha favorecido la capacidad de comunicarse de forma escrita y la utilización de ordenadores, mejorando la capacidad de trabajo individual mediante aprendizajes activos y desarrollando la capacidad de análisis y síntesis de documentos</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="9">1565</subfield>
+    <subfield code="a">Romero Cerezo, Cipriano</subfield>
+  </datafield>
+  <datafield ind1="0" tag="773" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0313</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.34, no.1 (2010)</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">3121</subfield>
+    <subfield code="d">3121</subfield>
+  </datafield>
+</record>

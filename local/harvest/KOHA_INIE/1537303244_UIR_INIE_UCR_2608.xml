@@ -1,0 +1,48 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01794nab a22001577a 4500</leader>
+  <controlfield tag="008">150603b1998    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">126</subfield>
+    <subfield code="a">Villalta Villalta, Olga María</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Autoevaluación, autorregulación y acreditación: Retos de la educación superior /</subfield>
+    <subfield code="c">Olga María Villalta</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica</subfield>
+    <subfield code="c">1998</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">páginas 101 - 114</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">El artículo presenta una revisión amplia sobre lo que reconocidos especialistas principalmente de América, plantean referente a la autoevaluación, autoregulación y acreditación  de la Educación Superior. El propósito es aportar información especializada con la pretención de que genere inquietudes y contribuya con la reflexión que debe originarse respecto a este tema, en las instituciones de Educación Superior del país.
+En las universidades latinoamericanas se escucha cada vez con mayor frecuencia la necesidad de hacer frente a procesos de eutoevaluación, autoregulación y acreditación.
+Los autores revisados asumen posiciones optimistas al respecto, consideran que el carácter voluntario y participativo de las propuestas, posibilita a las instituciones a generar respuestas prospectivas más importantes aún en tiempos de crisis económica y social.
+Sin embargo, casi la totalidad de los documentos revisados son de caracter conceptual y técnico; carecen de análisis crítico y no aluden a variables centrales en el proceso educativo como son los fundamentos ético-epistemológicos y enfoques pedagógicos</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0021</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.22, no.2 (1998)</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2608</subfield>
+    <subfield code="d">2608</subfield>
+  </datafield>
+</record>

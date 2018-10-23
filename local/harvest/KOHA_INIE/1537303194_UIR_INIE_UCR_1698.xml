@@ -1,0 +1,71 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00866nam a2200193Ia 4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">1698</subfield>
+    <subfield code="d">1698</subfield>
+  </datafield>
+  <controlfield tag="008">180413b2009    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">06.03.04 </subfield>
+    <subfield code="b">1840</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="a">Fonseca González, Vanessa</subfield>
+    <subfield code="9">1940</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Internet como instrumento innovador para promover la lectura en los alumnos del tercer ciclo / </subfield>
+    <subfield code="c">Vanessa Fonseca, Isabel Gallardo</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2009</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">78 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Informe final Proyecto No.724-A8-109</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">En esta investigación se pretende buscar formas alternativas de fomentar la lectura en los estudiantes de los
+colegios de educación secundaria, para ello se investigarán herramientas y programas que ofrece la Internet,
+con la finalidad de que el joven utilice una tecnología que le es afín para llevar a cabo la lectura de los textos
+literarios que son obligatorios en los colegios.
+Una vez recopilada la información sobre las preferencias textuales del grupo de jóvenes y los distintos usos
+que la Internet puede ofrecer para ayudar a la lectura de textos literarios, se probaron los instrumentos con
+un grupo de jóvenes para conocer el acceso, la factibilidad y la efectividad de las herramientas encontradas o
+creadas. Una vez vista la efectividad de las herramientas, se hará una capacitación a los docentes de español
+para que puedan aplicar las herramientas en sus clases. </subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">LECTURA</subfield>
+    <subfield code="9">365</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">EDUCACIÓN PRIMARIA</subfield>
+    <subfield code="9">367</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">INTERNET </subfield>
+    <subfield code="9">350</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">TECNOLOGÍA EDUCATIVA </subfield>
+    <subfield code="9">483</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">COMPRENSIÓN DE LECTURA</subfield>
+    <subfield code="9">1188</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="9">88</subfield>
+    <subfield code="a">Gallardo Álvarez, Isabel</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,62 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00824nam a2200217   4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3284</subfield>
+    <subfield code="d">3284</subfield>
+  </datafield>
+  <controlfield tag="008">160727b2003    m  ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="020">
+    <subfield code="a">9703209637 (UNAM)</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="020">
+    <subfield code="a">970722276x (Plaza y Valdés)</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">06.01.01</subfield>
+    <subfield code="b">2349</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">1901</subfield>
+    <subfield code="a">Morán Oviedo, Porfirio</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="3">
+    <subfield code="a">El vínculo de la docencia y la investigación en el trabajo académico de la UNAM /</subfield>
+    <subfield code="c">Porfirio Morán Oviedo</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">México :</subfield>
+    <subfield code="b">Centro de estudios de la universidad; Plaza y Valdés,</subfield>
+    <subfield code="c">2003</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">226 páginas</subfield>
+  </datafield>
+  <datafield tag="490" ind1=" " ind2=" ">
+    <subfield code="a">Educación Superior Contemporánea. Serie mayor</subfield>
+  </datafield>
+  <datafield tag="610" ind2="4" ind1="2">
+    <subfield code="9">1496</subfield>
+    <subfield code="a">UNIVERSIDAD NACIONAL AUTONÓMA DE MÉXCIO</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">326</subfield>
+    <subfield code="a">INVESTIGACIÓN EDUCATIVA</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1841</subfield>
+    <subfield code="a">DOCENCIA</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">498</subfield>
+    <subfield code="a">FORMACIÓN PROFESIONAL</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">1928</subfield>
+    <subfield code="a">SITUACIÓN DE LOS DOCENTES</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

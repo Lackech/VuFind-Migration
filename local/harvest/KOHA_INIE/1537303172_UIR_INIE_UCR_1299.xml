@@ -1,0 +1,54 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03091nam a2200193Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">1299</subfield>
+    <subfield code="d">1299</subfield>
+  </datafield>
+  <controlfield tag="008">170125b2001    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">04.02.03 </subfield>
+    <subfield code="b">999</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="a">Badilla Chavarría, Leda</subfield>
+    <subfield code="9">2083</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="3">
+    <subfield code="a">La construcción de un proceso evaluativo del componente educación Programa Mujer, Salud y Desarrollo Centroamerica OPS/OMS</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">[San José, C.R.] : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">2001</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">15 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Informe Final del Proyecto N° 724-99-342</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">Partiendo de la premisa básica de concebir el género como indicador de la vulnerabilidad social y económica en relación con el acceso a los servicios de salud, la autora sostiene que la evaluación contribuye a modificar situaciones de adversidad, vulnerabilidad o iniquidad y de ahí su importancia como transformador potencial.  Con esta perspectiva, se exponen los resultados de una evaluación cualitativa del discurso educativo del Programa Mujer, Salud y Desarrollo, el cual se lleva a cabo en Centroamérica, centrando la atención en la lógica interna de este tipo de discurso y la valoración de las prácticas educativas por parte de las actoras sociales que intervienen en el Programa.  Mediante una metodología basada en el análisis del discurso, se realizan tres niveles de análisis, correspondientes a los tres tipos de discursos de las actoras: el discurso político-normativo (15 autoridades políticas y técnicas de cada país), el discurso de la capacitación (14 mujeres y un hombre responsables de la capacitación desarrollada en el Programa) y el discurso de las mujeres beneficiarias (15 mujeres).  En cuanto al discurso político-normativo, se concluye que las reformas llevadas a cabo en Centroamérica se caracterizan por su naturaleza económica tecnocrática, que restringe la participación del Estado en la prestación de servicios y repercute en forma negativa en la población femenina; sin embargo, el Programa ha tenido el éxito de incorporar el tema de la violencia intrafamiliar en las políticas de salud, campo tradicionalmente ligado a la maternidad o a la salud reproductiva de las mujeres.  En relación con el discurso de la capacitación, el Programa ha logrado crear sensibilización y concientización hacia el problema de la equidad entre los géneros, mediante programas de educación no formal dirigidos principalmente a sectores pobres o   informales de la economía.  El análisis del discurso de las beneficiarias, quienes tienen en común el haber sido víctimas de la violencia, evidencia logros en la sensibilización, la conversión de saberes implícitos en explícitos, la expresión libre, la relación entre pensamiento y acción, el disfrute de espacios recreativos, y el desarrollo de técnicas para el diálogo.  Estos espacios educativos han permitido la incorporación de las mujeres participantes en el Programa con sus problemas y preocupaciones específicos.</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">956</subfield>
+    <subfield code="a">IGUALDAD DE GÉNERO </subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">VIOLENCIA CONTRA LAS MUJERES</subfield>
+    <subfield code="9">85</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">EVALUACIÓN </subfield>
+    <subfield code="9">287</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

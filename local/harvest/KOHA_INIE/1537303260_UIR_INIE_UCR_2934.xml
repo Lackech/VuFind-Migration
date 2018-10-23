@@ -1,0 +1,57 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01905nab a2200193   4500</leader>
+  <controlfield tag="005">20160331133544.0</controlfield>
+  <controlfield tag="008">151105b2005    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">1176</subfield>
+    <subfield code="a">Prieto Ferraro, Marcela</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Metodología para determinar atributos y métricas de calidad de sistemas hipermedia adaptativos educativos basados en estilos de aprendizaje /</subfield>
+    <subfield code="c">Marcela Prieto Ferraro, Helmut Leighton Álvarez, Francisco José García Peñalvo </subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2005</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">páginas 91-101</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">Este trabajo es una propuesta metodológica para determinar atributos y métricas de calidad en sistemas hipermedia adaptativos educativos basados en estilos de aprendizaje, específicamente en los estilos activo, reflexivo, teórico y pragmático. Estos atributos y métricas están referidos únicamente a la interacción del usuario-estudiante con el sistema, es decir, desde la óptica puramente educativa y no desde el punto de vista de la herramienta informática como tal.
+Para ello comienza su análisis desde las características del estilo de aprendizaje y a partir de ellas se procede al establecimiento de los atributos de acuerdo a las estrategias instruccionales que le correspondan. Finalmente, se definen las métricas necesarias para cada uno de los atributos, estableciendo el o los tipos de variables que involucran, sus unidades de medida y escalas. De esta manera se desarrolla una metodología de cascada de determinación de atributos y métricas</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">1177</subfield>
+    <subfield code="a">Leighton Álvarez, Helmut</subfield>
+    <subfield code="c">coautor</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="9">1130</subfield>
+    <subfield code="a">García Peñalvo, Francisco José</subfield>
+    <subfield code="c">coautor</subfield>
+  </datafield>
+  <datafield tag="773" ind2=" " ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0300</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.29, no.1 (2005) </subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2934</subfield>
+    <subfield code="d">2934</subfield>
+  </datafield>
+</record>

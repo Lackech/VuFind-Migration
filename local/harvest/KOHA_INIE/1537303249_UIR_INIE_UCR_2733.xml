@@ -1,0 +1,48 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01913nab a2200169   4500</leader>
+  <controlfield tag="005">20160317163529.0</controlfield>
+  <controlfield tag="008">150706b2001    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">97</subfield>
+    <subfield code="a">Meneses Montero, Maureen</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="3" tag="245">
+    <subfield code="a">El juego en los niños: enfoque teórico /</subfield>
+    <subfield code="c">Maureen Meneses Montero</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2001</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">páginas 113-124</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">El juego es una actividad tan antigua como el hombre mismo, aunque su concepto, y su forma de practicarlo varía según la cultura de los pueblos. El ser humano lo realiza en forma innata, producto de una experiencia placentera como resultado de un compromiso en particular, es un estímulo valioso mediante el cual el individuo se vuelve más hábil, perspicaz, ligero, diestro, fuerte y sobretodo alegr, así lo definen Lacayo y Coello (1992), donde también consideran que los niños aprenden a crecer en una forma recreativa.
+El docente debe estar consciente de la utilidad del juego en el desarrollo de aprendizajes, su labor se va a ver ver facilitada en el sentido de tener objetivos de clase, actividades estructuradas no solo de expresión libre sino de desarrollo social, emocional e intelectual.
+El artículo pretende dar generalidades de lo que es el juego, su importancia para el educador, teorías del juego y sus propulsores, así como la clasificación de los mismos. Esto permite al docente formular un concepto teórico que sustente las actividades relacionads entre el juego y sus objetos de clase. Convirtiendo o dando así un sentido lógico a una actividad natural del niño y lo que se espera que él desarrollo integralmente en el aula</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0189</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.25, no.2  (2001)</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2733</subfield>
+    <subfield code="d">2733</subfield>
+  </datafield>
+</record>

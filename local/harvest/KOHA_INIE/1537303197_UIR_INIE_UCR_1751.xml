@@ -1,0 +1,52 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00761nam a2200181Ia 4500</leader>
+  <controlfield tag="008">141002s2011    c             000 | und d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">06.03.06 </subfield>
+    <subfield code="b">1251</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="a">Regueyra Edelman, María Gabriela</subfield>
+    <subfield code="9">1513</subfield>
+  </datafield>
+  <datafield tag="245" ind2="3" ind1="1">
+    <subfield code="a">La permanencia y graduación de la población estudiantil de Trabajo Social de la Universidad de Costa Rica / </subfield>
+    <subfield code="c">María Gabriela Regueyra Edelman</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2011</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">192 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">La Unidad posee informe parcial 2010\ Informe final proyecto de investigación No.724-B0-142</subfield>
+  </datafield>
+  <datafield ind1="2" ind2="1" tag="610">
+    <subfield code="9">1515</subfield>
+    <subfield code="a">ESCUELA DE TRABAJO SOCIAL. UNIVERSIDAD DE COSTA RICA</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">8</subfield>
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">GRADUADOS</subfield>
+    <subfield code="9">779</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">FACTORES DE PERMANENCIA</subfield>
+    <subfield code="9">1377</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">1751</subfield>
+    <subfield code="d">1751</subfield>
+  </datafield>
+</record>

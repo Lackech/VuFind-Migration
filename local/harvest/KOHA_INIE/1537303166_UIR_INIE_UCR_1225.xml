@@ -1,0 +1,46 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00560nam a2200157Ia 4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">1225</subfield>
+    <subfield code="d">1225</subfield>
+  </datafield>
+  <controlfield tag="008">170516b        xxu||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">01.02.04 </subfield>
+    <subfield code="b">92</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Ley de ampliación del curso lectivo.  Convenio centroamericano sobre la unificación básica de la educación / </subfield>
+    <subfield code="c">Luis Guillermo Cornejo Rojas, compilador</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">[s.l.] :</subfield>
+    <subfield code="b"> [s.n.],</subfield>
+    <subfield code="c">s.f.</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">48 páginas</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">CONVENIOS</subfield>
+    <subfield code="9">46</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">REGLAMENTOS</subfield>
+    <subfield code="9">1990</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="a">Cornejo Rojas, Luis Guillermo</subfield>
+    <subfield code="e"> Compilador/a</subfield>
+    <subfield code="9">2748</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

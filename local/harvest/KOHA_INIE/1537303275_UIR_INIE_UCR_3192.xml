@@ -1,0 +1,55 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00807nam a22001937a 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">3192</subfield>
+    <subfield code="d">3192</subfield>
+  </datafield>
+  <controlfield tag="008">160503b2011    cr a|||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">14.02.03</subfield>
+    <subfield code="b">1836</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">715</subfield>
+    <subfield code="a">Cordero Cordero, Teresita </subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">El impacto de la formación universitaria en la vida de mujeres que estuvieron vinculadas a la UCR en las décadas d elos años 1940 y 1950 /</subfield>
+    <subfield code="c">Teresita Cordero Cordero</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">[San José, Costa Rica] :</subfield>
+    <subfield code="b">INIE,</subfield>
+    <subfield code="c">2011</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">109 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Informe Final del Proyecto de Investigación N° 724-A9-310</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2=" ">
+    <subfield code="9">714</subfield>
+    <subfield code="a">UNIVERSIDAD DE COSTA RICA</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">55</subfield>
+    <subfield code="a">MUJERES</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">498</subfield>
+    <subfield code="a">FORMACIÓN PROFESIONAL</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">1104</subfield>
+    <subfield code="a">Watson Soto, Hannia </subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="856">
+    <subfield code="u">http://repositorio.inie.ucr.ac.cr/bitstream/123456789/170/1/14.02.03.1836.pdf</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

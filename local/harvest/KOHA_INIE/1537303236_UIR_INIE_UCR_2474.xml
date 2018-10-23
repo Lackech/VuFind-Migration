@@ -1,0 +1,34 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00767nam a2200133Ia 4500</leader>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">CD #211</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="110">
+    <subfield code="a">Ministerio de Cultura y Juventud. Consejo Nacional de Política Pública de la Persona Joven </subfield>
+  </datafield>
+  <datafield ind1=" " tag="245" ind2=" ">
+    <subfield code="a">Derechos de las personas jóvenes / Ministerio de Cultura y Juventud. Consejo Nacional de Política Pública de la Persona Joven </subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">El Ministerio, </subfield>
+    <subfield code="c">2010</subfield>
+  </datafield>
+  <datafield ind1=" " tag="500" ind2=" ">
+    <subfield code="a">El DVD contiene: 1-Campaña de derechos de las personas jóvenes 2 -video y documento de la Convención Iberoamericana de los derechos de las personas jóvenes 3- Enfoque de juventudes 4- Política pública de las personas jóvenes 2010-2013</subfield>
+  </datafield>
+  <datafield tag="650" ind2=" " ind1=" ">
+    <subfield code="a">POLITICA PUBLICA</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="650">
+    <subfield code="a">LEY GENERAL DE LA PERSONA JOVEN Nº8261</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="p">002438</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2474</subfield>
+    <subfield code="d">2474</subfield>
+  </datafield>
+</record>

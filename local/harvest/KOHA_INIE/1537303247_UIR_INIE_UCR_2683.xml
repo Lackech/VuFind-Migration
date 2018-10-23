@@ -1,0 +1,46 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01435nab a2200169   4500</leader>
+  <controlfield tag="005">20160831155050.0</controlfield>
+  <controlfield tag="008">150617b2000    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">180</subfield>
+    <subfield code="a">Romero Estrada, Francisco A.</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Fundamentos y criterios orientados al diseño curricular de la educación de adultos / </subfield>
+    <subfield code="c">Francisco A. Romero Estrada</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2000</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a"> páginas 97-114</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">Analiza desde las macrotendencias el contexto socio cultural y su incidencia en la educación. Desde una perspectiva nacional desarrolla sintéticamente la identidad cultural y otros componentes, como aspectos generales que deben considerarse para el diseño curricular. Desarrolla las bases, fundamentos y criterios que deben asumirse para diseñar programas orientados a la educación de personas adultas, a saber: concepción del adulto, enfoques sobre la educación de adultos, el perfil del adulto, la educación de adultos hacia los grupos de incidencia, opciones formativas, el aprendizaje de las personas adultas, el educador de personas adultas, los condicionantes y las preguntas fundamentales para un diseño curricular</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " tag="773" ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0026</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.24, no.2 (2000)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2683</subfield>
+    <subfield code="d">2683</subfield>
+  </datafield>
+</record>

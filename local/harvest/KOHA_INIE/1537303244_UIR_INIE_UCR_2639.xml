@@ -1,0 +1,45 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02044nab a22001577a 4500</leader>
+  <controlfield tag="008">150610b1999    c  f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">167</subfield>
+    <subfield code="a">Ortíz, María Salvadora</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Universidad y Desarrollo /</subfield>
+    <subfield code="c">María Salvadora Ortiz</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica, </subfield>
+    <subfield code="c">1999</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">páginas 15-19</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">Este ensayo plantea una reflexión sobre la universidad y su relación con el desarrollo del país.  Se señala que la calidad de la educación general pública es, en buena parte, la razón por la cual la universidad pública ha dejado de ser un instrumento de democratización.  Plantea que ciertamente el individuo necesita la educación; pero que también la sociedad y el Estado necesitan que el individuo se eduque, pues el avance científico y cultural de un país, primordial por alcanzar altos niveles de desarrollo depende, fundamentalmente, de la extensión y de la calidad de la educación que reciban los ciudadanos.  Conforme las sociedades evolucionan y el desarrollo científico se acelera, el tema de la educación se torna más complejo y más urgente.  En este marco, la universidad es el lugar donde tradicionalmente la investigación se ha desarrollado en un ámbito de libertad; pero no libre de influencias; pues ésta debe responder con profundidad y eficiencia ante las necesidades sociales del Estado, la industria, las organizaciones civiles y los organismos internacionales.  Concluye que el establecimiento de las políticas científicas del país no pueden depender del sector político, pero tampoco exclusivamente del sector académico o del económico.  En la dinámica del poder, es necesario la flexibilidad, la imaginación y la buena voluntad en el manejo de las relaciones interinstitucionales.</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0024</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.23, no.especial (1999)</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2639</subfield>
+    <subfield code="d">2639</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,36 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00612nam a2200133Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">04.02.01 </subfield>
+    <subfield code="b">2039</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="100">
+    <subfield code="a">Magendzo Kolstrein, Abraham</subfield>
+  </datafield>
+  <datafield ind1=" " tag="245" ind2=" ">
+    <subfield code="a">Conversaciones y tensiones en torno a la educación en derechos humanos: sobre qué conversamos y qué nos problematiza / </subfield>
+    <subfield code="c">Abraham Magendzo Kolstrein</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San Juan, Puerto Rico : </subfield>
+    <subfield code="b">Universidad de Puerto Rico. Cátedra UNESCO de educación para la paz, </subfield>
+    <subfield code="c">2006</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">37 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Conferencia magistral (200-2003) de la Cátedra UNESCO de educación para la paz</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="650">
+    <subfield code="a">DERECHOS HUMANOS</subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2=" ">
+    <subfield code="a">EDUCACION PARA LA PAZ</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">1281</subfield>
+    <subfield code="d">1281</subfield>
+  </datafield>
+</record>

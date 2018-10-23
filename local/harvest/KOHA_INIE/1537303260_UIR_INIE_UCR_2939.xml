@@ -1,0 +1,47 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01663nab a22001697a 4500</leader>
+  <controlfield tag="005">20160225101929.0</controlfield>
+  <controlfield tag="008">151112b2005    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">763</subfield>
+    <subfield code="a">Muñoz Varela, Luis</subfield>
+  </datafield>
+  <datafield ind2="3" tag="245" ind1="1">
+    <subfield code="a">El Referente  de la Internalización y sus Inherencias para la Educación Superior Pública /</subfield>
+    <subfield code="c">Luis Muñoz Varela</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2005</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">páginas 11-66</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">Se aborda en este artículo el tema de la internalización como dimensión de política y programática en el marco de la educación superior. Tal abordaje se lleva acabo a partir  de una amplia dimensión bibliográfica a propósito de resultados de investigación  relacionados con el desarrollo durante los últimos años, de esta dimensión de la política y los procesos  académicos, en instituciones y sistemas de educación superior de distintos paíces y regiones del mundo.
+El artículo sustenta un anclaje como punto de partida en las implicaciones que la sociedad del conocimiento y la globalización establecen para la educación superior; por otra parte, identifica los ámbitos académicos  y de la gestión institucional, en los que  predominantemente la dimensión de internacionalización ha tendido ha adquirir significado como parte de su incorporación en la política y en las disposiciones programáticas de las instituciones de educación superior</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind2=" " ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0304</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.29, no.2 (2005)</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2939</subfield>
+    <subfield code="d">2939</subfield>
+  </datafield>
+</record>

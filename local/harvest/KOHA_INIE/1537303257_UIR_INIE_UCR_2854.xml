@@ -1,0 +1,45 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01314nab a2200157   4500</leader>
+  <controlfield tag="008">150903b2003    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">200</subfield>
+    <subfield code="a">Chavarría González, María Celina</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="4">
+    <subfield code="a">Una educación inicial comprometida: hacia la paz y el desarrollo sostenible /</subfield>
+    <subfield code="c">María Celina Chavarría González</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2003</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">páginas 45-66</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">De cara a la sociedad del futuro es necesario que la educación inicial tome conciencia de incorporar al niño y la niña, a las madres, los padres y docentes en una educación problematizadora, que les permita tomar parte, colectivamente, de su vocación ontológica e histórica de humanizarse, vocación actualmente sujeta a la alienación disociativa, como nos recuerda la pedagogía crítica y el análisis de la modernidad. El viraje del Estado hacia el liberalismo económico y los papeles cambiantes de las mujeres en nuestras sociedades hacen que los sistemas de formación de la niñez se sitúen en una difícil encrucijada</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0202</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.27, no.2  (2003)</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2854</subfield>
+    <subfield code="d">2854</subfield>
+  </datafield>
+</record>

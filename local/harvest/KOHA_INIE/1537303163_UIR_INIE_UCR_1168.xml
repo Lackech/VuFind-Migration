@@ -1,0 +1,47 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00530nam a2200157Ia 4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">1168</subfield>
+    <subfield code="d">1168</subfield>
+  </datafield>
+  <controlfield tag="008">170322b1976    us ||||| |||| 00| 0 eng d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">370.78 </subfield>
+    <subfield code="b">T253t</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Teaching Strategies : Papers from a research workshop / </subfield>
+    <subfield code="c">Thomas J. Cooney, David A. Bradbard, editores</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">Ohio, Estados Unidos : </subfield>
+    <subfield code="b">ERIC, </subfield>
+    <subfield code="c">1976</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">209 páginas</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">INVESTIGACIÓN</subfield>
+    <subfield code="9">163</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="9">2599</subfield>
+    <subfield code="a">Cooney, Thomas J.</subfield>
+    <subfield code="e">Editor/a</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="9">2600</subfield>
+    <subfield code="a">Bradbard, David A. </subfield>
+    <subfield code="e">Editor/a</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

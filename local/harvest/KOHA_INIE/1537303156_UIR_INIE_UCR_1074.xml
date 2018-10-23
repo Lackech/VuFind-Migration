@@ -1,0 +1,55 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01534nam a2200193Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">1074</subfield>
+    <subfield code="d">1074</subfield>
+  </datafield>
+  <controlfield tag="008">180530b2002    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="020" ind2=" " ind1=" ">
+    <subfield code="a">9977-67-657-7</subfield>
+  </datafield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">06.04.08 </subfield>
+    <subfield code="b">828</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="a">García Lizano, Nidia</subfield>
+    <subfield code="9">107</subfield>
+  </datafield>
+  <datafield ind2="3" tag="245" ind1="1">
+    <subfield code="a">La administración escolar para el cambio y el mejoramiento de las instituciones educativas / </subfield>
+    <subfield code="c">Nidia García Lizano, Marta Rojas Porras, Natalia Campos Saborío</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, C.R. : </subfield>
+    <subfield code="b">Editorial de la Universidad de Costa Rica, </subfield>
+    <subfield code="c">2002</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">638 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">Este libro va dirigido a directoras y directores de instituciones educativas, estudiantes del área de administración educativa, formadores de administradores educativos e interesados en este campo. Es un trabajo que representa un esfuerzo cooperativo entre investigadoras, académicos y cinco directores costarricenses. Se aborda la escuela y su estructura organizativa completa como unidad de estudio pues se la visualiza como núcleo generador del cambio. Se comparten procesos y resultados de un intento de innovación en el campo de un mejoramiento profesional en la escuela, en el cual se escogió como punto de partida la investigación etnográfica, junto con la capacitación de docentes y directores para generar currículo de capacitación de directores y promover el mejoramiento institucional.  </subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">ADMINISTRACIÓN ESCOLAR</subfield>
+    <subfield code="9">305</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">RELACIONES ESCUELA COMUNIDAD</subfield>
+    <subfield code="9">1850</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1=" ">
+    <subfield code="a">Rojas Porras, Marta</subfield>
+    <subfield code="9">108</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Campos Saborío, Natalia</subfield>
+    <subfield code="9">116</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

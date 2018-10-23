@@ -1,0 +1,60 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00833nam a2200205   4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2761</subfield>
+    <subfield code="d">2761</subfield>
+  </datafield>
+  <controlfield tag="008">150804b2013    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">06.01.01  </subfield>
+    <subfield code="b">2158</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">706</subfield>
+    <subfield code="a">D'Antoni, Maurizia </subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Actividades académicas para la consolidación de un equipo de estudio: aplicaciones de la teoría de Vygotski en el contexto latinoamericano /</subfield>
+    <subfield code="c">Maurizia D'Antoni, colaborador Luis Gómez Ordoñez</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">INIE,</subfield>
+    <subfield code="c">2013</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">18 hojas sin numerar</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="500">
+    <subfield code="a">Informe parcial Proyecto de Acción Social ED-2991</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="600">
+    <subfield code="9">906</subfield>
+    <subfield code="a">VYGOTSKY, LEV SEMIONOVICH </subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">661</subfield>
+    <subfield code="a">TEORÍA DE LA EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">326</subfield>
+    <subfield code="a">INVESTIGACIÓN EDUCATIVA</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">451</subfield>
+    <subfield code="a">POLÍTICA EDUCATIVA</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="4">
+    <subfield code="9">273</subfield>
+    <subfield code="a">AMÉRICA LATINA</subfield>
+  </datafield>
+  <datafield ind1=" " tag="700" ind2=" ">
+    <subfield code="9">707</subfield>
+    <subfield code="a">Gómez Ordoñez, Luis</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

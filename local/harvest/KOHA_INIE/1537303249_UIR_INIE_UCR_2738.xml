@@ -1,0 +1,47 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01943nab a2200169   4500</leader>
+  <controlfield tag="005">20160317163733.0</controlfield>
+  <controlfield tag="008">150706b2002    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">253</subfield>
+    <subfield code="a">Salas Madriz, Flora Eugenia</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Epistemología, Educación y Tecnología educativa /</subfield>
+    <subfield code="c">Flora Eugenia Salaz Madriz</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2002</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">páginas 9-18</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">El artículo hace referencia al transfondo espitemológico de la Educación y de la Tecnología Educativa, a fin de comprender cuáles son sus nexos teórico-explicativos, así como las proyecciones de aplicación de esta última en el proceso enseñanza-aprendizaje. Posteriormente, se hace un breve recorrido por la fundamentación epistemológica de las Ciencias de la Educación, con el propósito de revisar la compleja red de desciplinas y teorías  que nutren el campo de estudio de la Educación. Específicamente, el campo de la Pedagogía, encargada del estudio de la situación y los hechos educativos, toma su basamento epistemológico y teórico de los paradigmas dominantes en Psicología a lo largo del siglo XX. De ellos deriva un marco de acción en la Pedagogía, del cual surgen didácticas específicas, en las cuales la Tecnología Educativa desempeña diversas funciones.
+Con base en el hilo conductor de la exposición, se puede concluir que la Tecnología Educativa constituye una herramienta para enseñar que puede ser implementada, dependiendo del paradigma educativo que se trate; esto es, forma parte de la didáctica. Se propone, así, que la Tecnología Educativa puede ser estudiada en dos niveles: como disciplina y como herramienta didáctica</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind1="0" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0060</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.26, no.1  (2002)</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">2738</subfield>
+    <subfield code="d">2738</subfield>
+  </datafield>
+</record>

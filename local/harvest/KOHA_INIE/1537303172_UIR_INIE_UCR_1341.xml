@@ -1,0 +1,61 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00866nam a2200205Ia 4500</leader>
+  <controlfield tag="008">160517b2012    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">05.03.03 </subfield>
+    <subfield code="b">155</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">759</subfield>
+    <subfield code="a">García Fallas, Jacqueline</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Experiencia de la marginalidad de las mujeres trabajadoras sexuales activas o no, de la zona roja de Puerto Limón: un estudio de casos construido a partir de sus historias de vida / </subfield>
+    <subfield code="c">Jacqueline García Fallas; Evelyn Cajina, Asistente</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica: </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2012</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">91 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Informe final  proyecto de investigación N°724-A8-312</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">MARGINALIDAD</subfield>
+    <subfield code="9">1773</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">TRABAJADORAS</subfield>
+    <subfield code="9">1774</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">PROSTITUCIÓN</subfield>
+    <subfield code="9">54</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">ESTUDIOS DE CASOS</subfield>
+    <subfield code="9">339</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="4" tag="651">
+    <subfield code="9">1776</subfield>
+    <subfield code="a">ZONA ROJA (LIMÓN, COSTA RICA)</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="9">1742</subfield>
+    <subfield code="a">Cajina Alemán, Evelyn</subfield>
+    <subfield code="e">Asistente</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">1341</subfield>
+    <subfield code="d">1341</subfield>
+  </datafield>
+</record>

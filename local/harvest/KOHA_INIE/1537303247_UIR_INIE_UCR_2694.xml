@@ -1,0 +1,47 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01640nab a2200157   4500</leader>
+  <controlfield tag="008">150618b2000    c  f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">212</subfield>
+    <subfield code="a">Maya Betancourt, Arnobio</subfield>
+  </datafield>
+  <datafield ind2="3" tag="245" ind1="1">
+    <subfield code="a">El proyecto  SIMED / </subfield>
+    <subfield code="c">Arnobio Maya Betancourt</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2000</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">páginas 25-38</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">Este artículo, describe una propuesta de cambio educativo, impulsado por el Proyecto de Apoyo SIMED y desde las Escuelas Líderes, la cual bajo determinadas condiciones puede ser aplicable en contextos que muestren situaciones políticas, administrativas y culturas similares.
+Se parte de unas premisas generales básicas en relación con la educación y su contexto global, así como del análisis de algunos aspectos de la realidad educativa costarricense. Seguidamente se aborda dentro de ese marco, al Proyecto de Apoyo al SIMED, desde se concepción, objetivos, áreas de insidencia, estructuras  organizativa, estrategias, líneas de acción y beneficiarios principales. Además se presenta a la Escuela Líder como estrategia relevante de la propuesta de cambio, razón por la cual se describe su significado, sus características y rasgos fundamentales, así como  sus estrategias, retos y compromisos.
+El artículo concluye con el señalamiento de los logros obtenidos por el Proyecto y con sus principales limitaciones</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind2=" " ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0032</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.24, no.especial (2000)  </subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2694</subfield>
+    <subfield code="d">2694</subfield>
+  </datafield>
+</record>

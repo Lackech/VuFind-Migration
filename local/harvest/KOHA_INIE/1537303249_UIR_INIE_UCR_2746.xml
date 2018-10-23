@@ -1,0 +1,48 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01901nab a2200169   4500</leader>
+  <controlfield tag="005">20160328155408.0</controlfield>
+  <controlfield tag="008">150730b2002    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">614</subfield>
+    <subfield code="a">Abarca Rodríguez, Allan</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Financiamiento y nuevas formas de gerencialismo universitario /</subfield>
+    <subfield code="c">Allan Abarca Rodríguez</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2002</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">páginas 73-82</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">Este artículo parte de la vinculación que se genera entre la urgencia universitaria de mayores recursos presupuestarios públicos y el esquema de anarquía organizada, la cual favorece la emergencia de los múltiples problemas comunes que enfrentan las organizaciones de educación superior. Esto auspicia la exploración de los alcances y particularidades de los denominados nuevos esquemas de gobernación universitarios, que en diversos países se han desarrollado para la superación de tales ambiguedades.
+Son varias las razones que certifican la dificultad de transferir modelos de gerencialismo que han nacido en distintas partes del mundo para potenciar mejores gobiernos universitarios: hay un complejo de ejercicios políticos, económicos y administrativos particulares; las dificultades inherentes al modelo principalagent en la Universidad; la especial articulación de intereses que se tejen en las autarquías, y los contextos tan diferenciados con que las universidades responden a sus sociedades.
+Sin embargo, es imprescindible discutir y aventurarse en la creación de alternativas que auspicien mejoras en los entes universitarios sobre todo cuando la asfixia presupuestal se transforma en un eterno dilema</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind1="0" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0060</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.26, no.1  (2002)</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2746</subfield>
+    <subfield code="d">2746</subfield>
+  </datafield>
+</record>

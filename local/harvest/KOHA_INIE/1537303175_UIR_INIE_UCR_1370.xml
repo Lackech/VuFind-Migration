@@ -1,0 +1,59 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02231nam a2200205Ia 4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">1370</subfield>
+    <subfield code="d">1370</subfield>
+  </datafield>
+  <controlfield tag="008">170621b1994    cr ||||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">05.07.03 </subfield>
+    <subfield code="b">74</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="a">Cedeño Suárez, María Agustina</subfield>
+    <subfield code="9">1512</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Perfil académico profesional de la carrera de periodismo / </subfield>
+    <subfield code="c">María Agustina Cedeño Suárez, Ana Isabel Mora Vargas, María Eugenia Herrera Peña</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">[San José, Costa Rica] : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1994</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">45 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Véase también en la misma línea de investigación: Perfil académico profesional de la carrera de derecho y de la carrera de enfermería</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">Este trabajo tiene por finalidad definir el perfil profesional de la carrera de periodismo para que posteriormente la Unidad  Académica reforme el actual plan de estudios.  Las fuentes consultadas para la elaboración de este trabajo fueron los archivos de la Escuela de Ciencias de la Comunicación Colectiva, específicamente las actas de las Asambleas de Escuela, los planes de estudio, los diagnósticos elaborados en distintos momentos, los informes de labores de los distintos directores y los expedientes generales de los egresados y graduados de la Escuela.  Se revisaron además las actas del Consejo Universitario y al Rectoría, las informaciones contenidas en los periódicos que  trataban sobre la Escuela, así como diversos textos que versan sobre el tema de manera directa o indirecta, escritos por autores nacionales y extranjeros. También se realizaron entrevista y encuestas a personas vinculadas con la carrera desde su inicio. Con la información obtenida, la Unidad Académica en colaboración con el Centro de Evaluación Académica (CEA) y el Instituto de Investigación para el Mejoramiento de la Educación Costarricense (IIMEC) inician un proceso de reflexión para elaborar el perfil académico profesional de la carrera. El documento final presenta antecedentes de la Escuela, justificación de la carrera, así como fundamentación y objetivos</subfield>
+  </datafield>
+  <datafield tag="610" ind2="4" ind1="2">
+    <subfield code="a">UNIVERSIDAD DE COSTA RICA</subfield>
+    <subfield code="9">714</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">FORMACIÓN PROFESIONAL</subfield>
+    <subfield code="9">498</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1065</subfield>
+    <subfield code="a">PERIODISMO</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="a">Mora Vargas, Ana Isabel</subfield>
+    <subfield code="9">129</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="a">Herrera Peña, María Eugenia</subfield>
+    <subfield code="9">177</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

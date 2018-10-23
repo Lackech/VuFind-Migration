@@ -1,0 +1,59 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00798nab a2200205   4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">3365</subfield>
+    <subfield code="d">3365</subfield>
+  </datafield>
+  <controlfield tag="005">20170826062608.0</controlfield>
+  <controlfield tag="008">170127b2012    cu ||||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="022">
+    <subfield code="a">0864-134X</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">13.09.09</subfield>
+    <subfield code="b">2246</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">1598</subfield>
+    <subfield code="a">Hernández, Milena</subfield>
+  </datafield>
+  <datafield ind2="3" ind1="1" tag="245">
+    <subfield code="a">El sentido de la responsabilidad: un estudio entre maestros jóvenes</subfield>
+    <subfield code="c"> / Milena Hernández</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">La Habana, Cuba : </subfield>
+    <subfield code="b">Ediciones Caribe, </subfield>
+    <subfield code="c">2012</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">pp. 38-44</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">331</subfield>
+    <subfield code="a">DOCENTES</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">399</subfield>
+    <subfield code="a">RESPONSABILIDAD</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="4">
+    <subfield code="9">1261</subfield>
+    <subfield code="a">CUBA</subfield>
+  </datafield>
+  <datafield tag="773" ind1="0" ind2=" ">
+    <subfield code="d">La Habana, Cuba :   Ediciones Caribe, 1995 -</subfield>
+    <subfield code="o">004027</subfield>
+    <subfield code="t">Temas: cultura ideología sociedad</subfield>
+    <subfield code="x">0864-134X</subfield>
+    <subfield code="g">No. 72 (2012)</subfield>
+  </datafield>
+  <datafield ind1=" " tag="856" ind2=" ">
+    <subfield code="u">http://temas.cult.cu/articulo_academico/el-sentido-de-la-responsabilidad-un-estudio-entre-jovenes-maestros/</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+</record>

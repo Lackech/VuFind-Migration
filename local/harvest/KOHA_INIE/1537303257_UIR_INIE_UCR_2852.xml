@@ -1,0 +1,50 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02786nab a2200169   4500</leader>
+  <controlfield tag="005">20150917155006.0</controlfield>
+  <controlfield tag="008">150903b2003    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">195</subfield>
+    <subfield code="a">Quesada Sancho, Rolando</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="1" tag="245">
+    <subfield code="a">¡Dejad que las diferencias vengan a mí! : universidad y educación inclusiva /</subfield>
+    <subfield code="c">Rolando Quesada Sancho</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2003</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">página 27-38</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">En este ensayo, expongo algunos aspectos que son necesarios en las universidades, para lograr una educación inclusiva. La educación inclusiva es una forma de mirar el horizonte que nos provee la  convivencia a la luz del cumplimiento de los derechos humanos para la construcción de un mundo mejor. 
+Las condiciones económicas, políticas, sociales y culturales obligan a pensar la educación desde una perspectiva con esperanza y posibilidad. No en vano los países miembros de las Naciones Unidas se han preocupado por tomar acuerdos que destierren de una vez por todas, cualquier viso de discriminación y segregación, sea cual sea la diferencia y han tomado esa diferencia como su estandarte, para plantear la urgencia de solidarizarse, convivir, ser tolerante y respetar al otro. 
+Esta diferencia puede ser cultural o individual, de ahí que la noción de "extranjero" adquiere mayor sentido en estos tiempos en que la acción humana tiende a segregar. 
+De manera que pensar la diferencia como característica humana, abona en construir un mundo inclusivo. Esto nos obliga a mirar la educación prospectivamente, no para adivinar el futuro, sino para sacar a la superficie las fuerzas más importantes que impulsarán el futuro hacia una dirección. No se trata tampoco de construir en el vacío y dejar volar la inteligencia y la creatividad sin considerar las situaciones y tendencias sociales. 
+Aquí adquiere relevancia el hecho educativo, en tanto acción por la cual se produce, se reproduce, se resignifica, se transmite y se consume la cultura. En esta línea se plantea la necesidad por remozar los planes de estudio de las carreras formadoras de formadores y restaurar y estrechar el vínculo Universidad-Sociedad. De esta manera se propone como vía la observación constante que permita reflexionar en torno a su propio quehacer para modificarlo y crear nuevas condiciones que permitan atender la diferencia. Esta es una estrategia que permitirá a los estudiantes y a las estudiantes conocer las realidades nacionales y practicar la educación que necesita nuestra sociedad </subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" tag="773" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0202</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.27, no.2  (2003)</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2852</subfield>
+    <subfield code="d">2852</subfield>
+  </datafield>
+</record>

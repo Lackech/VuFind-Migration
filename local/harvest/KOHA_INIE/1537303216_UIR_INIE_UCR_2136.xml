@@ -1,0 +1,79 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>04368nam a2200289Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2136</subfield>
+    <subfield code="d">2136</subfield>
+  </datafield>
+  <controlfield tag="008">180719b2008    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">14.02.03  </subfield>
+    <subfield code="b">1447 CD #114</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Villarreal Montoya, Ana Lucía</subfield>
+    <subfield code="9">252</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="245">
+    <subfield code="a">Los arquetipos femeninos en la publicidad  televisiva como parte de los procesos de educación informal / </subfield>
+    <subfield code="c">Ana Lucía Villareal  Montoya, Tatiana López, Esteban Navarro</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2008</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a"> 217 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Informe final proyecto Nº 724-A5-090\Incluye CD # 114  Contiene Informe final, anexos sobre arquetipos femeninos,  la presentación Diosas a través de la historia, comerciales por categorías (dentro de lo cual se incluye: abarrotes, automóviles, bebidas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">El objetivo general del proyecto es analizar los arquetipos femeninos que utilizan / reproducen los mensajes publicitarios televisivos que muestran a mujeres y establecer la relación existente entre estos y la cultura patriarcal. Con el fin de analizar el contenido de una muestra de anuncios publicitarios desde la perspectiva de arquetipos femeninos se tomará como guía metodológica categorías propuestas por Daniel Prieto con su planteamiento “análisis de mensajes” y Van Dijk en “análisis crítico del discurso” que resultan ser perspectivas complementarias. Como fase previa al análisis de los anuncios publicitarios se confecciona una ficha de identificación para cada uno que contiene los siguientes elementos: Título, fecha, productor, producto o servicio que ofrece, medio de comunicación donde aparece, horario de transmisión y público meta. Además se establecieron los siguientes criterios para seleccionar los comerciales: • Que incluyeran a mujeres, en cualquier etapa de la vida • Que tuvieran una duración de 30 segundos • Podían incluir hombres • Que se hubieran pautado en el mes de marzo. • Que se presentaran en los canales comerciales costarricenses, lo cual no se logró por las bases de datos con que se contó incluían comerciales que fueron pautados en canales de televisión por cable. Los comerciales revisados fueron pautados en los canales nacionales: 2, 4, 6, 7, 9, 11, 13, 38, 29, 42, 33 y tres canales de Cable Tica y tres de Amnet que se alternan durante el mes. Se hizo una preselección de 104 comerciales, con los criterios anteriormente citados. La investigadora responsable revisó la preselección y redujo la muestra a 30 comerciales: Para ello se tomaron criterios definidos: que tuvieran duración de 30 segundos, que incluyeran mujeres y que fueran de productos y servicios variados. Entre las conclusiones del estudio se mencionan las siguientes: • Se concluye que a la hora de revisar cada unos de los comerciales elegidos para la investigación, se logró constatar la presencia de mayor cantidad de cautiverios femeninos que de arquetipos femeninos, ya que abundan los cautiverios en categorías como la de abarrotes, detergentes y telepromos. Lo anterior denota y ejemplifica la forma en que la imagen de la mujer es usada dentro de los comerciales y en los medios de comunicación en general, se retrata su forma oprimida como parte de la vida diaria y acontecer “normal” del género en particular. • Se encontró la presencia del arquetipo de madre y una abundante presencia del cautiverio de la madresposa, lo cual concuerda con la cultura patriarcal, ya que esta propone como el deber ser de las mujeres el ser madres, pero más que ello madresposas, seres que viven para otros. • Se constata que existe una concordancia entre cautiverios, arquetipos y las categorías en que se agruparon los comerciales; así como entre estos y los espacios (públicos y privados), puesto que categorías en donde el espacio privado es de gran importancia obtuvieron una gran cantidad de cautiverios y escasos arquetipos; mientras que categorías y comerciales en donde imperaba el espacio público había mayor cantidad de arquetipos; sin embargo, su número nunca excede a los cautiverios.</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="0" tag="650">
+    <subfield code="a">MUJERES</subfield>
+    <subfield code="9">55</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="650">
+    <subfield code="a">PUBLICIDAD </subfield>
+  </datafield>
+  <datafield tag="650" ind2="0" ind1=" ">
+    <subfield code="a">TELEVISIÓN EDUCATIVA</subfield>
+    <subfield code="9">2166</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1=" ">
+    <subfield code="a">López Gianoli, Tatiana </subfield>
+    <subfield code="9">4087</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1=" ">
+    <subfield code="a">Navarro, Esteban</subfield>
+    <subfield code="9">4088</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+  </datafield>
+</record>

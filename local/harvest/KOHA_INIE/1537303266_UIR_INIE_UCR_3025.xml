@@ -1,0 +1,50 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01664nab a22001817a 4500</leader>
+  <controlfield tag="005">20160331141928.0</controlfield>
+  <controlfield tag="008">160126b2009    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">1309</subfield>
+    <subfield code="a">Nava Gómez, Guadalupe Nancy</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Análisis de la cultura lectora en alumnos universitarios /</subfield>
+    <subfield code="c">Guadalupe Nancy Nava Gómez, Celene García Ávila</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2009</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">páginas 41-59</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">El artículo presenta los resultados de un proyecto de fomento a la lectura que se desarrolló en la Facultad de Lenguas de Universidad Autónoma del Estado de México, en el periódo de 2007-2008, en el que se aplicó una encuesta a 210 estudiantes para evaluar los hábitos de lectura y el consumo cultural de esa población. La encuesta fue una adaptación de algunas secciones de la Encuesta Nacional de Lectura que se aplicó en México en 2006. Con base en los resultados de ese estudio se analizan las apreciaciones y opiniones sobre el ciclo permanente de lecturas, para explorar sus prácticas de lectura. Los resultados muestran que la población entre18 y 22 años reporta los índices más altos entre la población lectora y consideran que la lectura pertenece a una actividad exclusivamente del ambiente escolar. Estos datos coinciden con los resultados obtenidos en la Encuesta Nacional de Lectura de 2006</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">1310</subfield>
+    <subfield code="a">García Ávila, Celene</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="0" tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0311</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.33, no.1 (2009)</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3025</subfield>
+    <subfield code="d">3025</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,63 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02636nam a2200217Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2135</subfield>
+    <subfield code="d">2135</subfield>
+  </datafield>
+  <controlfield tag="008">180719b        cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">14.02.02 </subfield>
+    <subfield code="b">983</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="a">Bonilla Gamboa, Flory Stella</subfield>
+    <subfield code="9">1069</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Octogenarios y sentido de la vida / </subfield>
+    <subfield code="c">Flory Stella Bonilla G., Ana Lorena Méndez</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">2001</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">37 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Informe Final del Proyecto 724-99-310</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">Con el fin de analizar el sentido que dan a sus vidas las personas mayores de 80 años, se realizó un estudio cualitativo por medio de entrevistas a profundidad a ocho octogenarios procedentes de diversos pueblos de Costa Rica. Estos octogenarios tienen en común el ser físicamente funcionales y mentalmente alertas (pueden contestar preguntas y mantener una conversación centrada en un tema), y todos aceptaron ser entrevistados en sus hogares. Las entrevistas se llevaron a cabo alrededor de cuatro temas: el sentido de la vida, los cambios en el significado de la vida, la reestructuración del sentido de la vida, y las manifestaciones de la claridad del 10 sentido (expectativas sobre el futuro, autovaloraciones y satisfacción). En cuanto al sentido de la vida, los sujetos lo centran principalmente en su fe en Dios y la tranquilidad espiritual, además de la maternidad y del valor de ayudar y servir a otras personas. El sentido de la vida se construye después de los 20 años y es a partir de los 50 cuando se logra encontrar la motivación para vivir: tener trabajo, cuidar de los hijos y el esposo, cosechar la paciencia. Los significados cambian con las etapas de la vida. Los recursos empleados por los octogenarios para continuar su vida, a pesar de las insatisfacciones y penas, se refieren, primordialmente, a la religión y a la fe, pero también se mencionan la paciencia y la resignación. Los entrevistados manifiestan satisfacción, resignación o insatisfacción en relación con sus vidas como resultado de la capacidad para evaluarlas y definir si lograron lo que deseaban. En esta etapa, valoran sus esfuerzos y logros de forma más integral. Las tres personas que expresaron mayor satisfacción son las que se involucran en su autocuidado y procuran desarrollar estilos de vida saludables. Los sujetos que invierten su tiempo en otros individuos se declaran satisfechos, porque se sienten valiosos y esto los aparta de las preocupaciones</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">ADULTOS </subfield>
+    <subfield code="9">821</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">IDENTIDAD</subfield>
+    <subfield code="9">1044</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">TERCERA EDAD </subfield>
+    <subfield code="9">2662</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">INVESTIGACIÓN</subfield>
+    <subfield code="9">163</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">VIDA</subfield>
+    <subfield code="9">4037</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1=" ">
+    <subfield code="a">Méndez, Ana Lorena</subfield>
+    <subfield code="9">4089</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

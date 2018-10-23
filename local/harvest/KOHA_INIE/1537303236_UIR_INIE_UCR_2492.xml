@@ -1,0 +1,49 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00970nam a2200193Ia 4500</leader>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">CD #240</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1=" ">
+    <subfield code="a">González Pérez, Esteban</subfield>
+  </datafield>
+  <datafield ind1=" " tag="245" ind2=" ">
+    <subfield code="a">Estrategias didácticas desde la perspectiva constructivista apoyadas con medios digitales para la Escuela de Bibliotecología y Ciencias de la Información, Universidad de Costa Rica / Esteban González Pérez</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">[San José, Costa Rica] : </subfield>
+    <subfield code="b">E.González P., </subfield>
+    <subfield code="c">2012</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">disco compacto</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="502">
+    <subfield code="a">Tesis (Maestría profesional en gerencia de la información) Universidad de Costa Rica. Sistema de Estudios de Posgrado. Programa de Posgrado en Bibliotecología y Estudios de la Información</subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2=" ">
+    <subfield code="a">ESTRATEGIAS DE ENSEÑANZA </subfield>
+  </datafield>
+  <datafield ind2=" " tag="650" ind1=" ">
+    <subfield code="a">DOCENCIA UNIVERSITARIA</subfield>
+  </datafield>
+  <datafield ind2=" " tag="650" ind1=" ">
+    <subfield code="a">TECNOLOGIA DE LA INFORMACION</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="650">
+    <subfield code="a">TECNOLOGIA EDUCATIVA</subfield>
+  </datafield>
+  <datafield ind2=" " tag="650" ind1=" ">
+    <subfield code="a">CONSTRUCTIVISMO</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="650">
+    <subfield code="a">ESCUELA DE BIBLIOTECOLOGIA Y CIENCIAS DE LA INFORMACION. UNIVERSIDAD DE COSTA RICA</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="p">003697</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2492</subfield>
+    <subfield code="d">2492</subfield>
+  </datafield>
+</record>

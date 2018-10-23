@@ -1,0 +1,55 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03583nam a2200193Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2235</subfield>
+    <subfield code="d">2235</subfield>
+  </datafield>
+  <controlfield tag="008">180711b2001    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">18.01.01</subfield>
+    <subfield code="b"> 285</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="100">
+    <subfield code="a">Giraldo Reyes, Beatriz Helena</subfield>
+    <subfield code="9">3977</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Concepción de la investigación en la Universidad de Costa Rica:  Retos para el Siglo XXI /</subfield>
+    <subfield code="c">Beatriz Helena Giraldo Reyes</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">2001</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">84 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Informe Final del Proyecto de Investigación Nº 724-A1-157</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">La investigación tuvo como objetivo general "analizar la concepción de investigación que poseen los directivos e investigadores de la Universidad de Costa Rica, con el fin de determinar los elementos principales que integran la concepción de investigación y la función social de ésta". Para lograrlo se analizaron los siguientes aspectos: - Elementos principales que integran la concepción de investigación de los participantes en el estudio - Se confrontó la mirada actual que se tiene hacia la investigación con los retos de la educación superior para el siglo XXI en América Latina. - Se analiza el papel del directivo universitario como líder para la transformación del concepto que se detecte en los investigadores, de tal forma que se puedan desarrollar acciones para el cambio, de ser necesario. Mediante una metodología participativa, se obtuvo la opinión de diez investigadores, los que se seleccionaron intencionalmente según la relevancia del trabajo que desarrollaron en materia de investigación en los últimos diez años, y del reconocido prestigio de ellas. Se logra construir la concepción predominante en la visión académica de estos investigadores como lo muestran las siguientes conclusiones: - "La Universidad de Costa Rica posee una definición teórica, coherente y clara de la investigación en su Estatuto y políticas en este campo, la cual es compartida por los directivos e investigadores. - Los principales elementos que integran esta concepción tienen que ver con el compromiso solidario con la sociedad y el desarrollo del país, a través del fortalecimiento de la investigación básica y aplicada y del diseño de nuevas tecnologías. - En la práctica, la Universidad deberá continuar buscando la configuración de un concepto de investigación por medio del cual logre recrear la realidad, replantearla, con el fin de verla como un sistema articulado. - La actual concepción de investigación en la Universidad de Costa Rica plantea que esta debe ser el medio para buscar el perfeccionamiento de la función docente. - La relación entre las tres funciones sustantivas de la Universidad, docencia, investigación y acción social, no han alcanzado aún la integración, para que estas sean en un solo movimiento, la herramientas con la cual se construyan nuevos espacios y condiciones en la sociedad". En este campo, se señala la necesidad de que la Universidad haga de la investigación una acción cotidiana para poder atender los retos del Siglo XXI. Por otra parte, se detectan debilidades en materia de gestión de la investigación que conducen a plantear la necesidad de realizar un proyecto universitario que incluya la articulación efectiva de las tres funciones sustantivas. Esto se fundamenta en la opinión predominante de los investigadores informantes quienes expresaron que aún no se logra esta relación en forma efectiva. </subfield>
+  </datafield>
+  <datafield tag="610" ind1=" " ind2="4">
+    <subfield code="a">UNIVERSIDAD DE COSTA RICA</subfield>
+    <subfield code="9">714</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">INVESTIGACIÓN</subfield>
+    <subfield code="9">163</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">DESARROLLO SOCIAL </subfield>
+    <subfield code="9">613</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">LIDERAZGO</subfield>
+    <subfield code="9">301</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

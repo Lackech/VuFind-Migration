@@ -1,0 +1,51 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03462nam a2200181Ia 4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2091</subfield>
+    <subfield code="d">2091</subfield>
+  </datafield>
+  <controlfield tag="008">180828b2009    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">13.09.09 </subfield>
+    <subfield code="b">1842</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1=" ">
+    <subfield code="a">Francis Salazar, Susan</subfield>
+    <subfield code="9">557</subfield>
+  </datafield>
+  <datafield ind2="4" tag="245" ind1="1">
+    <subfield code="a">Las comunidades académicas en la construcción del saber pedagógico del docente universitario / </subfield>
+    <subfield code="c">Susan Francis salazar</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica. : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2009</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">121 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="500" ind2=" ">
+    <subfield code="a">Informe final del proyecto N°724-A7-103</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">El presente informe corresponde a un proyecto de investigación que surge como propuesta posterior a los resultados del proyecto No.724-A5-055, “Los saberes pedagógicos del docente universitario valorado como excelente”. El proyecto se desarrolló en la Universidad de Costa Rica y los sujetos participantes fueron los profesores del los cursos FD-0340 Didáctica Universitaria de los ciclos I y II del 2007 por parte del Departamento de Docencia Universitaria de la Escuela de Formación Docente. Se inició con la presentación del proyecto de investigación a los profesores participantes de los cursos, en este caso accedieron a participar todos los inscritos en la fecha de aplicación para un total de 44 profesores. Para la recolección de información se aplicaron tres técnicas: a) el instrumento de frases incompletas, grupos focales y entrevistas. Este estudio comprendió como locus de su atención el análisis de las opiniones de los docentes en cuanto a sus desarrollos académicos específicamente en la docencia y en particular en los procesos que basan los saberes pedagógicos. Durante el proceso el equipo investigador estableció elementos que permitieron la construcción de las primeras explicaciones, finalmente se consideraron como categorías explicativas tres: 1. Las características de las comunidades. 2. Los procesos de inducción y socialización en las comunidades académicas. 3. Las prácticas pedagógicas en las comunidades académicas. La investigación permitió distinguir las siguientes consideraciones finales: • Las comunidades representadas en la Universidad asumen las disciplinariedad como una etiqueta que les permite distinguirse entre ellas, su carácter es más bien nominal. El análisis de la información da cuenta de que los propósitos de estas comunidades no confluyen en su naturaleza disciplinar, sino más bien en la naturaleza académica. • Acerca de la relación que existe entre las opiniones de los profesores universitarios y las percepciones de la comunidad académica en relación con el papel de ésta última en la construcción del saber pedagógico, se distingue una tendencia de la comunidad a promover y resaltar la investigación. En este caso dicho reconocimiento no sólo está dado por las aportaciones de contenido que ofrece a la disciplina sino también por el posicionamiento que otorga al docente y a la comunidad como tal. • Se pueden distinguir en las comunidades actividades de socialización e interacción formales para el desarrollo disciplinar como foros, congresos, asambleas de facultad o escuela. Empero, los contenidos del saber pedagógico para la educación universitaria son reconstruidos por los docentes en procesos que son individuales y solitarios, no constituyen contenidos explícitos de actividades académicas regulares en la institución.</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">DOCENTES</subfield>
+    <subfield code="9">331</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">PEDAGOGÍA</subfield>
+    <subfield code="9">1770</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">DOCENCIA UNIVERSITARIA</subfield>
+    <subfield code="9">920</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

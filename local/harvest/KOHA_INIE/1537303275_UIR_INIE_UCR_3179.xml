@@ -1,0 +1,46 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01998nab a2200169   4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">3179</subfield>
+    <subfield code="d">3179</subfield>
+  </datafield>
+  <controlfield tag="005">20170323154751.0</controlfield>
+  <controlfield tag="008">160429b2012    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">1649</subfield>
+    <subfield code="a">Garita Pulido, Ana Victoria</subfield>
+  </datafield>
+  <datafield tag="245" ind2="3" ind1="1">
+    <subfield code="a">La intervención grupal de índole orientadora: demandas de sentido y competencias para el ejercicio profesional /</subfield>
+    <subfield code="c">Ana Victoria  Garita Pulido</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2012</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">páginas 69 - 77</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">Este artículo hace referencia a los aprendizajes obtenidos a partir de la refelxión sobre el trabajo realizado en una intervención orientadora ejecutada de manera participativa con un grupo de hombres con VIH/Sida residentes en el hogar de Nuestra Señora de la Esperenza en Cartago, con la cual se buscaba obtener información acerca de su realidad y aportar a su buenestar emocional. Se hace alusióna los argumentos que dieron pie a dicha intervención, al posicionamiento epistemológico, teórico y metodológico asumido por la facilitadora y se presenta el prototipo de acción que se contruye para tal fin. Se delimitan algunas demandas de sentido y se esbozan ciertas competencias necesarias para una intervención orientadora de tipo grupal, a la vez se abordan algunos elementos de la comunicación que resultan importantes para este tipo de intervención y se sugieren ciertos patrones de relación e interacción que deben evitarse para obtener los beneficios potenciales de procesos de dicha índole. Estos aspectos amplían los referentes teóricos y metodológicos para la intervención, lo cual constituye un insumo importante para la actualización profesional, de manera que se aporta a la Orientación como disciplina y profesional.</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="0" tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0626</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.36, no.2 (jul.-dic., 2012)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+</record>

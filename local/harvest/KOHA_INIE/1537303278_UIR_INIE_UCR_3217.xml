@@ -1,0 +1,76 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01040nam a2200253   4500</leader>
+  <controlfield tag="008">160511b2006    mx a|||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="020">
+    <subfield code="a">9688782092</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">06.03.06</subfield>
+    <subfield code="b">2332</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">1726</subfield>
+    <subfield code="a">Padilla Arroyo, Antonio</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Historia, modernidad y crisis en la educación superior / </subfield>
+    <subfield code="c">Antonio Padilla Arroyo, Lucía Martínez Moctezuma, René Pedroza Flores, Alcira Soler Durán, Miguel Ángel Izquierdo Sánchez, María de Lourdes García, Jorge Mario Flores Osorio</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">[Lugar de publicación no identificado] :</subfield>
+    <subfield code="b">Lucera Diogenis,</subfield>
+    <subfield code="c">2006</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">126 páginas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">8</subfield>
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">22</subfield>
+    <subfield code="a">HISTORIA</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">1410</subfield>
+    <subfield code="a">CRISIS DE LA EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="651" ind2="4" ind1=" ">
+    <subfield code="9">19</subfield>
+    <subfield code="a">MÉXICO</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="700">
+    <subfield code="9">1727</subfield>
+    <subfield code="a"> Martínez Moctezuma, Lucía</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2=" ">
+    <subfield code="9">1728</subfield>
+    <subfield code="a">Pedroza Flores, René </subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2=" ">
+    <subfield code="9">1730</subfield>
+    <subfield code="a">Izquierdo Sánchez, Miguel Ángel </subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="700">
+    <subfield code="9">1731</subfield>
+    <subfield code="a"> García, María de Lourdes</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="700">
+    <subfield code="9">1729</subfield>
+    <subfield code="a">Soler Durán, Alcira </subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="700">
+    <subfield code="9">1732</subfield>
+    <subfield code="a"> Flores Osorio, Jorge Mario</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3217</subfield>
+    <subfield code="d">3217</subfield>
+  </datafield>
+</record>

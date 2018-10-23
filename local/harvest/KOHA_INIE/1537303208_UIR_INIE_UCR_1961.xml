@@ -1,0 +1,63 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03500nam a2200217Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">1961</subfield>
+    <subfield code="d">1961</subfield>
+  </datafield>
+  <controlfield tag="008">180702b1994    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">06.05.02 </subfield>
+    <subfield code="b">69</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1=" ">
+    <subfield code="a">Solís Hernández, Mayra</subfield>
+    <subfield code="9">3892</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Lectura como medio para desarrollar la destreza de la escritura en inglés / </subfield>
+    <subfield code="c">Mayra Solis Hernández, Eliza Trejos Montero</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1994</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">58 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Informe del proyecto de Investigación No. 724-92-276 </subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">De acuerdo con el plan de estudios de la carrera de inglés en la UCR, los alumnos reciben su primer curso de redacción una vez terminada la etapa inicial de aprendizaje del idioma. La heterogeneidad en el conocimiento de este se acentúa cuando los estudiantes deben demostrar sus habilidades en la producción escrita. La investigación se plantea determinar la efectividad de la lectura en el curso LM-1001 (el primero de la carrera) en cuanto a la adquisición de vocabulario y estructuras gramaticales en la comunicación escrita en inglés y la relevancia de la lectura en este curso. Se parte de los resultados y afirmaciones de diversos especialistas, quienes aseguran que le lectura regular marca una diferencia en el manejo que de estos componentes hacen los hablantes según sus hábitos de lectura, tanto en la lengua materna como en una segunda lengua. La hipótesis de trabajo es que la lectura sistemática mejora la producción escrita del estudiante en ese idioma, pues el enfrentamiento regular con textos escritos facilita estructuras y vocabulario para comunicarse más eficazmente por escrito. El fundamento teórico del uso instrumental de la lectura se deriva de la teoría de la lingüística del texto (Van Dijk, Weinrich, Mignolo) y específicamente en la corriente de "instrucción orientada hacia la eficiencia". Se trabajó con tres grupos del curso LM-1001 durante un ciclo lectivo. El grupo A (12 estudiantes) se tomó como el grupo experimental con más material de lectura en clase. El grupo B (12 estudiantes) recibió de manera irregular y poco frecuente material de lectura. El grupo C (18 estudiantes) no recibió ningún tipo de material de lectura. También se promovió la reflexión sobre el proceso de lectura y la importancia de leer. El instrumento consistió en dos pruebas de redacción aplicadas al inicio y al final del curso, además de dos pruebas de diferencial semántico con diez pares de adjetivos para medir la actitud hacia la lectura. El estudio reveló que, en relación con los promedios generales, el grupo A aumentó su rendimiento en un 75% y los grupos B y C en un 50%. En el área de contenido, el grupo A es el que aumentó más su rendimiento, con un 41,7%, mientras que el grupo B obtuvo un 25% y el grupo C un 38,9%. En el área de vocabulario, el grupo A aumentó un 16,7%, el grupo B un 25%, y el grupo C un 22,2%. En gramática, el grupo A aumentó en un 100%, el grupo B en un 50%, y el grupo C en un 77,8%. Hay diferencias significativas en la preprueba, pero no en la posprueba; es decir, el tratamiento no afectó con claridad el desempeño del grupo experimental, pues la lectura regular no incidió de manera estadísticamente significativa en el desarrollo de las destrezas de redacción.</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">ENSEÑANZA DE IDIOMAS</subfield>
+    <subfield code="9">1317</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">INGLÉS</subfield>
+    <subfield code="9">35</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">LECTURA</subfield>
+    <subfield code="9">365</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">ESCRITURA</subfield>
+    <subfield code="9">1189</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+    <subfield code="9">8</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1=" ">
+    <subfield code="9">3811</subfield>
+    <subfield code="a">Trejos Montero, Eliza</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

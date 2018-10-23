@@ -1,0 +1,47 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01692nab a2200169   4500</leader>
+  <controlfield tag="005">20160420114339.0</controlfield>
+  <controlfield tag="008">160420b2010    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">1563</subfield>
+    <subfield code="a">Zúñiga Murillo, Enid Sofía</subfield>
+  </datafield>
+  <datafield ind2="3" ind1="1" tag="245">
+    <subfield code="a">La comunicación organizacional y su importancia para las escuelas de arte universitarias: Propuesta para la construcción de conocimiento organizacional colectivo desde una intervención educativa /</subfield>
+    <subfield code="c">Enid Sofía Zúñiga Murillo</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2010</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">páginas 73-81</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">El presente artículo pretende establecer, desde una mirada interdisciplinar, un modelo básico para la construcción de la comunicación en organizaciones educativas artísticas formales, tomando en cuenta las disciplinas educativas de la administración de la educación formal y no formal por medio de mecánicas grupales holísticas como lo son la resolución alterna de conflictos y los procesos participativos en organizaciones educativas aprehendientes. 
+El campo de las organizaciones educativas artísticas es parte del sistema educativo formal en primaria, secundaria y en la educación superior, pero pocas veces son estudiados los fenómenos organizacionales que en él se realizan. Aprender a comunicarse en y por la organización educativa es de suma importancia para que se pueda ser partícipe de los cambios sociales y tecnológicos de los tiempos actuales</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" tag="773" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0313</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.34, no.1 (2010)</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3120</subfield>
+    <subfield code="d">3120</subfield>
+  </datafield>
+</record>

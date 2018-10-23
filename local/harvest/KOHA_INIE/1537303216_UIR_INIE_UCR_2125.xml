@@ -1,0 +1,73 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00993nam a2200241Ia 4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">2125</subfield>
+    <subfield code="d">2125</subfield>
+  </datafield>
+  <controlfield tag="008">180822b198?    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">14.02.02 </subfield>
+    <subfield code="b">303</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1=" ">
+    <subfield code="9">4107</subfield>
+    <subfield code="a">Chavarría A., Clara Mercedes</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Análisis de los servicios de orientación en los hogares de ancianos de Costa Rica y propuesta de un proyecto de orientación gerontológica / </subfield>
+    <subfield code="c">Clara Mercedes Chavarría A., Ligia Castro M., Yenory Vargas B., Ana Lorena Vargas L., Ileana Víquez P., María de los Angeles Zamora B.</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">198?</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">27 páginas</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">ANCIANOS</subfield>
+    <subfield code="9">2660</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">SERVICIOS SOCIALES</subfield>
+    <subfield code="9">4062</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">GERIATRÍA</subfield>
+    <subfield code="9">2661</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">ORIENTACIÓN PROFESIONAL</subfield>
+    <subfield code="9">2186</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">HOGAR</subfield>
+    <subfield code="9">3110</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="a">Castro M., Ligia</subfield>
+    <subfield code="9">4108</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="a">Vargas B., Yenory</subfield>
+    <subfield code="9">4109</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Vargas L. Ana Lorena</subfield>
+    <subfield code="9">4110</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Víquez L., Ileana</subfield>
+    <subfield code="9">4111</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Zamora B., María de los Angeles</subfield>
+    <subfield code="9">4112</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

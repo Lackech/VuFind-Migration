@@ -1,0 +1,71 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02614nam a2200241Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">1958</subfield>
+    <subfield code="d">1958</subfield>
+  </datafield>
+  <controlfield tag="008">180629b1985    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">06.05.02 </subfield>
+    <subfield code="b">44</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="a">Campos Saborío, Natalia</subfield>
+    <subfield code="9">116</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Diagnóstico evaluativo de la enseñanza del inglés en la educación general básica y educación diversificada :  algunas características del planeamiento didáctico / </subfield>
+    <subfield code="c">Natalia Campos Saborío;  Ana María González Ramírez</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica :  </subfield>
+    <subfield code="b">IIMEC,</subfield>
+    <subfield code="c">1985</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">54 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">INFORME FINAL, PROYECTO DE INVESTIGACION Nº 724-82-059</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">Este informe presenta los resultados sobre uno de los problemas planteados en el Diagnóstico Evaluativo de la Enseñanza del Inglés, el cual indaga acerca de las características del planteamiento utilizado de este idioma, en la Educación General Básica y Educación Diversificada. La información se presenta en cinco capítulos: Introducción, Procedimientos y métodos de trabajo, Planeamiento didáctico: organización de contenido, de tiempo y de forma, Métodos y recursos utilizados para la enseñanza del inglés y el último Evaluación: uso de categorías taxonómicas para la elaboración de los itemes utilizados en la enseñanza del inglés y los mecanismos de control para la evaluación didáctica. Cada capítulo consta de objetivos, subproblemas, operacionalización de términos, marco teórico, análisis de resultados, conclusiones y recomendaciones. Algunas conclusiones de la investigación son las siguientes: No hay una política definida en cuanto a la instancia, que provee lineamientos para la planificación de la enseñanza del inglés. La mayoría de los profesores de inglés y de los asesores no toman en cuenta las necesidades del educando y de la comunidad para el planeamiento didáctico. Los profesores de inglés no utilizan los materiales visuales y audiovisuales, los cuales son idóneos para la implementación de los métodos audio - lingual y cognoscitivo. Sobre la evaluación se concluye que los colegios nocturnos difieren de los académicos y técnicos, en cuanto al empleo de las categorías cognoscitivas para la elaboración de ítemes de las pruebas escritas y el uso de mecanismos de control utilizados en la evaluación didáctica.</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">ENSEÑANZA DE IDIOMAS</subfield>
+    <subfield code="9">1317</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">MÉTODOS PEDAGÓGICOS</subfield>
+    <subfield code="9">824</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">EVALUACIÓN </subfield>
+    <subfield code="9">287</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">DIDÁCTICA </subfield>
+    <subfield code="9">997</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">DIAGNÓSTICO</subfield>
+    <subfield code="9">632</subfield>
+  </datafield>
+  <datafield tag="650" ind2="0" ind1=" ">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">APRENDIZAJE </subfield>
+    <subfield code="9">387</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2=" ">
+    <subfield code="a">González Ramírez, Ana María</subfield>
+    <subfield code="9">3835</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

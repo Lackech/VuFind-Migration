@@ -1,0 +1,46 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02088nab a2200169   4500</leader>
+  <controlfield tag="005">20150917154515.0</controlfield>
+  <controlfield tag="008">150909b2002    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">618</subfield>
+    <subfield code="a">Moreira Mora, Tania Elena</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="245">
+    <subfield code="a">Una aproximación cuantitativa al valor de la responsabilidad en los estudiantes de colegios públicos /</subfield>
+    <subfield code="c">Tania Elena Moreira Mora</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2003</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a"> páginas 87-102</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">Esta investigación fue un acercamiento cuantitativo al constructo de la responsabilidad; una dimensión muy compleja de la personalidad y muy poco estudiada en el contexto educativo costarricense. Su propósito cardinal fue determinar el nivel de interiorización del valor de la responsabilidad en los estudiantes de sétimo y undécimo año de los colegios académicos públicos diurnos en el año 2001; para ofrecer información a los docentes, administrativos e incluso a padres de familia, que genere una vivencia y compromiso respomsable en los jóvenes, tanto en la institución educativa como en la comunidad. Para la medición de este constructo se diseñó una escala tipo Likert, cuya validación se fundamentó en tres procedimientos: la concurrente, el de dominio de contenido y la de constructo. Este instrumento se aplicó a una muestra aleatoria y representativa de estudiantes de sétimo y undécimo. Los análisis estadísticos se centraron en la descripción de las variables sociodemográficas, las normas institucionales y los deberes escolares. Asímismo, se realizó un análisis correlacional entre el grado de responsabilidad -alta y baja- de los estudiantes de undécimo con su promoción en las pruebas de Bachillerato en Educación Media. este estudio se realizó en la División de Control de Calidad y Macroevaluación del Sistema Educativo</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0202</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.27, no.2  (2003)</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2857</subfield>
+    <subfield code="d">2857</subfield>
+  </datafield>
+</record>

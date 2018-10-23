@@ -1,0 +1,63 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00698nam a2200217Ia 4500</leader>
+  <controlfield tag="008">150724b2011    CL ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="022" ind1=" ">
+    <subfield code="a">0718-6002</subfield>
+  </datafield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">06.02.05 </subfield>
+    <subfield code="b">1197</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="a">Wolf, Patrick J.</subfield>
+    <subfield code="9">492</subfield>
+  </datafield>
+  <datafield tag="245" ind2="1" ind1="1">
+    <subfield code="a">¿Promueven la justicia social los vouchers escolares? : estudio de caso en Washington, D.C. / </subfield>
+    <subfield code="c">Patrick J. Wolf</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">Chile : </subfield>
+    <subfield code="b">PREAL, </subfield>
+    <subfield code="c">2011</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">26 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="490" ind1=" ">
+    <subfield code="a">Documentos Nº 53</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">FINANCIAMIENTO DE LA EDUCACIÓN </subfield>
+    <subfield code="9">338</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">JUSTICIA SOCIAL</subfield>
+    <subfield code="9">493</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">ASIGNACIÓN DE RECURSOS</subfield>
+    <subfield code="9">494</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">EQUIDAD SOCIAL</subfield>
+    <subfield code="9">495</subfield>
+  </datafield>
+  <datafield tag="651" ind2="4" ind1=" ">
+    <subfield code="a">WASHINGTON D.C.</subfield>
+    <subfield code="9">496</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">492</subfield>
+    <subfield code="a">Wolf, Patrick J.</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">03</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">94</subfield>
+    <subfield code="d">94</subfield>
+  </datafield>
+</record>

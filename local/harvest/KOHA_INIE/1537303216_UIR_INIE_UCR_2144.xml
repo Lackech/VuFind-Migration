@@ -1,0 +1,49 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00679nam a2200169Ia 4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">2144</subfield>
+    <subfield code="d">2144</subfield>
+  </datafield>
+  <controlfield tag="008">180717b1993    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">14.02.03 </subfield>
+    <subfield code="b">541</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="111">
+    <subfield code="a">Congreso Internacional e Interdisciplinario (5° : 1993 : San José, C.R.)</subfield>
+    <subfield code="9">4079</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Libro de resúmenes :  Book of abstracts / </subfield>
+    <subfield code="c">Congreso Internacional e Interdisciplinario (5° : 1993 : San José, C.R.)</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, C.R. :  </subfield>
+    <subfield code="b">Oficina de Publicaciones de la Universidad de Costa Rica, </subfield>
+    <subfield code="c">1993</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">667 páginas</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">MUJERES</subfield>
+    <subfield code="9">55</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">PARTICIPACIÓN DE LA MUJER</subfield>
+    <subfield code="9">716</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">ROL DE LA MUJER</subfield>
+    <subfield code="9">4078</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">IGUALDAD DE GÉNERO </subfield>
+    <subfield code="9">956</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

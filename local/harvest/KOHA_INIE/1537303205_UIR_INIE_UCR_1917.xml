@@ -1,0 +1,61 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01826nam a2200205Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">1917</subfield>
+    <subfield code="d">1917</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">06.04.04 </subfield>
+    <subfield code="b">1</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Hernández Rodríguez, Ana Cecilia</subfield>
+    <subfield code="9">173</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Currículo de las escuelas nocturnas / Ana Cecilia Hernández Rodríguez, Tito Quirós Rodríguez</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica. : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1987</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">79 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Informe Final de Investigación N°724-84-013</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">Este informa presenta las conclusiones más sobresalientes a las que se llegó luego de analizar el curriculo de las escuelas nocturnas de manera global. Con base en este trabajo, se encontró que, a pesar de la antigüedad de las escuelas de este tipo, no se les reconoce una gran repercusión en la educación costarricense; de hecho, para el año de este trabajo, se venía presentando una sensible disminución en la matrícula en este tipo de centros. Probablemente, parte de este fenómeno se deba a que la educación de adultos se ha desarrollado como una suerte de plan remedial, complementario a la educación de jóvenes y niños, y no como un proyecto con fisonomía propia. Por otro lado, en las cinco materias que se imparten en esta modalidad, prevalece el enfoque academicista, centrado en largas listas de contenidos que se presentan como importantes en sí mismos, al margen de los intereses y necesidades de los estudiantes. Además, los maestros que atienden estas escuelas, carecen de formación adecuada en el área de educación de adultos; y a este problema se suma la escasez de recursos y materiales. </subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">ESCUELAS </subfield>
+    <subfield code="9">300</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">CURRÍCULO (EDUCACIÓN)</subfield>
+    <subfield code="9">342</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">EDUCACIÓN DE ADULTOS</subfield>
+    <subfield code="9">809</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">PROGRAMA DE ESTUDIOS</subfield>
+    <subfield code="9">1364</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">PLANIFICACIÓN DE LA EDUCACIÓN</subfield>
+    <subfield code="9">124</subfield>
+  </datafield>
+  <datafield ind1=" " tag="700" ind2=" ">
+    <subfield code="a">Quirós Rodríguez, Tito</subfield>
+    <subfield code="9">3434</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

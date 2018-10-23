@@ -1,0 +1,60 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00804nam a2200205   4500</leader>
+  <controlfield tag="008">160518b1998    sp a|||| |||| 00| | spa d</controlfield>
+  <datafield tag="020" ind2=" " ind1=" ">
+    <subfield code="a">8434428342</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">05.03.01 </subfield>
+    <subfield code="b">2211</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">1789</subfield>
+    <subfield code="a">Otero López, José Manuel</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="245">
+    <subfield code="a">Psicología de la personalidad: manual de prácticas /</subfield>
+    <subfield code="c">José Manuel Otero López, Angeles Luengo Martín, Estrella Romero Triñanes, José Antonio Gómez Fraguela, Cristina Castro Bolaño</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">Barcelona : </subfield>
+    <subfield code="b">Ediciones Ariel, </subfield>
+    <subfield code="c">1998</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">250 páginas; ilustraciones</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1790</subfield>
+    <subfield code="a">PERSONALIDAD</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">657</subfield>
+    <subfield code="a">PSICOLOGÍA</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="9">1791</subfield>
+    <subfield code="a">Luengo Martín, Angeles</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">1792</subfield>
+    <subfield code="a">Romero Triñanes, Estrella</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">1793</subfield>
+    <subfield code="a">Gómez Fraguela, José Antonio </subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">1794</subfield>
+    <subfield code="a">Castro Bolaño, Cristina </subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">3234</subfield>
+    <subfield code="d">3234</subfield>
+  </datafield>
+</record>

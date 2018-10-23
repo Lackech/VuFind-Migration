@@ -1,0 +1,51 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02760nam a2200181Ia 4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">2314</subfield>
+    <subfield code="d">2314</subfield>
+  </datafield>
+  <controlfield tag="008">180905b1998    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">18.09.01 </subfield>
+    <subfield code="b">617</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Esquivel Alfaro, Juan Manuel</subfield>
+    <subfield code="9">157</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Desarrollo, validación y aplicación de las pruebas de diagnóstico / </subfield>
+    <subfield code="c">Juan Manuel Esquivel Alfaro</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1998</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">18 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Informe final Proyecto No 724-96-580</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">Este informe da cuenta de los resultados de un proyecto sobre diagnóstico, cuyo objetivo era desarrollar, establecer el proceso de validación y aplicación de una prueba de diagnóstico en las áreas cognoscitiva, afectiva y psicomotora para niños que ingresan a primer grado (prueba de madurez), así como para niños y jóvenes de III, VI y IX años de la Educación General Básica. Las pruebas de conocimientos se aplicaron en los años 1994, 1995 y 1996. Los resultados de la investigación se divulgaron y se solicitaron medidas correctivas para las deficiencias encontradas en las pruebas, como una contribución para el mejoramiento de la educación. Los resultados de la prueba de madurez constituyeron un argumento contundente a favor de la universalización de la educación preescolar. Como investigación complementaria al proyecto, se incluye un informe sobre la validación por constructo del inventario de actitud hacia la docencia, estudio producido con base en una muestra de docentes que tenían a su cargo grupos de tercer y sexto grados durante 1996 y que formaban parte de los grupos de aplicación de las pruebas de diagnóstico. El instrumento utilizado, una escala actitudinal tipo Likert, consta de 34 ítemes, distribuidos en cuatro escalas: compromiso docente, acción docente tradicional, desarrollo personal y acción docente interactiva. Las escalas 'compromiso docente' y 'desarrollo personal' miden aspectos afectivos de los maestros, reflejan la vocación por la docencia y la satisfacción por su labor. Las respuestas positivas a la escala 'acción docente tradicional' son indicativas de un maestro inflexible, individualista y que realiza una enseñanza tradicional con un planteamiento estructurado, que emplea un patrón de conducta estándar al prever las acciones de los niños y que evalúa sumativamente con pruebas escritas. Las respuestas afirmativas a la escala 'acción docente interactiva' indican la actitud de un docente flexible y dispuesto al cambio, donde el niño y su acción de aprendizaje son fundamentales, y que concibe la evaluación como parte integral de su labor y para valorar el desarrollo del niño.</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">PRUEBAS</subfield>
+    <subfield code="9">629</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">EVALUACIÓN </subfield>
+    <subfield code="9">287</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">DESARROLLO DE LA EDUCACIÓN</subfield>
+    <subfield code="9">24</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

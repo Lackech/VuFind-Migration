@@ -1,0 +1,83 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01497nam a22002777a 4500</leader>
+  <controlfield tag="008">160418b2007    sp ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="020" ind2=" ">
+    <subfield code="a">9788436944457</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">06.05.03</subfield>
+    <subfield code="b">2308</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">1537</subfield>
+    <subfield code="a">Adell, Jordi</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Introducción temprana a las TIC: estrategias para educar en un uso responsable en educación infantil y primaria /</subfield>
+    <subfield code="c">Jordi Adell, Manuel  Area Moreira, Juan de Pablo Pons, Manuel Gértrudix Barrio, Eulogio González Arrabal, Carmen López Escribando, Santiago Romero Granados, Mariano Segura Escobar</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">[España] :</subfield>
+    <subfield code="b">Ministerio de Educación y Ciencia. Secretaría General de Educación,</subfield>
+    <subfield code="c">2007?</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">206 páginas;</subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield ind2=" " tag="490" ind1=" ">
+    <subfield code="a">Aulas de Verano. Principios</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="500">
+    <subfield code="a">Este volumen tiene su origen en el curso de formación del profesorado: "Introducción a las TIC: estrategias para educar en un uso reponsable en la educación infantil y primaria", que se celebró en la Universidad Internacional Menéndez Pelayo de Santander, en el verano de 2006.</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">483</subfield>
+    <subfield code="a">TECNOLOGÍA EDUCATIVA </subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">367</subfield>
+    <subfield code="a">EDUCACIÓN PRIMARIA</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">484</subfield>
+    <subfield code="a">TECNOLOGÍA DE LA INFORMACIÓN </subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">1538</subfield>
+    <subfield code="a">Area Moreira, Manuel</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">1539</subfield>
+    <subfield code="a">Pablos Pons, Juan de</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="9">1540</subfield>
+    <subfield code="a">Gértrudix Barrio, Manuel</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">1541</subfield>
+    <subfield code="a">González Arrabal, Eulogio</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">1542</subfield>
+    <subfield code="a">López Escribano, Carmen</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">1543</subfield>
+    <subfield code="a">Romero Granados, Santiago</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">1544</subfield>
+    <subfield code="a">Segura Escobar, Mariano</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">3105</subfield>
+    <subfield code="d">3105</subfield>
+  </datafield>
+</record>

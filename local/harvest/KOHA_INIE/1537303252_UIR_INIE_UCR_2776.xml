@@ -1,0 +1,54 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01878nab a2200181   4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">2776</subfield>
+    <subfield code="d">2776</subfield>
+  </datafield>
+  <controlfield tag="005">20170201155032.0</controlfield>
+  <controlfield tag="008">150806b2002    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">734</subfield>
+    <subfield code="a">Monge Alvarado, María de los Ángeles</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Instrumentos de evaluación del desarrollo motor /</subfield>
+    <subfield code="c">María de los Ángeles Monge Alvarado, Maureen Menesses Montero</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2002</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a"> páginas 155-168</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">La evaluación de nuestros niños preescolares y durante el primer ciclo en el campo del desarrollo motor ha generado cuestionamientos importantes en los últimos años. Ya que se concibe como elemento de educación formal y como auspiciador de conocimiento de la integralidad del ser humano.
+La evaluación genera ese conocimiento a través de la medición, que es la que permite (como proceso) resumir informaciones que facilitan la comprensión de los fenómenos y etapas del desarrollo de niños y niñas, es este caso, costarricenses.
+Sobre todo se busca evaluar la motricidad para conocer características, potencialidades y debilidades del desarrollo y hacer las intervenciones oportunas en los ciclos de transición en primaria.
+Se resumen 25 test, escalas o pruebas, en ellas se describen brevemente las habilidades a evaluar, edades y género, así como la referencia bibliográfica respectiva.
+De esta forma el docente (de educación física o regular) cuenta con una guía que le va a posibilitar inicialmente y a corto plazo posibilidades de diagnóstico del desarrollo motor de sus alumnos y alumnas</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">97</subfield>
+    <subfield code="a">Meneses Montero, Maureen</subfield>
+  </datafield>
+  <datafield tag="773" ind1="0" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0060</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.26, no.1  (2002)</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+</record>

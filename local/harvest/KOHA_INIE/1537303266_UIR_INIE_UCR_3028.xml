@@ -1,0 +1,50 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01971nab a2200181   4500</leader>
+  <controlfield tag="005">20160302102737.0</controlfield>
+  <controlfield tag="008">160126b           f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">1313</subfield>
+    <subfield code="a">Pérez Jiménez, César Augusto</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Enseñar sexualidades, aprender subjetividades: una reflexión desde el contexto educativo venezolano /</subfield>
+    <subfield code="c">César Augusto Pérez Jiménez, Luis Enrique Meléndez-Ferrer</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2009</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">páginas 113-131</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">Pensar en educación conlleva pensar en actores, escenarios y contextos sociales. La sexualidad, la enseñanza, el aprendizaje, la vivencia y la corporeidad juegan un papel preponderante en la formación de la conciencia ciudadana para la participación en una sociedad plural y diversa. Ante la urgente necesidad de reflexionar sobre los discursos educativos es decisivo valorar la subjetividad como una forma de comprensión de la vida cotidiana y, en consecuencia, de la sexualidad, la ciudadanía y la inclusión. Esto conduce a repensar la educación sobre la sexualidad, a partir de las dinámicas intersubjetivas desde las cuales emerge el reto que apunta a la enseñanza y el aprendizaje de valores humanos sustentados en la crítica reflexiva sobre la vida misma. Así, los educadores y educadoras están convocados a discernir sobre la sexualidad, como un asunto cotidiano y encarnado en saberes socialmente productivos, establecidos en la comprensión subjetiva de las relaciones materiales, éticas y radicales con el mundo circundante. Este es el propósito del análisis del Sistema Educativo Bolivariano venezolano, que se hace en el artículo</subfield>
+  </datafield>
+  <datafield tag="650" ind2="5" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">1315</subfield>
+    <subfield code="a">Meléndez-Ferrer, Luis Enrique</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0311</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.33, no.1 (2009)</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">3028</subfield>
+    <subfield code="d">3028</subfield>
+  </datafield>
+</record>

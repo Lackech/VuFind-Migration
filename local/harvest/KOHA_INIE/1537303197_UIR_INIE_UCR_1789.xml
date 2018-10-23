@@ -1,0 +1,75 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01135nam a2200241Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">1789</subfield>
+    <subfield code="d">1789</subfield>
+  </datafield>
+  <controlfield tag="008">180420b1986    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">06.03.06 </subfield>
+    <subfield code="b">37</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="a">Delgado Estrada, Vilma</subfield>
+    <subfield code="9">1569</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Diagnóstico evaluativo de la enseñanza de las ciencias generales, del español, de estudios sociales y de inglés en la educación general básica y educación diversificada : actitud /</subfield>
+    <subfield code="c"> Vilma Delgado Estrada, Liliana Quesada Yanarella, Juan Manuel Esquivel A.</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José,  Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c"> 1985</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">67 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="500" ind2=" ">
+    <subfield code="a">Informe Final</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">Este trabajo forma parte del programa “Diagnóstico Evaluativo de la Educación Costarricense”, está relacionado particularmente con la enseñanza de Ciencias Generales, Español, Estudios Sociales e Inglés. El estudio se refiere a una exploración realizada en el campo de las actitudes tanto de los alumnos hacia la escuela o colegio, hacia el maestro o profesor y hacia las diferentes asignaturas, como de los maestros y profesores hacia las asignaturas de su especialidad y hacia la enseñanza de éstas.. Se considera necesario indagar sobre este particular dado que los sistemas educativos incluyen entre sus fines el desarrollo y adquisición de valores, actitudes e intereses. Sin embargo se observa que las escuelas han puesto mayor énfasis en el logro de objetivos cognoscitivos que en el de conductas afectivas, lo que implica un descuido de éstas. Algunas conclusiones a las que se llega son las siguientes: En general los resultados muestran que a medida que los alumnos avanzan en la escolaridad, su actitud es menos positiva ya sea hacia el colegio, como hacia el profesor y hacia las asignaturas, hecho que amerita más investigación para obtener más detalle de lo que sucede en este campo. Se encontraron diferencias entre los profesores de las diferentes regiones, mostrando los de la región Atlántica como los de la región más positiva. En general se muestra una actitud positiva, sin embargo, llama la atención el hecho de que la actitud de los maestros sea menos positiva que la de los profesores. Asimismo, la actitud hacia la enseñanza también es menos positiva que la actitud hacia la asignatura misma.</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">EDUCACIÓN SECUNDARIA</subfield>
+    <subfield code="9">456</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">ESPAÑOL</subfield>
+    <subfield code="9">36</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">ESTUDIOS SOCIALES</subfield>
+    <subfield code="9">675</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">INGLÉS</subfield>
+    <subfield code="9">35</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">EDUCACIÓN PRIMARIA</subfield>
+    <subfield code="9">367</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">CIENCIAS NATURALES</subfield>
+    <subfield code="9">1934</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">ACTITUDES</subfield>
+    <subfield code="9">611</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="9">3580</subfield>
+    <subfield code="a">Quesada Yannarella, Liliana</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="9">157</subfield>
+    <subfield code="a">Esquivel Alfaro, Juan Manuel</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

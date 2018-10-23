@@ -1,0 +1,59 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00743nam a2200205Ia 4500</leader>
+  <controlfield tag="008">161020b1989    mx ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9688531189</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">136.7 </subfield>
+    <subfield code="b">A861d</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="a">Ausubel, David P.</subfield>
+    <subfield code="9">2103</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Desarrollo infantil /</subfield>
+    <subfield code="c"> David P. Ausubel, Edmund V. Sullivan</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">Guanajuato, México : </subfield>
+    <subfield code="b">Paidós, </subfield>
+    <subfield code="c">1989</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">253 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="500">
+    <subfield code="a">I. Teorías.  Los comienzos del desarrollo.  II. El desarrollo de la personalidad.  III. Aspectos lingüíticos, cognitivos y físicos</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">DESARROLLO DEL NIÑO</subfield>
+    <subfield code="9">723</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">DESARROLLO DE LA PERSONALIDAD</subfield>
+    <subfield code="9">907</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">DESARROLLO MOTOR </subfield>
+    <subfield code="9">869</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="0">
+    <subfield code="a">PENSAMIENTO</subfield>
+    <subfield code="9">368</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="a">Sullivan, Edmund V.</subfield>
+    <subfield code="9">2104</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">428</subfield>
+    <subfield code="d">428</subfield>
+  </datafield>
+</record>

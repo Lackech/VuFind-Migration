@@ -1,0 +1,46 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01446nab a2200169   4500</leader>
+  <controlfield tag="005">20160422114125.0</controlfield>
+  <controlfield tag="008">160422b2010    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">1595</subfield>
+    <subfield code="a">Formichella, María Marta</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Análisis del concepto de equidad educativa a la luz del enfoque de las capacidades de Amartya Sen /</subfield>
+    <subfield code="c">María Marta Formichella</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">San José, Costa Rica :</subfield>
+    <subfield code="c">2011</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">páginas 15-34</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">El objetivo de este trabajo es analizar el concepto de equidad educativa desde la perspectiva de las capacidades propuestas por Amartya Sen. Para ello, en primer lugar se realiza una revisión de la literatura sobre la noción de equidad y se plantea una discusión filosófica al respecto. En segundo lugar, se lleva dicha discusión hacia el ámbito de la educación. En tercer lugar, en concordancia con la aproximación de Sen, se define el concepto de equidad educativa como igualdad en los resultados en las habilidades que adquieren los individuos luego de participar en el sistema educativo (nivel medio). Finalmente, se concluye que bajo esta concepción es posible recomendar políticas para compensar las diferencias de origen</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="0" tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0398</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.35, no.1 (ene.-jun., 2011)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">3140</subfield>
+    <subfield code="d">3140</subfield>
+  </datafield>
+</record>

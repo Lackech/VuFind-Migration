@@ -1,0 +1,58 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01974nab a2200181   4500</leader>
+  <controlfield tag="005">20160317161747.0</controlfield>
+  <controlfield tag="008">150624b2000    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">237</subfield>
+    <subfield code="a">Benavides Benavides, Ana Cristina</subfield>
+  </datafield>
+  <datafield tag="245" ind2="3" ind1="1">
+    <subfield code="a">La escuela, la empresa y la universidad. Una alianza para promover el uso de la energía solar /</subfield>
+    <subfield code="c">Ana Cristina Benavides Benavides, Juana María Coto Campos.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2000</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">páginas 171-176</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">Se desarrolló un programa educativo, que involucró a educadores, educandos y padres de familia con el fin de ser agentes multiplicadores en el ámbito comunal de las aplicaciones térmicas de la energía solar.
+Etapas
+*Etapa informativa, motivadora y de compromiso. Involucra a las autoridades educativas, y se presenta el perfil del proyecto con el fin de lograr su aprobación.
+*Etapa de capacitación y la actualización de los educadores en la temática y de la elaboración conjunta de material educativo.
+*Etapa de desarrollo de los módulos educativos. Intervienen los estudiantes y padres de familia.
+*Etapa de instalación de los diapositivos solares: cocina y destilador -escala prototipo- y evaluación del funcionamiento por parte de los niños y de los técnicos.
+*Etapa de integración de la familia como elemento multiplicador en la comunidad.
+*Etapa de seguimiento del proyecto. 
+La estrategia para el desarrollo de la etapa de seguimiento del proyecto incluye las acciones como: Selección de la empresa, oficialización de la participación de la ESPH, operacionalización de la carte de entendimiento y ejecución de la etapa de seguimiento</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">238</subfield>
+    <subfield code="a">Coto Campos, Juana María</subfield>
+  </datafield>
+  <datafield tag="773" ind2=" " ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0032</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.24, no.especial (2000)</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2709</subfield>
+    <subfield code="d">2709</subfield>
+  </datafield>
+</record>

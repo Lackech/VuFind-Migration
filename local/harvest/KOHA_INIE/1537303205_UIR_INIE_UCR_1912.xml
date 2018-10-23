@@ -1,0 +1,56 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02777nam a2200181Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">1912</subfield>
+    <subfield code="d">1912</subfield>
+  </datafield>
+  <controlfield tag="008">180606b2006    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">06.04.02 </subfield>
+    <subfield code="b">1449 CD #117</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1=" ">
+    <subfield code="a">García Fallas, Jacqueline</subfield>
+    <subfield code="9">759</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="2">
+    <subfield code="a">¿Pueden mejorar las escuelas de América Latina? Lecciones aprendidas de los proyectos de cambio desarrollados en los últimos 25 años: El caso de PROMECE en Costa Rica / Jaquelin García Fallas, María Díaz Madrigal</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2006</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">152  páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Informe Final del Proyecto de Investigación N°724-A6-50. Incluye disco compacto N° 117</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">Este proyecto se propuso analizar críticamente la experiencia del Programa de Mejoramiento de la Calidad de la Educación General Básica (PROMECE) del Ministerio de Educación Pública. 
+El estudio ofrece un seguimiento descriptivo, analítico y una reflexión crítica sobre PROMECE, el cual es desarrollado por el Ministerio de Educación Pública. Este proyecto es realizado por la Red Iberoamericana de Investigación sobre Cambio y Eficacia Escolar (RINACE), a través de la Universidad Autónoma de Aguascalientes (México) y la Universidad Autónoma de Madrid; ambas instancias coordinan la realización de un estudio sobre proyectos para el cambio escolar desarrollados en América Latina. 
+Se trata de una sistematización documental, la cual se concentra en el diagnóstico, la recuperación histórica y el análisis realizado por evaluaciones e informes de PROMECE, con lo cual se busca conocer el desarrollo de las experiencias realizadas y las lecciones aprendidas. 
+Algunas de las conclusiones son las siguientes: 
+- PROMECE se percibe como un espacio institucional que ha permitido el desarrollo de las políticas y planes educativos correspondientes con las administraciones gubernamentales en turno. Esta función ha sido provechosa para la incorporación de acciones específicas que movilizan al sistema y a los procesos pedagógicos. Involucra la actualización del personal asesor, administrativo y docente. 
+- La estructura organizativa del MEP revela que la mayor debilidad de PROMECE es el que no se visualice una relación directa entre él y las dependencias del MEP. 
+- Según se ha podido corroborar a lo largo de este estudio, la conceptualización de la calidad de la educación que presenta PROMECE, puede ser considerada como un acercamiento amplio e integrador de la visión de la calidad, la cual se acompaña de cambios pedagógicos, criterios de formación y acondicionamiento de infraestructura, así como de la adquisición de equipos técnicos especializados.</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">ESCUELAS </subfield>
+    <subfield code="9">300</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">APRENDIZAJE </subfield>
+    <subfield code="9">387</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1=" ">
+    <subfield code="a">Díaz Madrigal, María</subfield>
+    <subfield code="9">1438</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,73 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03427nam a22002297a 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">3422</subfield>
+    <subfield code="d">3422</subfield>
+  </datafield>
+  <controlfield tag="008">170503b2016    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">06.05.04</subfield>
+    <subfield code="b">2411</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">1212</subfield>
+    <subfield code="a">González Serrano, Sunny</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Actualización de la prueba general para la evaluación del desarrollo integral del niño y la niña, entre los 0 y 6 meses de edad (EDIN) /</subfield>
+    <subfield code="c">Sunny González Serrano, Katherine Solís Cordero, Ana María Quezada Ugalde, Carolina  Zúñiga Baldi</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">[San José, Costa Rica] :</subfield>
+    <subfield code="b">INIE,</subfield>
+    <subfield code="c">2016</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">169 páginas, 188 páginas sin numerar</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Informe final proyecto de investigación Nº 724-B4-307</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">El proyecto tiene por objetivo: Validar la prueba general para la evaluación del desarrollo integral del niño y la niña de 0 meses a 6 años (EDIN) utilizando la técnica de juicio de expertos.  La población de la investigación estuvo conformada por niñas y niños de 0 meses a 6 años de edad, se definió una muestra de 20 niñas y niños por cada grupo de edad de la prueba, para un total de 380 personas. Para la recolección de datos se creó el   Instrumento de Observación para la Aplicación del EDIN II en niños y niñas de 0 meses a 6 años de edad.  Este permitió registrar información de la niña o el niño, así como si cumplía o no con el ítem que estaba siendo evaluado, el tiempo que tardó, si requirió demostración y el número de repeticiones e intentos, además, un espacio para observaciones.  El análisis de los resultados obtenidos se llevó a cabo por medio del método de triangulación, permitiendo analizar una situación desde diferentes apreciaciones.  Como conclusiones se mencionan las siguientes:
+De acuerdo con las recomendaciones sugeridas por los grupo de personas expertas se considera que los ítems d ella prueba EDIN II son consistentes, debido que evalúan los hitos del desarrollo, permiten identificar situaciones de rezago y vulnerabilidad en las niñas y los niños.
+Al aplicar la prueba EDIN II se determinó que permite valorar el desarrollo adecuado que deben tener las niñas y los niños entre los  0 meses y 5 años de edad, en 5 áreas del desarrollo diferentes, sin discriminación por sexo y área geográfica. 
+Tras la aplicación de la prueba se evidenció la pertinencia tanto de  los  ítems como de los materiales, ejecución de cada uno y respuesta esperada, incluidos en el instructivo para la correcta aplicación.  Asimismo, se confirmó la importancia de la estandarización de estos apartados con elfin de eliminar sesgos en los resultados entre personas evaluadoras.
+Es importante someter la prueba EDIN II a procesos periódicos de validación con elprop´sotio de 	garantizar su uso correcto, acorde a las transformaciones sociales de la población infantil. 
+Se recomienda la incorporación del EDIN II en las políticas de atención a la niñez como la prueba oficial costarricense para evaluación de desarrollo que permitiré identificar oportunamente alteraciones en el desarrollo infantil que requieran una pronta intervención y así disminuir las consecuencias a largo plazo.
+</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">723</subfield>
+    <subfield code="a">DESARROLLO DEL NIÑO</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">77</subfield>
+    <subfield code="a">DESARROLLO HUMANO</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">287</subfield>
+    <subfield code="a">EVALUACIÓN </subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">2686</subfield>
+    <subfield code="a">Solís Cordero, Katherine</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">2687</subfield>
+    <subfield code="a">Quezada Ugalde, Ana María</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">2688</subfield>
+    <subfield code="a">Zúñiga Baldi, Carolina</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

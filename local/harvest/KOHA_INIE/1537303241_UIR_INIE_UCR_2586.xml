@@ -1,0 +1,50 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01584nab a2200169   4500</leader>
+  <controlfield tag="008">150527b1997    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">102</subfield>
+    <subfield code="a">Molina Molina, María Lorena </subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Estudiantes y graduados de Trabajo Social de la Universidad de Costa Rica opinan sobre su proceso formativo /</subfield>
+    <subfield code="c"> María Lorena  Molina M., María Cristina Romero S.</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica:</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">1997</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">páginas 107 - 120</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">En este trabajo se exponen los resultados del análisis de uno de los componentes del Proyecto de Investigación Evaluativa  Curricular desarrollado en el IMEC-UCR.
+Como actor en este proceso evolutivo curricular la opinión del estudiante sobre aspectos relacionados con su formación y su grado de satisfacción con ésta, se constituyó en un aporte valioso para la toma de decisiones curriculares. En este estudio les correspondió opinar sobre: a) conocimiento sobre los fundamentos curriculares, b) los componentes del Plan de Estudios (eje temático, objetivos, contenidos, estratégia didáctica, características de la práctica pre-profesional, y el sistema de evaluación), c) sobre el mercado laboral, d) sobre el grado de satisfacción de los aspectos vinculados con la ejecución del Plan de Estudios</subfield>
+  </datafield>
+  <datafield ind2="0" ind1=" " tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1=" " tag="700" ind2=" ">
+    <subfield code="9">103</subfield>
+    <subfield code="a">Romero S, María Cristina.</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="0" tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0019</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.21, no.2 (1997)</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">2586</subfield>
+    <subfield code="d">2586</subfield>
+  </datafield>
+</record>

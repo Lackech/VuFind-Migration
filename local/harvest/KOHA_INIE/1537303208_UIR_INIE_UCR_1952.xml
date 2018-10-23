@@ -1,0 +1,54 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>04240nam a2200181Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">1952</subfield>
+    <subfield code="d">1952</subfield>
+  </datafield>
+  <controlfield tag="008">180629b2008    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">06.05.02 </subfield>
+    <subfield code="b">1541</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="100">
+    <subfield code="a">Marín Baratta, Carmen</subfield>
+    <subfield code="9">3830</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Efecto otorgado por los usuarios a la enseñanza y al aprendizaje desde los cursos bimodales en el campus virtual UCR-Interactiva en la Universidad de Costa Rica en el año 2006 / </subfield>
+    <subfield code="c">Carmen Marín Baratta</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2008</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a"> 93 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Informe Final de Investigación\Código del proyecto: 724-A5-174</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">El proyecto tiene el propósito de documentar y sistematizar los efectos en la enseñanza y el aprendizaje que los usuarios atribuyen al uso de la plataforma bimodal UCR Interactiva para los cursos del año 2006. Específicamente, pretende sistematizar los logros de los cursos bimodales alojados en UCR Interactiva, desde la perspectiva de los usuarios, con apoyo del campus virtual y la experiencia de su uso para la enseñanza, aprendizaje, información y comunicación. Es un estudio observacional y descriptivo, enfoque teórico compatible con la teoría sociocultural. La población en estudio son los docentes UCR que inscribieron cursos en UCR Interactiva en 2006 y los estudiantes matriculados en esos cursos. Se empleó el método cuantitativo; se obtuvieron tres instrumentos: uno para explorar la percepción del profesor de la eficacia del uso de la plataforma y su satisfacción con la experiencia de uso de UCR Interactiva, midiendo la usabilidad, e incluyendo comentarios abiertos. Una guía semi estructurada de entrevista, explora en los profesores el uso de las opciones de la plataforma así como sus percepciones sobre acceso, capacitación, interacción y comunicación con estudiantes, el significado como apoyo a la docencia, las ventajas, desventajas y la satisfacción. 
+En los estudiantes, se indaga datos demográficos, de la materia, aspectos técnicos y de conexión, materiales del curso, mediación del profesor y del estudiante, satisfacción general, y si perciben que el curso en UCR Interactiva ayuda a adquirir capacidades y habilidades. El análisis de datos se realizó con SPSS 12. 
+En cuanto a los resultados obtenidos, los profesores eran interinos entre 30 y 49 años, varones, bibliotecólogos y educadores en su mayoría, con postgrado y laboraban menos de 5 años en la UCR. Entre los estudiantes predominaron las jóvenes, solteras, matriculadas en cursos de sociales y básicas, que estudiaban y no trabajaban. Del estudiantado, se estima que la mitad (49,8%) tuvo experiencia como usuario. En promedio, los profesores asignaron una alta (71,3%) usabilidad a UCR Interactiva. La mitad de los estudiantes dijo que era fácil conectarse desde sus casas, que la página era lenta. En su mayoría, estudiantes respondieron disponer de materiales adicionales, poder aprender por sí mismos, tener más tiempo para otras materias, poder ajustar mejor su horario, estar satisfechos con el servicio, obtener ayuda al desarrollo de capacidades y habilidades. Estuvieron neutrales sobre recibir respuesta a sus dudas ó contactar al profesor por medio de UCR Interactiva y si ayudó a desarrollar la habilidad de trabajo en equipo. Los estudiantes comentaron más veces que el curso en UCR Interactiva facilita el aprendizaje y la enseñanza respecto a que los dificulta, mientras que profesores comentaron que más dificulta aprendizaje y enseñanza que los facilita. Profesores y estudiantes coincidieron que, en su experiencia, el acceso (conexión, equipos) dificultó tanto el aprendizaje como la enseñanza, que el recurso puede aprovecharse más. 
+Conclusiones y recomendaciones Monitorear continuamente la experiencia de los usuarios de UCR Interactiva en base a un plan con indicadores para retroalimentar el sistema en sus distintos procesos. Ampliar el estudio y análisis de la experiencia de los usuarios. Analizar, de manera sistemática, las experiencias existentes en la UCR con el uso de tecnologías de información para la educación superior de grado y postgrado.</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">ENSEÑANZA</subfield>
+    <subfield code="9">14</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">APRENDIZAJE </subfield>
+    <subfield code="9">387</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">PLATAFORMAS VIRTUALES</subfield>
+    <subfield code="9">1318</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

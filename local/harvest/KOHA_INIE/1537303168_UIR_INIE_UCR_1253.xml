@@ -1,0 +1,41 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00500nam a2200145Ia 4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">1253</subfield>
+    <subfield code="d">1253</subfield>
+  </datafield>
+  <controlfield tag="008">170523b1993    us ||||| |||| 00| | eng d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">03.02.01 </subfield>
+    <subfield code="b">504</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Hansen-Kuhn, Karen</subfield>
+    <subfield code="9">2840</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Structural adjustment in Central America :  the case of Costa Rica / </subfield>
+    <subfield code="c">Karen Hansen-Kuhn</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Washington D.C. :  </subfield>
+    <subfield code="b">Development Group for Alternative Policies, </subfield>
+    <subfield code="c">1993</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">24 páginas</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">INDICADORES ECONÓMICOS</subfield>
+    <subfield code="9">794</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">AGRICULTURA</subfield>
+    <subfield code="9">2541</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

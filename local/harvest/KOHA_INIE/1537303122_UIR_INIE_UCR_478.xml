@@ -1,0 +1,9 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00066nam a2200049Ia 4500</leader>
+  <controlfield tag="009"> </controlfield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">478</subfield>
+    <subfield code="d">478</subfield>
+  </datafield>
+</record>

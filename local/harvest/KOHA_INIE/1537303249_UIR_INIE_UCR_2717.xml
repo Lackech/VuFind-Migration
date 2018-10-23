@@ -1,0 +1,51 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02246nab a2200181   4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2717</subfield>
+    <subfield code="d">2717</subfield>
+  </datafield>
+  <controlfield tag="005">20170125092131.0</controlfield>
+  <controlfield tag="008">150701b2001    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">183</subfield>
+    <subfield code="a">Moncada Jiménez, José</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Escalas alométricas: un justo criterio en el proceso de evaluación en las ciencias del movimiento humano /</subfield>
+    <subfield code="c">José Moncada Jiménez, Emma Tuk Mena</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2001</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a"> páginas 95-102</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">El propósito del estudio fue comparar el tiempo de carrera en estudiantes de sexto grado de Costa Rica y los Estados Unidos de Norteamérica e investigar la influencia de la masa corporal sobre el tiempo de carrera. 
+A los estudiantes (N=274) se les midió la masa corporal y el tiempo en recorrer 1609 m a pie. Los análisis estadísticos incluyeron ANOVA factorial 2x2 (país por género) para las variables de masa corporal y tiempo de carrera; y un análisis de regresión para crear un índice que ajustara los puntajes del tiempo de carrera y dejara de lado el efecto confusor de la masa corporal. Se obtuvo que los niños y las niñas costarricenses presentaron una menor masa corporal y corrieron más rápido los 1609 m que sus contrapartes estadounidenses (p &lt; 0.05). En ambas muestras, los niños y las niñas que presentaban una mayor masa corporal tendían a ser penalizados con el método tradicional para asignar puntajes. Por ello, se calculó un índice de corrección, el cual ajustaba los tiempos de carrera tomando en cuenta las diferencias  en la masa corporal. Se concluye que la técnica de las escalas alométricas es una herramienta justa que puede incorporarse en el proceso de evaluación en el área  de las ciencias del movimiento humano, y se recomienda la elaboración de normas que tomen en cuenta la influencia de la masa corporal de los participantes; así como la aplicación de las escalas alométricas a otras pruebas de la aptitud física</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="9">242</subfield>
+    <subfield code="a">Tuk Mena, Emma</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0054</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.25, no.1  (2001)</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+</record>

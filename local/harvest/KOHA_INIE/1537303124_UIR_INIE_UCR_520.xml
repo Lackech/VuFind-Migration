@@ -1,0 +1,75 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01045nam a2200253Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">520</subfield>
+    <subfield code="d">520</subfield>
+  </datafield>
+  <controlfield tag="008">170111b2012    ag ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="020">
+    <subfield code="a">9789871543656</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">01.04.02 </subfield>
+    <subfield code="b">936</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="a">Alvarez Acosta, María Elena</subfield>
+    <subfield code="9">2241</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Africa Subsahariana: sistema capitalista y relaciones internacionales / </subfield>
+    <subfield code="c">María Elena Alvarez Acosta, coordinadora; Silvio Baró Herrera, Norberto Carlos Escalona Carrillo, Abel Torres García, Gisele Kleidermacher, Gustavo Pelegrin, María Victoria Mutti, Marcela Alejandra Ruggeri, Pablo Blanco</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">Buenos Aires : </subfield>
+    <subfield code="b">Clacso, </subfield>
+    <subfield code="c">2012</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">541 páginas</subfield>
+  </datafield>
+  <datafield tag="490" ind2=" " ind1=" ">
+    <subfield code="a">Colección Sur-Sur</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">POLITICA INTERNACIONAL</subfield>
+    <subfield code="9">2242</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="4">
+    <subfield code="a">AFRICA</subfield>
+    <subfield code="9">537</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Baró Herrera, Silvio</subfield>
+    <subfield code="9">2243</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Escalona Carrillo, Norberto</subfield>
+    <subfield code="9">2244</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Torres García, Abel</subfield>
+    <subfield code="9">2245</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="a">Pelegrin, Gustavo</subfield>
+    <subfield code="9">2246</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="a">Mutti, María Victoria</subfield>
+    <subfield code="9">2247</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Ruggeri,  Marcela Alejandra</subfield>
+    <subfield code="9">2248</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Blanco, Pablo</subfield>
+    <subfield code="9">2249</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

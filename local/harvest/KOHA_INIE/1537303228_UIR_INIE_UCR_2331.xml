@@ -1,0 +1,67 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03177nam a2200229Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2331</subfield>
+    <subfield code="d">2331</subfield>
+  </datafield>
+  <controlfield tag="008">180911b2001    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">19.01.01 </subfield>
+    <subfield code="b">2075</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="a">González Arrieta, Ruth</subfield>
+    <subfield code="9">2463</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Iniciativas de acceso abierto en las publicaciones académicas de la Facultad de Ciencias Sociales de la Universidad de Costa Rica / </subfield>
+    <subfield code="c">Ruth González Arrieta; Leda Arguedas Ferreto</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2012</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">46 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Informe final proyecto de investigación No.724-B1-704</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">Las universidades, institutos o centros de investigación, conforman las entidades con mayor producción de publicaciones científicas con avances y resultados del nuevo conocimiento originado por los científicos en sus investigaciones. Paralelamente, la Facultad de Ciencias Sociales de la Universidad de Costa Rica integrada por las unidades académicas como las escuelas y posgrados; las unidades de investigación como los institutos y centros de investigación y las unidades de información como la biblioteca y centros de documentación, constituyen instancias académicas donde los investigadores generan la producción intelectual de las fuentes de información. Sin embargo, la información está dispersa, porque está distribuida entre todas las instancias académicas. Con respecto a las publicaciones, a principios del siglo XXI debido a los altos costos de las suscripciones de las publicaciones científicas por parte de las editoriales o proveedores comerciales, se originó el movimiento acceso abierto u open Access (OA) como una iniciativa de las universidades y organismos científicos, con el fin de que la información de las publicaciones científicas con los resultados de las investigaciones, se divulguen por Internet en forma gratuita, respetando el Derecho de Autor. Por consiguiente, se constituyeron los repositorios institucionales como un recurso informativo que preserva y administra la información intelectual producida en la institución, para difundirla gratuitamente en acceso abierto y reivindicando la propiedad intelectual. Vinculado a lo descrito, la presente investigación abarca un diagnóstico de las fuentes de información generadas por las unidades académicas, unidades de investigación y unidades de información de la Facultad de Ciencias Sociales que permita visibilizar o enlazar los recursos documentales de la Facultad. Como resultado, se alcanzó recopilar el acervo bibliográfico forjado en las instancias universitarias detalladas como los libros, revistas, trabajos finales de graduación, obras de referencia, memorias u otros, para el servicio de los usuarios. Igualmente, se consiguió reagrupar las fuentes de información en iniciativas de acceso abierto, que permiten posicionar la Facultad de Ciencias Sociales y por ende, a la Universidad de Costa Rica.</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">ACCESO A LA INFORMACIÓN</subfield>
+    <subfield code="9">357</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">BIBLIOTECAS</subfield>
+    <subfield code="9">3303</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">DERECHOS DE AUTOR </subfield>
+    <subfield code="9">3176</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">INTERNET </subfield>
+    <subfield code="9">350</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">INFORMACION CIENTIFICA</subfield>
+    <subfield code="9">4209</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">PUBLICACIONES</subfield>
+    <subfield code="9">4210</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="9">3983</subfield>
+    <subfield code="a">Arguedas Ferreto, Leda</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,56 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02944nam a2200193Ia 4500</leader>
+  <controlfield tag="008">160419b2009    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">06.02.01 </subfield>
+    <subfield code="b">1843 CD #123</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">1106</subfield>
+    <subfield code="a">Molina Rojas, Noilin</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Recopilación de las investigaciones educativas en Costa Rica / </subfield>
+    <subfield code="c">Noilin Rojas Molina</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica. : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2009</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">72 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Informe final Proyecto No.724-A9-731</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="500">
+    <subfield code="a">Informe final Proyecto No.724-A9-731</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">El CD contiene informe en versión electrónica y recopilación de investigaciones en Excel.</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">El presente informe expone los resultados de la actividad de investigación "Recopilación de las investigaciones educativas en Costa rica", la cual fue desarrollada en el Instituto de Investigación en Educación. En ésta se plantearon tres objetivos generales, con los que se pretendió recopilar las investigaciones educativas producidas en el país en el período de 2002-2008, elaborar una base de datos digital con las mismas, y analizar el contenido de un subgrupo de estas investigaciones. 
+Las instituciones consultadas para recopilar los estudios fueron las universidades públicas, el Ministerio de Educación Pública, la fundación Omar Dengo y el programa del Estado de la Educación. Se encontró una gran variedad temática en las investigaciones educativas recopiladas, en donde destacan los temas de educación preescolar, las necesidades educativas especiales y las tecnologías de la información y la comunicación aplicadas a la enseñanza-aprendizaje. Se detectó una debilidad en los procesos de sistematización y divulgación de las investigaciones educativas en el país. El subgrupo de investigaciones que se estudió a profundidad corresponde al tema de rendimiento académico. 
+En la primera parte del informe, se presentan los objetivos y la metodología empleada para el desarrollo del estudio. Posteriormente, se ofrecen los principales resultados, tanto de la elaboración de la base de datos, así como el análisis de las tendencias temáticas de la misma. Finalmente, se expone el producto del análisis de veintidós investigaciones sobre rendimiento académico, en el cual se definieron las tendencias temáticas, metodológicas y los principales aportes expuestos en las mismas. En cuanto a éstas, se encontró que predominan las propuestas de estudio sobre los factores que intervienen en el rendimiento académico de manera directa e indirecta, y aquellas que indagan sobre las causas del bajo rendimiento. Además, la mayoría de los trabajos corresponden a propuestas metodológicas descriptivas. 
+En este documento no se incluye la base de datos con las investigaciones educativas recopiladas, debido a su extensión, pero se adjunta un archivo digital para que esta pueda ser consultada. </subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">INVESTIGACIÓN EDUCATIVA</subfield>
+    <subfield code="9">326</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">1474</subfield>
+    <subfield code="d">1474</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,46 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02090nab a22001697a 4500</leader>
+  <controlfield tag="005">20160317155621.0</controlfield>
+  <controlfield tag="008">150617b2000    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">195</subfield>
+    <subfield code="a">Quesada Sancho, Rolando</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Cultura, poder y currículum, todos en un mismo crisol /</subfield>
+    <subfield code="c">Rolando Quesada Sancho</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2000</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">páginas 9-19</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">En el lenguaje cotidiano de nuestra universidad, se han incorporado frases y términos que son usados indiscriminadamente, sin que reflexionemos  acerca de su origen o pertinencia, tal es el caso de cultura. Hoy casi todo, lo que tenga un referente en las costumbres o prácticas, lo denominamos cultura, cual si solo esa práctica formara una cultura, reduciendo el término a una acepción instrumental. De ahí que es importante reflexionar en torno a esta temática; así que en este trabajo estaremos discutiendo algunas nociones que nos permitan acercarnos a una posición clara respecto de la pertinencia de la cultura de las culturas  o de esta vieja y nueva  costumbre de segmentar las realidades. También nos atrevemos a anotar los posibles orígenes y peligros que  esta segmentación conlleva. Esto es, no solo importante si no urgente, puesto que desde que se ha subido a las universidades públicas en el banquillo de los acusados, cada enjuiciamiento es tratado aisladamente encontrando que en el seno de las universidades se anida la culpa, obviando que muchas de estas culpas, tienen precisamente su génesis en las relaciones que establecen tanto en su interior como en su entorno y en las acciones o tomas de decisión de muchas de las personas acusadoras. Finalmente se propone una noción de cultura académica, como estrategia para interpretar aquello que sucede en el mundo académico  en forma holística</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0026</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.24, no.2 (2000)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2677</subfield>
+    <subfield code="d">2677</subfield>
+  </datafield>
+</record>

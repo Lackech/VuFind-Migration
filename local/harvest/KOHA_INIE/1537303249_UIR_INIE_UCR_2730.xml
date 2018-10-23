@@ -1,0 +1,49 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02630nab a2200169   4500</leader>
+  <controlfield tag="005">20160317163415.0</controlfield>
+  <controlfield tag="008">150702b2001    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">256</subfield>
+    <subfield code="a">Sánchez González, Marta Eugenia</subfield>
+  </datafield>
+  <datafield tag="245" ind2=" " ind1=" ">
+    <subfield code="a">Una construcción metodológica para compartir desde la investigación cualitativa /</subfield>
+    <subfield code="c"> Marta Eugenia Sánchez González</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">San José, Costa Rica :</subfield>
+    <subfield code="c">2001</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">páginas 67-85</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">En este artículo sintetizo el proceso metodológico que fui construyendo durante la investigación que desarrollé en un aula de Primer año de I Ciclo durante el año 1999 y que titulé "Una nueva mirada a los procesos de lectura y escritura". El principal objetivo de ese estudio fue el develar aspectos que promueven o dificultan la innovación de los procesos de lectura y escritura en ese nivel de la educación costarricense y con base en esa información diseñar propuestas de formación y actualización a los docentes y a las docentes.
+Esa investigación de carácter  cualitativo, etnográfico fue asumiendo elementos del estudio de casos, de la hermeneútica y de la fenomenología.
+La construcción de la metodología fue fascinante, un proceso sumamente creativo. El volver a la escuela donde cursé mi educación primaria, esta vez, con una nueva mirada, me dio la oportunidad de aprender  nuevamente de esa institución educativa. Ese espacio de aprendizaje me brindó  una oportunidad de aprender nuevamente de esa institución educativa. Ese espacio de aprendizaje me brindó una oportunidad para describir, analizar, interpretar y construir los significados desde las prácticas pedagógicas que ahí tenían lugar.
+Fue con base en la observación participante, en la entrevista en profundidad y en la entrevista coloquial, en el análisis de documentos, en la fotografía y en el vídeo que elaboré las notas crudas, luego las notas cocidas. Con base en esos registros diseñé  varias matrices que me permitieron poco a poco, en un proceso de reflexión y valoración  de la información, organizar los datos a la luz de la preguntas que orientaban la investigación. La organización de la información me orientó en la elaboración de los cinco apartados que dan unidad a la información recabada durante el proceso de investigación y que permiten hallazgos conducentes al logro del objetivo planteado</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="0" tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0189</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.25, no.2  (2001)</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2730</subfield>
+    <subfield code="d">2730</subfield>
+  </datafield>
+</record>

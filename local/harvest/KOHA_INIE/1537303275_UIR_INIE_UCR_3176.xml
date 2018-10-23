@@ -1,0 +1,49 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02337nab a2200169   4500</leader>
+  <controlfield tag="005">20160429091557.0</controlfield>
+  <controlfield tag="008">160428b2012    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">1646</subfield>
+    <subfield code="a">Vega Agüero, Jorge A.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Análisis de factores asociados a la participación en actividades recreativas de la comunidad universitaria del Tecnológico de Costa Rica: una estrategia recreativa /</subfield>
+    <subfield code="c">Jorge A. Vega Agüero</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2012</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">páginas 31 - 50</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">La recreación promueve el bienestar integral de las personas, tal beneficio se percibe a nivel mental, físico, social emocional y espiritual. En el plano universitario, las multiples responsabilidades académicas y laborales disminuyen la posiblidad de participación en las diferentes actividades recreativas que se planifican.
+El objetivo del diagnóstico es determinar los motivos y limitaciones de participación recreativa que percibe la comunidad universitaria del Instituto Tecnológico de Costa Rica (TEC) en su Sede Central.
+El estudio cualitativo posee una muestra de 7 personas y el cualitativo de 980 personas. El análisis de los datos se realizó mediante un grupo focal , dos entrevistas, una correlación de spearman, un análisis Chi-cuadrado y cuatro ANOVA de tres vías.
+Los resultados muestran que para la comunidad universitaria  TEC, la principal motivación de participación recreativa en las mujeres es el factor dominio de cometencia y en los hombres es el factor social. Por su parte, para la comunidad estudiantil fueron el intelectual y el dominio de competencia. En el caso de las limitaciones de participación, para las mujeres es el factor estructural  y en la comunidad estudiantil fueron los factores interpersonales y estructurales.El proceso estratégico de la implementación del presente proyecto inicia dentro de la Feria de la Salud (FS) del TEC, pero pretende llegar a ser permanente, es por ello que considera aspectos como la misión , la visión, los objetivos, el diagnóstico (FODA) y la propuesta.</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind2=" " ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0626</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.36, no.2 (jul.-dic., 2012)</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3176</subfield>
+    <subfield code="d">3176</subfield>
+  </datafield>
+</record>

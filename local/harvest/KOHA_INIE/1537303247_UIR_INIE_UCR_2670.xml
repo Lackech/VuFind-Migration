@@ -1,0 +1,47 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02102nab a2200157   4500</leader>
+  <controlfield tag="008">150611b2000    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">192</subfield>
+    <subfield code="a">Cubero Figueroa, Zoila</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Definición y uso de la analogía en educación /</subfield>
+    <subfield code="c">Zoila Cubero Figueroa</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2000</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a"> páginas 77-88</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">La analogía es un modelo de inferencia que usa un dominio fuente familiar para facilitar el entendimiento de una materia o la solución de problemas en un dominio objetivo desconocido. Para ello, en primer lugar, se escogen grupos de objetos de ambos dominios y se parean, tomando en cuenta la similitud de las relaciones entre los objetos de cada agrupamiento. En segundo lugar, se busca crear o transferir estructuras al dominio de estudio u objetivo pertinentes tomando como modelo las existentes en el dominio fuente conocido por el investigador.
+El principal problema que se presenta en los modelos analógicos, es la explosión de proposiciones a parear. Por lo tanto, se hace necesario buscar criterios adecuados para decidir cuáles de aquéllos son pareos sustantivos para mantenerlos en el proceso. Para limitar el número excesivo de pareos, empates o mapeos y enfocar mejor el problema, se ha recurrido al uso de tres condiciones de similitud: la sintáctica o estructural, la semántica y la pragmática que responde a la meta u objetivo del analogista.
+La condición estructural establece sólo pareos entre las estructuras semejantes de objetos de ambos dominios, dando prioridad a aquéllas que son de más alto nivel o más generales. La condición de similitud semántica pone en contacto a las proposiciones que tienen significado similar. Finalmente, la condición pragmática toma en cuenta la homogeneidad de metas u objetivos presentes en los dominios</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " tag="773" ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0025</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.24, no.1 (2000)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2670</subfield>
+    <subfield code="d">2670</subfield>
+  </datafield>
+</record>

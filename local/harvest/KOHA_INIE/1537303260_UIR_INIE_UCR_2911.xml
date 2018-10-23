@@ -1,0 +1,46 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01289nab a2200169   4500</leader>
+  <controlfield tag="005">20160328165130.0</controlfield>
+  <controlfield tag="008">151008b2004    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1=" ">
+    <subfield code="9">560</subfield>
+    <subfield code="a">Venegas Renauld, María Eugenia</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="3">
+    <subfield code="a">El concepto pedagógico formación en el universo semántico de la educación /</subfield>
+    <subfield code="c">María Eugenia Venegas Renauld</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2004</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">páginas 13-28</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">El material contenido en este artículo, representa uno de los productos de la investigación del concepto formación en la Ley Fundamental de Educación de Costa Rica, que consideró entre las preguntas de investigación, la búsqueda de las raíces del concepto en Occidente. Mediante un rastreo en el lenguaje educativo, el acercamiento semántico es una de las etapas del rastreo. El artículo muestra la complejidad semántica del término en el amplio abanico de acepciones y en la enorme posibilidad de puentes léxicos que se pueden establecer desde términos afines y vinculantes</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0253</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.28, no.2 (2004)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2911</subfield>
+    <subfield code="d">2911</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,63 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01111nam a2200205Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">1883</subfield>
+    <subfield code="d">1883</subfield>
+  </datafield>
+  <controlfield tag="008">180517b1984    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">06.03.07</subfield>
+    <subfield code="b"> 31</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Esquivel Alfaro, Juan Manuel</subfield>
+    <subfield code="9">157</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Diagnóstico evaluativo de la enseñanza de las ciencias generales en la educación general básica : rendimiento académico y procesos científicos / </subfield>
+    <subfield code="c">Juan Manuel Esquivel Alfaro, Liliana Quesada Yannarella</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1984</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">77 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Cuarto Informe Final, Proyecto de Investigación N° 724-82-052\Los tres informes anteriores en la clasificación 06.03.06 106</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">Este estudio es parte del Diagnóstico Evaluativo de la Enseñanza de las Ciencias. En él se trata de establecer la situación real de dos aspectos del rendimiento académico en Ciencias Generales en la Educación General Básica: conocimientos mínimos y procesos científicos. La investigación tiene como objetivo general, determinar el aprovechamiento de los alumnos en Ciencias al finalizar cada uno de los ciclos y de los alumnos que terminan el quinto año de la Educación General Básica. Entre las conclusiones obtenidas están: - Es evidente un rendimiento académico muy bajo. Esto es cierto en todas las regiones de país, pero en algunas de ellas es sumamente bajo. - Se da una misma tendencia tanto en la escuela primaria como en secundaria: el rendimiento disminuye al pasar de un año inferior a uno superior (de 4º a 6º año y de 7º a 10º). - Las escuelas más pequeñas (rurales) tienen rendimiento muy por debajo al de las escuelas de centros de población más grandes. - El desconocimiento de los procesos científicos es general en todas las regiones del país y por modalidad de colegio. Aunque se nota una ligera mejoría al comparar el rendimiento de décimo año con el de sétimo año. La divulgación de este trabajo, pretende que los administradores de la educación costarricense y las instituciones formadoras de docentes, analicen los resultados del mismo y busquen soluciones que mejoren el aprendizaje de las Ciencias Generales. </subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">ENSEÑANZA DE LAS CIENCIAS </subfield>
+    <subfield code="9">996</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">DIAGNÓSTICO</subfield>
+    <subfield code="9">632</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">RENDIMIENTO ACADÉMICO</subfield>
+    <subfield code="9">1095</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">CALIDAD DE LA EDUCACIÓN</subfield>
+    <subfield code="9">11</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="9">3580</subfield>
+    <subfield code="a">Quesada Yannarella, Liliana</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

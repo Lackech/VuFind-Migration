@@ -1,0 +1,58 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00792nam a2200193   4500</leader>
+  <controlfield tag="008">160512b2012    cr a|||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">05.01.01 </subfield>
+    <subfield code="b">1555 </subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">1761</subfield>
+    <subfield code="a">Batres Quevedo, Jorge Alejandro </subfield>
+  </datafield>
+  <datafield ind1="1" ind2="3" tag="245">
+    <subfield code="a">La masculinidad como estructura de dominación: análisis de las disposiciones de la masculinidad dominate en dos grupos de hombres de Costa Rica / </subfield>
+    <subfield code="c">Jorge Alejandro Batres Quevedo</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Flacso,</subfield>
+    <subfield code="c">2012</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">125 páginas; </subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="490">
+    <subfield code="a">Cuaderno de Ciencias Sociales, </subfield>
+    <subfield code="v">no. 162</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">276</subfield>
+    <subfield code="a">CIENCIAS SOCIALES </subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">1762</subfield>
+    <subfield code="a">ROL MASCULINO</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1030</subfield>
+    <subfield code="a">ROLES DE LOS GÉNEROS</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">985</subfield>
+    <subfield code="a">COMPORTAMIENTO SOCIAL</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="4" tag="651">
+    <subfield code="9">1763</subfield>
+    <subfield code="a">SAN RAMÓN, ALAJUELA (COSTA RICA) </subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">03</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">3227</subfield>
+    <subfield code="d">3227</subfield>
+  </datafield>
+</record>

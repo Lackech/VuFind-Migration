@@ -1,0 +1,100 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03271nam a2200361Ia 4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">2104</subfield>
+    <subfield code="d">2104</subfield>
+  </datafield>
+  <controlfield tag="008">180828b2000    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">13.09.09</subfield>
+    <subfield code="b">66</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="100">
+    <subfield code="a">Venegas Renauld, María Eugenia</subfield>
+    <subfield code="9">560</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Construcción de una dimensión pedagógica para la docencia universitaria en el área de la salud / </subfield>
+    <subfield code="c">María Eugenia Venegas Renauld, Kemly Jiménez Fallas</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="c">2000</subfield>
+    <subfield code="b">IIMEC, </subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">65 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">El centro posee el segundo informe parcial de 1998,  9 folletos de 1999 y el informe final 2000 Proyecto de investigación N° 724-96-370</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">Con frecuencia, la formación pedagógica del personal docente universitario es deficiente, parcializada o está ausente en muchos casos. Además, no se tienen en la Universidad de Costa Rica indicadores de una política de mejoramiento sistemático y continuo del ámbito docente, a pesar de la existencia del Departamento de Docencia Universitaria (DEDUN) y de una encuesta realizada por esta entidad en 1996, en la que un 95,7% de los profesores encuestados reconoció la importancia de crear espacios para atender sus necesidades docentes (currículo, evaluación, recursos metodológicos, informática, enfoques de aprendizaje, etc.). Con estas premisas, las investigadoras se propusieron identificar los elementos teórico-prácticos de la docencia en el área de salud de la UCR y caracterizar la actividad pedagógica de su trabajo docente. Se utilizaron técnicas cualitativas para la recolección de los datos (entrevistas, grupos focales, historias de vida, grupos de discusión, observación participante, revisión de documentos) y se contó con la participación del personal de la Facultad de Farmacia, la Escuela de Salud Pública, la Escuela de Nutrición y la Escuela de Enfermería. No se pudo trabajar con la Facultad de Odontología, la Facultad de Microbiología y la Escuela de Medicina. Entre los logros más relevantes del estudio se encuentran el haber promovido una reflexión acerca de la naturaleza del contexto socio-institucional y la forma en como este influye y condiciona los procesos docentes; la ubicación de la Salud Pública como una carrera interdisciplinaria, cercana a las ciencias sociales; la caracterización de los docentes del área; el asentamiento de bases para el mejoramiento docente en la Escuela de Salud Pública, y la entrega de resultados concretos a las diversas instituciones vinculadas con la investigación. El informe señala, finalmente, que el mejoramiento de la docencia puede verse como un proceso que reviste la particular condición de irse gestando mediante acciones sistemáticas, procesos de interiorización en las personas que laboran como profesores y acciones políticas en todos los niveles.</subfield>
+  </datafield>
+  <datafield tag="610" ind1=" " ind2="4">
+    <subfield code="a">UNIVERSIDAD DE COSTA RICA</subfield>
+    <subfield code="9">714</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">DOCENCIA</subfield>
+    <subfield code="9">1841</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">SALUD</subfield>
+    <subfield code="9">268</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">CAPACITACIÓN</subfield>
+    <subfield code="9">729</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">FORMACIÓN DE DOCENTES</subfield>
+    <subfield code="9">9</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">DATOS ESTADÍSTICOS</subfield>
+    <subfield code="9">452</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="9">4134</subfield>
+    <subfield code="a">Jiménez Fallas, Kemly </subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+  </datafield>
+</record>

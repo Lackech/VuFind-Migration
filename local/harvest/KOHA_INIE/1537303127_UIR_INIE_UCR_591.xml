@@ -1,0 +1,70 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02017nam a2200253Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">591</subfield>
+    <subfield code="d">591</subfield>
+  </datafield>
+  <controlfield tag="007">ta</controlfield>
+  <controlfield tag="008">170221b2007    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="020">
+    <subfield code="a">9789968527019</subfield>
+  </datafield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">06.01.01 </subfield>
+    <subfield code="b">1343 CD #43</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Mata Segreda, Alejandrina</subfield>
+    <subfield code="9">109</subfield>
+  </datafield>
+  <datafield ind2="3" ind1="1" tag="245">
+    <subfield code="a">La Investigación - Acción para la formación continua de educadores y educadoras / </subfield>
+    <subfield code="c">Alejandrina Mata Segreda</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2007</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">97 páginas;</subfield>
+    <subfield code="b">Ilustraciones</subfield>
+  </datafield>
+  <datafield ind2=" " tag="490" ind1=" ">
+    <subfield code="a">Colección Yigüiro</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Incluye Informe final de Actividad de investigación Nº 724-A6-706 Formación continua de educadores: elaboración de un libro de texto. </subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="500">
+    <subfield code="a">Incluye CD #43</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">La actividad de investigación tuvo como objetivo: Promover la formación de profesionales facilitadores de procesos de formación continua de educadores y educadoras con la perspectiva metodológica de la investigación-acción.  El texto fue elaborado a partir de los referentes teóricos y resultados del proyecto de investigación Nº 724-A5-121 y se presenta un esquema, el cual puede ser ampliado mediante la lectura del informe final del proyecto  La investigación que dio origen a la información que sería utilizada para la elaboración del libro, incluye tres diferentes categorías de análisis.  La primera se refiere a la identificación de elementos que deben ser considerados en los procesos de formación continua basados en investigación- acción; la segunda se refiere a los aprendizajes específicos elaborados por el grupo de participantes en dicha investigación, y la tercerase refiere a la valoración que el grupo hizo alrededor de la calidad del proceso educativo facilitado.  Por la naturaleza del libro, se utilizó exclusivamente la información referida a la primera categoría.</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">INVESTIGACIÓN</subfield>
+    <subfield code="9">163</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">EDUCACIÓN PERMANENTE</subfield>
+    <subfield code="9">1520</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">DOCENTES</subfield>
+    <subfield code="9">331</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">FORMACIÓN PROFESIONAL</subfield>
+    <subfield code="9">498</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,52 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00762nam a2200157Ia 4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">1819</subfield>
+    <subfield code="d">1819</subfield>
+  </datafield>
+  <controlfield tag="008">180426b1987    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">06.03.06</subfield>
+    <subfield code="b"> 610</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="a">Méndez Barrantes, Zayra</subfield>
+    <subfield code="9">2957</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Estudio psicogenético de la adición y la sustracción de una muestra de alumnos de primer año escolar de la región de Turrialba</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1987</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">32 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">El estudio presenta los resultados obtenidos luego de analizar a una población de niños de primer grado de Turrialba. De acuerdo con el informe, en la población estudiada se confirmó una evolución psicogenética en niveles jerarquizados. Se observó un progreso sucesivo por niveles en las dos pruebas entre el pretest y el postest, lo cual constata la realidad psicológica de los procesos de asimilación y acomodación. Conocer acerca de estos procesos y su evolución en niños de nuestro país, puede facilitar la labor en el aula, al proporcionarles a los niños actividades estimulantes de acuerdo con el nivel de desarrollo en que se encuentran, aprovechando de paso sus potencialidades y utilizando a los niños más avanzados como recurso. Además, se confirmó el hecho de que el proceso de evolución intelectual es cíclico, y que el niño, después de haber asimilado un concepto en un contexto dado, retrocede a niveles inferiores al generalizarlo o utilizarlo en un contexto distinto o más complejo. Las autoras consideran que solamente la mitad de los niños llegan a representar espontáneamente las acciones de sumar y restar en forma convencional. Pero en cualquier caso, todavía se conoce poco sobre las capacidades del niño costarricense en la adquisición de los contenidos matemáticos. 
+ </subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">EDUCACIÓN PRIMARIA</subfield>
+    <subfield code="9">367</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">INVESTIGACIÓN</subfield>
+    <subfield code="9">163</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">MATEMÁTICAS  </subfield>
+    <subfield code="9">482</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="4">
+    <subfield code="a">TURRIALBA (COSTA RICA)</subfield>
+    <subfield code="9">3610</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

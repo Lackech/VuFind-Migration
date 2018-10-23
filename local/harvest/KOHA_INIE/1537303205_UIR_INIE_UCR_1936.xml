@@ -1,0 +1,66 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>08415nam a2200229Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">1936</subfield>
+    <subfield code="d">1936</subfield>
+  </datafield>
+  <controlfield tag="008">180612b1998    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">06.04.08</subfield>
+    <subfield code="b"> 76</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1=" ">
+    <subfield code="a">Cubero Venegas, Carmen María</subfield>
+    <subfield code="9">708</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Percepción y manejo de la disciplina en el aula / Carmen Cubero Venegas, Angelina Abarca Molina, Marisol Nieto Izaguirre</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1998</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">198 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="500" ind2=" ">
+    <subfield code="a">Informe de la primera fase 1996, el Informe Final y los módulos del Proyecto de Investigación N°724-93-327</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">Producto de un trabajo interdisciplinario, los objetivos que se contemplan en esta investigación son estudiar la interacción maestro-alumno y el manejo del aula en dos grupos de quinto grado, conocer las formas en que los maestros manejan la disciplina, y proponer un modelo de manejo de aula. Debido a que la disciplina es esencial para que un grupo y los individuos que lo constituyen puedan funcionar y partiendo de que la disciplina en la clase desempeña tres funciones (el establecimiento de formas de organización en el aula, la formación de valores morales y la formación de la conciencia en los alumnos), en este trabajo se plantea un análisis cualitativo de la disciplina en dos grupos de quinto grado, uno de una escuela metropolitana y otro de una urbano-marginal. El procedimiento incluye la observación directa y entrevistas con los directores de los centros educativos, los maestros, los conserjes y los mismos estudiantes. En total se realizaron 59 observaciones, correspondientes a 41 horas reloj. Para la interpretación de los resultados, se establecieron cuatro áreas: conducta del maestro, trabajo escolar, conducta de los niños y manejo de la disciplina. La conducta del maestro incluye las destrezas y limitaciones que el maestro manifiesta en el aula y los diferentes papeles que desempeña. Se dividió en cinco categorías: Comunicación no verbal (lenguaje corporal), Comunicación verbal (posesiva, breve, explicativa, cordial, monólogos, contradictoria), Reacción del maestro (errática, indiferente, estimulante, prejuiciada, humorística, justificativa, cuidadosa), Papel del maestro (de apoyo, facilitador, instructor, controlador, evaluador), Radio de atención (amplio, limitado, inexistente). El trabajo escolar incluye las condiciones ambientales y didácticas que inciden en el proceso de enseñanza-aprendizaje: Interrupciones (sin consecuencias negativas y con ellas), Utilización de los niños (en función del maestro), Técnicas (dictado, lectura y copia; resumen y exposición; interacción; trabajo autónomo; integración; instrucción; organización), Uso del tiempo (adecuado, inadecuado, libre), y Ambiente escolar. La conducta de los niños se divide en cuatro categorías: Estilos de llamar la atención entre pares (imitación, acusación, delegación, sonidos, órdenes), Conductas perturbadoras (fuera de su asiento, ruido, motoras, gritos, agresión, juegos, caos), Vida diaria (libertad de acción, desempeño del papel del maestro, compañerismo), y Reacciones de los niños (reafirmativas, agresivas). El manejo de la disciplina incluye técnicas y recursos que los maestros utilizan para lograr un comportamiento adecuado en la clase: Estilos de llamar la atención (laconismo, sonidos, amenazas, regaños, órdenes, devaluaciones, quejas, gestos, retroalimentación), Técnicas de disciplina (contacto físico, uso de la voz, efecto de la onda, control externo, acercamiento físico, reubicación física, privación de derechos, uso del silencio), Rutinas (entrada, salida, regreso del recreo, término de la actividad, género), Normas de trabajo escolar (establecimiento de normas, salida temporal del aula, levantar la mano), Manejo de la disciplina (autorización para movilizarse, recordatorio de normas) y Actividades (actividades novedosas e interesantes, actividades tradicionales). Finalmente, se validan los datos cualitativos con el procedimiento de evidencia convergente. Los temas sometidos a este proceso son: el concepto de disciplina, el concepto de disciplina del grupo observado, los actos de disciplina, la relación de la disciplina del grupo con la de la escuela y las técnicas de disciplina en el aula. El concepto de disciplina de los niños concuerda con lo que tradicionalmente se entiende por este término. Los adultos evidencian, por su parte, un conocimiento teórico. Los niños perciben la dificultad de la persona responsable de mantener la disciplina y se comportan no respetando los límites. 1998. Informe final (segunda fase). El objetivo primordial de la segunda fase fue la elaboración de un modelo para el manejo de la disciplina en el aula y la validación de este con diversas poblaciones. Los resultados obtenidos fueron estructurados en cuatro módulos, que corresponden a las áreas en que se organizó la información obtenida en el trabajo de campo: conducta del maestro, conducta de los niños, trabajo escolar, y manejo de la disciplina. Para cada subcategoría se retoma su definición, se hace una pregunta reflexiva para el docente, se ilustra con una o varias citas etnográficas y se hace una discusión teórico-práctica cuyo fin es que el lector saque sus conclusiones y pueda elaborar sus propias estrategias para modificar, incorporar o eliminar comportamientos en el aula. 1998. Serie de módulos. La disciplina obedece a una dinámica amplia que conjuga las acciones y personalidad de los niños y el docente, el trabajo del aula en relación con los contenidos, la metodología y los recursos, así como el ambiente educativo. Las autoras consideran que la disciplina es sujeto de aprendizaje y que deber ser considerada en el proceso de planeamiento diario y de planificación escolar, por lo que los módulos responden a esta filosofía. Módulo 1: Conducta del maestro. Incluye recomendaciones en cuanto al uso de la comunicación verbal y no verbal, las reacciones, su papel y su radio de atención. La comunicación breve, explicativa y cordial es el estilo que mejores resultados tiene en la interacción maestro-alumno. Los monólogos y la comunicación contradictoria tienden a provocar reacciones de indisciplina, debido al desconcierto y la confusión que producen. La comunicación posesiva (uso de 'me' en el discurso del profesor) no favorece que el alumno se responsabilice por sus acciones. Las conductas que no parecen tener un objetivo claro y definido provocan dificultad para mantener la atención adecuadamente. Módulo 2: Trabajo escolar. Incluye las condiciones ambientales y didácticas que inciden en el proceso de enseñanza-aprendizaje y en la conducta de los niños. El dictado, la lectura y la copia son técnicas tradicionales empleadas en los centros educativos. Frente a estas, las técnicas de resumen y exposición permiten participar más y manifestar la creatividad de los alumnos. Módulo 3: Conducta de los niños. En cuanto a los estilos de llamar la atención, los niños recurren a la imitación, la acusación y la delegación de la responsabilidad, entre otros. Las conductas perturbadoras, tales como los ruidos, la agresión y el caos, consumen hasta un 50% del tiempo por parte del docente que trata de controlarlas, por lo que su manejo reviste especial importancia. Módulo 4: Manejo de la disciplina. Incluye las formas verbales y no verbales utilizadas por los maestros para recordarles a los niños los comportamientos necesarios para realizar con éxito el trabajo escolar. Resultan positivos el laconismo, los gestos, la retroalimentación, el contacto físico no agresivo con niños pequeños, el tono de voz firme y neutral, el acercamiento, la reubicación de los alumnos, el uso del silencio, el establecimiento de rutinas y normas, el recordatorio de estas, la formulación de actividades novedosas e interesantes, y la privación de derechos Plantean mayores inconvenientes el empleo de sonidos (golpes contra objetos, sonidos guturales), la amenaza, el regaño, y las órdenes excesivas. Deben eliminarse por completo la devaluación y las quejas por parte del docente. </subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">DISCIPLINA ESCOLAR</subfield>
+    <subfield code="9">709</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">DOCENTES</subfield>
+    <subfield code="9">331</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">COMPORTAMIENTO ESTUDIANTIL</subfield>
+    <subfield code="9">3004</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">ESTUDIANTES </subfield>
+    <subfield code="9">332</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="700">
+    <subfield code="a">Abarca Molina, Angelina</subfield>
+    <subfield code="9">2645</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1=" ">
+    <subfield code="a">Nieto Izaguirre, Marisol</subfield>
+    <subfield code="9">3760</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

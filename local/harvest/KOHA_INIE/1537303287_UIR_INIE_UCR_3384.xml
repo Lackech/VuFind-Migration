@@ -1,0 +1,53 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00657nam a22001817a 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">3384</subfield>
+    <subfield code="d">3384</subfield>
+  </datafield>
+  <controlfield tag="008">170203b2009    cr a|||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="020" ind2=" ">
+    <subfield code="a">9789968251808</subfield>
+  </datafield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">02.04.02</subfield>
+    <subfield code="b">1786</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="2" tag="110">
+    <subfield code="9">1766</subfield>
+    <subfield code="a">Instituto Nacional de las Mujeres</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Sistema unificado de medición estadística de la violencia de género en Costa Rica: Indicadores 2006-2007 /</subfield>
+    <subfield code="c">Instituto Nacional de las Mujeres</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">SanJosé, Costa Rica :</subfield>
+    <subfield code="b">INAMU,</subfield>
+    <subfield code="c">2009</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">50 páginas;</subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">85</subfield>
+    <subfield code="a">VIOLENCIA CONTRA LAS MUJERES</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">549</subfield>
+    <subfield code="a">ESTADÍSTICA </subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">69</subfield>
+    <subfield code="a">GÉNERO</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">795</subfield>
+    <subfield code="a">INDICADORES SOCIALES</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

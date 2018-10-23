@@ -1,0 +1,63 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03522nam a2200217Ia 4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">1153</subfield>
+    <subfield code="d">1153</subfield>
+  </datafield>
+  <controlfield tag="008">170313b2004    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">18.09.01 </subfield>
+    <subfield code="b">914 CD #103</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Chacón Ramírez, Silvia</subfield>
+    <subfield code="9">224</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Investigación Evaluativa : autoevaluación con miras a la acreditación en la Escuela de Formación Docente / </subfield>
+    <subfield code="c">Silvia Chacón Ramírez, Ana Cecilia Hernández Rodríguez, Carmen Liddy Fallas Jiménez</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica  : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2004</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">337 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="500" ind2=" ">
+    <subfield code="a">Informe Final de Investigación N° 724-A1-043. Tomo I y II\ Contiene el Disco compacto Nº 103 con el título: Autoevaluación con miras a la acreditación en la Escuela de Formación Docente: la situación de los planes de Bachillerato en Educación Primaria,</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">La intención primordial de este informe es constituirse en insumo para la toma de decisiones en la búsqueda del mejoramiento de los planes de estudio; pero adicionalmente constituirse en insumo básico para el proceso de acreditación de las carreras de Educación Primaria y Preescolar, ante el Sistema Nacional de Acreditación (SINAES), en Costa Rica.Esta investigación es de tipo evaluativa, que entra en el tipo de investigación educativa; lo cual significa que el proceso se oriento a recabar información sobre determinada situación, para posteriormente tomar decisiones en busca del mejoramiento de esa situación.  El primer objeto de estudio es el estado de desarrollo y operacionalización de las carreras de Educación Primaria, Educación Preescolar y el Núcleo Pedagógico de Secundaria, con respecto a la Unidad Académica.  El segundo objeto de estudio es el proceso de autoevaluación en sí mismo. Los logros alcanzados en esta investigación según los objetivos propuestos son los siguientes: * Autoevaluar con base en 6 factores (plan de estudios, docencia, personal académico, población estudiantil, organización y administración, recursos financieros, físicos y materiales las carreras de Bachillerato en Educación Preescolar y Bachillerato Núcleo Pedagógico (secundaria).  Grado de avance:  Se logró en forma completa para los Bachilleratos de Educación Preescolar y Educación Primaria.  En forma parcial para el Núcleo Pedagógico, que por efectos de tiempo y falta de recurso humano no se logró el alcance propuesto. * Proponer insumos para organizar y ejecutar planes de autorregulación para la Escuela de Formación Docente en función de las carreras seleccionadas.  Grado de avance: Se logró completamente.  Dentro de cada informe diferenciado (preescolar, primaria y secundaria) se incorporan recomendaciones para la autorregulación correspondiente a los diferentes factores.  Lo mismo que en el informe unificado. * Brindar al Centro de Evaluación Académica, retroalimentación para la construcción reflexiva de un modelo de autoevaluación.  Grado de avance: Completo, se logran insumos, la caracterización de un modelo de autoevaluación.  Las recomendaciones para el Centro de Evaluación Académica y la escuela de Formación docente se concretan de manera muy general, aunque se ofrecen recomendaciones específicas.</subfield>
+  </datafield>
+  <datafield ind2="0" tag="610" ind1="2">
+    <subfield code="9">2534</subfield>
+    <subfield code="a">UNIVERSIDAD DE COSTA RICA. FACULTAD DE EDUCACIÓN. ESCUELA DE FORMACIÓN DOCENTE</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">EVALUACIÓN </subfield>
+    <subfield code="9">287</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">PROGRAMA DE ESTUDIOS</subfield>
+    <subfield code="9">1364</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">ACREDITACIÓN (EDUCACIÓN)</subfield>
+    <subfield code="9">1135</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Hernández Rodríguez, Ana Cecilia</subfield>
+    <subfield code="9">173</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="a">Fallas Jiménez, Carmen Liddy</subfield>
+    <subfield code="9">2535</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

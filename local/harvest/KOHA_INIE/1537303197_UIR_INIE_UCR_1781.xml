@@ -1,0 +1,47 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03455nam a2200169Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">1781</subfield>
+    <subfield code="d">1781</subfield>
+  </datafield>
+  <controlfield tag="008">141002s2011    cr            000 | und d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">06.03.06 </subfield>
+    <subfield code="b">216</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="a">Araya Ramírez , Jéssica</subfield>
+    <subfield code="9">1610</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="245">
+    <subfield code="a">La competencia en la expresión oral de niños escolares en Costa Rica: el componente léxico / </subfield>
+    <subfield code="c">Jéssica Araya Ramírez</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2011</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">191 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Informe final Proyecto de Investigación N° 724-A9-327</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">El objetivo general de este estudio es describir la competencia léxica en producciones orales de estudiantes de primero a sexto grado de la Educación General Básica en Costa Rica (E.G.B) de una escuela pública de San José, circuito 02. Para conformar la muestra se seleccionó un centro educativo público del cantón de Montes de Oca, de la provincia de San José. La dirección de la institución seleccionó 6 docentes de 1° a 6° (1 docente por cada grado escolar). La investigadora escogió al azar de una lista 15 estudiantes por cada nivel escolar). Se reunió al grupo de estudiantes seleccionados para explicarles en qué consistía el trabajo. Se recogieron los textos orales de 90 sujetos y se desecharon los textos que no cumplían como mínimo 50 enunciados, tanto en el texto explicativo como el narrativo. Al darse una constante de 6 a 9 estudiantes que lograron producir ambos tipos de textos con el requisito mencionado, se escogieron 36 escolares distribuidos equitativamente de la siguiente manera: seis niños por cada grado escolar (3 niñas y 3 niños), con el propósito de sistematizar la evolución de los estudiantes en cuanto al componente léxico en ambos tipos de textos. De esta manera, se analizaron 72 producciones orales en total. Por consiguiente, la muestra fue intencionada y los estudiantes elegidos debían cumplir con la edad cronológica según el grado escolar que cursaban, no repetir curso lectivo correspondiente, ni recibir adecuación curricular de ninguna modalidad. A continuación se presenta una síntesis de los resultados más relevantes: En cuanto a la competencia léxica es importante concebir el vocabulario como “la materia prima” o el “insumo” necesario para que los escolares construyan y profundicen sus producciones tanto orales como escritas. Las prácticas pedagógicas, específicamente las relacionadas con el desarrollo de la expresión oral se retroalimentan más desde un enfoque gramatical tradicional. Con respecto a la diversidad léxica valorada en este estudio no se visualizó un comportamiento que permita determinar el crecimiento del vocabulario según el grado escolar que cursa el estudiante. En este sentido, el grado escolar no fue un factor que incidiera en la evaluación del léxico. En cuanto a las categorías de palabras (sustantivos, verbos y adjetivos) los adjetivos fueron los menos producidos por los escolares en ambos tipos de texto oral. Con respecto a la precisión léxica, las palabras “cosa”, “chunche”, “hacer cosas”, “feo/bonito” y “malo/bueno” son ejemplos de imprecisión léxica presentes en los textos orales narrativos y explicativos producidos por los sujetos de este estudio. Dicha debilidad puede remediarse con la adquisición de nuevo vocabulario, el cual sea contextualizado en textos orales de diversas temáticas.</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">EDUCACIÓN PRIMARIA</subfield>
+    <subfield code="9">367</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">LEXICOGRAFÍA</subfield>
+    <subfield code="9">3536</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

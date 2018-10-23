@@ -1,0 +1,47 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00642nab a2200157   4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">3431</subfield>
+    <subfield code="d">3431</subfield>
+  </datafield>
+  <controlfield tag="008">170824b2012    cr ||||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">REVIS</subfield>
+    <subfield code="b">06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">3104</subfield>
+    <subfield code="a">Zamora Zumbado, Denia</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Desarrollo moral en niñas y niños entre cuatro y siete años con altas competencias cognitivas /</subfield>
+    <subfield code="c">Denia Zamora Zumbado</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">pp. 58-68</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">908</subfield>
+    <subfield code="a">INTELIGENCIA  </subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">876</subfield>
+    <subfield code="a">DESARROLLO AFECTIVO</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">693</subfield>
+    <subfield code="a">VALORES MORALES</subfield>
+  </datafield>
+  <datafield tag="773" ind1="0" ind2=" ">
+    <subfield code="d">Costa Rica : Departamento de Investigaciones, Universidad De La Salle, 2012-</subfield>
+    <subfield code="o">R0642</subfield>
+    <subfield code="t">Revista Redpensar</subfield>
+    <subfield code="x">2215-2938</subfield>
+    <subfield code="g">Vol.1, no.2 (diciembre, 2012)</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+</record>

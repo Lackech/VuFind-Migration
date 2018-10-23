@@ -1,0 +1,46 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01448nab a2200169   4500</leader>
+  <controlfield tag="005">20160831161742.0</controlfield>
+  <controlfield tag="008">160429b2012    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">1648</subfield>
+    <subfield code="a">Gutierrez Marín, Natalia</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Implementación de una estrategia dedáctica en la Clínica de Odontopedriatría, Facultad de Odontología, UCR /</subfield>
+    <subfield code="c">Natalia Gutierrez Marín</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2012</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">páginas 61 - 68</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">El presente trabajo muestra la implementación de una estrategia didáctica: el método de casos mediados con las Tecnologías de la Información y Comunicación (TIC), específicamente el uso del blog, con un grupo de estudiantes del II semestre del 2010 que asisten a la clínica de Odontopediatría de la Facultad de Odontología, Universidad de Costa Rica (UCR). El objetivo de la estrategia, sus habilidades diagnosticas para inficar un adecuado tratamiento dental. Como resultados, se observó que la estrategia empleada produjo buenos efectos en el aprendizaje y su empleo promovió un buen nivel de satisfacción en los estudiantes. Se recomienda aplicarlo en un grupo mayor para verificar su eficacia.</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0626</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.36, no.2 (jul.-dic., 2012)</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">3178</subfield>
+    <subfield code="d">3178</subfield>
+  </datafield>
+</record>

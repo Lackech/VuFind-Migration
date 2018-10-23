@@ -1,0 +1,48 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02036nab a22001697a 4500</leader>
+  <controlfield tag="005">20160328155611.0</controlfield>
+  <controlfield tag="008">150806b2002    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">733</subfield>
+    <subfield code="a">Arce Urbina, María Elena</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="3">
+    <subfield code="a">El valor de la experimentación en la enseñanza de las ciencias naturales. El taller de ciencias para niños de la Sede del Atlántico de la Universidad de Costa Rica: una experiencia para compartir /</subfield>
+    <subfield code="c">María Elena Arce Urbina</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2002</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">páginas 147-154</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">Desde el año 1997, se viene desarrollando en la Sede del Atlántico de la Universidad de Costa Rica, el proyecto didáctico-recreativo denominado Taller de Ciencias para Niños de Segundo Ciclo, el cual tiene como objetivo principal, permitir el acercamiento de los niños y de las niñas a un sistema diferente de enseñanza de las ciencias naturales, a través de un método más atrayente y efectivo, basado en la experimentación.
+Se parte del principio de que es en ciencias como la Biología, la Química y la Física, en donde encontramos las respuestas a una fran cantidad de inquietudes, que surgen cuando observamos los diferentes  fenómenos que ocurren a nuestro alrededor. Por esto pensamos que no debe limitarse la enseñanza de las ciencias naturales a la pizarra o al dictado.
+En este artículo se comparten algunos de los logros alcanzados en estos años de trabajo en el taller, así como la opinión de los padres y madres de los niños participantes. Además, se incluyen los resultados de una encuesta realizada en el año 2000, a maestros y maestras de la ciudad de Turrialba, para conocer su opinión sobre si es importante o no la realización de experimentos en las clases de ciencias naturales</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" tag="773" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0060</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.26, no.1  (2002)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2775</subfield>
+    <subfield code="d">2775</subfield>
+  </datafield>
+</record>

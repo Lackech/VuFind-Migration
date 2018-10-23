@@ -1,0 +1,62 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02093nam a2200217Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2271</subfield>
+    <subfield code="d">2271</subfield>
+  </datafield>
+  <controlfield tag="008">180706b2       cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">18.08.01 </subfield>
+    <subfield code="b">435</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="a">Mora Moya, Marielos</subfield>
+    <subfield code="9">3941</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Elementos de matemática computacional / </subfield>
+    <subfield code="c">Marielos Mora, Floria Arias</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">2003</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">95 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="490" ind2=" ">
+    <subfield code="a">Cabécar</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Producto del proyecto de investigación N° 724-A2-152</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">Este documento es el resultado de la primera etapa de un proyecto de investigación en conjunto entre el IIMEC y la Escuela de Matemática de la Universidad de Costa Rica. La segunda etapa consiste en la elaboración de una página web que complemente el texto. Su objetivo es ofrecer a los estudiantes el material teórico y práctico de estudio en el curso Matemática para Computación I. Siendo este el primer curso de matemática para estudiantes de la Carrera de Computación e Informática. Su programa consiste en la introducción en la introducción a varios temas de la matemática sin avanzar profundamente en ninguno de ellos. En cursos siguientes como Matemáticas Discretas, Cálculo Diferencial e Integral I y II, entre otros, se vuelve al estudio de los mismos temas enfatizando en las aplicaciones. En el orden del programa el texto desarrolla siete capítulos: Introducción a la Lógica, Elementos de la teórica de conjuntos, Inducción Matemática, Divisibilidad, Sistemas Numéricos, Relaciones Binarias y Funciones. Se escribió pensando en los estudiantes como alumnos de primer año, que recién comienzan a leer y escribir matemática. Se eliminan las demostraciones largas o complejas. Así, las demostraciones de teoremas que se incluyen son aquellas que tienen una estructura lógica sencilla y que no se basan en cálculos complejos o resultados no familiares para los estudiantes.</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">MATEMÁTICAS  </subfield>
+    <subfield code="9">482</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">MATERIAS DE ENSEÑANZA</subfield>
+    <subfield code="9">3942</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">COMPUTACIÓN</subfield>
+    <subfield code="9">2138</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">LIBROS DE TEXTO</subfield>
+    <subfield code="9">1746</subfield>
+  </datafield>
+  <datafield ind1=" " tag="700" ind2=" ">
+    <subfield code="9">3673</subfield>
+    <subfield code="a">Arias Tencio, Floria</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

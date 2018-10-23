@@ -1,0 +1,43 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00525nam a2200157Ia 4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">368</subfield>
+    <subfield code="d">368</subfield>
+  </datafield>
+  <controlfield tag="008">160209b1999    ck ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="020" ind2=" ">
+    <subfield code="a">958044918X</subfield>
+  </datafield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">06.05.04 </subfield>
+    <subfield code="b">1804</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="a">Gelb, Michael J.</subfield>
+    <subfield code="9">1461</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Inteligencia genial, 7 principios claves para desarrollar la  inteligencia, inspirados e la vida y obra de Leonardo da Vinci</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Colombia : </subfield>
+    <subfield code="b">Editorial Norma, </subfield>
+    <subfield code="c">1999</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">359 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="600" ind2="0">
+    <subfield code="9">2370</subfield>
+    <subfield code="a">DA VINCI, LEONARDO </subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">INTELIGENCIA  </subfield>
+    <subfield code="9">908</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

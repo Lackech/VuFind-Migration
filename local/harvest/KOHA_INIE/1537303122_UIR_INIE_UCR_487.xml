@@ -1,0 +1,85 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01301nam a2200265Ia 4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">487</subfield>
+    <subfield code="d">487</subfield>
+  </datafield>
+  <controlfield tag="008">161209b        xxu||||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="020">
+    <subfield code="a">9788469583630</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">CD #100</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="111">
+    <subfield code="a">Congreso Nacional (2013: Alicante España) </subfield>
+    <subfield code="n">(16 : </subfield>
+    <subfield code="d">2013 : </subfield>
+    <subfield code="c">Alicante, España); Congreso Internacional </subfield>
+    <subfield code="n">(2 : 2013 : Alicante, España)</subfield>
+    <subfield code="9">2175</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Investigación e innovación educativa al servicio de instituciones y comunidades globales, plurales y diversas / </subfield>
+    <subfield code="c">Editores María Cristina Cardona Moltó, Esther Chiner Sanz, Antonio V. Giner Gomis</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">Alicante, España : </subfield>
+    <subfield code="b">Asociación Interuniversitario de Educación Pedagógica, </subfield>
+    <subfield code="c">2013</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">1790 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Congreso Nacional Alicante España  16 del 2013 y Congreso Internacional Alicante España 2 del 2013.</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">INVESTIGACIÓN EDUCATIVA</subfield>
+    <subfield code="9">326</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">EQUIDAD</subfield>
+    <subfield code="9">343</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">IDENTIDAD CULTURAL</subfield>
+    <subfield code="9">480</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">DIVERSIDAD CULTURAL</subfield>
+    <subfield code="9">829</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">EVALUACIÓN DE LA EDUCACIÓN</subfield>
+    <subfield code="9">308</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">EDUCACIÓN INCLUSIVA</subfield>
+    <subfield code="9">2</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">FORMACIÓN DE DOCENTES</subfield>
+    <subfield code="9">9</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">INNOVACIONES PEDAGÓGICAS</subfield>
+    <subfield code="9">666</subfield>
+  </datafield>
+  <datafield tag="711" ind1=" " ind2=" ">
+    <subfield code="a">Congreso Nacional </subfield>
+    <subfield code="n">(16 : </subfield>
+    <subfield code="d">2013 : </subfield>
+    <subfield code="c">Alicante, España); Congreso Internacional </subfield>
+    <subfield code="n">(2 : 2013 : Alciante, España)</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">06</subfield>
+  </datafield>
+</record>

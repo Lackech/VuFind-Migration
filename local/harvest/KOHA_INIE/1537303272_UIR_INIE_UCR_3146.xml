@@ -1,0 +1,67 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00924nam a2200205   4500</leader>
+  <controlfield tag="008">160422b2014    mx ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">06.03.06</subfield>
+    <subfield code="b">2169</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">1602</subfield>
+    <subfield code="a">Beltrán Llevador, José</subfield>
+  </datafield>
+  <datafield ind2=" " tag="245" ind1=" ">
+    <subfield code="a">La responsabilidad social universitaria, el reto de su construcción permanente /</subfield>
+    <subfield code="c">José Beltrán Llevador, Enrique Íñigo Bajo y Alejandrina Mata Segreda</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">pp. 3-18</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="500">
+    <subfield code="a">Artículopublicado en la Revista Iberoamericana de Educación superior (RIES). Vol.5, (14), 2014.</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">8</subfield>
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">495</subfield>
+    <subfield code="a">EQUIDAD SOCIAL</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">16</subfield>
+    <subfield code="a">UNIVERSIDADES </subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">399</subfield>
+    <subfield code="a">RESPONSABILIDAD</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="9">1603</subfield>
+    <subfield code="a">Iñigo Bajo, Enrique</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">109</subfield>
+    <subfield code="a">Mata Segreda, Alejandrina</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield ind2=" " tag="773" ind1="0">
+    <subfield code="0">2901</subfield>
+    <subfield code="9">2861</subfield>
+    <subfield code="a">Mata Segreda, Alejandrina</subfield>
+    <subfield code="b"/>
+    <subfield code="d">San José, Costa Rica :  INIE, 2013</subfield>
+    <subfield code="o">003832 </subfield>
+    <subfield code="t">Equidad y cohesión social en la educación universitaria / </subfield>
+    <subfield code="w"/>
+    <subfield code="x"/>
+    <subfield code="z"/>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">3146</subfield>
+    <subfield code="d">3146</subfield>
+  </datafield>
+</record>

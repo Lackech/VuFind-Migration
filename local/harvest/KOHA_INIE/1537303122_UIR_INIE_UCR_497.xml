@@ -1,0 +1,50 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00567nam a2200169Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">497</subfield>
+    <subfield code="d">497</subfield>
+  </datafield>
+  <controlfield tag="008">161212b2009    a  ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="020" ind2=" ">
+    <subfield code="a">9789505565542</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">06.01.01 </subfield>
+    <subfield code="b">1975</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="a">Puiggrós, Adriana</subfield>
+    <subfield code="9">2196</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Saberes: reflexiones, experiencias y debates / </subfield>
+    <subfield code="c">Adriana Puiggrós; Lidia Rodríguez </subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">Buenos Aires : </subfield>
+    <subfield code="b">Galerna, </subfield>
+    <subfield code="c">2009</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">254 págimas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">SOCIOLOGÍA DE LA EDUCACIÓN</subfield>
+    <subfield code="9">947</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2=" ">
+    <subfield code="a">Puiggrós, Adriana</subfield>
+    <subfield code="e">dirección</subfield>
+    <subfield code="9">2196</subfield>
+  </datafield>
+  <datafield ind1=" " tag="700" ind2=" ">
+    <subfield code="a">Rodríguez, Lidia</subfield>
+    <subfield code="e">coordinación</subfield>
+    <subfield code="9">2197</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

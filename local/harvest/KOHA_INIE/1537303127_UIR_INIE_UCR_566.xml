@@ -1,0 +1,91 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01100nam a2200301Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">566</subfield>
+    <subfield code="d">566</subfield>
+  </datafield>
+  <controlfield tag="008">170208b2009    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9789968411578</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">05.05.03 </subfield>
+    <subfield code="b">1477</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">González Villanueva, Gustavo </subfield>
+    <subfield code="9">2411</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Escritores Latinoamericanos. Estudio y Comentarios: leo-pienso-opino / </subfield>
+    <subfield code="c">Dirigido por Gustavo González Villanueva</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Promesa, </subfield>
+    <subfield code="c">2009</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">90 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="490">
+    <subfield code="a">Escritores Latinoamericanos, Vol.14</subfield>
+  </datafield>
+  <datafield ind1=" " tag="505" ind2=" ">
+    <subfield code="t">Temas de realidad social en tres cuentos /</subfield>
+    <subfield code="r">Silvina Ocampo</subfield>
+  </datafield>
+  <datafield tag="505" ind1=" " ind2=" ">
+    <subfield code="t">El insondable /</subfield>
+    <subfield code="r">Álvaro Pineda Botero</subfield>
+  </datafield>
+  <datafield tag="505" ind1=" " ind2=" ">
+    <subfield code="t">Visión de Anáhuac (1519) /</subfield>
+    <subfield code="r">Alfonso Reyes</subfield>
+  </datafield>
+  <datafield ind2="4" tag="600" ind1="1">
+    <subfield code="9">2434</subfield>
+    <subfield code="a">OCAMPO, SILVINA</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="600">
+    <subfield code="9">2435</subfield>
+    <subfield code="a">PINEDA BOTERO, ALVARO</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="4">
+    <subfield code="9">2436</subfield>
+    <subfield code="a">REYES, ALFONSO</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">AUTORES</subfield>
+    <subfield code="9">2412</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">LITERATURA </subfield>
+    <subfield code="9">655</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">BIOGRAFÍAS</subfield>
+    <subfield code="9">968</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="4">
+    <subfield code="a">AMÉRICA LATINA</subfield>
+    <subfield code="9">273</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">617</subfield>
+    <subfield code="a">Gómez Jiménez, María del Mar</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="9">1335</subfield>
+    <subfield code="a">Castro Lee, Cecilia</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">2209</subfield>
+    <subfield code="a">Malavé González, Mercedes M.</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,77 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01733nam a2200265Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2111</subfield>
+    <subfield code="d">2111</subfield>
+  </datafield>
+  <controlfield tag="008">180828b2018    cr ||||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="020">
+    <subfield code="a">9789968527477</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">06.02.02</subfield>
+    <subfield code="b">2416</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1=" ">
+    <subfield code="a">Stiller González, Laura</subfield>
+    <subfield code="9">930</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Guía de accesibilidad en la educación superior /</subfield>
+    <subfield code="c">Laura Stiller, Martha Gross</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica. : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2018</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">64 páginas</subfield>
+  </datafield>
+  <datafield tag="490" ind1=" " ind2=" ">
+    <subfield code="a">Colección Yigüirro</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Producto del Proyecto de Investigación N° 724-B5-309</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">La presente Guía de accesibilidad es un instrumento práctico que permite analizar, corroborar y orientar sobre la accesibilidad en el entorno universitario.  Se enmarca en la vida estudiantil; es decir, considera los aspectos relacionados con trámites, actividades acádemicasy recreativas, además de incluir los procesos de enseñanza - aprendizaje que se llevan a cabo tanto en las aulas con en otros ámbitos académicos.  La Guía de accesibilidad está dirigida al personal docente y administrativo que tiene relación directa con el estudiantado con necesidades educativas asociadas o no a la discapacidad, conceptualizado como aquellos que presentan dificulatades para acceder  a los procesos de enseñanza y aprendizaje, se incluye a personas que tienen deficiencias físicas, mentales, intelectuales o sensoriales que requiere de un apoyo educativo específico.</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">ACCESO A LA EDUCACIÓN</subfield>
+    <subfield code="9">320</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">ACCESO A LA INFORMACIÓN</subfield>
+    <subfield code="9">357</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">NECESIDADES DE EDUCACIÓN </subfield>
+    <subfield code="9">834</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">EQUIDAD</subfield>
+    <subfield code="9">343</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">EDUCACIÓN INCLUSIVA</subfield>
+    <subfield code="9">2</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+    <subfield code="9">8</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">GUÍA</subfield>
+    <subfield code="9">1822</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2=" ">
+    <subfield code="a">Gross Martínez, Martha</subfield>
+    <subfield code="9">929</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,55 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01970nab a2200169   4500</leader>
+  <controlfield tag="008">150604b1999    c  f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">146</subfield>
+    <subfield code="a">Chavarría Navas, Soledad</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="3" tag="245">
+    <subfield code="a">La familia de la persona con discapacidad:  su ajuste en el ciclo de vida /</subfield>
+    <subfield code="c">Soledad Chavarría Navas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">1999</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">páginas 51-62</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">Este ensayo tiene como próposito analizar y ofrecer algunas explicaciones del vínculo que existe entre familia y discapacidad y su relación con el ajuste y funciones del grupo familiar en las diferentes etapas de su crecimiento a lo largo de la vida.
+Las explicaciones se centran en la discusión de los siguientes temas:
+I. Antecedentes históricos en la concepción del papel de la familia: de recipiente de servicios a miembro proactivo en la toma de decisiones.
+II. La concepción de familia en la teoría de sistemas.
+III. Las funciones de la familia desde el punto de vista de sus necesidades económicas, de cuidado diario, recreacionales, sociales, autoestima, afecto y educativo vocacionales.
+IV. El ciclo de vida de la familia y su ajuste de acuerdo con las tareas propias del desarrollo de cada etapa.
+Se concluye que las familias de personas con discapacidad funcionan como cualquier núcleo familiar, aunque su cotidianidad se ve influida por las particularidades de la discapacidad.  Una implicación importante que se deriva de lo anterior, es que las instituciones y los profesionales deben responder a estas necesidades específicas, partiendo de una visión de normalidad en lo referente a expectativas futuras e intereses comunes a toda familia</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="9">161</subfield>
+    <subfield code="a">Stupp Kupiec, Roxana</subfield>
+  </datafield>
+  <datafield ind1="0" tag="773" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0023</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.23, no.2 (1999)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2628</subfield>
+    <subfield code="d">2628</subfield>
+  </datafield>
+</record>

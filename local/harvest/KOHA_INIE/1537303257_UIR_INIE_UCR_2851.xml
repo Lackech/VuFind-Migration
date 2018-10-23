@@ -1,0 +1,47 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01434nab a2200169   4500</leader>
+  <controlfield tag="005">20150917155041.0</controlfield>
+  <controlfield tag="008">150903b2003    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">944</subfield>
+    <subfield code="a">Araya Umaña, Sandra</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="3" tag="245">
+    <subfield code="a">Un matrimonio conveniente: el género y la educación /</subfield>
+    <subfield code="c">Sandra Araya Umaña</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2003</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">páginas 11-25</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">Desde algunos de los feminismos se han realizado propuestas para la articulación del género en la educación. Dichos planteamientos iluminan la propuesta de equidad de género como un proceso que garantice el acceso de las mujeres y los hombres a un conjunto de saberes, habilidades y destrezas que les permitan estar en mejores y más iguales condiciones de vida.
+La educación constituye uno de los vehiculos para promover la equidad entre las mujeres y los hombres. Para ello, es imperioso que desde los procesos de formación docente se incorpore un saber dialógico que promueva, en el futuro profesorado, el potencial para la reinterpretación de los contenidos hegemónicos de género y con ello facilitar la introducción de cambios en su práctica laboral y personal</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0202</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.27, no.2  (2003)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2851</subfield>
+    <subfield code="d">2851</subfield>
+  </datafield>
+</record>

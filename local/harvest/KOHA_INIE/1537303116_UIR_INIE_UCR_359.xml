@@ -1,0 +1,66 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01122nam a2200229Ia 4500</leader>
+  <controlfield tag="008">160208b1999    cl ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="020" ind2=" ">
+    <subfield code="a">9562290778</subfield>
+  </datafield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">06.03.06 </subfield>
+    <subfield code="b">604</subfield>
+  </datafield>
+  <datafield ind1="2" tag="110" ind2=" ">
+    <subfield code="a">Red Internacional de agencias para el aseguramiento de la calidad en la Educación Superior</subfield>
+    <subfield code="9">1447</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">Conferencia de la Red Internacional de agencias para el aseguramiento de la calidad de la Educación Superior (5° : 1999 : Santiago de Chile)</subfield>
+    <subfield code="9">1448</subfield>
+  </datafield>
+  <datafield ind2="3" ind1="1" tag="245">
+    <subfield code="a">Un marco para la calidad : evaluando la evaluación</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">Santiago : </subfield>
+    <subfield code="b">La Red, </subfield>
+    <subfield code="c">1999</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">291 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="611" ind2="2">
+    <subfield code="9">1449</subfield>
+    <subfield code="a">CONFERENCIA DE LA RED INTERNACIONAL DE AGENCIAS PARA EL ASEGURAMIENTO  DE LA CALIDAD DE LA EDUCACIÓN SUPERIOR (5° : 1999 : SANTIAGO DE CHILE)</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">8</subfield>
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">CALIDAD DE LA EDUCACIÓN</subfield>
+    <subfield code="9">11</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">MODELOS </subfield>
+    <subfield code="9">676</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">TÉCNICAS DE EVALUACIÓN</subfield>
+    <subfield code="9">628</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">UNIVERSIDADES </subfield>
+    <subfield code="9">16</subfield>
+  </datafield>
+  <datafield ind1=" " tag="711" ind2=" ">
+    <subfield code="a">Conferencia de la Red Internacional de agencias para el aseguramiento de la calidad de la Educación Superior (5° : 1999 : Santiago de Chile)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">359</subfield>
+    <subfield code="d">359</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,53 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02094nab a22001817a 4500</leader>
+  <controlfield tag="008">150611b1999    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">178</subfield>
+    <subfield code="a">Bolaños Cubero, Carolina</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Hacia un diseño curricular alternativo en la educación superior /</subfield>
+    <subfield code="c">Carolina Bolaños Cubero</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">1999</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">páginas 185-194</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">La propuesta de diseño curricular alternativa que se propone en este documento trasciende la tradicional visión técnico-operativa del curriculum universitario.  Parte de la noción de curriculum como síntesis de elementos culturales que se concretan en un proyecto político educativo, construido por la interacción de grupos con diveros intereses y visiones de mundo, que responda a su propia dinámica sociohistórica.  Se plantean inicialmente dos momentos en los cuales se explican, por un lado la reflexión sociohistórica de la profesión, y por otro la reflexión espistemológica de la disciplina.  A partir de esto es posible sistematizar la selección de los saberes por considerar en la formación profesional y luego, con base en la discusión pedagógica, organizar estos saberes en unidades de aprendizaje en secuencias lógica y psicológica para concluir con el establecimiento de aspectos estructurales y prácticos de la propuesta curricular.  El proceso de diseño alternativo constituye una reflexión permanente en la que cada momento se nutre y fortalece de la reflexión de los otros.  Es decir es un ir y venir entre los diferentes momentos, en un constante proceso de construcción y reconstrucción conceptual, en el cual la participación activa de todos los sujetos del curriculum es condición indispensable</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">131</subfield>
+    <subfield code="a">Vargas Porras, Alicia</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">179</subfield>
+    <subfield code="a">Velázquez Vargas, Leda María</subfield>
+  </datafield>
+  <datafield ind1="0" tag="773" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0024</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.23, no.especial (1999)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2651</subfield>
+    <subfield code="d">2651</subfield>
+  </datafield>
+</record>

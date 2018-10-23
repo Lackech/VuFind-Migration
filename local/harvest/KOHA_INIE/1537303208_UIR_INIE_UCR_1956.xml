@@ -1,0 +1,59 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02365nam a2200205Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">1956</subfield>
+    <subfield code="d">1956</subfield>
+  </datafield>
+  <controlfield tag="008">180629b1994    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">06.05.02</subfield>
+    <subfield code="b"> 20</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="100">
+    <subfield code="a">Fallas Chacón, Lucía</subfield>
+    <subfield code="9">3834</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Actitudes de estudiantes de IX y X años, de los padres de familia y profesores hacia el idioma francés en la educación general básica y la educación diversificada /</subfield>
+    <subfield code="c">Lucía Fallas Chacón</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1994</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">174 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Informe final. Proyecto de investigación No. 724-91-271</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">Partiendo del escaso número de estudiantes que escoge la opción de francés a partir del IX año hasta el bachillerato de secundaria y la posibilidad de eliminar dicha materia de los programas del Ministerio de Educación, la investigadora lleva a cabo una evaluación de la actitudes de los estudiantes de IX y X años, de los profesores y de los padres de familia hacia el idioma francés y su enseñanza en Costa Rica. La investigación es de tipo exploratorio-descriptivo y toma en cuenta variables como el tipo de institución y la zona geográfica. La muestra incluye once instituciones públicas, privadas y semiprivadas de los cantones de Desamparados, Montes de Oca, Curridabat, Goicoechea y Moravia. Se recogieron 1875 pruebas de estudiantes, 26 pruebas de profesores y 1170 cuestionarios de padres de familia. Los instrumentos utilizados fueron dos escalas Likert y un cuestionario de opinión. Para el caso de los estudiantes, los ítemes medían criterios como utilidad, carácter práctico, semejanza con el español y estatus. Las pruebas de los profesores calificaban aspectos de motivación, eficiencia y satisfacción. En cuento a los resultados, se concluye que, independientemente de la naturaleza de las instituciones, las actitudes identificadas son positivas, especialmente en los estudiantes de X año; los profesores de francés sienten satisfacción por la labor que realizan; y los padres de familia no intervienen a favor de la selección de un idioma específico para presentar en los exámenes de bachillerato y abogan por la permanencia del estudio del francés. </subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">ENSEÑANZA DE IDIOMAS</subfield>
+    <subfield code="9">1317</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">EDUCACIÓN SECUNDARIA</subfield>
+    <subfield code="9">456</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">CUESTIONARIOS</subfield>
+    <subfield code="9">953</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">DOCENTES</subfield>
+    <subfield code="9">331</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">FRANCÉS</subfield>
+    <subfield code="9">604</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

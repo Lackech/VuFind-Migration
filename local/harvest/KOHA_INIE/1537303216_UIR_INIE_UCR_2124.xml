@@ -1,0 +1,66 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02342nam a2200229Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2124</subfield>
+    <subfield code="d">2124</subfield>
+  </datafield>
+  <controlfield tag="008">180822b1999    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">14.02.02</subfield>
+    <subfield code="b">23</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1=" ">
+    <subfield code="a">García Fallas, Jacqueline</subfield>
+    <subfield code="9">759</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Diferencia cognitiva:  Estilos de aprendizaje en niños y niñas en ambientes de aprendizaje informatizados : un estudio de casos / </subfield>
+    <subfield code="c">Jacqueline García Fallas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1999</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">88 página</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">La Unidad posee el primer informe parcial de 1997 y el informe final del proyecto 724-96-237</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">Estudio de casos realizado a un grupo heterogéneo - en cuanto a edad, nivel escolar, intereses y situación socioeconómica- conformado por doce estudiantes (seis niños y seis niñas) de la comunidad de Pérez Zeledón, con el propósito de estudiar su desenvolvimiento en un ambiente de aprendizaje informatizado para determinar si existen diferentes estilos de aprendizaje asociados al género y, de ser así, fundamentar las características pedagógicas óptimas para construir, desde un enfoque construccionista, ambientes de aprendizaje informáticos que permitan abordar el aprendizaje desde la perspectiva de géneros. Para esta investigación se procedió, en primer lugar, a elaborar un marco conceptual sobre las nociones de género y estilo de aprendizaje. Luego, se realizaron sesiones de trabajo con los doce sujetos, en las que se desarrolló una experiencia de aprendizaje con características construccionistas. También se llevaron cabo talleres con los docentes-tutores, quienes fueron los encargados de seleccionar a los niños. El análisis de los datos recogidos en las sesiones no evidenció diferencia en los estilos de aprendizaje de los niños y de las niñas en los ambientes informatizados. Cada estudiante recurrió a su propio método de aprendizaje para relacionarse con los otros y con la computadora. En cuanto al ambiente de aprendizaje, se mostró que el criterio de heterogeneidad para su conformación crea contextos significativos de trabajo para los niños y para las niñas.</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">NIÑOS</subfield>
+    <subfield code="9">59</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">COGNICIÓN</subfield>
+    <subfield code="9">41</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">PROGRAMAS DE COMPUTADORA</subfield>
+    <subfield code="9">1302</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">INFORMÁTICA </subfield>
+    <subfield code="9">3406</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">EPIDEMIOLOGÍA </subfield>
+    <subfield code="9">1068</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">ESTUDIOS DE CASOS</subfield>
+    <subfield code="9">339</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+  </datafield>
+</record>

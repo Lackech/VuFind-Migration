@@ -1,0 +1,70 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>04061nam a2200217Ia 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">1950</subfield>
+    <subfield code="d">1950</subfield>
+  </datafield>
+  <controlfield tag="008">180612b2007    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">06.05.02 </subfield>
+    <subfield code="b">1463</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="100">
+    <subfield code="a">Cubero Venegas, Carmen María</subfield>
+    <subfield code="9">708</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Validación de una lista de cotejo para la identificación de niños y niñas con trastornos de la atención /</subfield>
+    <subfield code="c">Carmen Cubero Venegas,  Marisol Nieto Izaguirre</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2007</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">242 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="500">
+    <subfield code="a">Informe Final del Proyecto de Investigación N°724-99-361.</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">Esta investigación tuvo como objetivo principal la validación de una lista de cotejo de conductas propias de los trastornos de la atención para uso de los docentes en la identificación de los niños y niñas con déficit de atención con o sin hiperactividad. 
+Inicialmente se pensó en realizar un estudio estadístico que permitiera la validación de la lista de cotejo confeccionada previamente por las investigadoras, y así se consignó en el proyecto original, sin embargo esto no fue posible hacerlo, debido a la imposibilidad de contar una muestra satisfactoria de niños y niñas con trastornos de la atención, debidamente diagnosticada, así se pasó de un propuesta inicial basada en el paradigma positivista, a un proceso investigativo basado en el uso de técnicas cualitativas, que permitieran comprender e interpretar la realidad, los significados y las intenciones de las personas invitadas a participar en el proceso investigativo. Lo anterior provocó que se buscaran modos alternos para realizar el trabajo, encontrándose que la técnica "juicio de experto" se adaptaba bastante bien a lo que las autoras querían realizar. 
+Entre los resultados más importantes de resaltar están las modificaciones realizadas a la lista a partir de las observaciones, comentarios y sugerencias recibidas por los expertos. La modificación fue tanto numérica como de contenido, debido a la necesidad de analizar cada uno de los ítemes de tal manera que tuviera una primer certeza de que se esta valorando una conducta propia del trastorno, así como revisar cuidadosamente la construcción idiomática del instrumento y del contenido. 
+El trabajo realizado por las personas expertas participantes enriquece mucho el proceso de validación de los contenidos y le da confiabilidad al trabajo que se realizó, pues son personas que conocen tanto del trastorno como de la realidad que se vive en el sistema educativo nacional. 
+Las recomendaciones son: 
+- Al finalizar este proceso de investigación, se comprueba la necesidad de que las personas profesionales en educación tengan mayor información y formación en el manejo de trastornos como el déficit de atención, para así cumplir efectivamente con lo que demanda la sociedad y se destaca en los documentos emanados de organismos internacionales dedicados al estudio de los procesos educativos. La educación debe ser concebida y llevada a la práctica con el compromiso de que sea un factor de desarrollo que permita a las personas mejorar su calidad de vida. Debe existir el compromiso de dar herramientas al docente y a la docente, que faciliten su trabajo cotidiano. 
+- La lista de cotejo, producto de este trabajo debe ser publicada y divulgada mediante diversos medios, de tal manea que su uso pueda ser efectivo para la población para la que fue pensado. 
+- Se debe tener claridad, de que este instrumento no es de carácter diagnóstico, sino de una ayuda al personal docente para que pueda identificar conductas que presentan los niños y niñas con trastornos de la atención, y que su fin es, aparte de la identificación, que el maestro o la maestra puedan desarrollar estrategias que faciliten los procesos de enseñanza y aprendizaje, mediante el control de aquellas conductas que lo están perturbando.</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">MÉTODOS PEDAGÓGICOS</subfield>
+    <subfield code="9">824</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">ESCUELAS </subfield>
+    <subfield code="9">300</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">NIÑOS</subfield>
+    <subfield code="9">59</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">NIÑAS</subfield>
+    <subfield code="9">60</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2=" ">
+    <subfield code="a">Nieto Izaguirre, Marisol</subfield>
+    <subfield code="9">3760</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

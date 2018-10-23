@@ -1,0 +1,64 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>     nam a22     7a 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">3464</subfield>
+    <subfield code="d">3464</subfield>
+  </datafield>
+  <controlfield tag="008">171212b2016    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">06.02.01</subfield>
+    <subfield code="b">2439</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">1125</subfield>
+    <subfield code="a">Acevedo Álvarez, Raziel</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Factores de innovación universitaria asociados a escuelas e instituciones artísticas /</subfield>
+    <subfield code="c">Raziel Acevedo Álvarez, Angie Pizarro López</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">[San José, Costa Rica] :</subfield>
+    <subfield code="b">INIE,</subfield>
+    <subfield code="c">2016</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">89 páginas, 8 páginas sin numerar</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Informe Proyecto de Investigación Nº 724-B4-138</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">El objetivo del estudio fue identificar los factores de innovación universitaria asociados a las escuelas e instituciones artísticas, como una herramienta para la toma de decisiones en la educación superior.  A partir de la fundamentación teórica, se construyó un instrumento basado en cuatro factores: el proceso metodológico de enseñanza – aprendizaje, los nuevos materiales y tecnologías curriculares, la participación del alumnado y la motivación. Ahora bien, la muestra de participantes estuvo conformada por estudiantes y docentes de centros artísticos y la aplicación de los instrumentos se realizó de forma electrónica, por lo que fue necesario un muestreo aleatorio por conveniencia y participación, este  instrumento fue respondido por 327 personas. Para recoger los datos de análisis y atender los objetivos de los factores de innovación universitaria asociados a escuelas e instituciones artísticas, se consideró la selección de indicadores ajustados a las condiciones de estos centros de formación.  Así pues, desde la perspectiva de la investigación, se ha expuesto teóricamente que los indicadores atienden a una gran cantidad de necesidades y actores, entre los que destacan las instituciones y los docentes. Algunas de las conclusiones del estudio se mencionan a continuación:
+
+La investigación ha cumplido al 100% cinco de sus seis objetivos específicos. Al hacer referencia en el primer objetivo, observamos que se ha podido obtener la identificación de fuentes de datos muy valiosas, sobre los principales autores en el tema de los factores de innovación. Con la literatura se han podido separar gran cantidad de temas pertinentes, que giran alrededor del cuerpo teórico y la metodología. Sobre ello se han extraído citas importantes, sobre temas neurálgicos relacionados con la innovación.
+La lectura de los diferentes artículos permitió obtener las diversas definiciones entorno al concepto de innovación educativa, las cuales fundamentan el desarrollo de esta investigación.
+Con respecto al segundo objetivo, la investigación logra el cumplimiento total de este, la identificación de indicadores de innovación y ello requiere un profundo análisis de acuerdo al contexto donde se aplique. Sin embargo, con las lecturas surgen nuevas temáticas y nuevas aportaciones de otros autores. Aunque ciertamente no existen factores de innovación en las instituciones artísticas, pues es un elemento no trabajado en ellas, o al cual se le ha dedicado escaso tiempo. Sin embargo hemos encontrado factores que pueden estar relacionados y permiten introducirse en el análisis de las instituciones  artísticas, específicamente de música.
+De toda la literatura se pudo extraer aquellos factores asociados con la docencia, que es al fin de cuentas el ente más cercano al estudiante y en donde se encuentran las principales acciones de innovación, que pueden incidir en la actividad del estudiante. De la literatura se seleccionaron: Proceso metodológico de enseñanza-aprendiz</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">666</subfield>
+    <subfield code="a">INNOVACIONES PEDAGÓGICAS</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">421</subfield>
+    <subfield code="a">ARTE   </subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">2311</subfield>
+    <subfield code="a">INDICADORES</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="9">3059</subfield>
+    <subfield code="a">Pizarro López, Angie</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

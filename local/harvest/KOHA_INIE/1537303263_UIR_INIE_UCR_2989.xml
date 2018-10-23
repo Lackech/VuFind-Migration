@@ -1,0 +1,50 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01975nab a2200181   4500</leader>
+  <controlfield tag="005">20160331140200.0</controlfield>
+  <controlfield tag="008">151216b2       cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">1219</subfield>
+    <subfield code="a">Monge Nájera, Julián</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Ventajas y desventajas de usar laboratorios virtuales en educación a distancia: la opinión del estudiante en un proyecto de seis años de duración /</subfield>
+    <subfield code="c">Julián Monge Nájera, Víctor Méndez Estrada</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2007</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">páginas 91-108</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">Con el fin de evaluar los laboratorios virtuales utilizados por el estudiantado de ciencias de la educación a distancia en la UNED de Costa Rica, durante seis años se encuestó el nivel de satisfacción en cada curso a los usuarios de 12 laboratorios virtuales. Los resultados se analizan en dos contextos: la opinión del personal docente que usó los laboratorios  y los parámetros internacionales  de lo que debe ser un laboratorio virtual. La tasa de aprobación de los contenidos, los aspectos informáticos, el diseño gráfico, la interactividad  y la eficacia de los laboratorios virtuales superó el 75 % en todos los laboratorios. Al no haber diferencia estadísticamente significativa  en la tasa de estudiantes que aprobaron el curso tras ejecutar laboratorios reales o virtuales, consideramos que los laboratorios virtuales  son una buena opción para quienes no pueden o no desean realizar prácticas en  un laboratorio real. Representan además una opción creativa, moderna y económica para instituciones universitarias, tanto a distancia como presenciales, que requieran laboratorios dentro de sus procesos de formación</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">1221</subfield>
+    <subfield code="a">Méndez Estrada, Víctor Hugo</subfield>
+  </datafield>
+  <datafield ind2=" " tag="773" ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0308</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.31, no.1 (2007)</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2989</subfield>
+    <subfield code="d">2989</subfield>
+  </datafield>
+</record>

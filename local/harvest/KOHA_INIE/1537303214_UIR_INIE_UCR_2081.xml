@@ -1,0 +1,55 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02818nam a2200193Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2081</subfield>
+    <subfield code="d">2081</subfield>
+  </datafield>
+  <controlfield tag="008">180828b2009    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">13.08.01 </subfield>
+    <subfield code="b">1927</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1=" ">
+    <subfield code="a">Juniu, Susana</subfield>
+    <subfield code="9">4146</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Significados de la palabra "esparcimiento" para estudiantes de actividad deportiva de la Universidad de Costa Rica y de Montclair State University / </subfield>
+    <subfield code="c">Susana Juniu, Carmen Grace Salazar Salas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2009</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">68 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="500" ind2=" ">
+    <subfield code="a">Informe final del proyecto No.724-A9-150</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">El estudio tuvo como propósito comparar los significados de la palabra “esparcimiento” para un conjunto de estudiantes de Actividad Deportiva de la Universidad de Costa Rica con el conjunto de estudiantes de Actividad Deportiva de Montclair State University, según su género, carrera y años de carrera. Se aplicó el instrumento “Inventario de Significados del esparcimiento”, el cual consta de dos partes. La primera incluye información demográfica (edad, género, estado civil, carrera, año en la carrera, dedicación al estudio). La segunda parte consiste en 23 ítems que pertenecen a cuatro categorías: pasar el tiempo, toma de decisiones, escape de presiones y realización en el esparcimiento. Se tabularon un total de 388 encuestados entre 17 y 24 años que corresponden a un 45% de la UCR y 55% de MSU. En términos generales, la mayoría de las diferencias estadísticamente significativas que se halló en la investigación se centró en las percepciones que tenían las poblaciones estudiantiles de ambas universidades acerca del concepto de esparcimiento como “pasar el tiempo” t “tomar decisiones”. Las percepciones de esparcimiento como “escapar de presiones” y “lograr autorrealización” solo fueron el resultado de diferencias estadísticas significativas de casos específicos. Los resultados demuestran una diferencia entre los estudiantes costarricenses y estadounidenses con respecto a sus percepciones de esparcimiento. El hecho de que la población estudiantil costarricense perciba menormente el esparcimiento como “pasar el tiempo” y “tomar decisiones” refleja la circunstancia de que en Costa Rica el término esparcimiento es poco usado y comprendido. Más bien, la palabra esparcimiento brinda la sensación de algo que se disfruta o vivencia, más que algo de lo cual se puede tomar una decisión. Por el contrario, en Estados Unidos, el esparcimiento se puede relacionar como actividad, lo cual proporciona la opción de escoger lo que se desea hacer, es decir, de “tomar decisiones” acerca de la actividad que se realizará.</subfield>
+  </datafield>
+  <datafield tag="610" ind2="4" ind1=" ">
+    <subfield code="9">714</subfield>
+    <subfield code="a">UNIVERSIDAD DE COSTA RICA</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">OCIO </subfield>
+    <subfield code="9">601</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">INVESTIGACIÓN</subfield>
+    <subfield code="9">163</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="700">
+    <subfield code="a">Salazar Salas, Carmen Grace</subfield>
+    <subfield code="9">95</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

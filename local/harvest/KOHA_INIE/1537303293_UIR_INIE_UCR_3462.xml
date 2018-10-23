@@ -1,0 +1,70 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>     nam a22        4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">3462</subfield>
+    <subfield code="d">3462</subfield>
+  </datafield>
+  <controlfield tag="008">171212b2016    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">06.06.02</subfield>
+    <subfield code="b">2184</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">1584</subfield>
+    <subfield code="a">Alvarado Cordero, Silvia</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Factores académicos y administrativos relacionados con el desempeño de docentes que imparten cursos en los niveles de bachillerato y licenciatura de las carreras de educación, en las universidades públicas y privadas (Fase II) /</subfield>
+    <subfield code="c">Silvia Alvarado Cordero, Grettel Alfaro Rojas, Mónica Umaña Bermúdez</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">[San José, Costa Rica] :</subfield>
+    <subfield code="b">INIE,</subfield>
+    <subfield code="c">2016</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">117 páginas, 33 páginas sin numerar</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="500">
+    <subfield code="a">Informe fina Proyecto de Investgación Nº 724-B4-314</subfield>
+  </datafield>
+  <datafield tag="505" ind2=" " ind1=" ">
+    <subfield code="a">El objetivo general  del estudio fue analizar los factores académicos y administrativos relacionados con el desempeño de docentes que imparten cursos en los niveles de bachillerato y licenciatura de las carreras de educación en las universidades públicas y privadas.  El enfoque de investigación fue cualitativo, ya que buscó conocer un fenómeno específico desde la opinión y perspectiva de las personas participantes.  Las técnicas utilizadas para la recolección de información fueron la entrevista semiestructurada a las autoridades académicas y el cuestionario dirigido a estudiantes y docentes de las instituciones de educación superior universitaria.  Además, para el objetivo de validación de un perfil docente se utilizó la técnica de validación de contenido.  La población participante en este estudio estuvo constituida por las autoridades académicas, docentes y estudiantes de las carreras de educación de las universidades públicas y privadas de Costa Rica. En total,  participaron 31 personas  distribuidas de la siguiente manera: 5 autoridades académicas, 10 docentes y 16 estudiantes.  Entre los resultados obtenidos se mencionan los siguientes:
+En relación con el objetivo específico No.1 acerca de identificar las calidades académicas del personal docente que imparte cursos en los niveles de bachillerato y licenciatura de las Carreras de Educación en las Universidades Públicas y Privadas, los resultados se organizaron en las categorías: cantidad de cursos que imparte, grado académico que ostenta, experiencia en docencia y publicaciones realizadas.
+Con respecto a la Cantidad de cursos que imparten, se encontró que la mayoría de docentes brindan como mínimo tres cursos y otros docentes, entre cuatro a cinco cursos, de lo que se podría inferir que un docente que esté a cargo de más de cuatro cursos se encuentra con un sobrecargo en sus funciones. Lo anterior, resulta evidente, principalmente, si se toman en cuentalas tareas y compromisos que implica la labor docente, la cual, además del tiempo para impartir lecciones debe contemplar espacios para la investigación, el planeamiento de estrategias didácticas, la evaluación de avances en el aprendizaje y atención individualizada al estudiantado extra horario de lecciones.
+Cabe mencionar que en este estudio no se consultó con respecto a la cantidad de universidades en las que labora un mismo docente, lo que en algunos casos podría aumentar la cantidad de cursos que tiene a su cargo, e influir en la calidad académica de la oferta educativa. Este hallazgo evidencia que a pesar de existir la normativa que regula la cantidad de cursos que puede impartir un docente universitario se hace necesario que en el país existan mecanismos de control integrados y articulados entre las diferentes universidades públicas y privadas, que permitan identificar con exactitud la carga académica de cada docente.</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">9</subfield>
+    <subfield code="a">FORMACIÓN DE DOCENTES</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">920</subfield>
+    <subfield code="a">DOCENCIA UNIVERSITARIA</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">16</subfield>
+    <subfield code="a">UNIVERSIDADES </subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">287</subfield>
+    <subfield code="a">EVALUACIÓN </subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">3325</subfield>
+    <subfield code="a">Alfaro Rojas, Grettel</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="9">3326</subfield>
+    <subfield code="a">Umaña Bermúdez, Mónica</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

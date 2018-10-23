@@ -1,0 +1,48 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01900nab a2200169   4500</leader>
+  <controlfield tag="005">20160328162538.0</controlfield>
+  <controlfield tag="008">150820b2002    cr ||||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">910</subfield>
+    <subfield code="a">Gutiérrez Sáenz, Luis Felipe</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Pedagogía universitaria y desenvolvimiento del estudiante:  Un paradigma evidenciado en la capacidad de manejo del poder /</subfield>
+    <subfield code="c">Luis Felipe Gutiérrez Sáenz</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2002</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a"> páginas 213-220</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">La declaración de principios, propósitos y funciones de la Universidad de Costa Rica, estipulada en el Estatuto Orgánico, resalta el papel formativo de institución autónoma superior, con una concepción de estudiante, como proyecto humano integral de naturaleza biopsicosocial que crece, se desarrolla, actúa y transforma.
+Como institución pública, la Universidad de Costa Rica tiene una misión social que cumplir. Consiste en formar profesionales con un sentido crítico, es decir, comprometidos con la vigencia de los derechos humanos en el ejercicio del poder. Este ejercicio ya mismo en su cotidianidad de aula y vida universitaria, contribuye a la socialización de las emociones y reconstrucción de los modelos sociales que al practicarlos, también se modifican.
+De acuerdo con los aspectos anteriormente citados y en el marco del Simposio Internacional de Pedagogía Universitaria, su filosofía y objetivos, se considera fundamental redimensional en estas reflexiones la importancia de una participación real de los estudiantes en la definición, construcción y manejo del poder, como parte de su formación académico-profesional</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" tag="773" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0059</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.26, no.2  (2002)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2818</subfield>
+    <subfield code="d">2818</subfield>
+  </datafield>
+</record>

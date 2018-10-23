@@ -1,0 +1,48 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02068nab a2200169   4500</leader>
+  <controlfield tag="005">20160331135457.0</controlfield>
+  <controlfield tag="008">151215b2006    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">253</subfield>
+    <subfield code="a">Salas Madriz, Flora Eugenia</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="4">
+    <subfield code="a">Los estudios de seguimiento de la población graduada como herramienta para el cambio y la innovación en el currículo universitario: la experiencia de la Escuela de Administración Educativa de la Universidad de Costa Rica /</subfield>
+    <subfield code="c">Flora Eugenia Salas Madriz</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2006</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">páginas 63-81</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">En este artículo se presentan resultados parciales para el caso de la Licenciatura en Administración Educativa del proyecto de investigación No. 241-A3-066, titulado Estudio de seguimiento de la población graduada de la Licenciatura en Ciencias de la Educación con énfasis en Administración de programas de Educación no formal (2004). Se exponen algunos aspectos del desarrollo histórico-social de las profesiones modernas, un marco de referencia general de los estudios de graduados y del perfil del egresado, así como una reseña de la formación en el campo de la Administración Educativa en la Universidad de Costa Rica.
+Se muestran algunos resultados y el análisis de la información que se obtuvo a través  de la técnica del  grupo de discusión para conocer la opinión de los graduados del 2003 de la provincia de Alajuela, con la formación recibida a lo largo de toda la carrera.
+También, se exponen algunas conclusiones generales sobre ventajas y limitaciones de los estudios de seguimiento de la población graduada para el cambio y la innovación del currículo universitario, y se comenta la experiencia del empleo de esta herramienta en la Escuela de Administración Educativa para tal propósito</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " tag="773" ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0307</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.30, no.2 (2006)</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2979</subfield>
+    <subfield code="d">2979</subfield>
+  </datafield>
+</record>

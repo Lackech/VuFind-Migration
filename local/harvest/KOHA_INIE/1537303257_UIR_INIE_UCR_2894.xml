@@ -1,0 +1,49 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02258nab a2200169   4500</leader>
+  <controlfield tag="005">20170826062554.0</controlfield>
+  <controlfield tag="008">150924b2004    cr ||||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">736</subfield>
+    <subfield code="a">Arguedas Quesada, Consuelo</subfield>
+  </datafield>
+  <datafield ind2="3" tag="245" ind1="1">
+    <subfield code="a">La expresión musical y el currículo escolar /</subfield>
+    <subfield code="c">Consuelo Arguedas Quesada</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2004</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a"> páginas 111-122</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">La educación musical es un arte y un lenguaje de expresión y comunicación que se dirige al ser humano en todas sus dimensiones, desarrollando y cultivando el espíritu, la mente y el cuerpo para llegar a conseguir una educación integral y armónica del individuo. Para las niñas y los niños es sinónimo de juego, movimiento, alegría y emociones, cuya vivencia les permite expresar las sensaciones que les transmite, de manera expontánea y creativa. 
+La expresión musical brinda beneficios en el área cognoscitiva, desarrolla habilidades, destrezas, hábitos y a la vez estimula la parte afectiva-volitativa de los escolares. Además, está dirigida a todos los estudiantes, no solo para aquellos que poseen talento musical, ya que favorece la libertad, el perfeccionamiento creativo, la actividad y el progreso evolutivo de los escolares mediante el juego. Estos factores permiten el desarrollo global de los escolares y su relación con la vida cotidiana, ya que las experiencias musicales son congruentes con los intereses de los alumnos porque se realizan de manera natural, debido a que la música por sí misma representa algo lúdico para ellos. 
+Partiendo de estos planteamientos, la educación musical facilita el abordaje de contenidos de otras áreas del currículo escolar, con estrategias metodológicas amenas y creativas. 
+En el artículo se analizan las caracteristicas y los objetivos de la educación musical y se mencionan algunos ejemplos de estrategias metodológicas que completan la educación musical con ciencias, español, matemáticas, y estudios sociales</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" tag="773" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0215</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.28, no.1 (2004) </subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2894</subfield>
+    <subfield code="d">2894</subfield>
+  </datafield>
+</record>

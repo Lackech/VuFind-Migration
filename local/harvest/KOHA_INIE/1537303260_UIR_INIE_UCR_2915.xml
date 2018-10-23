@@ -1,0 +1,48 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02106nab a2200169   4500</leader>
+  <controlfield tag="005">20160328165310.0</controlfield>
+  <controlfield tag="008">151015b2004    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">106</subfield>
+    <subfield code="a">Vargas Cordero, Zoila Rosa</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Desarrollo moral, valores y ética, una investigación dentro del aula / </subfield>
+    <subfield code="c">Zoila Rosa Vargas Cordero</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2004</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">páginas 91-104</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">Utilizar en un curso de formación universitaria, la investigación dentro del aula, como estrategia para promover en los grupos, la motivación hacia los aprendizajes de temas como valores, moral y ética, resultó una experiencia innovadora y positiva con la cual se encontró un modo adecuado para transmitir los conocimientos teóricos pertinentes para favorecer la reflexión y revisión del propio desarrollo moral y ético del grupo participante y a la vez cumplir con los contenidos del curso.
+La educación moral que todos los ciudadanos y ante todo profesionales en Orientación y en Educación deben poner en práctica, requiere de analizar cual ha sido el propio desarrollo moral del educador y de todos los actores del sistema, cúal es su comportamiento ético, así como su propia escala de valores.
+Ante una permanente transformación social, se hace necesario saber de dónde partir para  transmitir a poblaciones juveniles y de infantes una educación moral. De esta experiencia surge un modelo de educación de calidad total que debe ser acorde con las creencias del personal y con la filosofía institucional. Consiste en combinar el currículum institucional educativo con el análisis permanente de situaciones reales, por parte de todos los actores del sistema; esto permitirá formar al educando desde un enfoque humanista con énfasis moral y ético, indispensable en una época como la actual</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind2=" " ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0253</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.28, no.2 (2004)</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2915</subfield>
+    <subfield code="d">2915</subfield>
+  </datafield>
+</record>

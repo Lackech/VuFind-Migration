@@ -1,0 +1,63 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>05170nam a2200217Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2291</subfield>
+    <subfield code="d">2291</subfield>
+  </datafield>
+  <controlfield tag="008">180705b1995    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">18.09.01 </subfield>
+    <subfield code="b">16</subfield>
+  </datafield>
+  <datafield ind1=" " tag="100" ind2=" ">
+    <subfield code="a">Gutiérrez Jaén, Flor de María</subfield>
+    <subfield code="9">3808</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Informe de la aplicación de la prueba diagnóstica de primer ingreso de la Región de Puriscal, Turrialba, Pérez Zeledón, San Carlos / </subfield>
+    <subfield code="c">Flor de Ma. Gutiérrez Jaén, Sandra Blanco García</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1995</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">24 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="500" ind2=" ">
+    <subfield code="a">Programa de Evaluación y Medición Educativa. Proyecto Pruebas Diagnósticas de Primer Ingreso</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">En esta serie de informes se reportan los resultados de las evaluaciones de diagnóstico administradas durante los años 1995 y 1996 a los niños de primer ingreso de la Educación General Básica. Este proyecto de Pruebas Diagnósticas forma parte del Programa de Mejoramiento de la Calidad de la Educación (PROMECE). Su objetivo principal es ofrecer información, sobre el nivel de conocimiento de los niños que ingresan a primer año de la Educación General Básica, que permita la toma de decisiones educativas y curriculares pertinentes, así como la elaboración de acciones 35 educativas preventivas que eleven la tasa de éxito y, por último, la capacitación de maestros, supervisores, asesores, directores y padres de familia para una mejor atención y estimulación de los niños de estas edades. Para realizar las investigaciones, se siguió un criterio geográfico, por lo cual se dividió el territorio nacional en cuatro zonas: 1. San José 2. Heredia, Alajuela, Cartago 3. Puriscal, Turrialba, Pérez Zeledón, San Carlos 4. Liberia, Nicoya, Santa Cruz, Cañas, Puntarenas, Aguirre, Coto, Limón, Guápiles En el marco teórico que se fundamentan estas investigaciones, se definen los conceptos de desarrollo y de aprendizaje a partir de la relación que existe entre ambos. Se establecen, además, las características generales en cuanto a habilidades, actitudes y valores que dominan los niños al ingresar al primer año, así como algunos rasgos comunes, en el desarrollo de los niños, que fueron diagnosticados en estudios previos y que merecen especial atención, por ejemplo, la necesidad de promover actividades que favorezcan la habilidad motora gruesa y las destrezas motoras finas. En cuanto al desarrollo cognitivo-lingüístico, se señala un porcentaje relevante de niños con dificultades para iniciar el proceso de lecto-escritura, el cual se relaciona con un conjunto de variables que intervienen en su adquisición: salud, situación social, actitud hacia el aprendizaje y nivel intelectual (Condemarín y otros: 1991). Otra consideración importante que se expone es el hecho de que el dominio de la lecto-escritura y las nociones matemáticas básicas requieren de habilidades previas, que de no haber sido adquiridas al momento de ingresar al primer año, pueden causar problemas. Se plantean también, según lo establece la National Association for the Education of the Young Children (1992), cuáles se consideran prácticas apropiadas y cuáles prácticas inapropiadas para el aprendizaje, así como las normas para evaluar la condición de estos niños. La muestra escogida, tanto para la investigación de 1995 como para la de 1996, representa el 6% de la población de niños que ingresaron a primer grado en esos años. La recolección de datos se llevó a cabo por medio de una prueba gráfica, elaborada especialmente para los niños, y cuestionarios confeccionados para los maestros y los padres de familia. Para la exposición de los resultados de las pruebas diagnóstico realizadas en 1995, se elaboraron cuatro informes, uno para cada una de las regiones en estudio. En cada uno de ellos se analizan los datos recogidos y se formulan las respectivas conclusiones. Los resultados de las pruebas administradas en 1996 se presentan en un solo informe, aunque también se siguió el criterio de regionalización que se estableció para el estudio del año anterior. Originalmente, para este segundo proyecto, se plantearon tres objetivos; sin embargo, en el informe solo se exponen los resultados que corresponden a dos de ellos; a saber, conocer las características demográficas, de desarrollo físico, de desarrollo cognitivo-lingüístico y de desarrollo socio-emocional con que llegan los niños costarricenses al primer año de la Educación General Básica, e identificar aquellos aspectos del desarrollo y del aprendizaje que presentan dificultades, con el fin de que la información obtenida permita la toma de decisiones educativas y curriculares pertinentes. Grosso modo, del análisis de ambas investigaciones se infiere que hay diferencias significativas, relacionadas con la edad, el sexo, la asistencia o no asistencia al jardín de niños y el nivel socioeconómico, que influyen directamente en el desarrollo y el aprendizaje de los niños.</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">EDUCACIÓN PRIMARIA</subfield>
+    <subfield code="9">367</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">APRENDIZAJE </subfield>
+    <subfield code="9">387</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">PRUEBAS</subfield>
+    <subfield code="9">629</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">DIAGNÓSTICO</subfield>
+    <subfield code="9">632</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">DATOS ESTADÍSTICOS</subfield>
+    <subfield code="9">452</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1=" ">
+    <subfield code="a">Blanco García, Sandra</subfield>
+    <subfield code="9">3809</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

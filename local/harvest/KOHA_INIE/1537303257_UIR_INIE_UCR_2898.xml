@@ -1,0 +1,51 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00966nam a2200181   4500</leader>
+  <controlfield tag="008">150925b1995    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">Tesis # 49</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">1094</subfield>
+    <subfield code="a">Valverde Villalta, Yamilette </subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Liderazgo curricular y otros factores que inciden en el rendimiento académico de alumnos de sétimo año en tres instituciones públicas</subfield>
+    <subfield code="c">Yamilette Valverde Villalta; Marielos Hidalgo Madriz; Rebeca Meneses Brenes</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">[San José, Costa Rica] :</subfield>
+    <subfield code="b">Y. Valverde V.; M. Hidalgo M.; R. Meneses B., </subfield>
+    <subfield code="c">1995</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">viii, 183 páginas</subfield>
+  </datafield>
+  <datafield tag="502" ind2=" " ind1=" ">
+    <subfield code="a">Seminario de Graduación (licenciatura en ciencias de la educación con énfasis en administración educativa)-- Universidad de Costa Rica. Facultad de Educación. Escuela de Administración Educativa</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1095</subfield>
+    <subfield code="a">RENDIMIENTO ACADÉMICO</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">456</subfield>
+    <subfield code="a">EDUCACIÓN SECUNDARIA</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="9">1096</subfield>
+    <subfield code="a">Hidalgo Madriz, Marielos</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="9">1097</subfield>
+    <subfield code="a">Meneses Brenes, Rebeca</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">02</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2898</subfield>
+    <subfield code="d">2898</subfield>
+  </datafield>
+</record>

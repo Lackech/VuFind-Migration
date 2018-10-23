@@ -1,0 +1,66 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02418nam a2200229Ia 4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">1372</subfield>
+    <subfield code="d">1372</subfield>
+  </datafield>
+  <controlfield tag="008">170621b1997    cr ||||| |||| 00| u spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">06.01.00 </subfield>
+    <subfield code="b">110</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="a">Pinto Contreras, Rolando</subfield>
+    <subfield code="9">2954</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Situación y la perspectiva de la investigación educativa en docencia universitaria, en la Universidad de Costa Rica a partir del Cuarto Congreso Universitario / </subfield>
+    <subfield code="c">Rolando Pinto Contreras, Ana Cecilia Zuñiga Jiménez, Alicia Gurdián Fernández</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">[San José, Costa Rica] : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="b">1987</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">142 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Informe Final del Proyecto de Investigación N° 724-86-035</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">La investigación realizada, concluyó que en la Universidad de Costa Rica, en las facultades e investigaciones educativas que tienen por objeto la docencia superior, no existe un enfoque epistemológico individual que sea dominante; no obstante, si hay una tendencia hacia el punto de partida psicopedagógico, al menos determinante para los proyectos desarrollados por institutos de investigación y unidades académicas. Algo que resulta preocupante para los investigadores de este trabajo, es el hecho de que en los proyectos de investigación educativa, no se consideren los factores estructurales que descontextualizan el fenómeno.  Así, los proyectos que implican una posición cualitativa, apenas alcanzan un 26% del total de investigaciones anuales. Por otro lado, se vio cómo la mayoría de proyectos, solo repiten información, sin hacer ningún aporte novedoso ni agregar elementos cognoscitivos a la realidad de estudio. En cuanto a los investigadores, se evidencia que ente las autoridades docentes que dirigen las unidades académicas, existe poca experiencia en investigación educativa, y no existe un nivel de relación significativa entre los años de servicio y la experiencia en investigación. Aunque el 98% de las autoridades docentes considera necesaria la investigación educativa para mejorar la docencia universitaria, no existen mecanismos de apoyo o estímulo, desde estas instancias, para el desarrollo de proyectos de este tipo.</subfield>
+  </datafield>
+  <datafield ind1="2" tag="610" ind2="4">
+    <subfield code="a">UNIVERSIDAD DE COSTA RICA</subfield>
+    <subfield code="9">714</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">INVESTIGACIÓN EDUCATIVA</subfield>
+    <subfield code="9">326</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">8</subfield>
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">DOCENCIA</subfield>
+    <subfield code="9">1841</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">PROYECTOS DE INVESTIGACION</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="a">Zuñiga Jiménez, Ana Cecilia</subfield>
+    <subfield code="9">2955</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="a">Gurdián Fernández, Alicia</subfield>
+    <subfield code="9">169</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

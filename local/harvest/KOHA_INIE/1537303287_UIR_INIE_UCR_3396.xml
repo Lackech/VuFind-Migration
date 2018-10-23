@@ -1,0 +1,53 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00878nam a2200181   4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">3396</subfield>
+    <subfield code="d">3396</subfield>
+  </datafield>
+  <controlfield tag="008">170213b2015    cr a|||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">18.01.01</subfield>
+    <subfield code="b">2336</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">983</subfield>
+    <subfield code="a">Piedra García, Luis Ángel</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Modelos de cooperación en homo sapiens sapiens y cebus capucinus: hacia la búsqueda de la cooperación heterotécnica y su relación con el aprendizaje desde estudios de naturaleza empírico /</subfield>
+    <subfield code="c">Luis Ángel Piedra García, Andrea Melissa Mora Umaña, Karen Luedtke Obermiller</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">[San José, Costa Rica] : </subfield>
+    <subfield code="b">INIE,</subfield>
+    <subfield code="c">2015</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">153 páginas + 14 páginas (sin numerar);</subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield ind1=" " tag="500" ind2=" ">
+    <subfield code="a">Informe final Proyecto d einvestigación Nº 724-B2-302</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">41</subfield>
+    <subfield code="a">COGNICIÓN</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1067</subfield>
+    <subfield code="a">APRENDIZAJE COLABORATIVO</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">1579</subfield>
+    <subfield code="a">Mora Umaña, Andrea Melissa</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">2140</subfield>
+    <subfield code="a">Luedtke Obermiller, Karen</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

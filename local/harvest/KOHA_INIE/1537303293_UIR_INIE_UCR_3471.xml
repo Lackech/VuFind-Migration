@@ -1,0 +1,76 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>     nam a22        4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3471</subfield>
+    <subfield code="d">3471</subfield>
+  </datafield>
+  <controlfield tag="008">180221b2017    cr a|||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="020">
+    <subfield code="a">9789930541022</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">16.01.02</subfield>
+    <subfield code="b">2442</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">2521</subfield>
+    <subfield code="a">Arnáez Serrano, Elizabeth</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Orientaciones para incorporar la dimensión ambiental en el quehacer universitario /</subfield>
+    <subfield code="c">Elizabeth Arnáez Serrano, Ana Cristina Benavides Benavides, Jacqueline García Fallas, Lidia Mayela Hernández Rojas, Ana Patricia Rojas Núñez, Claudia Zúñiga Vega</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">[Cartago], Costa Rica :</subfield>
+    <subfield code="b">Tecnológico de Costa Rica,</subfield>
+    <subfield code="c">2017</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">48 páginas;</subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Elaborado por la Comisión Interuniversitaria de Educación Ambiental (CIEA), con fondos del Consejo Nacional de Rectores, Costa Rica (CONARE).</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">792</subfield>
+    <subfield code="a">MEDIO AMBIENTE</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">439</subfield>
+    <subfield code="a">EDUCACIÓN AMBIENTAL </subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">16</subfield>
+    <subfield code="a">UNIVERSIDADES </subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">3359</subfield>
+    <subfield code="a">RESPONSABILIDAD SOCIAL</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">237</subfield>
+    <subfield code="a">Benavides Benavides, Ana Cristina</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">759</subfield>
+    <subfield code="a">García Fallas, Jacqueline</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="9">2615</subfield>
+    <subfield code="a">Hernández Rojas, Lidia Mayela</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">738</subfield>
+    <subfield code="a">Rojas Núñez, Patricia</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">2520</subfield>
+    <subfield code="a">Zúñiga Vega, Claudia</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

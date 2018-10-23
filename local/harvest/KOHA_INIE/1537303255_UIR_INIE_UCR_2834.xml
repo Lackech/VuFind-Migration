@@ -1,0 +1,46 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01679nab a2200169   4500</leader>
+  <controlfield tag="005">20160328162905.0</controlfield>
+  <controlfield tag="008">150827b2003    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">200</subfield>
+    <subfield code="a">Chavarría González, María Celina</subfield>
+  </datafield>
+  <datafield ind2="3" tag="245" ind1="1">
+    <subfield code="a">La no-directividad o la programación como modelos  de planificación y evaluación: falsos opuestos en busca de diálogo /</subfield>
+    <subfield code="c">María Celina Chavarría González</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2003</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">páginas 53-65</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">Desde la pedagogía crítica, dialéctica o transacconal y el paradigma de aprendizaje contextuado y sociohistórico de raíces Vygotskianas , se enfatiza que una visión que hace incapié  en el aprendizaje como transformación conjunta de las formas de participación nos instaría a poner nuestra mira más bien en los problemas de enseñanza, en nuestros curriculares, en nuestra responsabilidad conjunta en la co-creación del desempoderamiento y apatía  de los educandos  ante las tareas de aprendizaje escolar. Se examina el mundo que ponemos a disposición de nuestros niños y niñas, al tratarlos como seres fragmentados, alienados y con un concepto de sí mismo a la vez vacío y consumidor, conceptos que desde la psicología social iluminarían la incidencia de nuestra programación curricular tanto en el etiquetamiento de dificultades de aprendizaje como de la cocreación de síndromes como el déficit atencional</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" tag="773" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0190</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">2834</subfield>
+    <subfield code="d">2834</subfield>
+  </datafield>
+</record>

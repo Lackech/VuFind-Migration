@@ -1,0 +1,63 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00751nam a2200217   4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">3511</subfield>
+    <subfield code="d">3511</subfield>
+  </datafield>
+  <controlfield tag="008">180619b2014    sp ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9788490318928</subfield>
+  </datafield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">06.01.01</subfield>
+    <subfield code="b">2473</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1=" ">
+    <subfield code="9">3791</subfield>
+    <subfield code="a">Gervilla Castillo, Ángeles</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Estrategias didácticas para educar en valores: Postmodernidad y educación II /</subfield>
+    <subfield code="c">Ángeles Gervilla Castillo, Mercedes Quero Gervilla</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="250">
+    <subfield code="a">Segunda edición</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">Madrid : </subfield>
+    <subfield code="b">Editorial Dykinson, </subfield>
+    <subfield code="c">2014</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">227 páginas</subfield>
+  </datafield>
+  <datafield ind2="0" tag="650" ind1="1">
+    <subfield code="a">EDUCACIÓN EN VALORES</subfield>
+    <subfield code="9">719</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">812</subfield>
+    <subfield code="a">ESTRATEGIAS EDUCATIVAS</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">387</subfield>
+    <subfield code="a">APRENDIZAJE </subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">861</subfield>
+    <subfield code="a">CREATIVIDAD</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">2390</subfield>
+    <subfield code="a">INTELIGENCIA EMOCIONAL</subfield>
+  </datafield>
+  <datafield ind1=" " tag="700" ind2=" ">
+    <subfield code="9">3792</subfield>
+    <subfield code="a">Quero Gervilla, Mercedes</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

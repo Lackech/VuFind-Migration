@@ -1,0 +1,50 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01928nab a2200181   4500</leader>
+  <controlfield tag="005">20160415162808.0</controlfield>
+  <controlfield tag="008">160225b2       cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">1488</subfield>
+    <subfield code="a">Rodríguez Barquero, Vivian</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="245">
+    <subfield code="a">Efecto de ocho clases de expresión corporal en el estado de ánimo y autoconcepto general de jóvenes universitarios /</subfield>
+    <subfield code="c">Vivian Rodríguez Barquero, Gerardo Alonso Araya Vargas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2009</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">páginas 139-152</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">El propósito del estudio fue indagar sobre los efectos psicológicos de la expresion corporal en estudiantes de la  Universidad de Costa Rica. Se trabajó con 35 jóvenes de dos grupos: 17 de taller de teatro y 18 de apreciación de teatro. Su promedio de edad: hombres 18.78  y mujeres 18.52 años. Los sujetos de taller realizaron ocho sesiones de expresión corporal de dos horas, una vez por semana por ocho semanas. La mediciones del estado de ánimo se realizaron por medio del perfil de estados de ánimo (P.O.M.S) pre y post de la primera, la cuarta y octava sesión. Las mediciones del autoconcepto general se realizaron previo al inicio de la primera sesión (Pre), al final de la cuarta sesión (Test) y al final de la octava sesión (Post-test). Como resultados se encontraron mejoras significativas en los estados de ánimo de tensión y vigor, así como en la variable de inhibición-empatía-desconfianza. Se concluye que la expresión corporal puede influir positivamente sobre estados de ánimo y el autoconcepto de estudiantes de nivel universitario, durante su primer ciclo en la Universidad</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">1489</subfield>
+    <subfield code="a">Araya Vargas, Gerardo Alonso</subfield>
+  </datafield>
+  <datafield ind2=" " tag="773" ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0312</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.33, no.2 (2009)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">3088</subfield>
+    <subfield code="d">3088</subfield>
+  </datafield>
+</record>

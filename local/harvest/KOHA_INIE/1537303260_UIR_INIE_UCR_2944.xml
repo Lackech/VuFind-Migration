@@ -1,0 +1,46 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01803nab a2200169   4500</leader>
+  <controlfield tag="005">20160331134406.0</controlfield>
+  <controlfield tag="008">151120b2005    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">1185</subfield>
+    <subfield code="a">Calderón Mora, Roxy</subfield>
+  </datafield>
+  <datafield ind2="3" tag="245" ind1="1">
+    <subfield code="a">Los fundamentos curriculares en la enseñanza del inglés a distancia: Un acercamiento a partir de la teoría y de la reflexión de la práctica educativa /</subfield>
+    <subfield code="c">Roxy Calderón Mora</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2005</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">páginas 181-195</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">El presente artículo es un acercamiento a la sistematización de la experiencia de la Universidad Estatal a Distancia en el programa de Inglés  para maestros; se pretende dar a la lector una visión retrospectiva de los elementos curriculares de la carrera desde sus inicios en 1997. El artículo retomalos antecedentes de la enseñanza del inglés en I y II ciclo en la modalida a distancia en Costa Rica. Además a partir de la propia experiencia como tutoora de la Cátedra de inglés, se hace un recorrido teórico por los diferentes métodos de enseñanza en que sustenta la metología empleada; así mismo, se plantean los fundamentos curriculares que deben sustentar la enseñanza del inglés para maestros de primaria en una modalidad de educación a distancia. finalmente se ofrecen consideraciones finales que retoman la enseñanza del inglés como idioma extranjero y la modalidad de educación a distancia como elementos fundamentales que responden a los cambios económicos, políticos, culturales y sociales de la globalización</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0304</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.29, no.2 (2005)</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2944</subfield>
+    <subfield code="d">2944</subfield>
+  </datafield>
+</record>

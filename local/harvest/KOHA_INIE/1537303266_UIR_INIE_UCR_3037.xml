@@ -1,0 +1,46 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01459nab a2200169   4500</leader>
+  <controlfield tag="005">20160331155340.0</controlfield>
+  <controlfield tag="008">160126b2009    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">1338</subfield>
+    <subfield code="a">Richmond González, Viviana María</subfield>
+  </datafield>
+  <datafield tag="245" ind2="3" ind1="1">
+    <subfield code="a">El camino de la inclusión de personas con necesidades educativas especiales en Costa Rica: aportes para la discusión /</subfield>
+    <subfield code="c">Viviana María Richmond González</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2009</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">páginas 81-93</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">El presente ensayo esboza una serie de reflexiones acerca del estado actual de la Educación Especial, tomando en consideración los aciertos y los factores coexistentes que debilitan y anulan el proceso hacia la educación inclusiva. Examina, dentro del ámbito de la educación especial, el papel de determinadas (os) funcionarias (os) y sus aportes individuales, la influencia del sistema ideológico imperante y la forma en que los proyectos de este tipo de educación han sido desarrollados en Costa Rica. Su objetivo es constituirse en un aporte a esta amplia discusión nacional hacia el esclarecimiento de metas comunes y operativas, con el propósito de tener un sistema educativo realmente inclusivo</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind2=" " ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0312</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.33, no.2 (2009)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3037</subfield>
+    <subfield code="d">3037</subfield>
+  </datafield>
+</record>

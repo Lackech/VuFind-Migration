@@ -1,0 +1,67 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01210nam a2200301Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">1908</subfield>
+    <subfield code="d">1908</subfield>
+  </datafield>
+  <controlfield tag="008">180518b2005    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">06.04.01 </subfield>
+    <subfield code="b">1496</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="a">González García, Victoria</subfield>
+    <subfield code="9">1890</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Proyecto de gestión estratégica del Centro Infantil Laboratorio / </subfield>
+    <subfield code="c">Victoria González García, Adriana Vindas González</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2005</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">151páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Proyecto de Investigación Número: 724-A5-166/ Informe final</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">Este proyecto tuvo como objetivo construir colectivamente el marco de gestión institucional con el fin de planificar estratégicamente, hacia el futuro, mediante la consolidación de una cultura solidaria y comprometida con el desarrollo humano y que le garantice sostenibilidad en este cambio de época histórica. 
+La población participante estuvo constituida por 14 docentes, 2 cocineras, 1 secretaria, 1 administradora, 1 Psicóloga, 1 Trabajadora Social y la Junta Directiva del Centro Infantil Laboratorio de la Sede Rodrigo Facio. Además participaron niños, niñas y familias. 
+Es una investigación - acción de carácter cualitativo. 
+El Centro Infantil Laboratorio asume una visión holística de mundo que le permite construir un referente teórico para la acción: Holismo, la Gestión Holística y el enfoque de Derechos. Así mismo construye, a la luz de estos referentes y con una metodología participativa, un Contrato Social (Visión de mundo, desafíos del contexto, compromisos hacia el contexto) y un Marco Estratégico (Misión, Visión, Objetivos y Principios-Valores). Este último como parte del proceso de reformulación de los Centros Infantiles Universitarios. Esto le permite contar hoy con un marco de referencia, y una estructura organizativa contexto-céntrica que le posibilita colocar las capacidades institucionales y las organizacionales al servicio de los Desafíos del Contexto. 
+</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">ESTABLECIMIENTOS DE ENSEÑANZA</subfield>
+    <subfield code="9">1519</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">ADMINISTRACIÓN DE LA ENSEÑANZA</subfield>
+    <subfield code="9">1210</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">UNIVERSIDADES </subfield>
+    <subfield code="9">16</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">SOCIEDAD </subfield>
+    <subfield code="9">396</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="a">Vindas González, Adriana</subfield>
+    <subfield code="9">2970</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

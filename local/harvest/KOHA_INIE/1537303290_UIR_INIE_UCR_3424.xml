@@ -1,0 +1,172 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>04925nam a22006617a 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">3424</subfield>
+    <subfield code="d">3424</subfield>
+  </datafield>
+  <controlfield tag="008">170707b2013    cr a|||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="022">
+    <subfield code="a">2215-3667</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">REVIS</subfield>
+    <subfield code="b">06.02.01</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="9">2986</subfield>
+    <subfield code="a">Costa Rica. Minsterio de Educación Pública. Dirección de Recursos Tecnológicos en Educación</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Revista conexiones: una experiencia más allá del aula /</subfield>
+    <subfield code="c">Ministerio de Educación Pública</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Ministerio de Educación Pública,</subfield>
+    <subfield code="c">2013</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">277 páginas;</subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield tag="505" ind2=" " ind1=" ">
+    <subfield code="t">Redes de aprendizaje: la conciencia fonológica: una experiencia innovadora / pp.12-25</subfield>
+  </datafield>
+  <datafield tag="505" ind2=" " ind1=" ">
+    <subfield code="t">Educación inclusiva: la creación de culturas inclusivass en los centros educativos: sistematización del proceso / pp.26-30</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="505">
+    <subfield code="t">Disfrutando de la lectura: El libro del éxito / pp. 31-36</subfield>
+  </datafield>
+  <datafield tag="505" ind1=" " ind2=" ">
+    <subfield code="t">Desinterés de los jóvenes por la lectura / pp. 38-40</subfield>
+  </datafield>
+  <datafield tag="505" ind2=" " ind1=" ">
+    <subfield code="t">Las TIC en acción: las TIC, la educación y la inclusión social en Costa Rica / pp.40-45</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="505">
+    <subfield code="t">La pluralidad de nuestra identidad: las diásporas africanas en Costa Rica / pp.55-62</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="505">
+    <subfield code="t">Población afrodescendiente en Guanacaste / pp. 63-70</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="505">
+    <subfield code="t">Y se lo llevó candanga: toponimias africanas en Guanacaste / pp. 71-76</subfield>
+  </datafield>
+  <datafield tag="505" ind2=" " ind1=" ">
+    <subfield code="t">Olaudah Equiano / pp.77-80</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="505">
+    <subfield code="t">Kingston y las migraciones laborales en el caribe / pp. 81-86</subfield>
+  </datafield>
+  <datafield tag="505" ind1=" " ind2=" ">
+    <subfield code="t">La organización social afrocaribeña en el atlántico costarricense durante la década de 1910 / pp. 87-94</subfield>
+  </datafield>
+  <datafield tag="505" ind1=" " ind2=" ">
+    <subfield code="t">Por un curriculo liberador / pp.95-102</subfield>
+  </datafield>
+  <datafield tag="505" ind1=" " ind2=" ">
+    <subfield code="t">Lógica en el aula / la música, las caricaturas y las imágenes como estrategia metodológica para estudiar lógica en español / pp. 108-114</subfield>
+  </datafield>
+  <datafield tag="505" ind2=" " ind1=" ">
+    <subfield code="t">Las tablas de la verdad: las manzanas de la sabiduría / pp.115-118</subfield>
+  </datafield>
+  <datafield tag="505" ind2=" " ind1=" ">
+    <subfield code="t">Tablas de la verdad con la novela Robinson Crusoe de Daniel Defoe  / pp.119-123</subfield>
+  </datafield>
+  <datafield tag="505" ind2=" " ind1=" ">
+    <subfield code="t">Razonamiento lógioco simbólico en la enseñanza del español en la educación diversificada / pp.124-128</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="505">
+    <subfield code="t">Las TIC en acción: Los MOOC, oportunidades educativas que llegan lejos, ¿qué tan cerca están de nosotros? / pp. 129-134</subfield>
+  </datafield>
+  <datafield tag="505" ind2=" " ind1=" ">
+    <subfield code="t">El derecho a la educación ante las nuevas realidades tecnológicas / pp. 135-139</subfield>
+  </datafield>
+  <datafield tag="505" ind1=" " ind2=" ">
+    <subfield code="t">Redes de aprendizaje: centros de recursos para el aprendizaje: un escenario importante, proactivo en el curriculum institucional / pp. 140-143</subfield>
+  </datafield>
+  <datafield tag="505" ind1=" " ind2=" ">
+    <subfield code="t">La lectura y su importancia en la estimulación del desarrollo cognitivo y emocional de los estudiantes /144-148</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="505">
+    <subfield code="t">Disfrutando la lectura: Oculto entre recuerdos / pp.149-152</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="505">
+    <subfield code="t">Las TIC en acción: Un recurso educativo multimedia para la sensibilización artística ambiental / pp.162-165</subfield>
+  </datafield>
+  <datafield tag="505" ind2=" " ind1=" ">
+    <subfield code="t">Aprendiendo GeoGebra: ¿cómo crear un graficador de curvas polares con Geogebra? / pp.166-169</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="505">
+    <subfield code="t">Adminsitración: Servicios bibliotecarios para niños escolares con alguna discapacidad / pp.170-174</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="505">
+    <subfield code="t">Redes de aprendizaje: La educación de adultos en Latinoamérica / pp. 175-178</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="505">
+    <subfield code="t">El educador consiente / pp.179-182</subfield>
+  </datafield>
+  <datafield tag="505" ind1=" " ind2=" ">
+    <subfield code="t">Disfrutando la lectura: Poesías: colección aromas de jazmín / pp. 183-185</subfield>
+  </datafield>
+  <datafield tag="505" ind2=" " ind1=" ">
+    <subfield code="t">50 años de historia una mirada al desarrollo de la Orientación en el Sistema Educativo Costarricense / pp. 192-198</subfield>
+  </datafield>
+  <datafield tag="505" ind1=" " ind2=" ">
+    <subfield code="t">La Orientación como disciplina y profesión en el contexto del Ministerio de Educación Pública, según decreto Ejecutivo Nº 37135-MEP/ pp. 199-205</subfield>
+  </datafield>
+  <datafield tag="505" ind2=" " ind1=" ">
+    <subfield code="t">La Orientación vocacional y los ajustes contextuales / pp. 206-213</subfield>
+  </datafield>
+  <datafield tag="505" ind1=" " ind2=" ">
+    <subfield code="t">Eligiendo carrera: escenario de la segunda modernidad / pp. 214-218</subfield>
+  </datafield>
+  <datafield tag="505" ind1=" " ind2=" ">
+    <subfield code="t">El liderazgo visto desde la perspectiva de un orientador / pp.219-222</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="505">
+    <subfield code="t">Los grupos de apoyo como una estrategia para fortalecer la autoestima de los (as) estudiantes de la Escuela Manuel María Gutiérrez /pp. 223-227</subfield>
+  </datafield>
+  <datafield tag="505" ind2=" " ind1=" ">
+    <subfield code="t">El profesional de Orientación, su autocuidado personal-profesional y el uso de la tecnología informática / pp. 228-234</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="505">
+    <subfield code="t">Usos de las redes sociales como recurso de inserción laboral: estudio de un caso / pp. 240-245
+</subfield>
+  </datafield>
+  <datafield tag="505" ind1=" " ind2=" ">
+    <subfield code="t">Importancia de la computadora como apoyo educativo al currículum educativo / pp.246-250</subfield>
+  </datafield>
+  <datafield tag="505" ind1=" " ind2=" ">
+    <subfield code="t">Proyecto: Apoyo a la gestión pedagógica a centros educativos de calidad con orientación inclusiva / pp. 251-259</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="505">
+    <subfield code="t">Lessons learned from MEP´s evaluation course testing portafolio: A tool for teacher reflection and professional growth / pp. 260-263</subfield>
+  </datafield>
+  <datafield tag="505" ind1=" " ind2=" ">
+    <subfield code="t">El liderazgo, un desempeño efectivo / pp. 264-268</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="505">
+    <subfield code="t">Disfrutando la lectura: La savia y la sangre del alba / pp. 269-273</subfield>
+  </datafield>
+  <datafield tag="505" ind1=" " ind2=" ">
+    <subfield code="t">Mujer con luz de hoy / p. 274</subfield>
+  </datafield>
+  <datafield tag="505" ind1=" " ind2=" ">
+    <subfield code="t">Huellas  y metas / p. 275</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">3</subfield>
+    <subfield code="a">PUBLICACIONES PERIÓDICAS</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">03</subfield>
+  </datafield>
+</record>

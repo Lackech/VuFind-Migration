@@ -1,0 +1,49 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01958nab a22001697a 4500</leader>
+  <controlfield tag="005">20160317163322.0</controlfield>
+  <controlfield tag="008">150702b2001    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">254</subfield>
+    <subfield code="a">Villarreal Montoya, Cecilia</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Profesionales de orientación y la perspectiva de género en Costa Rica /</subfield>
+    <subfield code="c">Cecilia Villarreal Montoya</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2001</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">páginas 49-58</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">Este artículo presenta los resultados de una investigación cualitativa, realizada con un grupo de profesionales de Orientación en servicio, sobre los alcances de la incorporación de la perspectiva de género en el que hacer orientador.
+La condición de género hace referencia y cuestiona la determinación política, económica y sociocultural para el ser mujer-femenina y hombre-masculino, y además replantea las relaciones e interpretaciones inter e intragenéricas en la convivencia humana. Estos aspectos no pueden dejarse por fuera en la intervención orientadora que busca la clarificación y el replanteamiento del sentido de la vida como una tarea del desarrollo humano.
+El grupo de profesionales, que participa con sus reflexiones y experiencias laborales, concuerda en la necesidad de tomar en cuenta la realidad genérica de las poblaciones con que trabajan. En su mayoría, muestran claridad en cuanto a los conceptos género, inequidad genérica, igualdad de oportunidades, y además desean conocer más sobre la implementación de la perspectiva  de género en la acción profesional.
+Los resultados de esta investigación, sin duda alguna, son un insumo importante para realimentar la formación y la actualización de profesionales en este campo</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0189</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.25, no.2  (2001)</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2728</subfield>
+    <subfield code="d">2728</subfield>
+  </datafield>
+</record>

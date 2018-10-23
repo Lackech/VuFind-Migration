@@ -1,0 +1,55 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>04027nam a2200193Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">1385</subfield>
+    <subfield code="d">1385</subfield>
+  </datafield>
+  <controlfield tag="008">170519b2006    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">06.01.01 </subfield>
+    <subfield code="b">1343 CD #111</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="a">Mata Segreda, Alejandrina</subfield>
+    <subfield code="9">109</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="3" tag="245">
+    <subfield code="a">La investigación acción como modo alternativo de formación continua para educadores y educadoras / </subfield>
+    <subfield code="c">Alejandrina Mata Segreda</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2006</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">320 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Informe Final del Proyecto de Investigación N° 724-A5-121. Incluye CD# 111</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">El proyecto fue desarrollado con el apoyo del Instituto de Investigación en Educación (INIE) como unidad base, y la Escuela de Orientación y Educación Especial (EOEE) como unidad de apoyo complementario. Por la naturaleza del tema desarrollado, el proyecto fue adscrito al programa de “Investigación para el Mejoramiento de los Procesos de Enseñanza y Aprendizaje en el aula” del INIE. Esta investigación fue realizada en el año 2005 (del 1 de enero al 31 de diciembre), por la profesora Alejandrina Mata Segreda de la sección de Orientación de Escuela de Orientación y Educación Especial. Mediante la participación del personal docente y técnico docente de la Escuela de Bello Horizonte de Escazú, la investigadora propició espacios para crear una imagen realista y fiel de las percepciones y necesidades de formación continua de este grupo de educadores y educadoras, con la intención de identificar los fundamentos para la concepción orgánica de una opción alternativa de asesoramiento, que pueda ser aplicada a otros grupos profesionales con condiciones similares. Este modo alternativo se basó en la investigación - acción por parte del personal de la escuela, grupo que al participar en diferentes procesos de reflexión sobre su práctica educativa, determinó sus fortalezas y debilidades y propuso diversos problemas educativos para ser resueltos mediante intervenciones educativas innovadoras. A la vez la investigadora facilitadora utilizó la investigación etnográfica para sistematizar la experiencia, elaborando descripciones de cada uno de los encuentros con el personal de la escuela, descripciones que eran sometidas a consideración del grupo de participantes en busca de su validación, y a partir de las cuales se fueron elaborando los resultados. Por ser esta una investigación cualitativa se lograron resultados referidos a cada uno de los objetivos específicos de la investigación, los cuales se detallan en el informe final. Con respecto al problema general de investigación, es decir, los insumos o elementos conceptuales que permiten la articulación de un modo alternativo de formación continua de educadores y educadoras, se destacan los siguientes: • Facilitación de espacios para la propuesta de soluciones a los problemas educativos. • Seguimiento del cumplimiento de los objetivos de los programas de formación continua que se organicen. • Estimulación del compromiso con el cambio por parte del personal participante. • Confrontación del grupo ante sus ideas y juicios. • Construcción conjunta del proceso de formación continua. • El proceso de formación continua como parte de la dinámica cultural de la institución educativa. • Estimular el desarrollo de habilidades para valorar la información disponible. • Aprender sobre la marcha. • Estímulo permanente a la reflexión sobre la calidad educativa. • Aprendizaje colaborativo. • Certificación de los aprendizajes. • Identificación pertinente de necesidades de formación continua. • Compromiso con el rol que ejerce la persona que facilita el proceso de formación continua. • Respeto a la divergencia. • Identificación y aprovechamiento del rol que desempeña cada uno de los integrantes del grupo durante el proceso de formación continua.</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">INVESTIGACIÓN ACCIÓN</subfield>
+    <subfield code="9">1072</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">DOCENTES</subfield>
+    <subfield code="9">331</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">INNOVACIONES PEDAGÓGICAS</subfield>
+    <subfield code="9">666</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">EDUCACIÓN PERMANENTE</subfield>
+    <subfield code="9">1520</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

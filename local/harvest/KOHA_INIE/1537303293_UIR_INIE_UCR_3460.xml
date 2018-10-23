@@ -1,0 +1,145 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03304nam a22004577a 4500</leader>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">3460</subfield>
+    <subfield code="d">3460</subfield>
+  </datafield>
+  <controlfield tag="008">171204b2017    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="020">
+    <subfield code="a">9789968527439</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">06.01.01</subfield>
+    <subfield code="b">2441</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">715</subfield>
+    <subfield code="a">Cordero Cordero, Teresita </subfield>
+    <subfield code="e">Compilador/a</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Reflexiones desde la investigación socio - educativa en contextos de exclusión / </subfield>
+    <subfield code="c">compilado por Teresita Cordero Cordero</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">[San José, Costa Rica] :</subfield>
+    <subfield code="b">INIE,</subfield>
+    <subfield code="c">2017</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">305 paginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="490">
+    <subfield code="a">Colección Yigüirro</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">El presente documento, es una compilación que surge a partir de un grupo de investigación relacionado con el Programa de Educación y Contextos Socioculturales del Instituto de Investigación en Educación (INIE) de la Universidad de Costa Rica. La mayoría de los trabajos corresponden a personas  investigadoras que integran el Programa, aunque también se cuenta con algunas otras que fueron invitadas a participar. Como lección aprendida se reconoce la fuerza que tiene el poner en común, para así lograr la reflexión y el análisis sobre la labor que se realiza.
+El Programa, por su parte, surge en el INIE en el marco de una política de apoyo a la investigación, con el interés de consolidar temáticas consideradas de importancia educativa. En particular, aglutina la experiencia de dos Programas: Educación y Género y Educación y Cultura, cuya herencia le impregna la posibilidad de realizar indagaciones en contextos particulares y plurales. Es así como a lo largo del texto se nos presentan temáticas que a nivel conceptual están atravesadas por coordenadas interdisciplinarias y, de manera general, muestran diferentes caras de las dinámicas de la exclusión y la violencia, que son interceptadas desde lo socio-educativo.
+El Programa contiene investigaciones que responden a escenarios y poblaciones diversas, ya que se parte de la concepción de que la educación está imbricada directamente con la cultura, la cual se realiza y consolida tanto en la(s) práctica(s) social(es) y en los espacios escolares institucionalizados, como en la vida cotidiana. Cada documento aporta una mirada particular sobre la situación o las situaciones que se enfocan y muestran parte del accionar socio-educativo.</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">326</subfield>
+    <subfield code="a">INVESTIGACIÓN EDUCATIVA</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">3290</subfield>
+    <subfield code="a">EXCLUSIÓN EDUCATIVA</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">553</subfield>
+    <subfield code="a">VIOLENCIA ESCOLAR</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">476</subfield>
+    <subfield code="a">JUVENTUD</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">59</subfield>
+    <subfield code="a">NIÑOS</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">60</subfield>
+    <subfield code="a">NIÑAS</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">588</subfield>
+    <subfield code="a">DERECHOS HUMANOS</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">69</subfield>
+    <subfield code="a">GÉNERO</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">1997</subfield>
+    <subfield code="a">IDENTIDAD SEXUAL</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">984</subfield>
+    <subfield code="a">INTERACCIÓN SOCIAL</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="650">
+    <subfield code="a">EDUCACIÓN NO FORMAL </subfield>
+    <subfield code="9">386</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">809</subfield>
+    <subfield code="a">EDUCACIÓN DE ADULTOS</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">706</subfield>
+    <subfield code="a">D'Antoni, Maurizia </subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">707</subfield>
+    <subfield code="a">Gómez Ordoñez, Luis</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">745</subfield>
+    <subfield code="a">Sánchez Fallas, Marilyn</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">711</subfield>
+    <subfield code="a">Artavia Granados Jenny </subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">2999</subfield>
+    <subfield code="a">Fernández Fernández, Daniel</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="9">3291</subfield>
+    <subfield code="a">Gutiérrez Rojas, Marisol</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">3292</subfield>
+    <subfield code="a">Morales Trejos, Carol</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">731</subfield>
+    <subfield code="a">Rescia Chinchilla, Lucía </subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">3233</subfield>
+    <subfield code="a">Veitch Forbes, Maritza</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">2649</subfield>
+    <subfield code="a">Kaufmann Kappari, Etty Helen</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">3293</subfield>
+    <subfield code="a">Ovares Fernández, Yanúa</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">1944</subfield>
+    <subfield code="a">Díaz Soucy, Cecilia</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">110</subfield>
+    <subfield code="a">González Zúñiga, Marianela</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

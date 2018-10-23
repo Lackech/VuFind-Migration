@@ -1,0 +1,45 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01687nab a2200157   4500</leader>
+  <controlfield tag="008">150611b1999    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">181</subfield>
+    <subfield code="a">Delgado, María del Carmen</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Estrategias de éxito en los estudios superiores de seis mujeres latinoamericanas /</subfield>
+    <subfield code="c">María del Carmen Delgado</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">1999</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">páginas 213-231</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">La mayoría de los estudios acerca de las mujeres profesionales revelan serias dificultades y barreras en el desarrollo académico de sus carreras.  Es pues interesante saber sobre la lucha de estas mujeres en su intento por abrir espacios tanto en la educación superior como en el campo laboral.  Recientemente, las mujeres han tenido acceso para narrar sus experiencias educacionales por medio de testimonios, entrevistas y artículos en revistas profesionales en donde comparten su éxito y sus anécdotas personales.  El propósito de este artículo es analizar las percepciones personales de seis mujeres latinoamericanas con respecto a los factores que contribuyeron al éxito académico en la enseñanza superior. El método de recolección de datos fue la entrevista.  En sus conversaciones estas mujeres comparten cómo la motivación individual, la personalidad, la influencia de modelos, el papel del género y el grado de satisfacción con sus logros fueron los factores determinantes para su éxito</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" tag="773" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0024</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.23, no.especial (1999)</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2653</subfield>
+    <subfield code="d">2653</subfield>
+  </datafield>
+</record>

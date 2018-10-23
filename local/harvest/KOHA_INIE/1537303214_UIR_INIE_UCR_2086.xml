@@ -1,0 +1,63 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02810nam a2200205Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2086</subfield>
+    <subfield code="d">2086</subfield>
+  </datafield>
+  <controlfield tag="008">180828b2006    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">13.09.09 </subfield>
+    <subfield code="b">1387</subfield>
+  </datafield>
+  <datafield ind1=" " tag="100" ind2=" ">
+    <subfield code="a">Francis Salazar, Susan</subfield>
+    <subfield code="9">557</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="245">
+    <subfield code="a">Los saberes pedagógicos del docente universitario: un encuentro con los docentes valorados excelentes por sus estudiantes / </subfield>
+    <subfield code="c">Susan Francis Salazar</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2006</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">170 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " tag="500" ind1=" ">
+    <subfield code="a">Informe Final. Proyecto Nº 724-A5-055</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">Esta investigación tuvo como objetivo general analizar desde el nivel de los discursos las construcciones y significados que conforman el conocimiento pedagógico de los profesores universitarios sin formación pedagógica formal, del área de ciencias básicas, que desarrollan cursos teóricos y que además son considerados por sus estudiantes como excelentes en su labor docente en la Universidad de Costa Rica. Se utilizó un método de investigación que se basó en técnicas de corte cualitativo, mismas que pudieran profundizar en las percepciones y expresiones de quienes conforman el espacio educativo en la formación profesional en las carreras de la Facultad de Ciencias Básicas, la cual tiene cinco escuelas. Entre las principales conclusiones están: 
+• El abordaje del saber pedagógico no puede dejar de lado la dimensión personal y disciplinar de que quién ejerce la docencia. Lo anterior se fundamenta en el hecho de que como actividad inminentemente humana la educación sugiere la interrelación de estas dimensiones. Los esfuerzos por apoyar el desarrollo pedagógico del docente universitario requieren considerar esta situación. 
+• Los procesos de selección de los documentos universitarios también se ven impactados por su interdimensionalidad, queda explícito la necesidad de revisar no solo el dominio conceptual si no también las capacidades: comunicativa, de interacción personal y de concepción del acto comunicativo. Al mismo tiempo es necesario revisar las bondades de los mentores como orientadores y modelos de quienes se proponen como futuros docentes. 
+• Los resultados muestran que en particular los docentes seleccionados por los estudiantes sobresalen por un enfoque pedagógico que trasciende el enfoque tradicional. 
+• Las limitaciones en el desarrollo del saber pedagógico sugieren un papel fundamental en el área administrativa. Su naturaleza coadyuvante en los procesos educativos permite generar fluidez y facilitar su concreción. Sin embargo las respuestas de los docentes entrevistados no dan cuenta de esta capacidad.</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">FORMACIÓN DE DOCENTES</subfield>
+    <subfield code="9">9</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">DOCENCIA UNIVERSITARIA</subfield>
+    <subfield code="9">920</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">ESTUDIANTES </subfield>
+    <subfield code="9">332</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+    <subfield code="9">8</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">APRENDIZAJE </subfield>
+    <subfield code="9">387</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

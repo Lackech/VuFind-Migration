@@ -1,0 +1,92 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01131nam a2200301   4500</leader>
+  <controlfield tag="008">150804b2005    a  ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="020" ind1=" ">
+    <subfield code="a">9508084669</subfield>
+  </datafield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">06.03.07 </subfield>
+    <subfield code="b">2156 </subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">697</subfield>
+    <subfield code="a">Actis, Beatriz</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Convivir, aprender y enseñar en el aula /</subfield>
+    <subfield code="c">Beatriz Actis, Ezequiel Ander-Egg, Fernando Avendaño, Horacio Belgich, Cecilia Bixio, Francisco Cajiao, Priscilla Garrido Comer, Tomás Sánchez iniesta, Liliana Sanjurjo; Norberto Boggino compilador</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">Santa Fé, Argentina :</subfield>
+    <subfield code="b">Homo Sapiens Ediciones</subfield>
+    <subfield code="c">c2005</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">222 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="490" ind2=" ">
+    <subfield code="a">Educación</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">387</subfield>
+    <subfield code="a">APRENDIZAJE </subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">594</subfield>
+    <subfield code="a">VALORES SOCIALES</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">576</subfield>
+    <subfield code="a">ASPECTOS SOCIALES </subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="9">698</subfield>
+    <subfield code="a">Ander-Egg, Ezequiel</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">699</subfield>
+    <subfield code="a">Avendaño, Fernando</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">700</subfield>
+    <subfield code="a">Belgich, Horacio </subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">701</subfield>
+    <subfield code="a">Bixio, Cecilia</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">702</subfield>
+    <subfield code="a">Cajiao, Francisco</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">703</subfield>
+    <subfield code="a">Garrido Comer, Priscilla</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">704</subfield>
+    <subfield code="a">Sánchez Iniesta, Tomás</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">705</subfield>
+    <subfield code="a">Sanjurjo, Liliana</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="9">696</subfield>
+    <subfield code="a">Boggino, Norberto</subfield>
+    <subfield code="e">compilador</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2760</subfield>
+    <subfield code="d">2760</subfield>
+  </datafield>
+</record>

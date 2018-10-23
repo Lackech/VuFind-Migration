@@ -1,0 +1,51 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01323nab a2200181   4500</leader>
+  <controlfield tag="005">20160331140544.0</controlfield>
+  <controlfield tag="008">160107b2007    c  f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">1229</subfield>
+    <subfield code="a">Garbanzo Vargas, Guiselle María</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Desafíos del sistema educativo costarricense: un nuevo paradigma de la administración de la educación /</subfield>
+    <subfield code="c">Guiselle María Garbanzo Vargas, Víctor Hugo Orozco Delgado</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2007</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">páginas 95-110</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">La autora y el autor realizan una contextualización teórico- práctica sobre la que actúa la educación, y desde ella el papel que asume la administración de la educación como disciplina responsable de la gestion de las organizaciones educativas. Se parte de los diferentes desafios que presenta la educacion en el sistema educativo costarricense y las posibles tendencias epistemológicas de la administración  de la educación, como condición para responder a estos desafios de manera acertada</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="9">243</subfield>
+    <subfield code="a">Orozco Delgado, Víctor Hugo</subfield>
+    <subfield code="c">coautor</subfield>
+  </datafield>
+  <datafield ind1="0" tag="773" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0309</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.31, no.2 (2007)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2999</subfield>
+    <subfield code="d">2999</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,72 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01027nam a2200229Ia 4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">577</subfield>
+    <subfield code="d">577</subfield>
+  </datafield>
+  <controlfield tag="008">170214b2009    cr a|||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="020">
+    <subfield code="a">9789968460736</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">14.04.01 </subfield>
+    <subfield code="b">1853</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">2456</subfield>
+    <subfield code="a">Sandoval García, Carlos</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Nuestras vidas en Carpio: aportes para una historia popular / </subfield>
+    <subfield code="c">Carlos Sandoval García, Mónica Brenes Montoya,  Karen Masís Fernández,  Laura Paniagua Arguedas, Esteban Sánchez Solano</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Editorial de la Universidad de Costa Rica, </subfield>
+    <subfield code="c">2009</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">215 páginas,</subfield>
+    <subfield code="b">Ilustraciones</subfield>
+  </datafield>
+  <datafield tag="490" ind1=" " ind2=" ">
+    <subfield code="a">Serie Instituto de Investigaciones Sociales</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">DESARROLLO DE LA COMUNIDAD</subfield>
+    <subfield code="9">2457</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">DESARROLLO ECONÓMICO Y SOCIAL</subfield>
+    <subfield code="9">445</subfield>
+  </datafield>
+  <datafield ind2="4" ind1=" " tag="651">
+    <subfield code="9">2458</subfield>
+    <subfield code="a">LA CARPIO (URUCA, SAN JOSE, COSTA RICA)</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="a">Brenes Montoya, Mónica</subfield>
+    <subfield code="e">editor/a</subfield>
+    <subfield code="9">2459</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Masís Fernández, Karen</subfield>
+    <subfield code="e">editor/a</subfield>
+    <subfield code="9">2460</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Paniagua Arguedas, Laura</subfield>
+    <subfield code="e">editor/a</subfield>
+    <subfield code="9">2461</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="a">Sánchez Solano, Esteban</subfield>
+    <subfield code="e">editor/a</subfield>
+    <subfield code="9">2462</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

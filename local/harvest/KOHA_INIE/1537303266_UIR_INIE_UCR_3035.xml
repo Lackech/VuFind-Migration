@@ -1,0 +1,46 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02151nab a2200169   4500</leader>
+  <controlfield tag="005">20160331155252.0</controlfield>
+  <controlfield tag="008">160126b           f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">1337</subfield>
+    <subfield code="a">Granados Zúñiga, Jorge</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="3">
+    <subfield code="a">La enseñanza de las ciencias básicas en medicina desde la perspectiva de la justificación epistemológica del currículo /</subfield>
+    <subfield code="c">Jorge Granados Zúñiga</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2009</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">páginas 51-60</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">Un elemento fundamental en el diseño curricular es el epistemológico. En algunos de los cursos de ciencias básicas (Bioquímica y Fisiología) de la carrera de Medicina de la Universidad de Costa Rica, he notado la ausencia de coherencia epistemológica entre el conocimiento que la ciencia produce y aquel que es interiorizado por el estudiante. Esto obligaría a realizar una evaluación del currículo en cuya labor los docentes tienen una perspectiva ventajosa porque son los que mejor conocen el tipo de estudiante que sigue la carrera. Cuando el docente se enfrenta con preguntas que cuestionan los límites entre posiciones epistemológicas diversas, se ve confrontado con la disyuntiva de proponer explicaciones que van de lo antropomórfico a lo causal. Aunque en la enseñanza de ciencias básicas en la carrera de Medicina del la Universidad de Costa Rica no parece estar permeando explícitamente una fundamentación epistemológica claramente definida, en ocasiones podrían notarse rasgos positivistas, empiristas y fenoménicos, con elementos de una filosofía determinista y métodos de evaluación cuantitativos. Dadas las ventajas y desventajas que ofrecen las diferentes propuestas epistemológicas propongo la necesidad de una definición mas clara de la justificación epistemológica curricular de los cursos de ciencias básicas de la carrera Medicina y, eventualmente, de la carrera misma</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind2=" " ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0312</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.33, no.2 (2009) </subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3035</subfield>
+    <subfield code="d">3035</subfield>
+  </datafield>
+</record>

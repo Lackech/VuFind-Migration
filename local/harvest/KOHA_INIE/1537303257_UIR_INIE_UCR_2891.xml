@@ -1,0 +1,46 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01622nab a2200169   4500</leader>
+  <controlfield tag="005">20160328163904.0</controlfield>
+  <controlfield tag="008">150924b2004    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">95</subfield>
+    <subfield code="a">Salazar Salas, Carmen Grace</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Diferencias entre la preparación profesional de las carreras de educación física y recreación.  Implicación para Costa Rica / </subfield>
+    <subfield code="c">Carmen Grace Salazar Salas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2004</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">páginas 71-86</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">Las carreras de recreación y educación física suelen ser vistas como una; específicamente, la primera suele ser considerada por algunas personas como parte de la segunda. La recreación inició cuando educadores físicos se dieron a la tarea de ofrecer programas para mejorar la calidad de vida de ciudadanos de escasos recursos. Sin embargo, con el correr del tiempo, la recreación llegó a ser una profesión con una preparación profesional de estas dos carreras. Por lo tanto, presenta la misión, un esquema de los perfiles profesionales, algunas responsabilidades laborales, algunos lugares de trabajo, y una comparación entre planes de estudio y campos de trabajo de las dos carreras en los Estados Unidos, uno de los países pioneros en esta profesión. Además, este trabajo reitera la necesidad e importancia de establecer la carrera de recreación en Costa Rica</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" tag="773" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0215</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.28, no.1 (2004)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2891</subfield>
+    <subfield code="d">2891</subfield>
+  </datafield>
+</record>

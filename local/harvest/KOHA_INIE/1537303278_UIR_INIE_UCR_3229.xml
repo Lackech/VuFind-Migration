@@ -1,0 +1,101 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01902nam a22003137a 4500</leader>
+  <controlfield tag="008">160518b2000    s  a|||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="020">
+    <subfield code="a">847197648X</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">06.02.01</subfield>
+    <subfield code="b">2335</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Pedagogías del siglo XX /</subfield>
+    <subfield code="c">Prólogo Jaume Carbonell Sebarroja</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">Barcelona :</subfield>
+    <subfield code="b">CISSPRAXIS,</subfield>
+    <subfield code="c">2000</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">159 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Esta selección d eoce autores, ha ido apareciendo como separatas en los números de Cuadernos de Pedagogía a lo largo del año 2000.  Ahora, como cierre del vigésimo quinto aniversario de la revista, los ofrecemos en una sola y cuidada edición, ampliada y enriquecida con tres breves pero interesantes ensayos</subfield>
+  </datafield>
+  <datafield tag="505" ind2=" " ind1=" ">
+    <subfield code="t">Maria Montessori: educación activa y sensorial / </subfield>
+    <subfield code="r">Jordi Monés i Pujol Busquets, Maite Vallet</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="505">
+    <subfield code="t">Francesc Ferrer i Guardia: la escuela moderna / </subfield>
+    <subfield code="r">Pere Solà i Gussinyer</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="505">
+    <subfield code="t">John Dewey: una democracia vital / 
+</subfield>
+    <subfield code="r">Francisco Beltrán</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="505">
+    <subfield code="t">Francisco Giner de los Ríos: pedagogía y conducta moral / </subfield>
+    <subfield code="r">Jordi Monés i Pujol Busquets, Elvira Ontañón</subfield>
+  </datafield>
+  <datafield tag="505" ind1=" " ind2=" ">
+    <subfield code="t">Célestin Freinet: investigar y colaborar / Enric Vilaplana ... [y otros]
+
+</subfield>
+  </datafield>
+  <datafield tag="505" ind2=" " ind1=" ">
+    <subfield code="t">Alexander Sutherland Neill: Summerhill: corazones, no sólo cabezas / 
+</subfield>
+    <subfield code="r">Antoni Tort Bardolet</subfield>
+  </datafield>
+  <datafield tag="505" ind2=" " ind1=" ">
+    <subfield code="t">Antón Semiónovich Makarenko: la fuerza de la colectividad / 
+</subfield>
+    <subfield code="r">Jaume Trilla Bernet</subfield>
+  </datafield>
+  <datafield tag="505" ind2=" " ind1=" ">
+    <subfield code="t">Jean Piaget: constructivismo / </subfield>
+    <subfield code="r">Juan Deval</subfield>
+  </datafield>
+  <datafield tag="505" ind2=" " ind1=" ">
+    <subfield code="t">Lorenzo Milani: la Escuela de Barbiana / </subfield>
+    <subfield code="r">Francesco Gesualdi ... [y otros]
+</subfield>
+  </datafield>
+  <datafield tag="505" ind2=" " ind1=" ">
+    <subfield code="t">Paulo Freire: entre la opresión y la esperanza /</subfield>
+    <subfield code="r"> Agustín Requero Osorio, Maddalena Freire
+</subfield>
+  </datafield>
+  <datafield tag="505" ind1=" " ind2=" ">
+    <subfield code="t">Lawrence Stenhouse: la enseñanza como investigación /</subfield>
+    <subfield code="r"> Lucila Recart ... [y otros]</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">824</subfield>
+    <subfield code="a">MÉTODOS PEDAGÓGICOS</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">1580</subfield>
+    <subfield code="a">PERSONAL DOCENTE</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1779</subfield>
+    <subfield code="a">OBJETIVO EDUCACIONAL</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">3229</subfield>
+    <subfield code="d">3229</subfield>
+  </datafield>
+</record>

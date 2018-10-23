@@ -1,0 +1,48 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00421nam a2200157Ia 4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">992</subfield>
+    <subfield code="d">992</subfield>
+  </datafield>
+  <controlfield tag="008">171003b1995    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="020" ind1=" ">
+    <subfield code="a">9977590907</subfield>
+  </datafield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">18.09.01 </subfield>
+    <subfield code="b">1816</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="a">Zeledón Cartín, Elías</subfield>
+    <subfield code="9">3223</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Omar Dengo. Meditaciones: (ensayos) /</subfield>
+    <subfield code="c">Elías Zeledón Cartín, Compilador/a</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica:  </subfield>
+    <subfield code="b">Editorial de la Dirección de Publicaciones, </subfield>
+    <subfield code="c">1995 </subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">39 páginas</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="600">
+    <subfield code="9">3224</subfield>
+    <subfield code="a">OMAR DENGO</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">ENSAYO</subfield>
+    <subfield code="9">384</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">MEDITACIONES</subfield>
+    <subfield code="9">2444</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,57 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02125nam a2200193Ia 4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2261</subfield>
+    <subfield code="d">2261</subfield>
+  </datafield>
+  <controlfield tag="008">180706b2005    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">18.08.01 </subfield>
+    <subfield code="b">1060</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Mora Moya, Marielos</subfield>
+    <subfield code="9">3941</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Elaboración de material didáctico para el curso de Matemática para Computación e Informática / </subfield>
+    <subfield code="c">Marielos Mora, Floria Arias</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2005</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">8 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Informe Final del Proyecto de Investigación N° 724-A2-152</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">Esta investigación nace por la necesidad de contar con un texto adecuado para el proceso de enseñanza y aprendizaje del curso de Matemáticas para Computación e Informática I, de la Universidad de Costa Rica. Por tanto se proponen los siguientes objetivos: elaborar el material didáctico y courseware para el curso; elaborar el material didáctico y una página web para el apoyo del curso. Se realizó una revisión bibliográfica sobre el tema, para analizar y seleccionar aspectos teóricos y prácticos que contribuyan al aprendizaje de los contenidos del curso MA-129 por parte de las investigadoras. La primera versión del documento fue valorada por estudiantes que llevaron el curso durante el primer semestre del 2003. Al mismo fue evaluado por profesores de la cátedra correspondiente. Se confeccionó un nuevo texto y con base en él se elaboró la página web con el propósito de contribuir en el proceso de enseñanza y aprendizaje de los contenidos de este curso por parte de los estudiantes. Los resultados obtenidos fueron los siguientes: 
+• Texto y una página web para contribuir al mejoramiento de los procesos de enseñanza y aprendizaje de los contenidos del curso MA-129. 
+• El trabajo fundamental estuvo en la escogencia de los ejercicios, los criterios de selección fueron analizados y se seleccionaron aquellos que podían ser resueltos desde la teoría de diferentes capítulos abarcados en el curso.</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">MATEMÁTICAS  </subfield>
+    <subfield code="9">482</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">MEDIOS DE ENSEÑANZA</subfield>
+    <subfield code="9">29</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">TECNOLOGÍA EDUCATIVA </subfield>
+    <subfield code="9">483</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1=" ">
+    <subfield code="a">Arias Tencio, Floria</subfield>
+    <subfield code="9">3673</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

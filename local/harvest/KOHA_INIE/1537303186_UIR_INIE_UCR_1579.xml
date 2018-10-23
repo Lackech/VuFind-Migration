@@ -1,0 +1,59 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01135nam a2200193Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">1579</subfield>
+    <subfield code="d">1579</subfield>
+  </datafield>
+  <controlfield tag="008">180228b2008    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">06.02.02 </subfield>
+    <subfield code="b">1629</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Soto Calderón, Ronald</subfield>
+    <subfield code="9">205</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Evaluación de los procesos de integración de personas con necesidades educativas especiales al Sistema Educativo en Costa Rica / </subfield>
+    <subfield code="c">Ronald Soto Calderón, Carolina Bermúdez</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2008</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">59 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Proyecto de Investigación: 724 -A5-301\ Se dispone del Informe final del Proyecto de Investigación titulado: "Evaluación de procesos de integración de las personas con necesidades educativas especiales en el Sistema Regular Costarricense.</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">El estudio evaluó los procesos de integración escolar de las personas con necesidades especiales en el sistema educativo regular costarricense, para determinar su impacto en los aspectos individual y familiar del estudiante, y el aspecto formativo de los docentes que llevan el proceso. La investigación es descriptiva y se define como población los docentes de Educación General Básica de I y II ciclo que trabajan en escuelas de educación primaria, con estudiantes con necesidades educativas especiales integrados en sus aulas, con apoyo de docentes de educación especial, en Servicios de Apoyo Fijo en Retardo Mental, estudiantes que participan en procesos de integración, padres o madres de familia de estudiantes integrados y directores de instituciones educativas en las que participan los estudiantes. La muestra quedó conformada por: 116 directores y directoras, 397 docentes, 353 padres y madres de familia y 441 estudiantes. Para la recolección de información se utilizó la entrevista semiestructurada. Entre las conclusiones a las que llegó el estudio se mencionan las siguientes: • Las y los docentes de aulas regulares manifiestan que el apoyo que reciben de las y los docentes integradores es insuficiente, aunque comprenden que éste es un apoyo itinerante en ocasiones. • Aunque las y los docentes así como los directores y directoras que han intervenido en el proceso de integración manifiestan cumplir con todas las condiciones que se requieren para desarrollar su trabajo, la información no llega a los padres y madres de familia de forma clara por lo que no comprenden el proceso educativo de su hijo o hija dentro del sistema regular. • Tanto las y los docentes como los directores y directoras de los centros educativos tienen conocimiento acerca del proceso de integración. • El personal docente promueve la participación de las estudiantes y los estudiantes integrados durante el desarrollo de la lección, sin embargo, indican que en ocasiones esta participación no se ajusta a las características y necesidades del niño y la niña y a los temas que se desarrollan en clase. • Los padres y madres de familia saben que sus hijos e hijas reciben una atención individualizada y sus implicaciones, sin embargo no saben el tipo de adecuación curricular que se les aplica, por ello incluso responden que sus hijos e hijas no tiene una adecuación curricular significativa. • Los asesoramientos que imparte el Ministerio de Educación Pública no responden por completo a las necesidades de las y los docentes que reciben a los niños y niñas con necesidades educativas especiales dentro de las aulas regulares. • La mayoría de los padres y madres de familia indican conocer la existencia de la Ley Nº7600, pero desconocen de las implicaciones que ésta tiene en cuanto a la normativa y su reglamento. Aunque existen documentos legales que respaldan los procesos de integración escolar, no todas las personas involucradas en este proceso tienen acceso a esta documentación, y en aquellos casos en los que si los accedan no los comprenden o no existe disposición para aplicarlos de manera apropiada.</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">NECESIDADES DE INFORMACIÓN</subfield>
+    <subfield code="9">3429</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">SISTEMAS DE ENSEÑANZA</subfield>
+    <subfield code="9">401</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">ESTUDIANTES </subfield>
+    <subfield code="9">332</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">EDUCACIÓN ESPECIAL</subfield>
+    <subfield code="9">817</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="a">Bermúdez, Carolina</subfield>
+    <subfield code="9">3430</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

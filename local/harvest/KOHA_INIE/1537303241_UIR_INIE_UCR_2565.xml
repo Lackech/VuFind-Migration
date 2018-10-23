@@ -1,0 +1,59 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00764nab a2200193   4500</leader>
+  <controlfield tag="008">150515b1997    cl ||||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">REVIS 15.04.04</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">61</subfield>
+    <subfield code="a">Domínguez, Alejandra</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Construyendo ciudadanía : el derecho a decidir /</subfield>
+    <subfield code="c">Alejandra Domínguez, Alicia Soldevila, Patricia Acevedo</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">Chile :</subfield>
+    <subfield code="b">Red de Salud de las mujeres latinoamericanas y del caribe,</subfield>
+    <subfield code="c">1997</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">páginas 68-74</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">55</subfield>
+    <subfield code="a">MUJERES</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">62</subfield>
+    <subfield code="a">SALUD REPRODUCTIVA</subfield>
+  </datafield>
+  <datafield ind2="4" tag="651" ind1=" ">
+    <subfield code="9">63</subfield>
+    <subfield code="a">ARGENTINA</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="9">64</subfield>
+    <subfield code="a">Soldevila, Alicia</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="9">65</subfield>
+    <subfield code="a">Acevedo, Patricia</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="0" tag="773">
+    <subfield code="d">Chile : Red de Salud de las Mujeres Lationamericanas 1997</subfield>
+    <subfield code="o">R0006</subfield>
+    <subfield code="t">Revista Mujer Salud</subfield>
+    <subfield code="x">0716-8381</subfield>
+    <subfield code="g">No.4 (octubre- diciembre,1997)</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2565</subfield>
+    <subfield code="d">2565</subfield>
+  </datafield>
+</record>

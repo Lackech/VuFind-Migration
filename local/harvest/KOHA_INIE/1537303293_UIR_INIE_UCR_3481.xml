@@ -1,0 +1,61 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>     nam a22        4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3481</subfield>
+    <subfield code="d">3481</subfield>
+  </datafield>
+  <controlfield tag="003">cru INIE</controlfield>
+  <controlfield tag="005">20180223105809.0</controlfield>
+  <controlfield tag="008">180223b2017    m  ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="c">cru INIE</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">18.09.01</subfield>
+    <subfield code="b">2451</subfield>
+  </datafield>
+  <datafield tag="110" ind2=" " ind1="2">
+    <subfield code="9">1392</subfield>
+    <subfield code="a">Instituto Nacional para la Evaluación de la Educación (México)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="245">
+    <subfield code="a">Una radiografía del programa de mediano plazo del sistema nacional de evaluación educativa 2016 - 2020: Suplemento para la toma de decisiones /</subfield>
+    <subfield code="c">INEE</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">México: </subfield>
+    <subfield code="b">INEE,</subfield>
+    <subfield code="c">2017</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">62 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Edición especial de la Gaceta de la Política Nacional de Evaluación Educativa en México. No.8 (julio-octubre, 2017).</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">451</subfield>
+    <subfield code="a">POLÍTICA EDUCATIVA</subfield>
+  </datafield>
+  <datafield ind2="4" ind1=" " tag="651">
+    <subfield code="9">19</subfield>
+    <subfield code="a">MÉXICO</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">03</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="0" tag="773">
+    <subfield code="0">3480</subfield>
+    <subfield code="9">3711</subfield>
+    <subfield code="a">Instituto Nacional para la Evaluación de la Educación (México)</subfield>
+    <subfield code="b"/>
+    <subfield code="d">México : INEE, 2017</subfield>
+    <subfield code="o">004411</subfield>
+    <subfield code="t">Gaceta de la política nacional de evaluación educativa en México /</subfield>
+    <subfield code="w"/>
+    <subfield code="x">2395-9746</subfield>
+    <subfield code="z"/>
+  </datafield>
+</record>

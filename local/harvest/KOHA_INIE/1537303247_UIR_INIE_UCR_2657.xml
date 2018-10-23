@@ -1,0 +1,46 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01824nab a2200157   4500</leader>
+  <controlfield tag="008">150611b1999    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">184</subfield>
+    <subfield code="a">Mondrus Ostroumón, Ana</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Secuencias de aprendizaje en matemáticas /</subfield>
+    <subfield code="c">Ana Mondrus Ostroumón</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">1999</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">páginas 197-207</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">En este trabajo se presenta una técnica, las secuencias de aprendizaje, que permite incidir en forma fina en los procesos de aprendizaje de los estudiantes en relación con los componentes más básicos de sus conocimientos matemáticos, procurando detectar oportunamente debilidades en los subsumidores (Moreira, 1994, p.3) y estimulando en el estudiante su disposición a asumir su aprendizaje como aprendizaje significativo. Esto se retroalimenta cuando el estudiante adquiere seguridad en sus conocimientos, al no arrastrar conceptos previos mal asimilados. En estas secuencias, el principal papel del docente, además de ser constructor y un atento observador al aplicarlas, es reconocer en el aprendiz el punto en que el conocimiento previo se debilita, ya sea por haber sido aprendido en forma mecánica o en forma incorrecta.
+Las secuencias de aprendizaje son, en sí mismas, una técnica, sin embargo inciden en lo contextual en la medida en que abren una posibilidad real de lo que puede llamarse un acercamiento matemático entre el docente y el alumno, que puede ayudar a romper el estereotipo sobre la dificultad absoluta de las matemáticas o sobre la falta de capacidad del estudiante</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" tag="773" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0023</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.23, no.2 (1999) </subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2657</subfield>
+    <subfield code="d">2657</subfield>
+  </datafield>
+</record>

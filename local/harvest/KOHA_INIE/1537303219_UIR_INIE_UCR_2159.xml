@@ -1,0 +1,74 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03386nam a2200253Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2159</subfield>
+    <subfield code="d">2159</subfield>
+  </datafield>
+  <controlfield tag="008">180713b1998    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">14.02.04 </subfield>
+    <subfield code="b">718</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Chavarría Navas, Soledad</subfield>
+    <subfield code="9">146</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Investigación Evaluativa de la familia de personas con necesidades especiales y su relación con los servicios en una comunidad urbano-marginal / </subfield>
+    <subfield code="c">Soledad Chavarría Navas, Roxana Stupp Kupiec</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="a">IIMEC,</subfield>
+    <subfield code="c">1998</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">41 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Informe final Proyecto de Investigación No. 724-93-326</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">Este estudio constituye la segunda etapa de investigación sobre familias con parientes que presentan necesidades especiales, y los objetivos primordiales son describir y comparar familias de personas con discapacidades en términos de constitución familiar y oportunidades educativas, el papel de los integrantes de las familias en función de la persona con necesidades especiales, así como el papel de las instituciones y servicios. El estudio es de tipo cualitativo, por lo que utiliza la entrevista semiestructurada y la observación participativa como técnicas de recolección de información. Se trabajó con diez familias de comunidades de atención prioritaria ubicadas en el sector oeste de San José, habitantes de precarios constituidos por emigrantes del campo y extranjeros. Los temas contemplados en la entrevista incluyen la rutina diaria de la familia, los servicios de la comunidad, la percepción de la familia hacia la discapacidad, los servicios educativos y de salud, y la estructura familiar. Los resultados indican que estas familias presentan, por lo general, una mujer jefa de hogar, lo que limita la satisfacción de las necesidades básicas, las posibilidades de cuido adecuado y las oportunidades educativas. En cuanto a la rutina de la familia, la vida comienza a tempranas horas de la mañana y la preocupación de la madre sobre el cuidado de la persona con discapacidad provoca una constante situación de desesperanza y tensión. Las personas con discapacidad tienen una rutina que se circunscribe a pasar el tiempo viendo televisión, oyendo radio, durmiendo o deambulando por la comunidad. Además, parece ser que la severidad de la discapacidad podría poner a la persona en una situación de ser percibida como bebé. El temor ante la incertidumbre sobre el futuro de los miembros con discapacidad es evidente en la familia, a pesar de los problemas cotidianos en relación con las necesidades básicas. Las creencias sobre las causas de la discapacidad responden a dos tipos de percepción: sentimientos de culpa en la madre, y prejuicios o falta de información acerca de la discapacidad. En relación con las instituciones, las familias experimentan la religión como un tipo de apoyo de carácter espiritual y la percepción de la instrucción escolar es positiva, pero el acceso se dificulta por la carencia de transporte público adecuado y la existencia de requisitos inalcanzables para los discapacitados o sus familiares.</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">FAMILIA</subfield>
+    <subfield code="9">404</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">COMUNIDADES</subfield>
+    <subfield code="9">519</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">MARGINALIDAD</subfield>
+    <subfield code="9">1773</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">EDUCACIÓN ESPECIAL</subfield>
+    <subfield code="9">817</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">BIENESTAR SOCIAL</subfield>
+    <subfield code="9">2383</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">SERVICIOS SOCIALES</subfield>
+    <subfield code="9">4062</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">PERSONAS CON DISCAPACIDAD</subfield>
+    <subfield code="9">1369</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Stupp Kupiec, Roxana</subfield>
+    <subfield code="9">161</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+  </datafield>
+</record>

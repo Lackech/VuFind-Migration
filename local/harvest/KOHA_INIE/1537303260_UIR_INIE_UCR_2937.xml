@@ -1,0 +1,48 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01788nab a2200169   4500</leader>
+  <controlfield tag="005">20160331134129.0</controlfield>
+  <controlfield tag="008">151105b2005    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">1180</subfield>
+    <subfield code="a">Casanueva López, Herminia</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Perfil profesional de ingenero agrícola en Costa Rica /</subfield>
+    <subfield code="c">Herminia Casanueva López</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2005</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">páginas 125-148</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">La ingeniería agrícola como carrera y como profesión, existe en Costa Rica desde 1974, por lo que se le considera una profesión jóven, sin embargo existen  un número ya significativo de profesionales que han ido ubicándose en las distintas áreas propias de su quehacer, por lo que el momento es propicio para realizar una sistematización explícita de las áreas de desempeño profesional, las actividades que se desarrollan en cada área y la proyección de nuevas áreas y actividades para los próximos años.
+Para la realización de este trabajo, se aplicó una metodología diseñada para "sistemas suaves" y que se caracteriza por ser participativa y flexible por lo que responde metodológicamente a la naturaleza del proyecto.
+Como producto de la investigación se identificaron siete grandes áreas del quehacer profesional y diez actividades, que se intersecan con las áreas, de esta matriz se genera el perfil profesional actual del Ingeniero Agrícola en Costa Rica y que permite que futuros proyectos lo tomen como base conforme la Ingeniería Agrícola y su práctica profesional evolucionen</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " tag="773" ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0300</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.29, no.1 (2005)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2937</subfield>
+    <subfield code="d">2937</subfield>
+  </datafield>
+</record>

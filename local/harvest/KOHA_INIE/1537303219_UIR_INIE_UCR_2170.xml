@@ -1,0 +1,100 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03208nam a2200373Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2170</subfield>
+    <subfield code="d">2170</subfield>
+  </datafield>
+  <controlfield tag="008">180713b2005    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">14.02.04 </subfield>
+    <subfield code="b">1121 CD #88</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1=" ">
+    <subfield code="a">Cordero Cordero, Teresita </subfield>
+    <subfield code="9">715</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Experiencias pedagógicas de las madres-maestras: comprendiendo los significados de las actividades del Jardín / </subfield>
+    <subfield code="c">Teresita Cordero Cordero</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2005</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">283 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">III Informe Parcial e Informe Final del Proyecto de investigación N° 724-A2-319. \ Tesis de Doctorado. \ Contiene disco compacto Nº 88\Contiene el Corto madres maestras 1; el corto madres-maestras 2 y el corto madres-maestras 3\ Incluye videos del 1 al</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">EEl objetivo principal de esta investigación fue comprender e interpretar la filosofía en acción que subyace a las prácticas pedagógicas (promoción de aprendizaje) desarrolladas por las Madres-Maestras en los Jardines de Párvulos de la Iglesia Católica y Organización de las Madres-maestras ( JAPAIC-OMNA). El trabajo realizado en la investigación estuvo apoyado por la concepción teórica y metodológica, que integra el enfoque socio-cultural desde el ámbito educativo, con un énfasis en el trabajo infantil y a partir del estudio en los Jardines de Párvulos. El trabajo permitió apoyar dicha organización y proyectar a la Universidad de Costa Rica a nivel centroamericano. Durante el proceso de realizado en la investigación se han elaborado una serie de documentos que evidencian y exponen las particularidades y proyecciones de la investigación. Los documentos se anexan a este informe, a saber: tesis doctoral, artículos publicados o en proceso, constancias y presentaciones en actividades académicas nacionales e internacionales, vídeos y, nuevas propuestas de investigación en ejecución. Entre los resultados y logros conseguidos durante el proceso de investigación, se rescata en un primer momento la integración entre la investigación, la acción social y la docencia, y los logros: • La divulgación de la investigación en diferentes eventos (congresos) así como en los artículos en proceso de publicación. • La retroalimentación que se hace y se continúa haciendo con la Organización de las Madres-maestras en Centroamérica, en encuentros y reuniones. • La alianza con la UNED para la elaboración de vídeos producto de la investigación. • La continuidad de la investigación en el proyecto de investigación “La construcción de la memoria histórica y la tradición narrativa (autobiografías, cuentos, leyendas y mitos) de las Madres/Padresmaestros en Centroamérica”, así como la promoción del Programa de Educación y Cultura, iniciativa que ya el INIE había propuesto.</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">MADRES</subfield>
+    <subfield code="9">1614</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">PEDAGOGÍA</subfield>
+    <subfield code="9">1770</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="650">
+    <subfield code="a">EDUCACIÓN NO FORMAL </subfield>
+    <subfield code="9">386</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">PARTICIPACIÓN DE LOS PADRES</subfield>
+    <subfield code="9">1553</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+  </datafield>
+</record>

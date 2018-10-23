@@ -1,0 +1,53 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00843nam a2200181Ia 4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">862</subfield>
+    <subfield code="d">862</subfield>
+  </datafield>
+  <controlfield tag="008">170816b2006    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="020">
+    <subfield code="a">9968791105</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">15.04.03 </subfield>
+    <subfield code="b">1748</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="2" tag="110">
+    <subfield code="a">Agencia de Cooperación Internacional del Japón (JICA) </subfield>
+    <subfield code="9">2500</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Construyendo el Observatorio de la discapacidad /</subfield>
+    <subfield code="c">Agencia de Cooperación Internacional del Japón (JICA), Consejo Nacional de Rehabilitación y Educación Especial</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">Costa Rica : </subfield>
+    <subfield code="b">Agencia de Cooperación Internacional del Japón (JICA), Consejo Nacional de Rehabilitación y Educación Especial, </subfield>
+    <subfield code="c">2006</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">57 páginas, </subfield>
+    <subfield code="b">21x14 centímetros</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">DISCAPACIDAD </subfield>
+    <subfield code="9">477</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">SERVICIOS DE INFORMACION</subfield>
+    <subfield code="9">3073</subfield>
+  </datafield>
+  <datafield ind1=" " tag="651" ind2="4">
+    <subfield code="a">COSTA RICA</subfield>
+    <subfield code="9">47</subfield>
+  </datafield>
+  <datafield tag="710" ind1=" " ind2=" ">
+    <subfield code="9">1368</subfield>
+    <subfield code="a">Consejo Nacional de Rehabilitación y Educación Especial</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

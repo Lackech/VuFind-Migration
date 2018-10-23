@@ -1,0 +1,49 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03614nab a2200157   4500</leader>
+  <controlfield tag="008">150611b1999    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">188</subfield>
+    <subfield code="a">Pariat, Marcel</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Nuevas tecnologías y evolución de los sitemas de formación /</subfield>
+    <subfield code="c">Marcel Pariat</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">1999</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">páginas 251-260</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">Esta conferencia se refiere a la realidad tecnológica que ha traído cambios en los procesos de formación y de producción, también indica que se nos impone a todos en este final del siglo XX, tanto en el mundo profesional como en espacio privado, es más dificil de identificar los verdaderos cambios que esta implica, ya sea para su propia actividad como para las estrategias futuras y las decisiones de inversión, con respecto especialmente a la evolución de los sistemas de formación.
+Además se refiere a los progresos de la técnica y de la ciencia en los tres últimos siglos, y particularmente en el que se termina, indica que han tenido aceleraciones prodigiosas, de las cuales todavía se miden mal todas las consecuencias: se abolió el espacio y el tiempo. Y sin embargo la barbarie no ha desaparecido, como lo atestiguan con brillo sombrío las dos guerras mundiales que desgarraron este siglo. El hombre se interroga más sobre si mismo, porque no se ha liberado, mas que ancestros del año mil, de sus angustias: a pesar de los inmensos progresos realizados, el mundo solo le proporciona la felicidad a la que aspira de una manera parcimoniosa, imprevisible  y fugaz; y es posible preguntarse si el fin de este milenio no es el del mundo sino el del hombre.
+Y es nivel de esta articulación que los actores y agentes de educación y de la formación son interpelados y deben prepararse para dar respuesta: en 30 años, la formación pasó del trabajo social a la educación por lo económico pero? debe por ello limitarse el rol de los educadores y de los formadores ante los vectores de especializaciones estrechamente profesionalizadas?.
+Dicho de otro modo, ¿Debe la formación llevar a los individuos a interesarse en ellos mismos como recursos humanos de la empresa, y solo en virtud de esto a perfeccionarse, a llegar a ser mas competentes mas eficaces. En este caso serían un medio privilegiados de hacer interiorizar por los individuos las leyes económicas y técnicas, dominios que la formación inicial no pretende aprender prioritariamente, impregnada como lo sigue estando de la filosofía humanista.
+La filosofía profunda pero corta a la que evita los lugares comunes, a su manera plantea las preguntas que aquí nos interesan: ¿Cuáles son las relaciones del hombre con las tecnologías y el desarrollo? ¿Qué problemas relevan estas relaciones, en particular a nivel de la relación del hombre con el mismo? Hemos retenido tres líneas de reflexión en esta inmensa problemática: la primera tiene que ver con el hombre desde el punto de vista de la ética y de las libertades; la segunda se focaliza en el tema del hombre y la producción, y la última en la dialéctica del hombre de la sociedad. Concluiremos con lo que está en juego desde el punto de vista pedagógico, con prolongaciones necesariamente filosóficas y políticas, comprometidas con las selecciones que hacen hoy los hombres para el mañana: el tercer milenio ya está aquí</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind2=" " ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0023</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.23, no.2 (1999)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2661</subfield>
+    <subfield code="d">2661</subfield>
+  </datafield>
+</record>

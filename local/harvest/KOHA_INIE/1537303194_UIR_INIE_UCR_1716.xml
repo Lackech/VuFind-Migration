@@ -1,0 +1,51 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00718nam a2200193Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">06.03.04 </subfield>
+    <subfield code="b">550, </subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="100">
+    <subfield code="a">Alfaro P., Jorge</subfield>
+  </datafield>
+  <datafield ind2=" " tag="245" ind1=" ">
+    <subfield code="a">La enseñanza del español en Costa Rica : Estudio de los planes anuales de los docentes / </subfield>
+    <subfield code="c">Jorge Alfaro P., Margarita Rojas G., Flora Ovares R., Sonia M. Mora E</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">Heredia, Costa Rica. : </subfield>
+    <subfield code="b">Universidad Nacional, Facultad de Filosofía y Letras, </subfield>
+    <subfield code="c">1987</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">44 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2=" ">
+    <subfield code="a">ENSEÑANZA DE IDIOMAS</subfield>
+  </datafield>
+  <datafield ind2=" " tag="650" ind1=" ">
+    <subfield code="a">EDUCACION SECUNDARIA</subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2=" ">
+    <subfield code="a">FORMACION DE DOCENTES</subfield>
+  </datafield>
+  <datafield ind1=" " tag="650" ind2=" ">
+    <subfield code="a">PLANIFICACION DE LA EDUCACION</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="651">
+    <subfield code="a">COSTA RICA</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="700">
+    <subfield code="a">Rojas G., Margarita</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1=" ">
+    <subfield code="a">Ovares R., Flora</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1=" ">
+    <subfield code="a">Mora E., Sonia M.</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">1716</subfield>
+    <subfield code="d">1716</subfield>
+  </datafield>
+</record>

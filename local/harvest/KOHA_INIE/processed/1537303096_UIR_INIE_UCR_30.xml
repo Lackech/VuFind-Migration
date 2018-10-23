@@ -1,0 +1,44 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00552nam a2200157Ia 4500</leader>
+  <controlfield tag="008">150715b1995    U  ||||| |||| 00| | eng d</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">0791421082</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">371.200.973 </subfield>
+    <subfield code="b">L533e </subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="a">Leithwood, Kenneth</subfield>
+    <subfield code="9">304</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Expert Problem solving : Evidence from school and district leaders / </subfield>
+    <subfield code="c">Kenneth Leithwood, Rosanne Steinbach</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Albany, Estados Unidos : </subfield>
+    <subfield code="b">State University  of New York Prees, </subfield>
+    <subfield code="c">1995</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">366 páginas</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">ADMINISTRACIÓN ESCOLAR</subfield>
+    <subfield code="9">305</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Steinbach Rosanne</subfield>
+    <subfield code="9">306</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">30</subfield>
+    <subfield code="d">30</subfield>
+  </datafield>
+</record>

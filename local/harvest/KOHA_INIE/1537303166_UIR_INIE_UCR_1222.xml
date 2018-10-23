@@ -1,0 +1,55 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02433nam a2200193Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">1222</subfield>
+    <subfield code="d">1222</subfield>
+  </datafield>
+  <controlfield tag="008">170516b2001    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">01.02.01 </subfield>
+    <subfield code="b">226</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="a">Sequeira Rodríguez, Alicia</subfield>
+    <subfield code="9">215</subfield>
+  </datafield>
+  <datafield tag="245" ind2="4" ind1="1">
+    <subfield code="a">Los procesos de  globalización de la tecnología y la teoría curricular / </subfield>
+    <subfield code="c">Alicia Sequeira Rodríguez</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">2001</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">21 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Proyecto de Investigación N° 724-99-345</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">El documento presenta información relativa a la oferta curricular del Diplomado en Electrónica del Instituto Tecnológico de Costa Rica, y se trata de determinar las implicaciones que la globalización y la tecnología, han tenido en la teoría curricular. A partir de la investigación, se concluyó que, al igual que en otros países latinoamericanos, Costa Rica se ha visto bombardeada por los reclamos de la globalización y por la llegada de tecnología novedosa, generalmente, respaldada por inmensas compañías que se instalan en el país (INTEL), lo que ha obligado a hacer ajustes curriculares en los programas de Diplomado en Electrónica del ITCR; no obstante, estas adecuaciones se hicieron sin tomar en consideración el contexto y la realidad costarricense. En realidad, la entrada de INTEL y la consecuente adecuación a los curriculos, se favoreció por intervenciones políticas, y basó sus argumentos en criterios que se adecuaban a la realidad de un país desarrollado, y no a Costa Rica. El ITCR reaccionó a las necesidades de INTEL con un Diplomado y la planificación apurada de un plan de su estudio, pues anteriormente, existía solo una carrera completa de ingeniería.  Así, se puso en marcha un plan con total falta de visión de contexto y lleno de improvisaciones; pues existe evidencia de que no se siguieron las recomendaciones básicas curriculares para el diseño de un plan de estudio. Además, existe preocupación por la reacción del ITCR y la creación de FUNDATEC, pues muchos creen que el ITCR se está privatizando en función de las demandas del mercado.  Por otra parte, se trata de Diplomado que basa su enseñanza en el modelo tradicional, vertical y bancario, cargado de contenidos y exámenes; lo que provoca el malestar entre los estudiantes.</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">GLOBALIZACIÓN</subfield>
+    <subfield code="9">266</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">TECNOLOGÍA</subfield>
+    <subfield code="9">28</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">CURRÍCULO (EDUCACIÓN)</subfield>
+    <subfield code="9">342</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">INVESTIGACIÓN</subfield>
+    <subfield code="9">163</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,63 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02129nam a2200217Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">610</subfield>
+    <subfield code="d">610</subfield>
+  </datafield>
+  <controlfield tag="008">170313b2012    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="020" ind2=" " ind1=" ">
+    <subfield code="a">9789968527255</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">06.03.06 </subfield>
+    <subfield code="b">743</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Camacho Brown, Lolita </subfield>
+    <subfield code="9">1099</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Estrategias de mediación docente para trabajar un currículum con pertinencia cultural en el nivel de las escuelas indígenas cabécares del distrito de Chirripó, Turrialba / </subfield>
+    <subfield code="c">Lolita Camacho Brown, Hannia Watson Soto</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2012</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">58 páginas</subfield>
+  </datafield>
+  <datafield tag="490" ind2=" " ind1=" ">
+    <subfield code="a">Colección Yigüirro</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">
+Este libro es producto del proyecto de investigación “Construyendo procesos educativos culturalmente pertinentes desde el nivel inicial de las escuelas cabécares indígenas de Chirripó”. La propuesta incluye los aspectos de la cultura identificados en el proceso de investigación, que pueden ser trabajados en el espacio escolar para generar procesos educativos pertinentes, los cuales se plantean como contenidos. Estos son: la casa cabécar, lo que se usa en Chirripó, instrumentos de actividades cotidianas, plantas de mi entorno, alimentación, actividades productivas de mi comunidad, historias, clanes, personas importantes de mi comunidad, cosmovisión, celebraciones y la lengua.  Para cada uno de los contenidos se plantean temáticas y acciones específicas que el profesorado de educación inicial puede desarrollar con la población infantil en las escuelas cabécares de Chirripó. Las temáticas y acciones, en los procesos educativos, procuran la inclusión de componentes culturales de esta etnia como un medio para transmitir conocimientos, promover las tradiciones y valores propios del pueblo cabécar. Se presenta, además, un pequeño apartado con información explicativa sobre cada uno de los contenidos planteados en la propuesta, que puede ser utilizado como punto de partida para su estudio. </subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">EDUCACIÓN PREESCOLAR</subfield>
+    <subfield code="9">455</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">CURRÍCULO (EDUCACIÓN)</subfield>
+    <subfield code="9">342</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">CULTURA </subfield>
+    <subfield code="9">378</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">PERTINENCIA</subfield>
+    <subfield code="9">1105</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Watson Soto, Hannia </subfield>
+    <subfield code="9">1104</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

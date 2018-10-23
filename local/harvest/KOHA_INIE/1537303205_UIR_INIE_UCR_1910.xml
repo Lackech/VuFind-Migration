@@ -1,0 +1,59 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01067nam a2200193Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">1910</subfield>
+    <subfield code="d">1910</subfield>
+  </datafield>
+  <controlfield tag="008">180518b2008    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">06.04.02</subfield>
+    <subfield code="b"> 1120</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="a">Gonzaga Martínez, Wilfredo</subfield>
+    <subfield code="9">1819</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Doscientos días anuales de clase efectiva y en el Sistema Educativo Costarricense: Un Análisis Situaciona l/ </subfield>
+    <subfield code="c">Wilfredo Gonzaga Martínez; Mario Valverde; Magda Solís; Maritza Herra Vindas</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2008</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">186 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="500" ind2=" ">
+    <subfield code="a">Informe Final de Proyecto de Investigación. No. 724-A4-166. La Unidad posee informe parcial 2004</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">La finalidad de este estudio, es presentar a la comunidad nacional, la descripción de las condiciones en las que se ha venido implementando el inciso siete del artículo veinticinco del convenio Centroamericano sobre unificación Básica de la Educación; el cual se refiere a la fijación de doscientos días anuales de clase efectiva con una jornada diaria no inferior a cinco horas en la Educación Preescolar, Primaria y Secundaria. Se optó por un enfoque mixto: cualitativo-cuantitativo. En el estudio se considera personal administrativo y docente de 101 instituciones educativas de las 20 Direcciones Regionales de Educación, además participa una muestra de los padres y madres de familia del alumnado. La ejecución de este trabajo permitió conocer algunas condiciones importantes, que forman parte del contexto en el cual se implementa y desarrolla el ciclo lectivo de 200 días en la educación pública de Costa Rica. Algunas de las conclusiones a las que llegó el estudio, a partir de los hallazgos encontrados en términos del contexto, las condiciones del recurso humano y material, el rendimiento académico, repitencia y deserción de los y las estudiantes y la opinión expresada por miembros y presentantes de la comunidad educativa nacional, son: 
+" El Convenio Centroamericano sobre Unificación Básica de la Educación firmado por los países centroamericanos en 1962 y ratificado por la Asamblea Legislativa de Costa Rica en 1966, se encuentra vigente en el país y es el marco general que regula la educación en la región centroamericana. 
+" El contexto social, político y económico en el que Costa Rica firma el Convenio sobre Unificación Básica de la Educación es diferente al actual; esto porque para la década de los 60, la población estudiantil atendida era menor, el contexto social y cultural era otro. Por ende, las necesidades en el ámbito nacional e internacional eran muy diferentes a las actuales. 
+" Un número considerable de centros educativos participantes en este estudio disponen de infraestructura propia, no obstante, según la percepción de los informantes, existe un deterioro importante de la infraestructura en algunos de estos. Sumado a lo anterior, existe gran faltante de aulas, pupitres, pizarras y baterías sanitarias en la mayoría de las instituciones observadas. 
+" En cuanto al comportamiento de los indicadores educativos: rendimiento académico, repitencia y deserción de la población estudiantil en un curso lectivo de doscientos días anuales de clase efectiva, se logra determinar que para el período1996-2004, el comportamiento ha sido muy variable, dado que en algunos años se produce una disminución, mientras que en otros se presenta un aumento. Por lo anterior, los resultados no permiten confirmar si existe relación significativa entre el número de días lectivos y el comportamiento de los indicadores educativos analizados.</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">ESCUELAS </subfield>
+    <subfield code="9">300</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="9">3662</subfield>
+    <subfield code="a">Valverde, Mario</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="9">3663</subfield>
+    <subfield code="a">Solís, Magda</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">3664</subfield>
+    <subfield code="a">Herra Vindas, Maritza</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

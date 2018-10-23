@@ -1,0 +1,52 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01517nam a2200181Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2321</subfield>
+    <subfield code="d">2321</subfield>
+  </datafield>
+  <controlfield tag="008">180911b1991    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">18.09.01 </subfield>
+    <subfield code="b">918</subfield>
+  </datafield>
+  <datafield tag="110" ind1=" " ind2=" ">
+    <subfield code="a">Instituto de Investigación para el Mejoramiento de la Educación Costarricense</subfield>
+    <subfield code="9">1703</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Informe sobre análisis de ítemes de selección y desarrollo de exámenes de bachillerato de las convocatorias 1988-1990 / </subfield>
+    <subfield code="c">Instituto de Investigación para el Mejoramiento de la Educación Costarricense</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1991</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">ca. 100 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">	El informe contiene una serie de observaciones sobre irregularidades que se presentaron en la calificación de exámenes de Bachillerato realizados entre 1988 y 1991. Para ello, se presentan diversos ítemes seleccionados de distintas pruebas realizadas en el país, y correspondientes a distintas materias. Cada selección de ítemes por materia, lleva su respectivo análisis, muestra y explicación en cuanto a selección, elaboración del ítem y calificación. En vista de la importancia que conllevan estas pruebas, y para asegurar la confiabilidad de los resultados, es indispensable realizar una aplicación estandarizada y una calificación objetiva y justa. Así, detectadas varias anomalías, se presenta un resumen de las más representativas, con fotocopia de los respectivos casos.</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">EDUCACIÓN SECUNDARIA</subfield>
+    <subfield code="9">456</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">INFORMES</subfield>
+    <subfield code="9">267</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">PRUEBAS</subfield>
+    <subfield code="9">629</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">MEDICIÓN</subfield>
+    <subfield code="9">38</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

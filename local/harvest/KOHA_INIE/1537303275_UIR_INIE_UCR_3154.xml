@@ -1,0 +1,46 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01981nab a2200169   4500</leader>
+  <controlfield tag="005">20160831161554.0</controlfield>
+  <controlfield tag="008">160422b2011    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">1611</subfield>
+    <subfield code="a">Medina Giacomozzi, Alex</subfield>
+  </datafield>
+  <datafield ind2="0" ind1="1" tag="245">
+    <subfield code="a">Oferta de Carreras de Administración en los países de Centroamérica /</subfield>
+    <subfield code="c">Alex Medina Giacomozzi</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2011</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">páginas 51 - 67</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">La educación es la base para el desarrollo de las personas, entre las cuales la formación terciaria con su abanico de áreas formativas. Entre ellas está el área de Administración, la cual es parte de la oferta en las instituciones de educación superior de América Central, particularmente en los programas de segundo ciclo o grado, por lo que el objetivo de este artículo es exponer la variedad en la oferta de carreras en el área de Administración en Centroamérica, para así aportar a un conocimiento más detallado sobre la variedad de esta oferta en cada país. La metodología implicó analizar las carreras de Administración de segundo ciclo de cada una de las instituciones de educación superior, por medio de la información pública emitida por medio de sus páginas web, extrayéndose de los currículos información sobre denominación, duración, salida intermedia, entre otros aspectos. Entre los resultados más significativos está el hecho que la gran mayoría de las carreras son presenciales y existen 325 programas distintos en 90 instituciones de educación superiror. El título con mayor presencia es el de Administración de empresas y la certificación más utilizada es la de Licenciatura. La mayoría de los programas tiene una duración de 5 años.</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0624</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.35, no.2 (jul.-dic.,2011)</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">3154</subfield>
+    <subfield code="d">3154</subfield>
+  </datafield>
+</record>

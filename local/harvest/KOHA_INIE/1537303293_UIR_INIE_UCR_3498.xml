@@ -1,0 +1,56 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03855nam a22001817a 4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3498</subfield>
+    <subfield code="d">3498</subfield>
+  </datafield>
+  <controlfield tag="008">180613b2017    CR ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">06.03.04</subfield>
+    <subfield code="b">2460</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1=" ">
+    <subfield code="9">1513</subfield>
+    <subfield code="a">Regueyra Edelman, María Gabriela</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Comprensión lectora de la población estudiantil de la carrera de Trabajo Social de la Universidad de Costa Rica /</subfield>
+    <subfield code="c">María Gabriela Regueyra Edelman</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">[San José, Costa Rica] :</subfield>
+    <subfield code="b">INIE,</subfield>
+    <subfield code="c">2017</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">1 volumen (sin paginar)</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="500">
+    <subfield code="a">Informe final Proyecto de Investigación No. 724-B5-308</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">El proyecto surge ante la preocupación de una docente de Trabajo Social y una docente de Filología que consideran que la población estudiantil universitaria está enfrentando dificultades en la comprensión lectora de los textos académicos y la producción escrita de su área de estudio y proponen realizar una  investigación para  acercarse a la comprensión lectora y la producción escrita en la población estudiantil de Trabajo Social y a partir de ello, proponer estrategias didácticas que fortalecer  en la población estudiantil éstas áreas. Se realizó una investigación cualitativa que se caracterizó por acercamientos al objeto de estudio tanto desde el conocimiento acumulado en fuentes documentales como de sus manifestaciones en la realidad concreta, en un ir y venir entre ambos,  conformando los diferentes momentos de la investigación, como una espiral en crecimiento, que contiene momentos de síntesis, discusión y análisis de lo aprendido, y que se somete de nuevo a discusión  a la luz  de nuevas evidencias, nueva bibliografía, nuevas reflexiones y nuevos aportes que  replantean y rechazan premisas iniciales como producto de un proceso dialéctico de conocimiento. 
+Con el acercamiento a los actores del proceso educativo: docentes y estudiantes se logra incorporar las manifestaciones concretas del problema. Participaron en el estudio 4 docentes de la carrera de Trabajo Social, y 9 estudiantes voluntarias, que en el año 2016 se encontraban en el curso de Movimientos Sociales que se imparte en el II nivel de la carrera.  Algunas de las conclusiones del proyecto son las siguientes:
+
+    • La alfabetización académica tiene un componente básico: la comprensión lectora y la escritura académicas, las cuales son la base de la permanencia y del éxito académico de la población estudiantil universitaria. 
+    • Cada carrera universitaria, que quiere el éxito académico de sus estudiantes, debe promover la evaluación y el diagnóstico de la capacidad de comprender las lecturas de su ámbito disciplinar  en los y las estudiantes,  porque esto ayuda a la población estudiantil a identificar sus fortalezas y las debilidades y aportar en la construcción de las herramientas necesarias, para que dicha población logre superar estas dificultades en la lectoescritura. 
+    • Consideramos que la población estudiantil de primer año de carrera requiere de herramientas para aprender a solucionar las dificultades en la comprensión lectora y la escritura de su área académica. Y durante toda la carrera universitaria debe tener el acompañamiento docente en esta materia paralelamente a los contenidos de los cursos. Está claro que la población estudiantil universitaria no tiene las herramientas necesarias para lograr comprender lo que lee, aprender el lenguaje pertinente a su carrera, desarrollar un pensamiento crítico, descubrir los argumentos dados para justificar teorías, hipótesis y demás, si no es preparada para lograr esto, dentro de su misma carrera, con el lenguaje propio; solo se puede lograr si estamos enseñando también a comprender las lecturas que se entregan por curso.</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">365</subfield>
+    <subfield code="a">LECTURA</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1188</subfield>
+    <subfield code="a">COMPRENSIÓN DE LECTURA</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">481</subfield>
+    <subfield code="a">ESTUDIANTES UNIVERSITARIOS </subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,60 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00773nam a2200181Ia 4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">1795</subfield>
+    <subfield code="d">1795</subfield>
+  </datafield>
+  <controlfield tag="008">180423b2009    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">06.03.06</subfield>
+    <subfield code="b"> 423</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="a">Castillero Bellido, Antonio B. </subfield>
+    <subfield code="9">2980</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Gestión y supervisión en el centro de educación básica /</subfield>
+    <subfield code="c">Antonio B. Castillero Bellido; Jorge D. Díaz Donado; Filiberto Morales Ríos; Ilsa Pino de Ochoa</subfield>
+  </datafield>
+  <datafield ind1=" " tag="250" ind2=" ">
+    <subfield code="a">2 edición</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">[San José, Costa Rica] : </subfield>
+    <subfield code="b">Coordinación Educativa y Cultural Centroamericana, </subfield>
+    <subfield code="c">2009</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">131 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="490" ind2=" ">
+    <subfield code="a">Colección pedagógica formación inicial de docentes centroamericanos de educación primaria o básica,</subfield>
+    <subfield code="v">36</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">EDUCACIÓN PRIMARIA</subfield>
+    <subfield code="9">367</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">ADMINISTRACIÓN ESCOLAR</subfield>
+    <subfield code="9">305</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Morales Ríos, Filiberto</subfield>
+    <subfield code="9">3599</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="9">3598</subfield>
+    <subfield code="a">Díaz Donado, Jorge D.</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="0">
+    <subfield code="a">Pino de Ochoa, Ilsa</subfield>
+    <subfield code="9">3600</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

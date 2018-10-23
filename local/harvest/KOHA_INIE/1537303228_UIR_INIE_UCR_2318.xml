@@ -1,0 +1,51 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02701nam a2200181Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2318</subfield>
+    <subfield code="d">2318</subfield>
+  </datafield>
+  <controlfield tag="008">180905b2001    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">18.09.01 </subfield>
+    <subfield code="b">68</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Vargas Porras, Alicia</subfield>
+    <subfield code="9">131</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Construcción de la cultura de la evaluación en la Universidad de Costa Rica /</subfield>
+    <subfield code="c">Alicia Vargas Porras</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">2001</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">15 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="500">
+    <subfield code="a">Informe Final del Proyecto 724-98-354.  Además presenta versión en Tesis.</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">Este estudio cualitativo aborda la construcción cultural de la evaluación de los docentes en la Universidad de Costa Rica, partiendo de la concepción de la evaluación como un proyecto político educativo, que se expresa en elementos estructurales y formales (normativas, reglamentos, entidades). Las preguntas que orientaron la investigación se refieren a la forma en como se construye la cultura de la evaluación institucional, los cambios que ha experimentado esa construcción en la década del 90 en relación con las dos décadas anteriores y la motivación que ha producido esos cambios. Los planos considerados en el análisis son: el desarrollo sociohistórico de la evaluación docente, las instancias involucradas en la evaluación de los docentes, el marco normativo, la relación entre la administración central y las unidades académicas, y la evaluación desde los docentes. Para este fin, se tomaron en cuenta los reglamentos de la Universidad, 30 entrevistas semiestructuradas, las opiniones expresadas en un foro electrónico y los resultados de un encuentro de dos días con 80 asistentes para hablar sobre los procesos de evaluación. La autora concluye que la Universidad de Costa Rica se perfila como una organización débilmente acoplada, en donde la toma de decisiones se encuentra determinada por relaciones de poder y no por la estructura jerárquica, esto es, depende de compromisos adquiridos entre grupos que se disputan el control de los recursos materiales y simbólicos. La mayor cuota de poder se encuentra en las unidades académicas, lo que ha provocado un ambiente de duplicidad, aislamiento y descoordinación con respecto a la evaluación. Por su parte, el Centro de Evaluación Académica es percibido como una instancia burocrática y obstaculizadora del quehacer institucional. Aunque oficialmente se asocia la evaluación con la calidad, en la práctica se la liga con el control y el cumplimiento de normas. Como resultado de esto, la situación laboral de los docentes se ha deteriorado, especialmente en caso de los interinos.</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="4" tag="610">
+    <subfield code="9">714</subfield>
+    <subfield code="a">UNIVERSIDAD DE COSTA RICA</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">EVALUACIÓN </subfield>
+    <subfield code="9">287</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">CULTURA </subfield>
+    <subfield code="9">378</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

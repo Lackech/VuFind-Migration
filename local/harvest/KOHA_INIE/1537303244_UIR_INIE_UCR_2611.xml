@@ -1,0 +1,46 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01660nab a2200157   4500</leader>
+  <controlfield tag="008">150603b1998    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="9">129</subfield>
+    <subfield code="a">Mora Vargas, Ana Isabel</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Enfoque curricular tradicional versus enfoque holístico /</subfield>
+    <subfield code="c">Carlos Díaz Gutierrez</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">1998</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">páginas 141 - 152</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">La sociedad actual es muy cambiante debido a que continuamente se presentan nuevos conocimientos científicos, tecnológicos; también las condiciones socioculturales, políticas, económicas y laborales que superan las viejas ideas. Por esa razón los planes y programas de estudio pierden vigencia. Estos se deben revisar y actualizar de acuerdo con las nuevas tendencias educativas y curriculares.
+El artículo tiene como propósito destacar la posición curricular de la educación actual y su alternativa de cambio. Se presentan elementos que caracterizan dos concepciones curriculares: la tradicional y la holística. Se destaca el enfoque holístico como la posición teórico-práctica que debe adoptar la institución educativa para diseñar y llevar a la práctica un currículum. Esta concepción curricular, está centrada en el estudiante, enfatiza en la transmisión de la información en forma integrada y, de manera participativa y dinámica, que le permita al estudiante construir su propio conocimiento</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind2=" " ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0021</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.22, no.2 (1998)</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2611</subfield>
+    <subfield code="d">2611</subfield>
+  </datafield>
+</record>

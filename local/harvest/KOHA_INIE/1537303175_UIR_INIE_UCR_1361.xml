@@ -1,0 +1,51 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03777nam a2200181Ia 4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">1361</subfield>
+    <subfield code="d">1361</subfield>
+  </datafield>
+  <controlfield tag="008">170621b2011    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">05.05.01 </subfield>
+    <subfield code="b">1797</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Rubio Torres, Carlos</subfield>
+    <subfield code="9">227</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Implicaciones educativas del estudio intertextual del cuento de hadas en autoras y autores costarricenses de literatura infantil / </subfield>
+    <subfield code="b">Carlos Rubio Torres</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2011</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">60 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Informe final proyecto de investigación No.724-A9-053</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">Los cuentos de hadas se distinguen por su antigüedad y su ambigua procedencia.  La literatura infantil costarricense, en su etapa inicial comprendida entre 1920 y 1975, se caracterizó por ser escrita por maestras y maestros y por fundamentarse en los cuentos de hadas de origen lejano.  A partir de 1975, con la creación del Premio Carmen Lyra de Literatura Infantil y Juvenil, aparecieron autores y autoras que se alejaron de los discursos motivados en esos cuentos maravillosos y se orientaron hacia textos urbanos, que  reflejaban problemáticas de la niñez contemporánea.  Con base en un enfoque cualitativo, se pretende entrevistar a personas que se dedican a escribir literatura infantil para vislumbrar el papel que juegan los cuentos de hadas como texto educativo y tratar de encontrar prácticas, en sus maestras y maestros, que propician la formación de personas lectoras.  Se examinan los efectos de la lectura de cuentos de hadas en los autores y autoras costarricenses, con el propósito de crear teoría que pueda tener implicaciones prácticas en la realidad educativa.  Los datos se obtienen por medio de entrevistas en profundidad, entrevistas grupales y el análisis de los libros de cuentos de hadas leídos y guardados por las personas.  Como se trata de conocer fragmentos de la vida de los creadores y creadoras de literatura dirigida a la niñez, se sugiere recurrir a una población de expertos, personas que a partir de su vivencia como escritoras, ilustradoras, narradoras orales o investigadoras tienen experiencias y vínculos con la lectura de textos literarios. Entre las conclusiones obtenidas en este estudio se encuentran las siguientes: "Las escritoras y escritores costarricenses que elaboraron obras categorizadas como literatura "infantil" en el período 1920- 1975 fundamentaron su discurso en los cuentos maravillosos o cuentos de hadas, cuyos orígenes se pierden en tiempos remotos, tal como lo estudiara Propp.  Entre estos autores cabe destacar la obra de Carmen Lyra, Carlos Luis Sáenz, María Leal de Noguera y Lilia Ramos, personas que aparte de su labor artística se dedicaron a la educación. "Resulta fundamental la labor de Joaquín García Monge como editor y promotor de la literatura infantil costarricense ya que fue el fundador y promotor de la Cátedra de Literatura en la Escuela Normal de Costa Rica y a él se le debe la edición de las primeras obras costarricenses dedicadas a la niñez.  Por lo tanto se puede expresar que el Sr. García Monge creó un ideario sobre literatura infantil nacional, enclavada en el folclore europeo y latinoamericano. "Es posible determinar un juego intertextual entre la visión de los cuentos de hadas y el folclore, recreada por la factoría Disney y la literatura costarricense escrita en el período 1920 - 1975.  Tal juego se observa en el personaje de tío Conejo, creado por Carmen Lyra con base en la idea del personaje de la literatura norteamericana, de origen africano, Brer Rabbit, recreado por Disney en la película Canción del Sur (1946), así como en múltiples referencias al largometraje Blancanieves (1937). </subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">LITERATURA </subfield>
+    <subfield code="9">655</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">LITERATURA INFANTIL</subfield>
+    <subfield code="9">2064</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">EDUCACIÓN</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,54 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00727nam a2200181   4500</leader>
+  <controlfield tag="008">161011b2016    cr a|||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="020" ind2=" ">
+    <subfield code="a">9789968919173</subfield>
+  </datafield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">05.05.03</subfield>
+    <subfield code="b">2388</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">2063</subfield>
+    <subfield code="a">Parra Thompson, Carolina</subfield>
+  </datafield>
+  <datafield ind2="3" tag="245" ind1="1">
+    <subfield code="a">El viaje de LeoBallena / </subfield>
+    <subfield code="c">Carolina Parra Thompson y Xioamara Zúñiga Salas, ilustraciones Carolina Parra Thompson</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">[San José, Costa Rica] :</subfield>
+    <subfield code="b">Universidad de Costa Rica. Vicerrectoría de Investigción,</subfield>
+    <subfield code="c">2016?</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">32 páginas;</subfield>
+    <subfield code="b">ilustraciones;</subfield>
+    <subfield code="e">+ libro de actividades y guía didáctica</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">655</subfield>
+    <subfield code="a">LITERATURA </subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1745</subfield>
+    <subfield code="a">LIBRO PARA NIÑOS</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">2064</subfield>
+    <subfield code="a">LITERATURA INFANTIL</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">2065</subfield>
+    <subfield code="a">Zúñiga Salas, Xiomara</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">3335</subfield>
+    <subfield code="d">3335</subfield>
+  </datafield>
+</record>

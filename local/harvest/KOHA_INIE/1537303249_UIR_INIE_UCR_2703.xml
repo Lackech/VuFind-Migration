@@ -1,0 +1,50 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02203nab a22001697a 4500</leader>
+  <controlfield tag="005">20160317161443.0</controlfield>
+  <controlfield tag="008">150624b2000    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">224</subfield>
+    <subfield code="a">Chacón Ramírez, Silvia</subfield>
+  </datafield>
+  <datafield tag="245" ind2="3" ind1="1">
+    <subfield code="a">En busca del mejoramiento educativo: una experiencia de diseño curricular desarrollada en la escuela universitaria para niños /</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2000</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a"> páginas 115-128</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">Esta es la experiencia documentada de un proyecto de mejoramiento educativo que se inició a finales del año 1996 y continúa al momento presente. La experiencia corresponde a la propuesta de un Diseño Curricular que se desarrolla en la Escuela Universitaria para Niños (EUN), cantón central de la ciudad de Heredia.
+El fin último de esta experiencia de Diseño Curricular, es describir el proceso de construcción del Proyecto Educativo de la escuela, lo cual es de significativa importancia, ya que mediante un proceso de investigación-acción  se construye un Proyecto  Educativo Institucional, cuya relevancia está determinada por el PROCESO METODOLÓGICO que sustenta científicamente la construcción del proyecto y que permite el logro de resultados coherentes y claros.
+Tres partes componen este artículo:
+Los fundamentos conceptuales y metodológicos que sustentan la experiencia: la justificación para un Diseño Curricular; la fundamentación teórico-metodológica general. Esta parte es básica puesto que permite entender que en educación los procesos deben estar claramente fundamentados, por quien los asume.
+La evaluación curricular: llevada a cabo en la EUN y que da origen a la elaboración del Diseño Curricular, el cual se describe en la tercera  parte.
+El proceso metodológico para el Diseño Curricular: desarrollado en la EUN. Se describen un amplio proceso de carácter participativo, además de los resultados alcanzados hasta el momento</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind2=" " ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0032</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.24, no.especial (2000)</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2703</subfield>
+    <subfield code="d">2703</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,53 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01725nab a2200157   4500</leader>
+  <controlfield tag="008">150611b2000    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">191</subfield>
+    <subfield code="a">Carballo Vargas, Sonia</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Retos de la maestra y del maestro del siglo XXI /</subfield>
+    <subfield code="c">Sonia Carballo Vargas</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2000</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">páginas 47-52</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">Los retos o desafíos que enfrenta el maestro y la maestra en la acción educativa son múltiples, complejos, diversos y singulares  y están guiados por el principio esperanzador del reencuentro en el pensamiento creador y profundamente ético que ha orientado por siempre el acto educativo.
+Niños, niñas y jóvenes necesitan maestras y maestros emprendedores que luchen cotidianamente por alcanzar sus sueños y que abran espacios para escuchar, para ser escuchados y para plantearse los siguientes retos en la labor educativa:
+*Tener el coraje de ser una mismo o una misma.
+*Reflexionar sobre la práctica educativa.
+*Asumir la complejidad sustantiva del acto educativo.
+*Poseer profundos conocimientos de las disciplinas.
+*Fortalecer el pensar.
+*Respetar y confiar en cada estudiante como persona y propiciar una educación basada en la equidad de género.
+Los maestros y las maestras tienden puentes para unir a hombres y a mujeres y el amor y la comprensión sellarán para siempre esta alianza, en una sociedad democrática, justa con oportunidades equitativas para todos y para todas</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind2=" " ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0025</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.24, no.1 (2000)</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2667</subfield>
+    <subfield code="d">2667</subfield>
+  </datafield>
+</record>

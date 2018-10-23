@@ -1,0 +1,70 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02961nam a2200241Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">2177</subfield>
+    <subfield code="d">2177</subfield>
+  </datafield>
+  <controlfield tag="008">180712b1995    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">15.03.02 </subfield>
+    <subfield code="b">190</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="100">
+    <subfield code="a">Brenes Gómez, William</subfield>
+    <subfield code="9">3806</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Educación nutricional popular / </subfield>
+    <subfield code="c">William Brenes Gómez; Alejandra Lobo Rodríguez; Francisco Sánchez Montero; Rene Martorel; Cecilia Vega</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1995</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">50 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Informe Final. Proyecto de investigación No. 724-91-590</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">Con el objetivo de identificar los conocimientos, percepciones e interpretación por parte de familias campesinas empobrecidas sobre la nutrición materno-infantil, este estudio emplea técnicas cualitativas y cuantitativas para recoger información en las comunidades de Naranjo y Palmares. Para esta investigación, se llevó a cabo un estudio retrospectivo de 46 casos en familias con niños menores de 6 años y con desnutrición moderada o severa y 81 testigos (familias con niños menores de 6 años y estado nutricional normal). Además, se emplearon encuestas y la observación participante para recabar información sobre los conocimientos populares acerca de la salud y la nutrición. En cuanto a los resultados, se muestra que, entre los factores de riesgo sociodemográficos, el número de hijos vivos (con un promedio de 7 hijos o más) es el factor de riesgo más significativo para explicar la desnutrición, pues la ración alimentaria disminuye. También el bajo nivel de escolaridad de los padres y el estado civil de las madres (solteras, viudas y divorciadas) son factores que inciden en la aparición de los problemas de mala nutrición de los niños. En lo concerniente al saber popular, destaca el apego del conocimiento de las madres sobre la diarrea en relación con el conocimiento científico, la asistencia a los centros de salud (aunque un 30% asiste a personal no calificado) y la persistencia de algunos hábitos contraproducentes en las situaciones en las que un niño presenta un cuadro diarreico. El conocimiento popular sobre nutrición coincide con lo planteado por las teorías actuales al respecto, se observa un manejo notable de la dieta de la madre embarazada, pero se mantienen creencias sobre la consideración de ciertos alimentos como causa del "estropeo" de la leche o productores de trastornos digestivos y dermatológicos en los niños. Las madres manejan de forma clara y efectiva el valor de la leche materna y el período de lactancia. Estos resultados muestran el éxito de 20 años de educación para la salud en la Región Central de Occidente del país.</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">NUTRICIÓN</subfield>
+    <subfield code="9">534</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">PARTICIPACIÓN COMUNITARIA</subfield>
+    <subfield code="9">2303</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">PROYECTO DE INVESTIGACION</subfield>
+    <subfield code="9">3951</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2=" ">
+    <subfield code="9">4042</subfield>
+    <subfield code="a">Lobo Rodríguez, Alejandra</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="9">244</subfield>
+    <subfield code="a">Sánchez Montero, Francisco</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1=" ">
+    <subfield code="9">4043</subfield>
+    <subfield code="a">Martorel, Rene</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="700">
+    <subfield code="9">4044</subfield>
+    <subfield code="a">Vega, Cecilia</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,67 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00788nam a2200217Ia 4500</leader>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">612</subfield>
+    <subfield code="d">612</subfield>
+  </datafield>
+  <controlfield tag="008">150831b2013    cr a|||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="020">
+    <subfield code="a">9789968527279</subfield>
+  </datafield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">04.02.03 </subfield>
+    <subfield code="b">2131</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="a">Herrera Salas, Estela</subfield>
+    <subfield code="9">955</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Estrategias de mediación pedagógica para la inclusión de la perspectiva de género en las instituciones educativas / </subfield>
+    <subfield code="c">Estela Herrera Salas, Marleny Navarro Sáenz</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, C.R. : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2013</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">52 páginas.</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="490">
+    <subfield code="a">Colección Yigüirro</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">Este documento es producto del beneficio del Fondo Concursable para el fortalecimiento de la relación universidad-sociedad, organizado por la Vicerrectoría de Acción Social de la Universidad de Costa Rica, con el apoyo del Instituto de Investigación en Educación  (INIE).  Nace con el propósito de contribuir en la labor educativa de las instituciones de primaria y se fundamenta en el análisis de distintos enfoques teóricos que sustentan una propuesta, con estrategias que contribuyan al mejoramiento de la mediación pedagógica, desde el punto de vista de una educación inclusiva desde la perspectiva de género.
+Ha sido diseñado para orientar y suscitar espacios reflexivos en el interior de las instituciones por parte de los actores educativos (directivos, personal docente y administrativo, estudiantes y miembros de la comunidad), con el propósito de sensibilizar, para que sean incorporadas prácticas inclusivas desde un abordaje de la equidad e igualdad de género, acordes con las demandas del siglo XXI.</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">956</subfield>
+    <subfield code="a">IGUALDAD DE GÉNERO </subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">ADMINISTRACIÓN ESCOLAR</subfield>
+    <subfield code="9">305</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">MÉTODOS PEDAGÓGICOS</subfield>
+    <subfield code="9">824</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">ESTRATEGIAS EDUCATIVAS</subfield>
+    <subfield code="9">812</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">EDUCACIÓN PRIMARIA</subfield>
+    <subfield code="9">367</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="a">Navarro Sáenz, Marleny</subfield>
+    <subfield code="9">957</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

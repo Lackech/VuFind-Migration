@@ -1,0 +1,61 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00772nam a2200205Ia 4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">2168</subfield>
+    <subfield code="d">2168</subfield>
+  </datafield>
+  <controlfield tag="008">180713b2008    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">14.03.02 </subfield>
+    <subfield code="b">1627</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="100">
+    <subfield code="a">Solano Laclé, Vania</subfield>
+    <subfield code="9">4049</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Seje Duchiiwak Kasenewa = La cultura cabécar de Chirripó / </subfield>
+    <subfield code="c">Vania Solano Laclé, Rogelio Barquero Reyes, Dalia Castillo</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">Costa Rica : </subfield>
+    <subfield code="b">Universidad de Costa Rica, Vicerr. de Acción Social. Museo Regional Omar Salazar Obando, </subfield>
+    <subfield code="c">2008</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">22 páginas</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">COMUNIDAD CABÉCAR</subfield>
+    <subfield code="9">1101</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">CULTURA </subfield>
+    <subfield code="9">378</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">MUSEOS</subfield>
+    <subfield code="9">1004</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="651">
+    <subfield code="9">3610</subfield>
+    <subfield code="a">TURRIALBA (COSTA RICA)</subfield>
+  </datafield>
+  <datafield tag="651" ind1="1" ind2="4">
+    <subfield code="9">4050</subfield>
+    <subfield code="a">CHIRRIPÓ (COSTA RICA)</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="700">
+    <subfield code="a">Barquero Reyes, Rogelio</subfield>
+    <subfield code="9">4051</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="700">
+    <subfield code="a">Castillo, Dalia</subfield>
+    <subfield code="9">4052</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

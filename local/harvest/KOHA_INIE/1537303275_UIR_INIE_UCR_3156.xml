@@ -1,0 +1,76 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00948nam a22002417a 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">3156</subfield>
+    <subfield code="d">3156</subfield>
+  </datafield>
+  <controlfield tag="008">160425b2014    cr a|||| |||| 00| | spa d</controlfield>
+  <datafield tag="020" ind2=" " ind1=" ">
+    <subfield code="a">9789968527330</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">15.04.02 </subfield>
+    <subfield code="b">1764</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">1117</subfield>
+    <subfield code="a">Cabezas Pizarro, Hannia </subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Autismo: manejo de conducta y aspectos relevantes para el aprendizaje de la lectura /</subfield>
+    <subfield code="c">Hannia Cabezas; Gerardo Fonseca</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">INIE,</subfield>
+    <subfield code="c">2014</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">80 páginas;</subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield tag="490" ind2=" " ind1=" ">
+    <subfield code="a">Colección Yigüiro</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="500">
+    <subfield code="a">Este trabajo forma parte del Proyecto 724-A6-328 de la Vicerrectoría de Investigación de la Universidad de Costa Rica, con el apoyo del Instituto de Investigación en Educación (INIE). </subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">Este es un manual práctico para docentes que trabajan con personas con autismo y otros trastornos del desarrollo. Brinda estrategias para el manejo de diferentes conductas en el aula, las cuales se abordan mediante ejemplos concretos; para una mejor aplicación, se desarrollan también algunas técnicas de modificación de conducta, las cuales facilitan el proceso educativo.
+Adicionalmente, se ofrece una definición del autismo, se anotan los principales mitos que sobre esta población existen en Costa Rica, y se indica cómo diseñar programas de intervención, utilizando reforzamiento positivo, además de introducir al personal docente en el proceso para la enseñanza de la lectura, de manera que pueda diseñar sus propios programas e irlos graduando y enriqueciendo, de acuerdo con las características de cada estudiante.
+El texto es de fácil lectura. Está apoyado en imágenes, diagramas y ejercicios graduados que pretenden facilitar la acción educativa por medio de la intervención conductual en el aula.</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">1612</subfield>
+    <subfield code="a">AUTISMO</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">298</subfield>
+    <subfield code="a">COMPORTAMIENTO</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">365</subfield>
+    <subfield code="a">LECTURA</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">387</subfield>
+    <subfield code="a">APRENDIZAJE </subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">426</subfield>
+    <subfield code="a">MANUALES </subfield>
+  </datafield>
+  <datafield tag="651" ind1="1" ind2="0">
+    <subfield code="9">47</subfield>
+    <subfield code="a">COSTA RICA</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">1613</subfield>
+    <subfield code="a">Fonseca Retana, Gerardo </subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

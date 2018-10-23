@@ -1,0 +1,48 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02082nab a2200169   4500</leader>
+  <controlfield tag="005">20160328164122.0</controlfield>
+  <controlfield tag="008">151008b2004    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">1117</subfield>
+    <subfield code="a">Cabezas Pizarro, Hannia </subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Efecto de la aplicación de terapia conductual en la adquisición de destrezas básicas para el aprendizaje, en tres niños con autismo /</subfield>
+    <subfield code="c">Hannia Cabezas Pizarro</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2004</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">páginas 133-143</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">El presente estudio muestra el efecto de la utilización de la terapia conductual aplicada, en tres niños con autismo, y cuyo propósito fue el de desarrollar aquellas conductas de entrada básicas para el aprendizaje como son el permanecer sentados, el control de llanto, el establecimiento de contacto ocular y la identificación del yo, consideradas habilidades básicas que deben tener los niños para incursionar en el proceso educativo. Una vez que el niño adquiere esta gama de habilidades, estos repertorios conductuales se convierten a su vez en básicos para destrezas más complejas.
+Siguiendo este modelo, se trabajó una segunda área que se denominó conducta intermedia, que requiere de las habilidades previamente establecidas, y dentro de las que se citan el seguimiento de instrucciones, la discriminación de objetos y la identificación de las partes del cuerpo, a su vez este repertorio conductual se convirtió en básico para desarrollar habilidades más complejas como el reconocimiento de colores, de modo que unas conductas se convierten en requisitos de otras, hasta llevar a término un programa de intervención educativo.
+El proceso de intervención educativa, contempló una gama amplia de habilidades, sin embargo para efectos de este estudio, se seleccionó una muestra representativa de cada área</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " tag="773" ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0215</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.28, no.1 (2004)</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2906</subfield>
+    <subfield code="d">2906</subfield>
+  </datafield>
+</record>

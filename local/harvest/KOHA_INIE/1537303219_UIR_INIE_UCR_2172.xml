@@ -1,0 +1,55 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03159nam a2200193Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2172</subfield>
+    <subfield code="d">2172</subfield>
+  </datafield>
+  <controlfield tag="008">180713b2008    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">14.07.01 </subfield>
+    <subfield code="b">1667</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">Salazar Salas, Carmen Grace</subfield>
+    <subfield code="9">95</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Identificación de las actividades recreativas que la actual población inmigrante mayor de edad de Nicaragua realizaba en su país y las que realiza en Costa Rica / </subfield>
+    <subfield code="c">Carmen Grace Salazar Salas</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">INIE, </subfield>
+    <subfield code="c">2008</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">122 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Informe final del proyecto de investigación 245-A7-301</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">Este proyecto de investigación se justifica por el impacto sociocultural que tiene y la que podría tener en el futuro, pues los resultados del estudio pueden ayudar a comprender más las personas inmigrantes nicaragüenses por medio de su participación en la recreación durante su tiempo libre y a procurar mejorar su calidad de vida. La investigación fue cualitativa, de enfoque fenomenológico. Las personas participantes fueron 13 nicaragüenses: seis mujeres y siete hombres, con edades entre los 18 y 50 años, con una escolaridad que oscilaba entre el no haber asistido a la escuela hasta undécimo año de secundaria. La selección fue intencional por conveniencia. Las técnicas utilizadas fueron: entrevistas, observaciones y grupo focal. Algunas de las conclusiones relacionadas con los objetivos específicos del estudio son las siguientes: Las personas nicaragüenses inmigrantes que fueron parte de esta investigación • participaban en once tipos de actividades recreativas en su país, durante la semana y los fines de semana. • participaban en diez tipos de actividades recreativas en Costa Rica, durante la semana y los fines de semana. • tienen, en promedio, más tiempo libre en Costa Rica que en su país. • vieron afectada su participación en actividades recreativas por barreras intrapersonales, interpersonales y estructurales. • identificaron a la actitud negativa hacia la recreación, la falta de compañía, la falta de dinero, la falta de tiempo libre y la dependencia hacia el cónyuge como las principales causas de las barreras que les impedían recrearse en Costa Rica. • indicaron que para resolver las situaciones que les impedía recrearse en Costa rica usaron varias estrategias o alternativas de negociación, tales como pedir permiso a los patrones para poder ir a alguna actividad entre semana, aceptar alguna invitación si tenían la oportunidad de ir, aprovechar el tiempo libre para participar en alguna actividad recreativa, seguir realizando actividades pero con menor frecuencia que en Nicaragua, buscar actividades organizadas para realizar en el tiempo libre –ya sea con o sin compañía- y organizar actividades con otras personas para recrearse juntos. • indicaron que el cambio de país sí les ha afectado su participación en actividades recreativas en Costa Rica. En algunos casos, sel efecto del cambio había sido positivo y en otros, negativo.</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">INMIGRANTES </subfield>
+    <subfield code="9">478</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">ACTIVIDAD DE TIEMPO LIBRE</subfield>
+    <subfield code="9">4045</subfield>
+  </datafield>
+  <datafield tag="651" ind1="1" ind2="4">
+    <subfield code="9">2167</subfield>
+    <subfield code="a">NICARAGUA</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="651">
+    <subfield code="9">47</subfield>
+    <subfield code="a">COSTA RICA</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

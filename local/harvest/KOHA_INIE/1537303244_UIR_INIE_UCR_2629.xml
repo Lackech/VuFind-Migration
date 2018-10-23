@@ -1,0 +1,47 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02640nab a2200157   4500</leader>
+  <controlfield tag="008">150604b1999    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">147</subfield>
+    <subfield code="a">Arroyo Valenciano, Juan Antonio</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="4">
+    <subfield code="a">Los estudios de opinión: una técnica para la toma de decisiones en la administración de la educación /</subfield>
+    <subfield code="c">Juan Antonio Arroyo Valenciano</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">1999</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">páginas 63-73</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">La fuerte competencia y el cambio permanente que experimentan las sociedades modernas, obliga a los administradores educativos cada vez más, a una toma existosa de decisiones y a una ejecución eficiente de los cursos de acción seleccionados, para atender los problemas institucionales y poder ofrecer así un servicio educativo de mayor excelencia y calidad.  La interrogante que surge entonces es: ¿Qué técnica puede utilizar un administrador educativo para procurar un proceso de toma de decisiones científico y participativo?  La respuesta a esta interrogante constituye la finalidad de este artículo, al presentar los estudios de opinión como una técnica para la toma de decisiones en la Administración de la Educación.
+Aún cuando los estudios de opinión, como técnica para la toma de decisiones, ha sido poco considerada teóricamente en las ciencias de la educación, aunque en la práctica, específicamente en las ciencias políticas y económicas, ha sido utilizada casi cotidianamente, se constituyen para el administrador de la educación en el punto de partida para la toma de decisiones al ser, en este campo, lo mismo que para la ciencia, las hipótesis; pues es solo a través de ellas que se pueden deducir conclusiones que permitirán explicar situaciones o solucionar problemas.
+En sí, los estudios de opinión como técnica para la toma de decisones ofrece al administrador educativo una dirección democrática, que supone una acción de grupo encaminada a alcanzar los objetivos adoptados para la educación, al considerar las opiniones de los involucrados, el administrador puede definir cursos de acción más efectivos, configurando un nuevo enfoque alternativo generado de un esfuerzo conjunto entre administrador y colaboradores, producto de una mayor atención y participación al grupo de colaboradores en la búsqueda de mejores decisiones administrativas para beneficio de la acción educativa</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " tag="773" ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0023</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.23, no.2 (1999)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2629</subfield>
+    <subfield code="d">2629</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,40 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00553nam a2200145Ia 4500</leader>
+  <controlfield tag="008">151103b2003    s  ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="020" ind2=" " ind1=" ">
+    <subfield code="a">848333125X</subfield>
+  </datafield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">04.03.02 </subfield>
+    <subfield code="b">1128</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1=" ">
+    <subfield code="a">Sunyer i Pelegrí, Albert</subfield>
+    <subfield code="9">1134</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Oportunidades de la aplicación del modelo de excelencia en la gestión de EFQM en la administración pública Andaluza / </subfield>
+    <subfield code="c">Albert Sunyer i Pelegrí</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">España : </subfield>
+    <subfield code="b">Instituto Andaluz de Administración Pública, </subfield>
+    <subfield code="c">2003</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">75 páginas</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">230</subfield>
+    <subfield code="a">ADMINISTRACION PÚBLICA</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">282</subfield>
+    <subfield code="d">282</subfield>
+  </datafield>
+</record>

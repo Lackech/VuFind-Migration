@@ -1,0 +1,46 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01602nab a2200169   4500</leader>
+  <controlfield tag="005">20160331140118.0</controlfield>
+  <controlfield tag="008">151216b        xxu||||| |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="090">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">1230</subfield>
+    <subfield code="a">Aguirre Vidaurre, Ernestina</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="3">
+    <subfield code="a">La evaluación de la actividad docente de la escuela de enfermería de la Universidad de Costa Rica /</subfield>
+    <subfield code="c">Ernestina Aguirre Vidaurre</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2007</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">páginas 65-76</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">El presente artículo es un avance de una investigación  cualitativa, en la cual se aplicó como método estructural la investigación fenomenológica, entre las técnicas utilizadas para la recolección de información están: la observación participante, la entrevista en profundidad y el grupo focal. La muestra fue de tipo intencional, participaron 3 exdirectoras  y 1 directora, 25 docentes en Régimen Académico (propiedad), 23 docentes clínicos, 36 estudiantes de V año (2002-2005-2006). La  validación se llevó a cabo mediante la triangulación de las técnicas utilizadas. La motivación para investigar el tema, nació como una inquietud docente de explicar  como se da la  evaluación y buscar nuevas formas para evaluar la enseñanza y aprendizaje en el quehacer  de la  enfermería en docencia. Por tanto, la propuesta fue elaborar los instrumentos, que se presentan</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind1="0" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0308</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.31, no.1 (2007)</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2987</subfield>
+    <subfield code="d">2987</subfield>
+  </datafield>
+</record>

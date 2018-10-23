@@ -1,0 +1,55 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00693nab a2200181   4500</leader>
+  <controlfield tag="008">150515b1997    cl |||p  |||| 00| 0 spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">REVIS 15.04.04</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">66</subfield>
+    <subfield code="a">Gómez, Adriana</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Más allá de las diferencias : una agenda común /</subfield>
+    <subfield code="c">Adriana Gómez, Deborah Meacham</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">chile :</subfield>
+    <subfield code="b">Red de Salud de las mujeres latinoamericanas y del caribe,</subfield>
+    <subfield code="c">1997</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">páginas 3-13</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">55</subfield>
+    <subfield code="a">MUJERES</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">4</subfield>
+    <subfield code="a">SALUD DE LA MUJER</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">67</subfield>
+    <subfield code="a">CALIDAD DE VIDA</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">68</subfield>
+    <subfield code="a">Meacham, Deborah</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="0" tag="773">
+    <subfield code="d">Chile : Red de Salud de las Mujeres Lationamericanas 1997</subfield>
+    <subfield code="o">R0007</subfield>
+    <subfield code="t">Revista Mujer Salud</subfield>
+    <subfield code="x">0716-8381</subfield>
+    <subfield code="g">No.1 (enero- marzo,1997)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2566</subfield>
+    <subfield code="d">2566</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,73 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00828nam a22002417a 4500</leader>
+  <controlfield tag="008">160803b1997    cr a|||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="020">
+    <subfield code="a">9977651116</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">13.09.09</subfield>
+    <subfield code="b">2358</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="100">
+    <subfield code="9">1914</subfield>
+    <subfield code="a">Araya G., Francisco Guillermo</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Cuento mi vida de maestro /</subfield>
+    <subfield code="c">Guillermo Araya, Luis Enrique Arce, Guillermo García, Margarita Jiménez, Willian Salazar</subfield>
+  </datafield>
+  <datafield tag="260" ind2=" " ind1=" ">
+    <subfield code="a">Heredia, Costa Rica :</subfield>
+    <subfield code="b">EUNA,</subfield>
+    <subfield code="c">1997</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">310 páginas;</subfield>
+    <subfield code="b">ilustraciones</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="9">331</subfield>
+    <subfield code="a">DOCENTES</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">968</subfield>
+    <subfield code="a">BIOGRAFÍAS</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">1915</subfield>
+    <subfield code="a">ESCUELAS RURALES</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">422</subfield>
+    <subfield code="a">RELATOS PERSONALES</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">367</subfield>
+    <subfield code="a">EDUCACIÓN PRIMARIA</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="700">
+    <subfield code="9">1916</subfield>
+    <subfield code="a">Arce N., Luis Enrique</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="700">
+    <subfield code="9">1917</subfield>
+    <subfield code="a">García S., Guillermo</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1=" ">
+    <subfield code="9">1918</subfield>
+    <subfield code="a">Jiménez N., Margarita</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1=" ">
+    <subfield code="9">1919</subfield>
+    <subfield code="a">Salazar G., William</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">3296</subfield>
+    <subfield code="d">3296</subfield>
+  </datafield>
+</record>

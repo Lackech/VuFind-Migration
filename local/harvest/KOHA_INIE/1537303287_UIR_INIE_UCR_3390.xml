@@ -1,0 +1,51 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>04046nam a2200181   4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">3390</subfield>
+    <subfield code="d">3390</subfield>
+  </datafield>
+  <controlfield tag="008">170208b2016    CR ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="090" ind1=" ">
+    <subfield code="a">06.05.02</subfield>
+    <subfield code="b">2375</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">2020</subfield>
+    <subfield code="a">Alvarado Calderón, Kathia</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Afectividad y enseñanza: metaconocimiento de los estados emocionales y regulación emocional en estudiantes de las carreras de la Facultad de Educación en la Universidad de Costa Rica /</subfield>
+    <subfield code="c">Kathia Alvarado Calderón</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">[San José, Costa Rica] :</subfield>
+    <subfield code="b">INIE,</subfield>
+    <subfield code="c">2016</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">69 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="500">
+    <subfield code="a">Informe final Proyecto de Investigación Nº 724-B4-303</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">	Esta investigación tuvo como objetivo determinar el grado de inteligencia emocional percibida y su relación con la autorregulación emocional, satisfacción con la vida y felicidad subjetiva en estudiantes de las carreras de la Facultad de Educación de la Universidad de Costa Rica. La población la constituye los estudiantes de grado de las carreras de la Facultad de Educación que matricularon en la Universidad en el II ciclo del 2014. No se logró una muestra representativa para la investigación debido a que no todos los cursos o grupos elegidos contaban con disponibilidad para participar, por lo que se decidió realizar el estudio con la población que tuviera disponibilidad de acuerdo a horarios y organización del curso lectivo. Participaron 378 estudiantes pertenecientes a 16 carreras, su participación fue voluntaria y anónima. Los estudiantes fueron contactados en sus clases previo acuerdo con el docente del curso. Además se realizó una sesión de dos horas con un grupo focal. Luego de la recolección de información, los datos se sometieron al análisis estadístico previa elaboración de la base de datos en el paquete Excel y el programa de análisis estadístico SPSS, para la transcripción de la producción del grupo focal, previa grabación de la misma, el análisis cualitativo se realizó con el paquete de análisis cualitativo Max Qda12 en la versión Trial. Entre las conclusiones del estudio se menciona las siguientes: El problema d ella investigación que se formuló en esta investigación esta orientado a conocer el grado de metaconocimiento emocional de estudiantes d ellas carreras de la Facultad de la Universidad de Costa Rica, al igual interesaba la relación entre metaconocimiento emocional y regulación emocional y dos medidas asociadas con el bienestar subjetivo como lo es la felicidad subjetiva y la satisfacción con la vida. Los hallazgo obtenidos dan evidencia de no existir diferencias significativas entre hombres y mujeres al respecto de las variables. Por otro lados, el análisis factorial del test de Metaconocimiento Emocional da una solución de tres factores que corresponden a las tres sub-escalas, definidas por sus creadores, atención, claridad y reparación. Asimismo a partir del análisis de confiabilidad de alfa de Crombach se obtienen resultados que confirman la confiabilidad del instrumento para las tres sub-escalas. Esto indica que el instrumento es confiable para la investigación con población joven universitaria. En cuanto al instrumento de satisfacción con la vida ampliamente utilizado en la investigación, muestra un índice de confiabilidad alfa de Crombach de 0,86, lo que se considera un buen instrumento para ser utilizado con la población oven universitaria, además sus ítems no presentaron dificultad en contenido para los estudiantes que contestaron la encuesta. En esta investigación fue probado un modelo de correlación de variables considerando las variables carrera, edad, género como variables predictoras de la respuesta al test sobre inteligencia Emocional, Autorregulación Emocional, Satisfacción con la vida y Felicidad Subjetiva. En este modelo no se encontraron valores significativos, excepto para la variable Satisfacción con la vida que correlaciona positiva y significativamente con la edad.</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">14</subfield>
+    <subfield code="a">ENSEÑANZA</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">2390</subfield>
+    <subfield code="a">INTELIGENCIA EMOCIONAL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">67</subfield>
+    <subfield code="a">CALIDAD DE VIDA</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

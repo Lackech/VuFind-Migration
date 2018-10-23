@@ -1,0 +1,69 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00734nam a2200229Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">274</subfield>
+    <subfield code="d">274</subfield>
+  </datafield>
+  <controlfield tag="008">150922b2001    sp ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " tag="020" ind1=" ">
+    <subfield code="a">8478272569</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">06.02.01 </subfield>
+    <subfield code="b">1082</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="a">Trilla, J.</subfield>
+    <subfield code="9">1062</subfield>
+    <subfield code="e">Coord.</subfield>
+  </datafield>
+  <datafield ind2="3" tag="245" ind1="1">
+    <subfield code="a">El legado pedagógico del siglo xx para la escuela del siglo XXI / </subfield>
+    <subfield code="c">J. Trilla coordinador</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">España : </subfield>
+    <subfield code="b">Editorial GRAO, </subfield>
+    <subfield code="c">2001</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">360 páginas</subfield>
+  </datafield>
+  <datafield ind2="4" tag="600" ind1="1">
+    <subfield code="9">2373</subfield>
+    <subfield code="a">NEIL, ALEXANDER S. </subfield>
+  </datafield>
+  <datafield ind1="1" tag="600" ind2="4">
+    <subfield code="9">2374</subfield>
+    <subfield code="a">DECROLY, OVIDE </subfield>
+  </datafield>
+  <datafield ind2="4" tag="600" ind1="1">
+    <subfield code="9">2375</subfield>
+    <subfield code="a">MONTESSORI, MARIA </subfield>
+  </datafield>
+  <datafield tag="600" ind2="4" ind1="1">
+    <subfield code="9">2376</subfield>
+    <subfield code="a">FERRER GUARDIA , FRANCISCO </subfield>
+  </datafield>
+  <datafield ind1="1" tag="600" ind2="4">
+    <subfield code="9">2377</subfield>
+    <subfield code="a">Dewey, John</subfield>
+  </datafield>
+  <datafield ind2="4" tag="600" ind1="1">
+    <subfield code="9">2113</subfield>
+    <subfield code="a">PIAGET, JEAN</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">ENSEÑANZA</subfield>
+    <subfield code="9">14</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">SOCIOLOGÍA DE LA EDUCACIÓN</subfield>
+    <subfield code="9">947</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

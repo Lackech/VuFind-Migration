@@ -1,0 +1,49 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00582nam a2200169   4500</leader>
+  <controlfield tag="008">150828b2011    c  ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="020">
+    <subfield code="a">9789968463010</subfield>
+  </datafield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">01.01.06</subfield>
+    <subfield code="b">2268</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">949</subfield>
+    <subfield code="a">Stockmann, Reinhard</subfield>
+    <subfield code="e">Editor</subfield>
+  </datafield>
+  <datafield ind2="2" ind1="1" tag="245">
+    <subfield code="a">Manual de evaluación: una guía práctica de procedimientos /</subfield>
+    <subfield code="c">Reinhard Stockmann (editor)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="260" ind1=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2011</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">435 páginas</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">950</subfield>
+    <subfield code="a">EVALUACIÓN DE PROYECTOS</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">285</subfield>
+    <subfield code="a">METODOLOGÍA</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">290</subfield>
+    <subfield code="a">INVESTIGACIÓN SOCIAL</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">2841</subfield>
+    <subfield code="d">2841</subfield>
+  </datafield>
+</record>

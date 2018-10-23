@@ -1,0 +1,64 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01702nam a2200217Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">1963</subfield>
+    <subfield code="d">1963</subfield>
+  </datafield>
+  <controlfield tag="008">180702b1991    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">06.05.02 </subfield>
+    <subfield code="b">85</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="9">107</subfield>
+    <subfield code="a">García Lizano, Nidia</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Eficiencia del proceso de enseñanza aprendizaje en el aula : aportes para un modelo de capacitación de docentes de escuelas urbano marginales en Costa Rica / </subfield>
+    <subfield code="c">Nidia García Lizano ...[ et al.]</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1991	</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">237 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Informe Final del proyecto 744-88-415</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">La investigación se concentra en el análisis de los procesos de enseñanza-aprendizaje desarrollados en escuelas ubicadas en comunidades urbano-marginales de Costa Rica, específicamente, en la eficiencia que estos tienen, entendiendo el concepto como algo que permita el desarrollo de capacidades cognoscitivas y la utilidad de las experiencias vividas para la vida. La investigación logra aprehender varios conceptos importantes para el estudio de la dinámica escolar: niño, maestro, trabajo de aula, espacio, comportamientos tolerados, acercamiento a los contenidos de aprendizaje y relaciones. Además, se trata, como elemento indispensable para analizar las experiencias educativas, la formación docente. Finalmente, se hace una propuesta para publicar módulos de capacitación que sirvan para enriquecer el quehacer docente, acción que, como queda en evidencia a través del estudio, es urgente. 
+</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">APRENDIZAJE </subfield>
+    <subfield code="9">387</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">MÉTODOS PEDAGÓGICOS</subfield>
+    <subfield code="9">824</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">ESCUELAS </subfield>
+    <subfield code="9">300</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">FORMACIÓN DE DOCENTES</subfield>
+    <subfield code="9">9</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">MARGINALIDAD</subfield>
+    <subfield code="9">1773</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="a">CAPACITACIÓN</subfield>
+    <subfield code="9">729</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

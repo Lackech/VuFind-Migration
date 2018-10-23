@@ -1,0 +1,45 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01414nab a2200157   4500</leader>
+  <controlfield tag="008">150611b1999    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">117</subfield>
+    <subfield code="a">Hernández Cruz, Omar</subfield>
+  </datafield>
+  <datafield ind2="0" tag="245" ind1="1">
+    <subfield code="a">Concepciones, disposiciones y prácticas hacia el capital escolar en un poblado liniero del Caribe costarricense /</subfield>
+    <subfield code="c">Omar Hernández Cruz</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">1999</subfield>
+  </datafield>
+  <datafield ind2=" " tag="300" ind1=" ">
+    <subfield code="a">páginas 175-188</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">En este artículo se interpretan las concepciones, disposiciones y prácticas que los diversos sectores socioculturales de un poblado liniero del Caribe costarricense han venido construyendo al calor de su experiencia histórica y cotidiana con respecto a la escuela. Las diferencias en las condiciones de vida, de trabajo, de historia, de pertenencia étnica, de proyecto de vida, etc. Incide sobre la simbolización que se elabora en torno al capital escolar. Por ello se describen los proyectos familiares de diversos grupos y se interpretan las diferencias con respecto al acceso, la permanencia o la exclusión de las generaciones jóvenes en los servicios educativos que ofrece el Estado en la comunidad y en la región</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " tag="773" ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0023</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.23, no.2 (1999)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2655</subfield>
+    <subfield code="d">2655</subfield>
+  </datafield>
+</record>

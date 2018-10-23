@@ -1,0 +1,78 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00944nam a2200253Ia 4500</leader>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">493</subfield>
+    <subfield code="d">493</subfield>
+  </datafield>
+  <controlfield tag="008">161212b2012    sp ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="020">
+    <subfield code="a">9788499870779</subfield>
+  </datafield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">06.03.06 </subfield>
+    <subfield code="b">152</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="9">2143</subfield>
+    <subfield code="a">Gairín Sallán, Joaquín</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2=" ">
+    <subfield code="a">Éxito académico de colectivos vulnerables en entornos de riesgo en Latinoamérica / </subfield>
+    <subfield code="c">Coordinadores  Joaquín Gairín, David Rodríguez Gómez, Diego Castro Ceacero</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">España:</subfield>
+    <subfield code="b">Wolters Kluwer, </subfield>
+    <subfield code="c">2012</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">246 páginas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">8</subfield>
+    <subfield code="a">EDUCACIÓN SUPERIOR</subfield>
+  </datafield>
+  <datafield ind2="0" tag="650" ind1=" ">
+    <subfield code="a">MARGINALIDAD</subfield>
+    <subfield code="9">1773</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">DESERCIÓN ESCOLAR </subfield>
+    <subfield code="9">1454</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">RENDIMIENTO ACADÉMICO</subfield>
+    <subfield code="9">1095</subfield>
+  </datafield>
+  <datafield ind2="4" tag="650" ind1="1">
+    <subfield code="a">INCLUSION EDUCATIVA</subfield>
+    <subfield code="9">2188</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">ESTUDIANTES UNIVERSITARIOS </subfield>
+    <subfield code="9">481</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">DISCRIMINACIÓN </subfield>
+    <subfield code="9">667</subfield>
+  </datafield>
+  <datafield ind1="0" tag="651" ind2="4">
+    <subfield code="a">AMÉRICA LATINA</subfield>
+    <subfield code="9">273</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="9">2190</subfield>
+    <subfield code="a">Rodríguez Gómez, Diego</subfield>
+    <subfield code="e">coordinador/a</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="9">2191</subfield>
+    <subfield code="a">Castro Ceacero, Diego</subfield>
+    <subfield code="e">coordinador/a</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>

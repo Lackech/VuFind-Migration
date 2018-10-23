@@ -1,0 +1,84 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01319nam a22002777a 4500</leader>
+  <controlfield tag="008">160426b2015    c  ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">19.01.05</subfield>
+    <subfield code="b">2312</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">1619</subfield>
+    <subfield code="a">Madrigal Vargas, Yorleny</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Consolidación de la Red de Unidades de Información Especializadas (RUIE) de la Universidad de Costa Rica /</subfield>
+    <subfield code="c">Yorleny Madrigal Vargas (Principal), Sandra Espinoza Baltodano, Marcos Chinchilla Montes, Rebecca Vargas Bolaños, Martha Barquero Cerdas, Clara Fernández Ulate, Eduardo Pereira Alfaro, Eida Martínez Rocha, Luisa Lugo Gutiérrez, Xinia Víquez Pérez</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">[San José, Costa Rica] :</subfield>
+    <subfield code="b">INIE,</subfield>
+    <subfield code="c">2015</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">23 páginas; 24 páginas sin numerar</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Informe final proyecto de investigación Nº. 724-B3-775</subfield>
+  </datafield>
+  <datafield tag="610" ind2="4" ind1="1">
+    <subfield code="9">714</subfield>
+    <subfield code="a">UNIVERSIDAD DE COSTA RICA</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">1620</subfield>
+    <subfield code="a">REDES DE INFORMACIÓN</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">1621</subfield>
+    <subfield code="a">BIBLIOTECAS ESPECIALIZADAS</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">1622</subfield>
+    <subfield code="a">Espinoza Baltodano, Sandra</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">1623</subfield>
+    <subfield code="a">Chinchilla Montes, Marcos</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">250</subfield>
+    <subfield code="a">Vargas Bolaños, Rebecca</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">223</subfield>
+    <subfield code="a">Barquero Cerdas, Martha</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="9">1624</subfield>
+    <subfield code="a">Fernández Ulate, Clara</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="9">1625</subfield>
+    <subfield code="a">Pereira Alfaro, Eduardo</subfield>
+  </datafield>
+  <datafield tag="700" ind2=" " ind1="1">
+    <subfield code="9">1359</subfield>
+    <subfield code="a">Martínez Rocha, Eida</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">1626</subfield>
+    <subfield code="a">Lugo Gutiérrez, Luisa</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="9">1627</subfield>
+    <subfield code="a">Víquez Pérez, Xinia</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">3160</subfield>
+    <subfield code="d">3160</subfield>
+  </datafield>
+</record>

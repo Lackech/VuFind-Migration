@@ -1,0 +1,63 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01036nam a2200205Ia 4500</leader>
+  <datafield ind1=" " tag="999" ind2=" ">
+    <subfield code="c">1408</subfield>
+    <subfield code="d">1408</subfield>
+  </datafield>
+  <controlfield tag="008">170928b1998    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">06.01.01 </subfield>
+    <subfield code="b">719</subfield>
+  </datafield>
+  <datafield ind1="1" tag="100" ind2=" ">
+    <subfield code="a">Rojas Porras, Marta</subfield>
+    <subfield code="9">108</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Interacción verbal en el aula :  análisis microetnográfico en una escuela de una comunidad urbano marginal en Costa Rica / </subfield>
+    <subfield code="c">Marta Rojas Porras, Nidia García Lizano, Natalia Campos Saborio, Margarita Brenes Fonseca.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica. :  </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1989</subfield>
+  </datafield>
+  <datafield ind1=" " tag="300" ind2=" ">
+    <subfield code="a">187 páginas</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="500">
+    <subfield code="a">Informe Final del proyecto #724-86-019</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">El interés de esta investigación de carácter cualitativo se centró en conocer la realidad del proceso de enseñanza-aprendizaje a partir de la interacción verbal que se realiza en el aula. Para este propósito, el estudio se desarrolló desde la perspectiva de la microetnografía educativa, enfoque que permite describir y analizar unidades sociales pequeñas, en este caso específico, el aula. Los objetivos del estudio consistieron en describir datalladamente la interacción verbal en dos aulas de primer grado de una escuela de comunidad urbano-marginal, identificar y caracterizar las funciones del lenguaje que se manifiestan y analizar las relaciones entre la interacción verbal y el contexto de enseñanza-aprendizaje. Para esta labor, se consideraron aspectos importantes para el desenvolvimiento de la investigación como caracterizar el contexto de la comunidad donde se encuentra la escuela, las instalaciones de la institución, el ambiente físico de las aulas, la organización de la escuela y la caracterización del personal docente y de los niños. Otros aspectos observados y analizados fueron la organización y la utilización del tiempo y del espacio en el aula, ya que sirven de marco a la interacción verbal. La recolección de datos se hizo durante mayo-noviembre de 1986 y marzo-noviembre de 1987, por medio de la observación participativa de las inverstigadoras (notas de campo, entrevistas, uso de fotografías, videocintas y grabaciones). El análisis tuvo dos fases, en la primera se efectuó la redución de los datos a tres taxonomías; a saber, el lenguaje de la maestra en interacción con los niños, el lenguaje de los niños en interacción con la maestra y el lenguaje de los niños en interacción con otros niños; en la segunda etapa se procedió al análisis y la interpretación de estos datos. Los resultados obtenidos permitieron la caracterización del estilo de enseñanza-aprendizaje en las dos aulas estudiadas: la función del maestro en el aula es centralizadora (de control y de guía); la función del niño, en términos de lo académico, es pasiva; la creatividad y la reflexión de los niños son limitadas por las pocas oportunidades que tienen de participar activamente y las interacciones entre ellos son pocas, ya que son interpretadas por las maestras como interferencias en el proceso de enseñanza-aprendizaje</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">INVESTIGACIÓN EDUCATIVA</subfield>
+    <subfield code="9">326</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">ETNOGRAFÍA</subfield>
+    <subfield code="9">286</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="a">EDUCACIÓN PRIMARIA</subfield>
+    <subfield code="9">367</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="a">García Lizano, Nidia</subfield>
+    <subfield code="9">107</subfield>
+  </datafield>
+  <datafield ind2=" " tag="700" ind1="1">
+    <subfield code="a">Campos Saborío, Natalia</subfield>
+    <subfield code="9">116</subfield>
+  </datafield>
+  <datafield ind1="1" tag="700" ind2=" ">
+    <subfield code="a">Brenes Fonseca, Margarita</subfield>
+    <subfield code="9">510</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+</record>

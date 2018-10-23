@@ -1,0 +1,47 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01598nab a2200169   4500</leader>
+  <controlfield tag="005">20160331135951.0</controlfield>
+  <controlfield tag="008">151216b2006    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="100">
+    <subfield code="9">197</subfield>
+    <subfield code="a">Bolaños González, Jimmy</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="4">
+    <subfield code="a">Los males de los nombramientos docentes: cuando las leyes no son una excusa /</subfield>
+    <subfield code="c">Jimmy Bolaños González</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2006</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="300">
+    <subfield code="a">páginas 133-144</subfield>
+  </datafield>
+  <datafield ind1=" " tag="520" ind2=" ">
+    <subfield code="a">Este ensayo formula un análisis histórico-jurídico de lo que ha sido el devenir de los últimos cien años en materia de disposiciones relativas a la contratación de personal docente en Costa Rica, sus avances y retrocesos, con vista a garantizar los principios de idoneidad, de igualdad de oportunidades y de profesionalización de los educadores al servicio de la educación pública.
+Se enfatiza en el orígen no jurídico de los vicios que se presentan en esta materia, sino en la falta de efectividad y cumplimiento de la ley , debido a factores de falta de voluntad política, de arreglos administrativos ineficientes, de falta de recursos y de falta de una formación adecuada de los propios docentes en materia jurídica. Se proponen algunas soluciones sobretodo administrativas y éticas, aunque también una reforma para hacer más operativo y eficaz el accionar del Tribunal de Carrera Docente</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" tag="773" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0307</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.30, no.2 (2006)</subfield>
+  </datafield>
+  <datafield ind1=" " tag="942" ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="999">
+    <subfield code="c">2983</subfield>
+    <subfield code="d">2983</subfield>
+  </datafield>
+</record>

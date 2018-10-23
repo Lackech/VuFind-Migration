@@ -1,0 +1,89 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>     nam a22     7a 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">3480</subfield>
+    <subfield code="d">3480</subfield>
+  </datafield>
+  <controlfield tag="008">180223b2017    m  ||||| |||| 00| | spa d</controlfield>
+  <datafield ind2=" " ind1=" " tag="022">
+    <subfield code="a">2395-9746</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">18.09.01</subfield>
+    <subfield code="b">2451</subfield>
+  </datafield>
+  <datafield ind1="2" ind2=" " tag="110">
+    <subfield code="9">1392</subfield>
+    <subfield code="a">Instituto Nacional para la Evaluación de la Educación (México)</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Gaceta de la política nacional de evaluación educativa en México /</subfield>
+    <subfield code="c">INEE</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="260">
+    <subfield code="a">México :</subfield>
+    <subfield code="b">INEE,</subfield>
+    <subfield code="c">2017</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">109 páginas, 49 páginas;</subfield>
+    <subfield code="b">ilustraciones;</subfield>
+    <subfield code="e">suplemento</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="500">
+    <subfield code="a">Publicación cuatrimestral. Año 3, no.8 / julio-octubre 2017</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="505">
+    <subfield code="t">Fortalecimiento de capacidades y evaluación: abriendo caminos para mejorar la educación</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="505">
+    <subfield code="t">Tras bambalinas: ¿quiénes están detrás del insturmento de evaluación?</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="505">
+    <subfield code="r">Gomá Lanzón, Javier</subfield>
+    <subfield code="t">Dar el ejemplo: constituirnos como individuos, no solo especializarnos</subfield>
+  </datafield>
+  <datafield tag="505" ind2=" " ind1=" ">
+    <subfield code="t">La mesoestructura: ¿cómo trabajan los que no se ven?</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="505">
+    <subfield code="r">Ayón López, Francisco; Ramírez Díaz, Joel; Aguilar Estrada, David</subfield>
+    <subfield code="t">La experiencia en el Sistema Nacional de Evaluación Educativa: aprendizajes y retos de tres secretarios de educación</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="505">
+    <subfield code="r">Backhoff, Eduardo; Miranda, Francisco</subfield>
+    <subfield code="t">Capacidades institucionales y buen gobierno: apuestas clave de la política nacional de evaluación en educación</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="505">
+    <subfield code="t">Desde abajo: panorama de los sistemas institucionales de evaluación en Latinoamérica en voz de sus equipos</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="505">
+    <subfield code="r">Roggero, Marcos</subfield>
+    <subfield code="t">Radiografía de los institutos de evaluación de América Latina</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="505">
+    <subfield code="r">Montoya, Silvia</subfield>
+    <subfield code="t">Rumbo a 2020: ¿es posible evaluar una educación para el desarrollo sostenible?</subfield>
+  </datafield>
+  <datafield tag="505" ind1=" " ind2=" ">
+    <subfield code="r">Viteri, Adriana; Regú, Pablo, Icaza, Martín</subfield>
+    <subfield code="t">Construcción colectiva: una mística para la evaluación regional</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="505">
+    <subfield code="r">Mendieta Melgar, Giulianna; Dorantes Salgado, Dora Daniela</subfield>
+    <subfield code="t">El fortalecimiento de capacidades locales en el marco de la estrategia de seguimiento de las directrices de mejora educativa</subfield>
+  </datafield>
+  <datafield tag="650" ind2="0" ind1=" ">
+    <subfield code="9">287</subfield>
+    <subfield code="a">EVALUACIÓN </subfield>
+  </datafield>
+  <datafield ind2="0" ind1=" " tag="650">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">03</subfield>
+  </datafield>
+</record>

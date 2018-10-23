@@ -1,0 +1,46 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01285nab a2200169   4500</leader>
+  <controlfield tag="005">20160331134535.0</controlfield>
+  <controlfield tag="008">151120b2005    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield tag="100" ind2=" " ind1="1">
+    <subfield code="9">1131</subfield>
+    <subfield code="a">Sanchez Avendaño, Carlos</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="3">
+    <subfield code="a">El español y el lesco en el marco de la enseñanza de una segunda lengua para las personsa sordas en Costa Rica /</subfield>
+    <subfield code="c">Carlos Sánchez Avendaño</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2005</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">páginas 217-232</subfield>
+  </datafield>
+  <datafield ind2=" " tag="520" ind1=" ">
+    <subfield code="a">Este ensayo se dedica a explorar algunos problemas concomitantes a la nueva concepción educativa de la persona sorda en Costa Rica; entre ellos el lugar del LESCO, dentro del curriculum, la idea de que el español constituye una segunda lengua que debe enseñarse en su registro escrito, el valor que nuestra sociedad  le otorga a lo oral y sus implicaciones en el nuevo modelo pedagógico, la alfabetización de los sordos, la formación de los docentes y el indispensable cambio de actitud hacia la persona sorda y el LESCO que debe suscitars en el país</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="773">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0304</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.29, no.2 (2005)</subfield>
+  </datafield>
+  <datafield ind2=" " tag="942" ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2947</subfield>
+    <subfield code="d">2947</subfield>
+  </datafield>
+</record>

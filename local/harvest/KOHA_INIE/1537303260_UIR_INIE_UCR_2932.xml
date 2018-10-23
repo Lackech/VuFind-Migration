@@ -1,0 +1,51 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>01759nab a2200169   4500</leader>
+  <controlfield tag="005">20160331133501.0</controlfield>
+  <controlfield tag="008">151105b2005    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">1175</subfield>
+    <subfield code="a">Arroyo Zuñiga, Irene</subfield>
+  </datafield>
+  <datafield tag="245" ind2="0" ind1="1">
+    <subfield code="a">Principios teatrales para docentes /</subfield>
+    <subfield code="c">Irene Arroyo Zuñiga</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">2005</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">páginas 73-77</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">Este trabajo pretende dar herramientas a los docentes para que puedan utilizarlas como parte de las actividades dentro de un plan de elección, en cualquier disciplina. Además encontrará una exposición de los elementos que componen el arte de la representación escénica, como son: 
+1. Expresión corporal: es la capacidad de expresar emociones partiendo únicamente de nuestro cuerpo.
+2. Impostación: es la habilidad de proyectar la voz sin lastimar las cuerdas vocales.
+3. Dicción: es la pronunciación correcta de las palabras.
+4. Actuación: es la posibilidad de crear un personaje partiendo de los recursos expresivos y de la forma natural en que el alumno acostumbra a reaccionar.
+Técnica de improvisación, en este artículo propongo una serie de seis pasos que pueden ser de gran ayuda a la hora de usar el teatro como recurso didáctico. El teatro a lo largo de la historia ha sido usado para transmitir conocimientos, valores, creencias y todo aspecto inherente a los individuos y su entorno social. Por lo tanto debemos aprovechar al máximo los beneficios que nos ofrece el teatro como educadores</subfield>
+  </datafield>
+  <datafield ind1="1" tag="650" ind2="4">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield tag="773" ind2=" " ind1="0">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0300</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.29, no.1 (2005)</subfield>
+  </datafield>
+  <datafield tag="942" ind2=" " ind1=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2932</subfield>
+    <subfield code="d">2932</subfield>
+  </datafield>
+</record>

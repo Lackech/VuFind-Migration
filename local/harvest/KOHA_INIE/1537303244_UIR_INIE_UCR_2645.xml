@@ -1,0 +1,47 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>02137nab a2200157   4500</leader>
+  <controlfield tag="008">150610b1999    cr f|||| |||| 00| 0 spa d</controlfield>
+  <datafield ind1=" " tag="090" ind2=" ">
+    <subfield code="a">REVIS 06.02.01</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">173</subfield>
+    <subfield code="a">Hernández Rodríguez, Ana Cecilia</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Formación pedagógica de los docentes universitarios /</subfield>
+    <subfield code="c">Ana Cecilia Hernández Rodríguez</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="a">San José, Costa Rica :</subfield>
+    <subfield code="b">Editorial Universidad de Costa Rica,</subfield>
+    <subfield code="c">1999</subfield>
+  </datafield>
+  <datafield tag="300" ind2=" " ind1=" ">
+    <subfield code="a">paginas 91-104</subfield>
+  </datafield>
+  <datafield tag="520" ind2=" " ind1=" ">
+    <subfield code="a">Las demandas y retos que enfrenta la Universidad y la Educación Superior, en el momento actual, plantean la necesidad de revisar la formación de los docentes universitarios.  Se sugiere que reúnan una sólida formación en el campo de la especialidad, una reconocida experiencia profesional, una amplia cultura general y preparación específica en el campo pedagógico.
+La docencia universitaria responde a tres tendencias pedagógicas: la tradicional que se centra en el profesor como la figura que posee el conocimiento y la autoridad para tomar decisiones; la tecnológica que enfatiza el uso de los medios tecnológicos audiovisuales e informáticos y la crítica que responde al requerimiento de reconocer la diversidad cultural y los derechos de los estudiantes, fomenta su participación y la consecución de una democracia crítica. Estas tres tendencias demandan una preparación pedagógica por parte de los docentes universitarios.
+Esta formación puede alcanzarse por medio de estrategias como: asistente de profesores, estudios de posgrado, programas de capacitación pedagógica, programas de posgrado en Pedagogía Universitaria, integración de equipos de investigación en la línea de la investigación-acción y el uso de tecnologías educativas e informáticas.  Todas estas se desarrollan en este artículo, se señalan sus ventajas y limitaciones, así como la conveniencia de combinar estrategias y de desarrollar procesos de formación permanente</subfield>
+  </datafield>
+  <datafield tag="650" ind2="4" ind1="1">
+    <subfield code="9">1</subfield>
+    <subfield code="a">EDUCACIÓN</subfield>
+  </datafield>
+  <datafield ind1="0" tag="773" ind2=" ">
+    <subfield code="d">San José, Costa Rica : Editorial de la Universidad de Costa Rica, 1997-</subfield>
+    <subfield code="o">R0024</subfield>
+    <subfield code="t">EDUCACIÓN: Revista de la Universidad de Costa Rica</subfield>
+    <subfield code="g">Vol.23, no.especial (1999)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2645</subfield>
+    <subfield code="d">2645</subfield>
+  </datafield>
+</record>

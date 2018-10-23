@@ -1,0 +1,43 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00578nab a2200145   4500</leader>
+  <controlfield tag="008">150518b1997    cl ||||| |||| 00| 0 spa d</controlfield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">REVIS 15.04.04</subfield>
+  </datafield>
+  <datafield ind2=" " tag="100" ind1="1">
+    <subfield code="9">73</subfield>
+    <subfield code="a">Torre, Pilar</subfield>
+  </datafield>
+  <datafield ind1="1" tag="245" ind2="0">
+    <subfield code="a">Salud reproductiva en Chiapas : ¿cuál es la realidad? /</subfield>
+    <subfield code="c">Pilar Torre</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">chile :</subfield>
+    <subfield code="b">Red de Salud de las mujeres latinoamericanas y del caribe,</subfield>
+    <subfield code="c">1997</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">páginas 57-65</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="9">62</subfield>
+    <subfield code="a">SALUD REPRODUCTIVA</subfield>
+  </datafield>
+  <datafield ind2=" " tag="773" ind1="0">
+    <subfield code="d">Chile : Red de Salud de las Mujeres Lationamericanas 1997</subfield>
+    <subfield code="o">R0007</subfield>
+    <subfield code="t">Revista Mujer Salud</subfield>
+    <subfield code="x">0716-8381</subfield>
+    <subfield code="g">No.1 (enero- marzo,1997)</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">10</subfield>
+  </datafield>
+  <datafield ind2=" " tag="999" ind1=" ">
+    <subfield code="c">2568</subfield>
+    <subfield code="d">2568</subfield>
+  </datafield>
+</record>

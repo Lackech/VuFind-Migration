@@ -1,0 +1,78 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>03389nam a2200265Ia 4500</leader>
+  <datafield ind1=" " ind2=" " tag="999">
+    <subfield code="c">2129</subfield>
+    <subfield code="d">2129</subfield>
+  </datafield>
+  <controlfield tag="008">180821b1985    cr ||||| |||| 00| | spa d</controlfield>
+  <datafield tag="090" ind2=" " ind1=" ">
+    <subfield code="a">14.02.02</subfield>
+    <subfield code="b">552</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Bonilla Pignataro, Janina</subfield>
+    <subfield code="9">4101</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Programa experimental de niños en edad preescolar en familia : plan piloto y desarrollo de los hogares de cuidado diario / </subfield>
+    <subfield code="c">Janina Bonilla Pignataro, Marta Eugenia Odio</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica : </subfield>
+    <subfield code="b">IIMEC, </subfield>
+    <subfield code="c">1985</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">140 páginas</subfield>
+  </datafield>
+  <datafield tag="500" ind2=" " ind1=" ">
+    <subfield code="a">Informe Final del Proyecto de Investigación No.724-82-006</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="520">
+    <subfield code="a">Esta investigación representa un valioso esfuerzo, el primero en su género, de este Instituto, y de las Escuelas de Antropología y Trabajo Social. Estudia un problema comunitario, especialmente importante, a fin de contribuir en su esclarecimiento y solución. Como resultado de la investigación el informe contiene los siguientes aspectos: Propuesta de capacitación a personas no profesionales: -Programas de capacitación a personas no profesionales – Propuesta de capacitación a las madres cuidadoras para un programa de atención integral a niños en edad pre-escolar y La educación pre-escolar. Ensayos de interpretación sobre el cantón de Belén: - Estudio de comunidad para el desarrollo de un programa de atención integral de niños en edad pre-escolar (cantón de Belén y distrito de San Rafael de Ojo de Agua). – Cantón de Belén y su trayectoria industrial en la última década. – La influencia de la religión en el cantón de Belén . – Factores socioeconómicos que obliga a un joven de Belén a abandonar sus estudios. El análisis de los aspectos permite plantear que las comunidades en estudio reúnen condiciones socioeconómicas que hacen viable la puesta en marcha de un programa de centros infantiles, el cual abrirá un espacio laboral para aquellas personas que no cuentan con un trabajo remunerado, un segundo aspecto pero no menos importante será la posibilidad de que las mujeres, aunque en un grupo reducido, tomen conciencia sobre el papel crucial que juegan en la sociedad. También se concluye que los programas de educación pre-escolar tienen como fundamento favorecer el desarrollo bio-psico-social del niño, entrelazando el desenvolvimiento y su creatividad en la socialización, por lo que es necesario que se fijen objetivos para estructurar la conducta infantil con el fin de desarrollar al máximo las potencialidades del niño y brindarle una mejor adaptación social. En el aspecto religioso se muestra que la Iglesia Católica en Belén es una iglesia activa, incorporada por completo a los problemas de la comunidad, que participa de lleno en el desarrollo sociocultural de la región promoviendo y apoyando organizaciones comunales y programas de promoción humana. En la última parte la investigación concluye que la deserción es patente y es un problema que necesita ser investigado a profundidad para llegar a la verdadera causa de este fenómeno, que para nuestro país repercute mayormente.</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">EDUCACIÓN PREESCOLAR</subfield>
+    <subfield code="9">455</subfield>
+  </datafield>
+  <datafield ind2="4" ind1="1" tag="650">
+    <subfield code="a">NIÑOS</subfield>
+    <subfield code="9">59</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">FAMILIA</subfield>
+    <subfield code="9">404</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">HOGAR</subfield>
+    <subfield code="9">3110</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">PROGRAMA DE INVESTIGACIÓN</subfield>
+    <subfield code="9">4102</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4">
+    <subfield code="a">PROGRAMAS DE CAPACITACION</subfield>
+    <subfield code="9">3933</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">GUARDERIAS</subfield>
+    <subfield code="9">1938</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="650">
+    <subfield code="a">RELIGIÓN</subfield>
+    <subfield code="9">814</subfield>
+  </datafield>
+  <datafield ind2=" " ind1="1" tag="700">
+    <subfield code="a">Odio Benito, Marta Eugenia</subfield>
+    <subfield code="9">4103</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">04</subfield>
+  </datafield>
+  <datafield ind2=" " ind1=" " tag="942">
+    <subfield code="2">z</subfield>
+  </datafield>
+</record>

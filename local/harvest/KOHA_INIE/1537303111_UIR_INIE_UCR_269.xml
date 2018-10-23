@@ -1,0 +1,39 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <leader>00391nam a2200145Ia 4500</leader>
+  <datafield tag="999" ind2=" " ind1=" ">
+    <subfield code="c">269</subfield>
+    <subfield code="d">269</subfield>
+  </datafield>
+  <controlfield tag="008">150922b1993    sp ||||| |||| 00| | spa d</controlfield>
+  <datafield ind1=" " ind2=" " tag="020">
+    <subfield code="a">8477650683</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="090">
+    <subfield code="a">92 </subfield>
+    <subfield code="b">W642w</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">West, Anthony</subfield>
+    <subfield code="9">1056</subfield>
+  </datafield>
+  <datafield ind2="5" tag="245" ind1="1">
+    <subfield code="a">H.G. Wells : Aspectos de una vida</subfield>
+  </datafield>
+  <datafield ind1=" " tag="260" ind2=" ">
+    <subfield code="a">Barcelona, España : </subfield>
+    <subfield code="b">CIRCE, </subfield>
+    <subfield code="c">1993</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">444 páginas</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="0" tag="600">
+    <subfield code="9">2392</subfield>
+    <subfield code="a">WELLS HERBERT GEORGE</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="942">
+    <subfield code="2">z</subfield>
+    <subfield code="c">01</subfield>
+  </datafield>
+</record>
