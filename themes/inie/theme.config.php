@@ -7,7 +7,7 @@ return [
         //'vendor/font-awesome.min.css',
         //'bootstrap-custom.css',
         'inie.css',
-        'compiled.css',
+
         'print.css:print',
         'flex-fallback.css::lt IE 10', // flex polyfill
     ],

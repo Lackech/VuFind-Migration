@@ -134,7 +134,7 @@ JS;
     ?>
     <header class="hidden-print">
       <?php if (isset($this->layout()->srmessage)): // message for benefit of screen-reader users ?>
-        <span class="sr-only" role="heading" aria-level="1"><?=$this->layout()->srmessage ?></span>
+        <span class="sr-only"><?=$this->layout()->srmessage ?></span>
       <?php endif; ?>
       <a class="sr-only" href="#content"><?=$this->transEsc('Skip to content') ?></a>
       <?=$this->render('header.phtml')?>
@@ -148,10 +148,6 @@ JS;
               <a href= "http://ruie.ucr.ac.cr"><img src="/vufind/themes/inie/images/RUIE.png" /></a>
           </nav>
 
-          <?php if((!isset($this->layout()->showBreadcrumbs) || $this->layout()->showBreadcrumbs == true)
-          && !empty($this->layout()->breadcrumbs)
-          && $this->layout()->breadcrumbs !== false
-          ): ?>
 
 
           <div class="breadcrumb hidden-print">
@@ -180,7 +176,7 @@ JS;
     <div role="main" class="main tamplate-dir-<?=$this->templateDir?> template-name-<?=$this->templateName?>">
 
         <div class="ruta" style="display: block;">
-            <?$this->layout()->breadcrumbs ?>
+            <?php $this->layout()->breadcrumbs ?>
         </div>
 
         <div class="contenedor-cuerpo">
@@ -206,7 +202,9 @@ JS;
                         <?php else: ?>
                             <?=$this->layout()->searchbox ?>
                         <?php endif; ?>
-                    <?php endif; ?>
+
+
+
 
                     <div class="enlaces-1">
                         <ul>
@@ -232,7 +230,6 @@ JS;
             <div id="content" class="container">
                 <?=$this->layout()->content ?>
             </div>
-
 
 
         </div>
