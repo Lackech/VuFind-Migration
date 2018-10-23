@@ -504,7 +504,7 @@ body {
     font-size: 13px;
     line-height: 1.42857143;
     color: #333;
-    background-color: #fff;
+    background-color: #fff !important;
 }
 input, button, select, textarea {
     font-family: inherit;
@@ -8497,7 +8497,7 @@ footer .footer-column a {
     text-align: left;
     margin-left: -29px;
     margin-top: -5px;
-    text-align: center;
+    /*text-align: center;*/
 }
 
 
@@ -9401,3 +9401,11 @@ a.list-group-item-danger.active, button.list-group-item-danger.active, a.list-gr
     display: none !important;
 
 }
+/*
+.Buscador-home .search-bar {
+
+    width: 400px;
+    float: left;
+    margin-bottom: 40px;
+
+}*/
