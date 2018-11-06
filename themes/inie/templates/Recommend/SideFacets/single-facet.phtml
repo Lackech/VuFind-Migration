@@ -32,6 +32,14 @@
   <a href="<?=$toggleUrl ?>" class="<?=implode(' ', $classList) ?>" data-title="<?=$this->escapeHtmlAttr($this->facet['displayText']) ?>" data-count="<?=$this->facet['count'] ?>"<?php if($this->facet['isApplied']): ?> title="<?=$this->transEsc('applied_filter') ?>"<?php endif;?> data-lightbox-ignore>
 <?php endif; ?>
 
+
+  <?php if (!$this->facet['isApplied']): ?>
+  <span class="badge">
+  <?=$this->localizedNumber($this->facet['count']) ?>
+  </span>
+  <?php endif; ?>
+
+
   <?php if ($hasSubLinks): ?>
     <a class="text" href="<?=$toggleUrl ?>" data-lightbox-ignore data-title="<?=$this->escapeHtmlAttr($this->facet['displayText']) ?>" data-count="<?=$this->facet['count'] ?>"<?php if($this->facet['isApplied']): ?> title="<?=$this->transEsc('applied_filter') ?>"<?php endif;?>>
       <?=$displayText ?>
@@ -42,11 +50,6 @@
     </span>
   <?php endif; ?>
 
-  <?php if (!$this->facet['isApplied']): ?>
-    <span class="badge">
-      <?=$this->localizedNumber($this->facet['count']) ?>
-    </span>
-  <?php endif; ?>
 
   <?php if ($this->exclude && !$this->facet['isApplied']): ?>
     <?php $excludeURL = $this->urlBase . $this->url->addFacet($this->group, $this->facet['value'], 'NOT'); ?>

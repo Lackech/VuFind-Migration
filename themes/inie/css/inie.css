@@ -7286,6 +7286,7 @@ li.jstree-facet ul {
     font-size: 16px;
     text-align: left;
     color: #f8f8f8;
+    width: 100%;
 }
 
 .sidebar.right.hidden-print h4{
