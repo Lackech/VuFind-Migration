@@ -159,8 +159,8 @@ JS;
                   </div>
 
                   <div class="centros-RUIE">
-                      <a>
-                          <img src="/vufind/themes/inie/images/location-pointer.png"/>
+                      <a href="https://ruie.ucr.ac.cr/centros-participantes">
+                          <img  src="/vufind/themes/inie/images/location-pointer.png"/>
                       </a>
                       <p>Conozca los centros participantes que forman la RUIE</p>
                   </div>
@@ -181,6 +181,7 @@ JS;
 
         <div class="contenedor-cuerpo">
 
+            <!-----Este div es el de la columna izquierda-->
             <div class="Buscador-home">
 
                 <div class="search-bar">
@@ -215,7 +216,7 @@ JS;
                         </ul>
                     </div>
 
-                    <div class="enlaces-2">
+                    <div class="enlaces-2 normal">
                         <p class="textoBusqueda"><strong><?=$this->transEsc('Need Help?')?></strong></p>
                         <ul>
                             <li><a href="<?=$this->url('help-home')?>?topic=search&amp;_=<?=time() ?>" data-lightbox class="help-link"><?=$this->transEsc('Search Tips')?></a></li>
@@ -223,18 +224,37 @@ JS;
                             <li><a href="#"><?=$this->transEsc('FAQs')?></a></li>
                         </ul>
                     </div>
+
+
                 </div><!-- Fin de class= search-bar -->
 
             </div><!-- Fin de class= Buscador-home -->
 
+            <!--Este otro es el del contenedor con los facets-->
             <div id="content" class="container">
                 <?=$this->layout()->content ?>
             </div>
 
 
+
+
         </div>
 
+
+
     </div><!-- Fin de role=main -->
+
+    <div class="padre_enlace">
+        <div class="enlaces-2 responsive">
+            <p class="textoBusqueda"><strong><?=$this->transEsc('Need Help?')?></strong></p>
+            <ul>
+                <li><a href="<?=$this->url('help-home')?>?topic=search&amp;_=<?=time() ?>" data-lightbox class="help-link"><?=$this->transEsc('Search Tips')?></a></li>
+                <li><a href="http://ruie.ucr.ac.cr/contacto"><?=$this->transEsc('Ask a Librarian')?></a></li>
+                <li><a href="#"><?=$this->transEsc('FAQs')?></a></li>
+            </ul>
+        </div>
+
+    </div>
 
     <footer class="hidden-print">
         <div class="container">

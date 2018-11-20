@@ -8111,9 +8111,10 @@ header .navbar .searchForm {
 }
 header .navbar .encabezado_UCR {
     height: 110px;
-    margin-bottom: -14px;
+    /*margin-bottom: -14px;*/
     margin-top: -13px;
     width: 550px;
+    height: auto;
 }
 
 header .navbar .navbar-brand:active, header .navbar .navbar-brand:focus, header .navbar .navbar-brand:hover {
@@ -8666,7 +8667,7 @@ footer .footer-column a {
 
 .enlaces-2 p{
     float: left;
-    margin-left: 6%;
+    padding-left: 6%;
     margin-bottom: 15px;
 }
 .enlaces-1 li, .enlaces-1 li a{
@@ -8802,6 +8803,7 @@ footer .footer-column a {
     font-size: 14px;
     margin-right: 2%;
     margin-top: 15px;
+    margin-left: 3%;
 }
 
 
@@ -8872,12 +8874,64 @@ footer .footer-column a {
     width: 100%;
 }
 
+.responsive{
+    display: none;
+}
+
+
+
+
 
 @media (max-width:1150px) {
 
     .contenedor-cuerpo {
         display: block;
     }
+
+
+    .contenedor-cuerpo #content{
+        display: grid !important;
+    }
+
+    .record.sourceSolr{
+        display: grid !important;
+        margin-left: -10px;
+    }
+
+    .facet-group{
+        margin-left: -10px;
+    }
+
+    .normal{
+        display: none;
+    }
+
+    .padre-enlace{
+        display:flex;
+        margin-bottom: 10px;
+    }
+
+    .responsive{
+        display: block;
+    }
+
+    .enlaces-2{
+        flex-grow: 1;
+        max-width: 100% ;
+        margin-top: 0px;
+
+    }
+
+    .enlaces-1{
+        margin-bottom: -145px;
+    }
+
+    .record-view{
+        margin-top: 30px    ;
+    }
+
+
+
 }
 
 
@@ -8886,6 +8940,45 @@ footer .footer-column a {
     .container .row{
         display: block;
     }
+}
+
+
+@media(max-width:  560px){
+
+    .visitenos p{
+        font-size: 12px;
+
+        margin-top: 1px;
+    }
+
+    .centros-RUIE{
+        display:none;
+    }
+
+    .footer-links{
+        margin-left: 25% !important;
+    }
+
+    .media-left.medium.img-col{
+        display: none;
+    }
+
+}
+
+@media(max-width: 422px){
+
+    .search-bar{
+        width: 300px !important;
+    }
+
+
+    header .navbar .encabezado_UCR{
+        margin-top: 8px !important;
+    }
+
+
+
+
 }
 
 
@@ -8976,7 +9069,7 @@ footer .footer-column a {
 
 
     .footer-links{
-        margin-left: 32%;
+        margin-left: 37% ;
     }
 
 

@@ -5,6 +5,7 @@
   $this->results = $results = $this->recommend->getResults();
   $this->options = $options = $results->getOptions();
 ?>
+
 <?php if ($results->getResultTotal() > 0): ?>
   <h4><?=$this->transEsc(isset($this->overrideSideFacetCaption) ? $this->overrideSideFacetCaption : 'Narrow Search')?></h4>
 <?php endif; ?>
@@ -95,3 +96,4 @@
     </div>
   <?php endforeach; ?>
 <?php endif; ?>
+
